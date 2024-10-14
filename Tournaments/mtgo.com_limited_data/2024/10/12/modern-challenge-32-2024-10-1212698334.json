@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2024-10-12T00:00:00Z",
     "Name": "Modern Challenge 32",
-    "Uri": "https://www.mtgo.com/decklist/modern-challenge-32-2024-10-1212698334"
+    "Uri": "https://www.mtgo.com/decklist/modern-challenge-32-2024-10-1212698334",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -4184,32 +4187,572 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
+        {
+          "Player1": "TaylorSpain",
+          "Player2": "Hampuse1",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "steelleaf51",
+          "Player2": "amin0e",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "Scooby_Snacks",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "klien7",
+          "Player2": "tripleAAA",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Eissar",
+          "Player2": "CaboGrosso",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Taddy99",
+          "Player2": "GigaChadSigmaMale",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "usokui3",
+          "Player2": "IMonsterAA",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "Corrado",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Porks",
+          "Player2": "TheNectar",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MissTrigger",
+          "Player2": "Selir",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Sam12",
+          "Player2": "bless_von",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "SanPop",
+          "Player2": "jvidarte",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "gamertoad",
+          "Player2": "jjj777",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "josetorr87",
+          "Player2": "txouzo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Falcon_",
+          "Player2": "MeninooNey",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "matyo804",
+          "Player2": "Fatal_Vlad",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Simply_Skilled",
+          "Player2": "MinO93",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "narca",
+          "Player2": "NovaNiller",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "RespectTheCat",
+          "Player2": "Alex_Crow",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "MissTrigger",
+          "Player2": "jjj777",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Hampuse1",
+          "Player2": "Porks",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "josetorr87",
+          "Player2": "jvidarte",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "TheNectar",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Simply_Skilled",
+          "Player2": "steelleaf51",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "Deathmaxx",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "tripleAAA",
+          "Player2": "Selir",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Corrado",
+          "Player2": "Fatal_Vlad",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "gamertoad",
+          "Player2": "MeninooNey",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "klien7",
+          "Player2": "IMonsterAA",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "MinO93",
+          "Player2": "NovaNiller",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "usokui3",
+          "Player2": "Taddy99",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "txouzo",
+          "Player2": "amin0e",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TaylorSpain",
+          "Player2": "RespectTheCat",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "narca",
+          "Player2": "GigaChadSigmaMale",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Alex_Crow",
+          "Player2": "Scooby_Snacks",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "Sam12",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SanPop",
+          "Player2": "CaboGrosso",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Eissar",
+          "Player2": "_Falcon_",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "Hampuse1",
+          "Player2": "jjj777",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "MeninooNey",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "steelleaf51",
+          "Player2": "Porks",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "usokui3",
+          "Player2": "NovaNiller",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "TheNectar",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Falcon_",
+          "Player2": "IMonsterAA",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Eissar",
+          "Player2": "amin0e",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "jvidarte",
+          "Player2": "tripleAAA",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Sam12",
+          "Player2": "Alex_Crow",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SanPop",
+          "Player2": "txouzo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TaylorSpain",
+          "Player2": "Fatal_Vlad",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MinO93",
+          "Player2": "MissTrigger",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "matyo804",
+          "Player2": "Scooby_Snacks",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Corrado",
+          "Player2": "klien7",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "CaboGrosso",
+          "Player2": "Taddy99",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "narca",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "RespectTheCat",
+          "Player2": "gamertoad",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Deathmaxx",
+          "Player2": "Selir",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "MinO93",
+          "Player2": "CaboGrosso",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "MissTrigger",
+          "Player2": "tripleAAA",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Fatal_Vlad",
+          "Player2": "amin0e",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TaylorSpain",
+          "Player2": "Jumba",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "jvidarte",
+          "Player2": "MeninooNey",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "klien7",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Deathmaxx",
+          "Player2": "txouzo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "gamertoad",
+          "Player2": "NovaNiller",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Sam12",
+          "Player2": "RespectTheCat",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Eissar",
+          "Player2": "jjj777",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Taddy99",
+          "Player2": "Scooby_Snacks",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "SanPop",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "narca",
+          "Player2": "IMonsterAA",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "usokui3",
+          "Player2": "Selir",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "matyo804",
+          "Player2": "Porks",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Corrado",
+          "Player2": "_Falcon_",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "SanPop",
+          "Player2": "Selir",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Falcon_",
+          "Player2": "RespectTheCat",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "jvidarte",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "klien7",
+          "Player2": "NovaNiller",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "matyo804",
+          "Player2": "CaboGrosso",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Hampuse1",
+          "Player2": "MissTrigger",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "MinO93",
+          "Player2": "gamertoad",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "usokui3",
+          "Player2": "Jumba",
+          "Result": "0-1-0"
+        },
+        {
+          "Player1": "txouzo",
+          "Player2": "Taddy99",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "TaylorSpain",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Deathmaxx",
+          "Player2": "MeninooNey",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "tripleAAA",
+          "Player2": "amin0e",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "IMonsterAA",
+          "Player2": "jjj777",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Eissar",
+          "Player2": "narca",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Porks",
+          "Player2": "Fatal_Vlad",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Corrado",
+          "Player2": "Sam12",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "bless_von",
+          "Player2": "Selir",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "SanPop",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Corrado",
+          "Player2": "amin0e",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "RespectTheCat",
+          "Player2": "NovaNiller",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "matyo804",
+          "Player2": "Hampuse1",
+          "Result": "0-1-0"
+        },
+        {
+          "Player1": "MinO93",
+          "Player2": "Fatal_Vlad",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "Deathmaxx",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "TaylorSpain",
+          "Player2": "Taddy99",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "klien7",
+          "Player2": "gamertoad",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "txouzo",
+          "Player2": "IMonsterAA",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Sam12",
+          "Player2": "CaboGrosso",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "narca",
+          "Player2": "jjj777",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Porks",
+          "Player2": "MeninooNey",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Eissar",
+          "Player2": "tripleAAA",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "Matches": [
+        {
+          "Player1": "SanPop",
+          "Player2": "Fatal_Vlad",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "Jumba",
+          "Result": "1-2-0"
+        },
         {
           "Player1": "TaylorSpain",
           "Player2": "Selir",
           "Result": "2-1-0"
         },
         {
-          "Player1": "Jumba",
-          "Player2": "bless_von",
-          "Result": "2-1-0"
-        },
-        {
           "Player1": "Deathmaxx",
           "Player2": "MeninooNey",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "SanPop",
-          "Player2": "Fatal_Vlad",
-          "Result": "2-1-0"
+          "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 8",
       "Matches": [
         {
           "Player1": "Jumba",
@@ -4217,375 +4760,452 @@
           "Result": "2-1-0"
         },
         {
-          "Player1": "SanPop",
-          "Player2": "TaylorSpain",
-          "Result": "2-1-0"
+          "Player1": "TaylorSpain",
+          "Player2": "SanPop",
+          "Result": "0-2-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 9",
       "Matches": [
         {
-          "Player1": "SanPop",
-          "Player2": "Jumba",
-          "Result": "2-0-0"
+          "Player1": "Jumba",
+          "Player2": "SanPop",
+          "Result": "0-2-0"
         }
       ]
     }
   ],
   "Standings": [
     {
-      "Rank": 1,
-      "Player": "Selir",
-      "Points": 15,
-      "Wins": 5,
-      "Losses": 2,
+      "Rank": 39,
+      "Player": "Alex_Crow",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 0,
       "Draws": 0,
-      "OMWP": 0.6556,
-      "GWP": 0.6667,
-      "OGWP": 0.6045
+      "OMWP": 0.44439999999999996,
+      "GWP": 0.25,
+      "OGWP": 0.43479999999999996
     },
     {
-      "Rank": 2,
-      "Player": "Deathmaxx",
-      "Points": 15,
-      "Wins": 5,
-      "Losses": 2,
-      "Draws": 0,
-      "OMWP": 0.6333,
-      "GWP": 0.7143,
-      "OGWP": 0.5561
-    },
-    {
-      "Rank": 3,
-      "Player": "bless_von",
-      "Points": 15,
-      "Wins": 5,
-      "Losses": 2,
-      "Draws": 0,
-      "OMWP": 0.6222,
-      "GWP": 0.7333,
-      "OGWP": 0.5707
-    },
-    {
-      "Rank": 4,
-      "Player": "SanPop",
-      "Points": 15,
-      "Wins": 8,
-      "Losses": 1,
-      "Draws": 0,
-      "OMWP": 0.5944,
-      "GWP": 0.6667,
-      "OGWP": 0.5589
-    },
-    {
-      "Rank": 5,
-      "Player": "Fatal_Vlad",
-      "Points": 15,
-      "Wins": 5,
-      "Losses": 2,
+      "Rank": 38,
+      "Player": "GigaChadSigmaMale",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 0,
       "Draws": 0,
       "OMWP": 0.5,
-      "GWP": 0.5882,
-      "OGWP": 0.4978
+      "GWP": 0.2,
+      "OGWP": 0.4643
     },
     {
-      "Rank": 6,
-      "Player": "Jumba",
-      "Points": 12,
-      "Wins": 6,
-      "Losses": 3,
-      "Draws": 0,
-      "OMWP": 0.6278,
-      "GWP": 0.625,
-      "OGWP": 0.5766
-    },
-    {
-      "Rank": 7,
-      "Player": "MeninooNey",
-      "Points": 12,
-      "Wins": 4,
-      "Losses": 3,
-      "Draws": 0,
-      "OMWP": 0.5944,
-      "GWP": 0.6,
-      "OGWP": 0.5404
-    },
-    {
-      "Rank": 8,
-      "Player": "TaylorSpain",
-      "Points": 12,
-      "Wins": 5,
-      "Losses": 3,
-      "Draws": 0,
-      "OMWP": 0.5833,
-      "GWP": 0.6667,
-      "OGWP": 0.5295
-    },
-    {
-      "Rank": 9,
-      "Player": "albertoSD",
-      "Points": 12,
-      "Wins": 4,
-      "Losses": 2,
-      "Draws": 0,
-      "OMWP": 0.5556,
-      "GWP": 0.5556,
-      "OGWP": 0.558
-    },
-    {
-      "Rank": 10,
-      "Player": "MinO93",
-      "Points": 12,
-      "Wins": 4,
-      "Losses": 2,
-      "Draws": 0,
-      "OMWP": 0.5278,
-      "GWP": 0.5882,
-      "OGWP": 0.4918
-    },
-    {
-      "Rank": 11,
-      "Player": "gamertoad",
-      "Points": 12,
-      "Wins": 4,
-      "Losses": 2,
+      "Rank": 37,
+      "Player": "_Falcon_",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 0,
       "Draws": 0,
       "OMWP": 0.5,
-      "GWP": 0.5333,
-      "OGWP": 0.4932
+      "GWP": 0.23079999999999998,
+      "OGWP": 0.5075
     },
     {
-      "Rank": 12,
-      "Player": "Sam12",
-      "Points": 12,
-      "Wins": 4,
-      "Losses": 2,
+      "Rank": 36,
+      "Player": "Simply_Skilled",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 0,
       "Draws": 0,
       "OMWP": 0.5,
-      "GWP": 0.5294,
-      "OGWP": 0.4947
-    },
-    {
-      "Rank": 13,
-      "Player": "Eissar",
-      "Points": 12,
-      "Wins": 4,
-      "Losses": 2,
-      "Draws": 0,
-      "OMWP": 0.4444,
-      "GWP": 0.625,
-      "OGWP": 0.4381
-    },
-    {
-      "Rank": 14,
-      "Player": "CaboGrosso",
-      "Points": 9,
-      "Wins": 3,
-      "Losses": 3,
-      "Draws": 0,
-      "OMWP": 0.6111,
-      "GWP": 0.5333,
-      "OGWP": 0.5444
-    },
-    {
-      "Rank": 15,
-      "Player": "usokui3",
-      "Points": 9,
-      "Wins": 3,
-      "Losses": 2,
-      "Draws": 0,
-      "OMWP": 0.6,
-      "GWP": 0.5833,
-      "OGWP": 0.5708
-    },
-    {
-      "Rank": 16,
-      "Player": "NovaNiller",
-      "Points": 9,
-      "Wins": 3,
-      "Losses": 3,
-      "Draws": 0,
-      "OMWP": 0.5444,
-      "GWP": 0.5625,
-      "OGWP": 0.5014
-    },
-    {
-      "Rank": 17,
-      "Player": "tripleAAA",
-      "Points": 9,
-      "Wins": 3,
-      "Losses": 3,
-      "Draws": 0,
-      "OMWP": 0.5389,
-      "GWP": 0.5294,
-      "OGWP": 0.5206
-    },
-    {
-      "Rank": 18,
-      "Player": "klien7",
-      "Points": 9,
-      "Wins": 3,
-      "Losses": 3,
-      "Draws": 0,
-      "OMWP": 0.5278,
-      "GWP": 0.5,
-      "OGWP": 0.5197
-    },
-    {
-      "Rank": 19,
-      "Player": "amin0e",
-      "Points": 9,
-      "Wins": 3,
-      "Losses": 3,
-      "Draws": 0,
-      "OMWP": 0.5,
-      "GWP": 0.4706,
-      "OGWP": 0.4814
-    },
-    {
-      "Rank": 20,
-      "Player": "Porks",
-      "Points": 9,
-      "Wins": 3,
-      "Losses": 3,
-      "Draws": 0,
-      "OMWP": 0.5,
-      "GWP": 0.4667,
-      "OGWP": 0.4923
-    },
-    {
-      "Rank": 21,
-      "Player": "narca",
-      "Points": 9,
-      "Wins": 3,
-      "Losses": 3,
-      "Draws": 0,
-      "OMWP": 0.5,
-      "GWP": 0.4286,
-      "OGWP": 0.4965
-    },
-    {
-      "Rank": 22,
-      "Player": "Taddy99",
-      "Points": 9,
-      "Wins": 3,
-      "Losses": 3,
-      "Draws": 0,
-      "OMWP": 0.4611,
-      "GWP": 0.5,
-      "OGWP": 0.475
-    },
-    {
-      "Rank": 23,
-      "Player": "Hampuse1",
-      "Points": 9,
-      "Wins": 2,
-      "Losses": 3,
-      "Draws": 0,
-      "OMWP": 0.4333,
-      "GWP": 0.5333,
-      "OGWP": 0.4448
-    },
-    {
-      "Rank": 24,
-      "Player": "IMonsterAA",
-      "Points": 9,
-      "Wins": 3,
-      "Losses": 3,
-      "Draws": 0,
-      "OMWP": 0.4333,
-      "GWP": 0.5,
-      "OGWP": 0.4187
-    },
-    {
-      "Rank": 25,
-      "Player": "jvidarte",
-      "Points": 6,
-      "Wins": 2,
-      "Losses": 3,
-      "Draws": 0,
-      "OMWP": 0.6333,
-      "GWP": 0.4615,
-      "OGWP": 0.5725
-    },
-    {
-      "Rank": 26,
-      "Player": "Corrado",
-      "Points": 6,
-      "Wins": 2,
-      "Losses": 4,
-      "Draws": 0,
-      "OMWP": 0.5833,
-      "GWP": 0.4375,
-      "OGWP": 0.4962
-    },
-    {
-      "Rank": 27,
-      "Player": "txouzo",
-      "Points": 6,
-      "Wins": 2,
-      "Losses": 4,
-      "Draws": 0,
-      "OMWP": 0.5833,
       "GWP": 0.3333,
-      "OGWP": 0.5308
+      "OGWP": 0.4816
+    },
+    {
+      "Rank": 35,
+      "Player": "josetorr87",
+      "Points": 3,
+      "Wins": 0,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.3667,
+      "GWP": 0.2,
+      "OGWP": 0.39740000000000003
+    },
+    {
+      "Rank": 34,
+      "Player": "steelleaf51",
+      "Points": 3,
+      "Wins": 0,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.44439999999999996,
+      "GWP": 0.375,
+      "OGWP": 0.4235
+    },
+    {
+      "Rank": 33,
+      "Player": "Scooby_Snacks",
+      "Points": 3,
+      "Wins": 0,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.4583,
+      "GWP": 0.4,
+      "OGWP": 0.4539
+    },
+    {
+      "Rank": 32,
+      "Player": "jjj777",
+      "Points": 3,
+      "Wins": 0,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.5278,
+      "GWP": 0.3125,
+      "OGWP": 0.5034000000000001
+    },
+    {
+      "Rank": 31,
+      "Player": "TheNectar",
+      "Points": 3,
+      "Wins": 0,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.6667000000000001,
+      "GWP": 0.5,
+      "OGWP": 0.5852
+    },
+    {
+      "Rank": 30,
+      "Player": "RespectTheCat",
+      "Points": 6,
+      "Wins": 0,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.5278,
+      "GWP": 0.375,
+      "OGWP": 0.49310000000000004
+    },
+    {
+      "Rank": 29,
+      "Player": "matyo804",
+      "Points": 6,
+      "Wins": 0,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.5333,
+      "GWP": 0.35710000000000003,
+      "OGWP": 0.5043
     },
     {
       "Rank": 28,
       "Player": "MissTrigger",
       "Points": 6,
-      "Wins": 1,
-      "Losses": 4,
+      "Wins": 0,
+      "Losses": 0,
       "Draws": 0,
       "OMWP": 0.5667,
       "GWP": 0.4,
       "OGWP": 0.5302
     },
     {
-      "Rank": 29,
-      "Player": "matyo804",
+      "Rank": 27,
+      "Player": "txouzo",
       "Points": 6,
-      "Wins": 1,
-      "Losses": 4,
+      "Wins": 0,
+      "Losses": 0,
       "Draws": 0,
-      "OMWP": 0.5333,
-      "GWP": 0.3571,
-      "OGWP": 0.5043
+      "OMWP": 0.5832999999999999,
+      "GWP": 0.3333,
+      "OGWP": 0.5307999999999999
     },
     {
-      "Rank": 30,
-      "Player": "RespectTheCat",
+      "Rank": 26,
+      "Player": "Corrado",
       "Points": 6,
-      "Wins": 2,
-      "Losses": 4,
+      "Wins": 0,
+      "Losses": 0,
       "Draws": 0,
-      "OMWP": 0.5278,
-      "GWP": 0.375,
-      "OGWP": 0.4931
+      "OMWP": 0.5832999999999999,
+      "GWP": 0.4375,
+      "OGWP": 0.4962
     },
     {
-      "Rank": 31,
-      "Player": "TheNectar",
-      "Points": 3,
-      "Wins": 1,
-      "Losses": 2,
+      "Rank": 25,
+      "Player": "jvidarte",
+      "Points": 6,
+      "Wins": 0,
+      "Losses": 0,
       "Draws": 0,
-      "OMWP": 0.6667,
+      "OMWP": 0.6333,
+      "GWP": 0.46149999999999997,
+      "OGWP": 0.5725
+    },
+    {
+      "Rank": 24,
+      "Player": "IMonsterAA",
+      "Points": 9,
+      "Wins": 0,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.43329999999999996,
       "GWP": 0.5,
-      "OGWP": 0.5852
+      "OGWP": 0.41869999999999996
     },
     {
-      "Rank": 32,
-      "Player": "jjj777",
-      "Points": 3,
-      "Wins": 1,
-      "Losses": 5,
+      "Rank": 23,
+      "Player": "Hampuse1",
+      "Points": 9,
+      "Wins": 0,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.43329999999999996,
+      "GWP": 0.5333,
+      "OGWP": 0.4448
+    },
+    {
+      "Rank": 22,
+      "Player": "Taddy99",
+      "Points": 9,
+      "Wins": 0,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.4611,
+      "GWP": 0.5,
+      "OGWP": 0.475
+    },
+    {
+      "Rank": 21,
+      "Player": "narca",
+      "Points": 9,
+      "Wins": 0,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.4286,
+      "OGWP": 0.4965
+    },
+    {
+      "Rank": 20,
+      "Player": "Porks",
+      "Points": 9,
+      "Wins": 0,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.4667,
+      "OGWP": 0.49229999999999996
+    },
+    {
+      "Rank": 19,
+      "Player": "amin0e",
+      "Points": 9,
+      "Wins": 0,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.4706,
+      "OGWP": 0.4814
+    },
+    {
+      "Rank": 18,
+      "Player": "klien7",
+      "Points": 9,
+      "Wins": 0,
+      "Losses": 0,
       "Draws": 0,
       "OMWP": 0.5278,
-      "GWP": 0.3125,
-      "OGWP": 0.5034
+      "GWP": 0.5,
+      "OGWP": 0.5196999999999999
+    },
+    {
+      "Rank": 17,
+      "Player": "tripleAAA",
+      "Points": 9,
+      "Wins": 0,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.5389,
+      "GWP": 0.5294,
+      "OGWP": 0.5206000000000001
+    },
+    {
+      "Rank": 16,
+      "Player": "NovaNiller",
+      "Points": 9,
+      "Wins": 0,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.5444,
+      "GWP": 0.5625,
+      "OGWP": 0.5014
+    },
+    {
+      "Rank": 15,
+      "Player": "usokui3",
+      "Points": 9,
+      "Wins": 0,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.6,
+      "GWP": 0.5832999999999999,
+      "OGWP": 0.5708
+    },
+    {
+      "Rank": 14,
+      "Player": "CaboGrosso",
+      "Points": 9,
+      "Wins": 0,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.6111,
+      "GWP": 0.5333,
+      "OGWP": 0.5444
+    },
+    {
+      "Rank": 13,
+      "Player": "Eissar",
+      "Points": 12,
+      "Wins": 0,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.44439999999999996,
+      "GWP": 0.625,
+      "OGWP": 0.43810000000000004
+    },
+    {
+      "Rank": 12,
+      "Player": "Sam12",
+      "Points": 12,
+      "Wins": 0,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.5294,
+      "OGWP": 0.4947
+    },
+    {
+      "Rank": 11,
+      "Player": "gamertoad",
+      "Points": 12,
+      "Wins": 0,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.5333,
+      "OGWP": 0.4932
+    },
+    {
+      "Rank": 10,
+      "Player": "MinO93",
+      "Points": 12,
+      "Wins": 0,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.5278,
+      "GWP": 0.5882000000000001,
+      "OGWP": 0.4918
+    },
+    {
+      "Rank": 9,
+      "Player": "albertoSD",
+      "Points": 12,
+      "Wins": 0,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.5556,
+      "GWP": 0.5556,
+      "OGWP": 0.5579999999999999
+    },
+    {
+      "Rank": 8,
+      "Player": "MeninooNey",
+      "Points": 12,
+      "Wins": 0,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.5943999999999999,
+      "GWP": 0.6,
+      "OGWP": 0.5404
+    },
+    {
+      "Rank": 7,
+      "Player": "Fatal_Vlad",
+      "Points": 15,
+      "Wins": 0,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.5882000000000001,
+      "OGWP": 0.4978
+    },
+    {
+      "Rank": 6,
+      "Player": "bless_von",
+      "Points": 15,
+      "Wins": 0,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.6222,
+      "GWP": 0.7333,
+      "OGWP": 0.5707
+    },
+    {
+      "Rank": 5,
+      "Player": "Selir",
+      "Points": 15,
+      "Wins": 0,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.6556000000000001,
+      "GWP": 0.6667000000000001,
+      "OGWP": 0.6045
+    },
+    {
+      "Rank": 4,
+      "Player": "TaylorSpain",
+      "Points": 15,
+      "Wins": 0,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.5832999999999999,
+      "GWP": 0.6667000000000001,
+      "OGWP": 0.5295000000000001
+    },
+    {
+      "Rank": 3,
+      "Player": "Deathmaxx",
+      "Points": 18,
+      "Wins": 0,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.6333,
+      "GWP": 0.7143,
+      "OGWP": 0.5561
+    },
+    {
+      "Rank": 2,
+      "Player": "Jumba",
+      "Points": 18,
+      "Wins": 0,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.6278,
+      "GWP": 0.625,
+      "OGWP": 0.5766
+    },
+    {
+      "Rank": 1,
+      "Player": "SanPop",
+      "Points": 24,
+      "Wins": 0,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.5943999999999999,
+      "GWP": 0.6667000000000001,
+      "OGWP": 0.5589
     }
   ]
 }

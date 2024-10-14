@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2024-10-13T00:00:00Z",
     "Name": "Vintage Challenge 32",
-    "Uri": "https://www.mtgo.com/decklist/vintage-challenge-32-2024-10-1312698349"
+    "Uri": "https://www.mtgo.com/decklist/vintage-challenge-32-2024-10-1312698349",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -5484,47 +5487,427 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
-          "Player1": "_Joseba_",
-          "Player2": "AJV20",
+          "Player1": "medvedev",
+          "Player2": "bless_von",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "burrarun",
+          "Player2": "NathanLipetz",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "crK",
+          "Player2": "Munchlax446",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "_Joseba_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "discoverN",
+          "Player2": "area",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "unluckymonkey",
+          "Player2": "RyanWu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "wiky",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Wesal",
+          "Player2": "Bezerra_da_Silva",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "John1111",
+          "Player2": "DB_Beerus",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "AJV20",
+          "Player2": "yPrincipe",
           "Result": "2-1-0"
         },
         {
           "Player1": "Mogged",
-          "Player2": "burrarun",
+          "Player2": "JTlemmon",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "PsiVen",
+          "Player2": "kasa",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Erik157751",
+          "Player2": "f1shmagic",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_dr4gun0v_",
+          "Player2": "_J0SE_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ark4n",
+          "Player2": "Ayyypeks",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kristofff",
+          "Player2": "lupo82",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "Ayyypeks",
+          "Player2": "_J0SE_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "Munchlax446",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "area",
+          "Player2": "kasa",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kristofff",
+          "Player2": "John1111",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "crK",
+          "Player2": "NathanLipetz",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "discoverN",
+          "Player2": "RyanWu",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "unluckymonkey",
+          "Player2": "Erik157751",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "DB_Beerus",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "AJV20",
+          "Player2": "f1shmagic",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "yPrincipe",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "Bezerra_da_Silva",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Joseba_",
+          "Player2": "lupo82",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "wiky",
+          "Player2": "JTlemmon",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Ark4n",
+          "Player2": "_dr4gun0v_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "PsiVen",
+          "Player2": "Mogged",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "RyanWu",
+          "Player2": "Erik157751",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "PsiVen",
+          "Player2": "discoverN",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "burrarun",
+          "Player2": "JTlemmon",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "f1shmagic",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "area",
+          "Player2": "bless_von",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ayyypeks",
+          "Player2": "_dr4gun0v_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "kristofff",
+          "Player2": "_J0SE_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "yPrincipe",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "John1111",
+          "Player2": "lupo82",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "unluckymonkey",
+          "Player2": "wiky",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "Munchlax446",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "crK",
+          "Player2": "kasa",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "AJV20",
+          "Player2": "Bezerra_da_Silva",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "_Joseba_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Ark4n",
+          "Player2": "NathanLipetz",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "area",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "burrarun",
+          "Player2": "Ayyypeks",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "John1111",
+          "Player2": "f1shmagic",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "discoverN",
+          "Player2": "_Joseba_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "AJV20",
+          "Player2": "NathanLipetz",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_dr4gun0v_",
+          "Player2": "lupo82",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "crK",
+          "Player2": "yPrincipe",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Ark4n",
+          "Player2": "Erik157751",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "RyanWu",
+          "Player2": "JTlemmon",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kasa",
+          "Player2": "_J0SE_",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "Bezerra_da_Silva",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "PsiVen",
+          "Player2": "medvedev",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "wiky",
+          "Player2": "Munchlax446",
+          "Result": "1-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "Ark4n",
+          "Player2": "Mogged",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "_J0SE_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "NathanLipetz",
+          "Player2": "_Joseba_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "burrarun",
+          "Player2": "AJV20",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Erik157751",
+          "Player2": "Bezerra_da_Silva",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "crK",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "RyanWu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "discoverN",
+          "Player2": "John1111",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "area",
+          "Player2": "f1shmagic",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "PsiVen",
+          "Player2": "lupo82",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Ayyypeks",
+          "Player2": "yPrincipe",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "wiky",
+          "Player2": "Jumba",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "AJV20",
+          "Player2": "_Joseba_",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "burrarun",
+          "Player2": "Mogged",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "discoverN",
+          "Player2": "NathanLipetz",
           "Result": "2-0-0"
         },
         {
           "Player1": "crK",
           "Player2": "John1111",
           "Result": "2-0-0"
-        },
-        {
-          "Player1": "discoverN",
-          "Player2": "NathanLipetz",
-          "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 7",
       "Matches": [
-        {
-          "Player1": "discoverN",
-          "Player2": "Mogged",
-          "Result": "2-0-0"
-        },
         {
           "Player1": "crK",
           "Player2": "_Joseba_",
           "Result": "2-0-0"
+        },
+        {
+          "Player1": "discoverN",
+          "Player2": "Mogged",
+          "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 8",
       "Matches": [
         {
           "Player1": "crK",
@@ -5536,356 +5919,356 @@
   ],
   "Standings": [
     {
-      "Rank": 1,
-      "Player": "NathanLipetz",
-      "Points": 15,
-      "Wins": 5,
-      "Losses": 1,
-      "Draws": 0,
-      "OMWP": 0.72,
-      "GWP": 1.0,
-      "OGWP": 0.6005
-    },
-    {
-      "Rank": 2,
-      "Player": "_Joseba_",
-      "Points": 12,
-      "Wins": 5,
-      "Losses": 2,
-      "Draws": 0,
-      "OMWP": 0.5867,
-      "GWP": 0.6667,
-      "OGWP": 0.59
-    },
-    {
-      "Rank": 3,
-      "Player": "crK",
-      "Points": 12,
-      "Wins": 7,
-      "Losses": 1,
-      "Draws": 0,
-      "OMWP": 0.5867,
-      "GWP": 0.6154,
-      "OGWP": 0.6088
-    },
-    {
-      "Rank": 4,
-      "Player": "burrarun",
-      "Points": 12,
-      "Wins": 3,
-      "Losses": 2,
-      "Draws": 0,
-      "OMWP": 0.5833,
-      "GWP": 0.6364,
-      "OGWP": 0.5797
-    },
-    {
-      "Rank": 5,
-      "Player": "Mogged",
-      "Points": 12,
-      "Wins": 5,
-      "Losses": 2,
-      "Draws": 0,
-      "OMWP": 0.4933,
-      "GWP": 0.75,
-      "OGWP": 0.4787
-    },
-    {
-      "Rank": 6,
-      "Player": "John1111",
-      "Points": 12,
-      "Wins": 4,
-      "Losses": 2,
-      "Draws": 0,
-      "OMWP": 0.4333,
-      "GWP": 0.5714,
-      "OGWP": 0.4676
-    },
-    {
-      "Rank": 7,
-      "Player": "AJV20",
-      "Points": 9,
-      "Wins": 3,
-      "Losses": 3,
-      "Draws": 0,
-      "OMWP": 0.6667,
-      "GWP": 0.5385,
-      "OGWP": 0.6443
-    },
-    {
-      "Rank": 8,
-      "Player": "discoverN",
-      "Points": 9,
-      "Wins": 5,
-      "Losses": 3,
-      "Draws": 0,
-      "OMWP": 0.64,
-      "GWP": 0.5714,
-      "OGWP": 0.5489
-    },
-    {
-      "Rank": 9,
-      "Player": "medvedev",
-      "Points": 9,
-      "Wins": 3,
-      "Losses": 2,
-      "Draws": 0,
-      "OMWP": 0.6067,
-      "GWP": 0.5455,
-      "OGWP": 0.5354
-    },
-    {
-      "Rank": 10,
-      "Player": "Ark4n",
-      "Points": 9,
-      "Wins": 3,
-      "Losses": 2,
-      "Draws": 0,
-      "OMWP": 0.6,
-      "GWP": 0.5455,
-      "OGWP": 0.5788
-    },
-    {
-      "Rank": 11,
-      "Player": "PsiVen",
-      "Points": 9,
-      "Wins": 3,
-      "Losses": 2,
-      "Draws": 0,
-      "OMWP": 0.5467,
-      "GWP": 0.4615,
-      "OGWP": 0.5643
-    },
-    {
-      "Rank": 12,
-      "Player": "Bezerra_da_Silva",
-      "Points": 9,
-      "Wins": 3,
-      "Losses": 2,
-      "Draws": 0,
-      "OMWP": 0.5067,
-      "GWP": 0.6364,
-      "OGWP": 0.4804
-    },
-    {
-      "Rank": 13,
-      "Player": "yPrincipe",
-      "Points": 9,
-      "Wins": 3,
-      "Losses": 2,
-      "Draws": 0,
-      "OMWP": 0.5067,
-      "GWP": 0.6154,
-      "OGWP": 0.4535
-    },
-    {
-      "Rank": 14,
-      "Player": "RyanWu",
-      "Points": 9,
-      "Wins": 3,
-      "Losses": 2,
-      "Draws": 0,
-      "OMWP": 0.4133,
-      "GWP": 0.5833,
-      "OGWP": 0.4203
-    },
-    {
-      "Rank": 15,
-      "Player": "_J0SE_",
-      "Points": 9,
-      "Wins": 3,
-      "Losses": 2,
-      "Draws": 0,
-      "OMWP": 0.3733,
-      "GWP": 0.5385,
-      "OGWP": 0.3994
-    },
-    {
-      "Rank": 16,
-      "Player": "Ayyypeks",
-      "Points": 6,
-      "Wins": 2,
-      "Losses": 3,
-      "Draws": 0,
-      "OMWP": 0.6,
-      "GWP": 0.3636,
-      "OGWP": 0.5505
-    },
-    {
-      "Rank": 17,
-      "Player": "lupo82",
-      "Points": 6,
-      "Wins": 2,
-      "Losses": 3,
-      "Draws": 0,
-      "OMWP": 0.5867,
-      "GWP": 0.5,
-      "OGWP": 0.4899
-    },
-    {
-      "Rank": 18,
-      "Player": "_Batutinha_",
-      "Points": 6,
-      "Wins": 2,
-      "Losses": 3,
-      "Draws": 0,
-      "OMWP": 0.52,
-      "GWP": 0.4167,
-      "OGWP": 0.5516
-    },
-    {
-      "Rank": 19,
-      "Player": "_dr4gun0v_",
-      "Points": 6,
-      "Wins": 1,
-      "Losses": 3,
-      "Draws": 0,
-      "OMWP": 0.5,
-      "GWP": 0.4167,
-      "OGWP": 0.4869
-    },
-    {
-      "Rank": 20,
-      "Player": "Munchlax446",
-      "Points": 6,
-      "Wins": 2,
-      "Losses": 3,
-      "Draws": 0,
-      "OMWP": 0.4933,
-      "GWP": 0.4286,
-      "OGWP": 0.4564
-    },
-    {
-      "Rank": 21,
-      "Player": "Erik157751",
-      "Points": 6,
-      "Wins": 2,
-      "Losses": 3,
-      "Draws": 0,
-      "OMWP": 0.4933,
-      "GWP": 0.3636,
-      "OGWP": 0.4864
-    },
-    {
-      "Rank": 22,
-      "Player": "area",
-      "Points": 6,
-      "Wins": 2,
-      "Losses": 3,
-      "Draws": 0,
-      "OMWP": 0.4,
-      "GWP": 0.4615,
-      "OGWP": 0.4219
-    },
-    {
-      "Rank": 23,
-      "Player": "wiky",
-      "Points": 6,
-      "Wins": 2,
-      "Losses": 3,
-      "Draws": 0,
-      "OMWP": 0.36,
-      "GWP": 0.4615,
-      "OGWP": 0.3857
-    },
-    {
-      "Rank": 24,
-      "Player": "DB_Beerus",
-      "Points": 3,
-      "Wins": 1,
-      "Losses": 1,
-      "Draws": 0,
-      "OMWP": 0.7,
-      "GWP": 0.6,
-      "OGWP": 0.5584
-    },
-    {
-      "Rank": 25,
-      "Player": "JTlemmon",
-      "Points": 3,
-      "Wins": 1,
-      "Losses": 3,
-      "Draws": 0,
-      "OMWP": 0.65,
-      "GWP": 0.4167,
-      "OGWP": 0.6078
-    },
-    {
-      "Rank": 26,
-      "Player": "kasa",
-      "Points": 3,
-      "Wins": 1,
-      "Losses": 3,
-      "Draws": 0,
-      "OMWP": 0.6,
-      "GWP": 0.4545,
-      "OGWP": 0.5192
-    },
-    {
-      "Rank": 27,
-      "Player": "f1shmagic",
-      "Points": 3,
-      "Wins": 1,
-      "Losses": 4,
-      "Draws": 0,
-      "OMWP": 0.6,
-      "GWP": 0.3333,
-      "OGWP": 0.537
-    },
-    {
-      "Rank": 28,
-      "Player": "Jumba",
-      "Points": 3,
-      "Wins": 0,
-      "Losses": 4,
-      "Draws": 0,
-      "OMWP": 0.55,
-      "GWP": 0.2,
-      "OGWP": 0.543
-    },
-    {
-      "Rank": 29,
-      "Player": "bless_von",
-      "Points": 3,
-      "Wins": 1,
-      "Losses": 2,
-      "Draws": 0,
-      "OMWP": 0.4667,
-      "GWP": 0.2857,
-      "OGWP": 0.4785
-    },
-    {
-      "Rank": 30,
-      "Player": "kristofff",
+      "Rank": 32,
+      "Player": "unluckymonkey",
       "Points": 0,
       "Wins": 0,
-      "Losses": 3,
+      "Losses": 0,
       "Draws": 0,
-      "OMWP": 0.6,
-      "GWP": 0.3333,
-      "OGWP": 0.5366
+      "OMWP": 0.4667,
+      "GWP": 0.25,
+      "OGWP": 0.46950000000000003
     },
     {
       "Rank": 31,
       "Player": "Wesal",
       "Points": 0,
       "Wins": 0,
-      "Losses": 1,
+      "Losses": 0,
       "Draws": 0,
       "OMWP": 0.6,
-      "GWP": 0.0,
+      "GWP": 0,
       "OGWP": 0.6364
     },
     {
-      "Rank": 32,
-      "Player": "unluckymonkey",
+      "Rank": 30,
+      "Player": "kristofff",
       "Points": 0,
       "Wins": 0,
-      "Losses": 3,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.6,
+      "GWP": 0.3333,
+      "OGWP": 0.5366
+    },
+    {
+      "Rank": 29,
+      "Player": "bless_von",
+      "Points": 3,
+      "Wins": 0,
+      "Losses": 0,
       "Draws": 0,
       "OMWP": 0.4667,
-      "GWP": 0.25,
-      "OGWP": 0.4695
+      "GWP": 0.2857,
+      "OGWP": 0.47850000000000004
+    },
+    {
+      "Rank": 28,
+      "Player": "Jumba",
+      "Points": 3,
+      "Wins": 0,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.55,
+      "GWP": 0.2,
+      "OGWP": 0.5429999999999999
+    },
+    {
+      "Rank": 27,
+      "Player": "f1shmagic",
+      "Points": 3,
+      "Wins": 0,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.6,
+      "GWP": 0.3333,
+      "OGWP": 0.537
+    },
+    {
+      "Rank": 26,
+      "Player": "kasa",
+      "Points": 3,
+      "Wins": 0,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.6,
+      "GWP": 0.4545,
+      "OGWP": 0.5192
+    },
+    {
+      "Rank": 25,
+      "Player": "JTlemmon",
+      "Points": 3,
+      "Wins": 0,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.65,
+      "GWP": 0.4167,
+      "OGWP": 0.6078
+    },
+    {
+      "Rank": 24,
+      "Player": "DB_Beerus",
+      "Points": 3,
+      "Wins": 0,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.7,
+      "GWP": 0.6,
+      "OGWP": 0.5584
+    },
+    {
+      "Rank": 23,
+      "Player": "wiky",
+      "Points": 6,
+      "Wins": 0,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.36,
+      "GWP": 0.46149999999999997,
+      "OGWP": 0.3857
+    },
+    {
+      "Rank": 22,
+      "Player": "area",
+      "Points": 6,
+      "Wins": 0,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.4,
+      "GWP": 0.46149999999999997,
+      "OGWP": 0.4219
+    },
+    {
+      "Rank": 21,
+      "Player": "Erik157751",
+      "Points": 6,
+      "Wins": 0,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.49329999999999996,
+      "GWP": 0.3636,
+      "OGWP": 0.4864
+    },
+    {
+      "Rank": 20,
+      "Player": "Munchlax446",
+      "Points": 6,
+      "Wins": 0,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.49329999999999996,
+      "GWP": 0.4286,
+      "OGWP": 0.45640000000000003
+    },
+    {
+      "Rank": 19,
+      "Player": "_dr4gun0v_",
+      "Points": 6,
+      "Wins": 0,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.4167,
+      "OGWP": 0.4869
+    },
+    {
+      "Rank": 18,
+      "Player": "_Batutinha_",
+      "Points": 6,
+      "Wins": 0,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.52,
+      "GWP": 0.4167,
+      "OGWP": 0.5516
+    },
+    {
+      "Rank": 17,
+      "Player": "lupo82",
+      "Points": 6,
+      "Wins": 0,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.5867,
+      "GWP": 0.5,
+      "OGWP": 0.4899
+    },
+    {
+      "Rank": 16,
+      "Player": "Ayyypeks",
+      "Points": 6,
+      "Wins": 0,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.6,
+      "GWP": 0.3636,
+      "OGWP": 0.5505
+    },
+    {
+      "Rank": 15,
+      "Player": "_J0SE_",
+      "Points": 9,
+      "Wins": 0,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.375,
+      "GWP": 0.5385,
+      "OGWP": 0.39899999999999997
+    },
+    {
+      "Rank": 14,
+      "Player": "RyanWu",
+      "Points": 9,
+      "Wins": 0,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.4133,
+      "GWP": 0.5832999999999999,
+      "OGWP": 0.4203
+    },
+    {
+      "Rank": 13,
+      "Player": "yPrincipe",
+      "Points": 9,
+      "Wins": 0,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.5067,
+      "GWP": 0.6154,
+      "OGWP": 0.4535
+    },
+    {
+      "Rank": 12,
+      "Player": "Bezerra_da_Silva",
+      "Points": 9,
+      "Wins": 0,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.5067,
+      "GWP": 0.6364,
+      "OGWP": 0.4804
+    },
+    {
+      "Rank": 11,
+      "Player": "PsiVen",
+      "Points": 9,
+      "Wins": 0,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.5467,
+      "GWP": 0.46149999999999997,
+      "OGWP": 0.5643
+    },
+    {
+      "Rank": 10,
+      "Player": "Ark4n",
+      "Points": 9,
+      "Wins": 0,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.6,
+      "GWP": 0.5455,
+      "OGWP": 0.5788
+    },
+    {
+      "Rank": 9,
+      "Player": "medvedev",
+      "Points": 9,
+      "Wins": 0,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.6067,
+      "GWP": 0.5455,
+      "OGWP": 0.5333
+    },
+    {
+      "Rank": 8,
+      "Player": "AJV20",
+      "Points": 9,
+      "Wins": 0,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.6667000000000001,
+      "GWP": 0.5385,
+      "OGWP": 0.6443000000000001
+    },
+    {
+      "Rank": 7,
+      "Player": "John1111",
+      "Points": 12,
+      "Wins": 0,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.43329999999999996,
+      "GWP": 0.5714,
+      "OGWP": 0.46759999999999996
+    },
+    {
+      "Rank": 6,
+      "Player": "burrarun",
+      "Points": 12,
+      "Wins": 0,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.5832999999999999,
+      "GWP": 0.6364,
+      "OGWP": 0.5797
+    },
+    {
+      "Rank": 5,
+      "Player": "NathanLipetz",
+      "Points": 15,
+      "Wins": 0,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.72,
+      "GWP": 1,
+      "OGWP": 0.6093
+    },
+    {
+      "Rank": 4,
+      "Player": "Mogged",
+      "Points": 15,
+      "Wins": 0,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.49329999999999996,
+      "GWP": 0.75,
+      "OGWP": 0.47869999999999996
+    },
+    {
+      "Rank": 3,
+      "Player": "_Joseba_",
+      "Points": 15,
+      "Wins": 0,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.5832999999999999,
+      "GWP": 0.6667000000000001,
+      "OGWP": 0.59
+    },
+    {
+      "Rank": 2,
+      "Player": "discoverN",
+      "Points": 15,
+      "Wins": 0,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.64,
+      "GWP": 0.5714,
+      "OGWP": 0.5489
+    },
+    {
+      "Rank": 1,
+      "Player": "crK",
+      "Points": 21,
+      "Wins": 0,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.5832999999999999,
+      "GWP": 0.6154,
+      "OGWP": 0.6088
     }
   ]
 }
