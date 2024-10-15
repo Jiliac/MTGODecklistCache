@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2024-09-07T00:00:00Z",
     "Name": "Legacy Challenge 32",
-    "Uri": "https://www.mtgo.com/decklist/legacy-challenge-32-2024-09-0712682672"
+    "Uri": "https://www.mtgo.com/decklist/legacy-challenge-32-2024-09-0712682672",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -4272,17 +4275,1482 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
+          "Player1": "adorno666",
+          "Player2": "CoolUser",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Ailien",
+          "Player2": "m_himukai",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Ark4n",
+          "Player2": "azmyk1231",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ayukawa",
+          "Player2": "Mogged",
+          "Result": "0-2-0"
+        },
+        {
           "Player1": "Azerate218",
+          "Player2": "Kuranari-Jackpa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "azmyk1231",
+          "Player2": "Ark4n",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "B-baka",
+          "Player2": "jade-venus",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Carroz",
+          "Player2": "luvadepedreiro",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "Gabanaci",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "CoolUser",
+          "Player2": "adorno666",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Devt",
+          "Player2": "Jumba",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "dm2022here",
+          "Player2": "l337erhosen",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Dreddybajs",
+          "Player2": "GuiBonella",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Enrichetta",
+          "Player2": "_INF_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Erik157751",
+          "Player2": "kanican",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Gabanaci",
+          "Player2": "choutin",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "GoblinElder",
+          "Player2": "Ryuho090",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "GuiBonella",
+          "Player2": "Dreddybajs",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "habsburger",
+          "Player2": "L4rss0n",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_INF_",
+          "Player2": "Enrichetta",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "jade-venus",
+          "Player2": "B-baka",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "Devt",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kanican",
+          "Player2": "Erik157751",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "kasa",
+          "Player2": "oosunq",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kentaro_hokori",
+          "Player2": "NMT_Sco94",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Kuranari-Jackpa",
+          "Player2": "Azerate218",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "l337erhosen",
+          "Player2": "dm2022here",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "L4rss0n",
+          "Player2": "habsburger",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LarryDavidYo",
+          "Player2": "LasVegasChaos",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "LasVegasChaos",
+          "Player2": "LarryDavidYo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LeoFa",
+          "Player2": "samus_ssp",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "LillHalonen",
+          "Player2": "TheGrimLavamancer",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "luvadepedreiro",
+          "Player2": "Carroz",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MahfuzVanGogh",
+          "Player2": "Napoleon_I",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "m_himukai",
+          "Player2": "Ailien",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "ayukawa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "molimomaro",
+          "Player2": "RingoDeathStarr",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Napoleon_I",
+          "Player2": "MahfuzVanGogh",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "NMT_Sco94",
+          "Player2": "kentaro_hokori",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "onelastkiss",
+          "Player2": "snoopy-magic",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "oosunq",
+          "Player2": "kasa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "piao",
+          "Player2": "RyanWu",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "RingoDeathStarr",
+          "Player2": "molimomaro",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "RyanWu",
+          "Player2": "piao",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Ryuho090",
+          "Player2": "GoblinElder",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "samus_ssp",
+          "Player2": "LeoFa",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "snoopy-magic",
+          "Player2": "onelastkiss",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Sol-e22558",
+          "Player2": "trunks132",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Sprouts",
+          "Player2": "Suzukiii",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Suzukiii",
+          "Player2": "Sprouts",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "TheGrimLavamancer",
+          "Player2": "LillHalonen",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "trunks132",
+          "Player2": "Sol-e22558",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "adorno666",
+          "Player2": "ayukawa",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Ailien",
+          "Player2": "LarryDavidYo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "akisamiyou",
+          "Player2": "L4rss0n",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Ark4n",
+          "Player2": "m_himukai",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "ayukawa",
+          "Player2": "adorno666",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Azerate218",
+          "Player2": "GoblinElder",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "azmyk1231",
+          "Player2": "_INF_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "B-baka",
+          "Player2": "kentaro_hokori",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Carroz",
+          "Player2": "CoolUser",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "jade-venus",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "CoolUser",
+          "Player2": "Carroz",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Devt",
+          "Player2": "LillHalonen",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "dm2022here",
+          "Player2": "kasa",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Dreddybajs",
+          "Player2": "Ryuho090",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Enrichetta",
+          "Player2": "kanican",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Erik157751",
+          "Player2": "Suzukiii",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Gabanaci",
+          "Player2": "piao",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "GoblinElder",
+          "Player2": "Azerate218",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "GuiBonella",
+          "Player2": "Kuranari-Jackpa",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "_INF_",
+          "Player2": "azmyk1231",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "jade-venus",
+          "Player2": "choutin",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "trunks132",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kanican",
+          "Player2": "Enrichetta",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "kasa",
+          "Player2": "dm2022here",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kentaro_hokori",
+          "Player2": "B-baka",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Kuranari-Jackpa",
+          "Player2": "GuiBonella",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "l337erhosen",
+          "Player2": "RyanWu",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "L4rss0n",
+          "Player2": "akisamiyou",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "LarryDavidYo",
+          "Player2": "Ailien",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LasVegasChaos",
+          "Player2": "oosunq",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "LeoFa",
+          "Player2": "Sol-e22558",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "LillHalonen",
+          "Player2": "Devt",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "luvadepedreiro",
+          "Player2": "MahfuzVanGogh",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "MahfuzVanGogh",
+          "Player2": "luvadepedreiro",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "m_himukai",
+          "Player2": "Ark4n",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "snoopy-magic",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "molimomaro",
+          "Player2": "onelastkiss",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Napoleon_I",
+          "Player2": "samus_ssp",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "NMT_Sco94",
+          "Player2": "TheGrimLavamancer",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "onelastkiss",
+          "Player2": "molimomaro",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "oosunq",
+          "Player2": "LasVegasChaos",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "piao",
+          "Player2": "Gabanaci",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "RingoDeathStarr",
+          "Player2": "Sprouts",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "RyanWu",
+          "Player2": "l337erhosen",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Ryuho090",
+          "Player2": "Dreddybajs",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "samus_ssp",
+          "Player2": "Napoleon_I",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "snoopy-magic",
+          "Player2": "Mogged",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Sol-e22558",
+          "Player2": "LeoFa",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Sprouts",
+          "Player2": "RingoDeathStarr",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Suzukiii",
+          "Player2": "Erik157751",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "TheGrimLavamancer",
           "Player2": "NMT_Sco94",
           "Result": "2-0-0"
         },
         {
           "Player1": "trunks132",
           "Player2": "Jumba",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "adorno666",
+          "Player2": "GoblinElder",
           "Result": "2-1-0"
+        },
+        {
+          "Player1": "akisamiyou",
+          "Player2": "m_himukai",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ark4n",
+          "Player2": "Enrichetta",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ayukawa",
+          "Player2": "LillHalonen",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Azerate218",
+          "Player2": "jade-venus",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "azmyk1231",
+          "Player2": "LeoFa",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "B-baka",
+          "Player2": "MahfuzVanGogh",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Carroz",
+          "Player2": "Jumba",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "Erik157751",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "CoolUser",
+          "Player2": "NMT_Sco94",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Devt",
+          "Player2": "piao",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dreddybajs",
+          "Player2": "RyanWu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Enrichetta",
+          "Player2": "Ark4n",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Erik157751",
+          "Player2": "choutin",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Gabanaci",
+          "Player2": "samus_ssp",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "GoblinElder",
+          "Player2": "adorno666",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "GuiBonella",
+          "Player2": "Suzukiii",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "habsburger",
+          "Player2": "LarryDavidYo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jade-venus",
+          "Player2": "Azerate218",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "Carroz",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kanican",
+          "Player2": "Ryuho090",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "kasa",
+          "Player2": "kentaro_hokori",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "kentaro_hokori",
+          "Player2": "kasa",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Kuranari-Jackpa",
+          "Player2": "trunks132",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "l337erhosen",
+          "Player2": "Sprouts",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "L4rss0n",
+          "Player2": "RingoDeathStarr",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LarryDavidYo",
+          "Player2": "habsburger",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "LasVegasChaos",
+          "Player2": "Napoleon_I",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "LeoFa",
+          "Player2": "azmyk1231",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LillHalonen",
+          "Player2": "ayukawa",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "luvadepedreiro",
+          "Player2": "Mogged",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "MahfuzVanGogh",
+          "Player2": "B-baka",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "m_himukai",
+          "Player2": "akisamiyou",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "luvadepedreiro",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Napoleon_I",
+          "Player2": "LasVegasChaos",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "NMT_Sco94",
+          "Player2": "CoolUser",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "onelastkiss",
+          "Player2": "oosunq",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "oosunq",
+          "Player2": "onelastkiss",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "piao",
+          "Player2": "Devt",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "RingoDeathStarr",
+          "Player2": "L4rss0n",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "RyanWu",
+          "Player2": "Dreddybajs",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ryuho090",
+          "Player2": "kanican",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "samus_ssp",
+          "Player2": "Gabanaci",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "snoopy-magic",
+          "Player2": "TheGrimLavamancer",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Sprouts",
+          "Player2": "l337erhosen",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Suzukiii",
+          "Player2": "GuiBonella",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TheGrimLavamancer",
+          "Player2": "snoopy-magic",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "trunks132",
+          "Player2": "Kuranari-Jackpa",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "adorno666",
+          "Player2": "samus_ssp",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "akisamiyou",
+          "Player2": "Carroz",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ark4n",
+          "Player2": "LasVegasChaos",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ayukawa",
+          "Player2": "l337erhosen",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Azerate218",
+          "Player2": "kanican",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "azmyk1231",
+          "Player2": "Kuranari-Jackpa",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "B-baka",
+          "Player2": "Mogged",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Carroz",
+          "Player2": "akisamiyou",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "Enrichetta",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "CoolUser",
+          "Player2": "LarryDavidYo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Devt",
+          "Player2": "Dreddybajs",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "dm2022here",
+          "Player2": "RingoDeathStarr",
+          "Result": "0-1-0"
+        },
+        {
+          "Player1": "Dreddybajs",
+          "Player2": "Devt",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Enrichetta",
+          "Player2": "choutin",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Erik157751",
+          "Player2": "onelastkiss",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Gabanaci",
+          "Player2": "LeoFa",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "GoblinElder",
+          "Player2": "piao",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "habsburger",
+          "Player2": "Ryuho090",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "jade-venus",
+          "Player2": "trunks132",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "Napoleon_I",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kanican",
+          "Player2": "Azerate218",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "kasa",
+          "Player2": "NMT_Sco94",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "kentaro_hokori",
+          "Player2": "Suzukiii",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Kuranari-Jackpa",
+          "Player2": "azmyk1231",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "l337erhosen",
+          "Player2": "ayukawa",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "L4rss0n",
+          "Player2": "snoopy-magic",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "LarryDavidYo",
+          "Player2": "CoolUser",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "LasVegasChaos",
+          "Player2": "Ark4n",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "LeoFa",
+          "Player2": "Gabanaci",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "LillHalonen",
+          "Player2": "oosunq",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "m_himukai",
+          "Player2": "RyanWu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "B-baka",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Napoleon_I",
+          "Player2": "Jumba",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "NMT_Sco94",
+          "Player2": "kasa",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "onelastkiss",
+          "Player2": "Erik157751",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "oosunq",
+          "Player2": "LillHalonen",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "piao",
+          "Player2": "GoblinElder",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "RingoDeathStarr",
+          "Player2": "dm2022here",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "RyanWu",
+          "Player2": "m_himukai",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ryuho090",
+          "Player2": "habsburger",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "samus_ssp",
+          "Player2": "adorno666",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "snoopy-magic",
+          "Player2": "L4rss0n",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Sprouts",
+          "Player2": "TheGrimLavamancer",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Suzukiii",
+          "Player2": "kentaro_hokori",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "TheGrimLavamancer",
+          "Player2": "Sprouts",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "trunks132",
+          "Player2": "jade-venus",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "adorno666",
+          "Player2": "GuiBonella",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "akisamiyou",
+          "Player2": "Azerate218",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Ark4n",
+          "Player2": "kanican",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ayukawa",
+          "Player2": "Dreddybajs",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Azerate218",
+          "Player2": "akisamiyou",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "azmyk1231",
+          "Player2": "LillHalonen",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "B-baka",
+          "Player2": "RingoDeathStarr",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Carroz",
+          "Player2": "choutin",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "Carroz",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "CoolUser",
+          "Player2": "oosunq",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Devt",
+          "Player2": "Enrichetta",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Dreddybajs",
+          "Player2": "ayukawa",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Enrichetta",
+          "Player2": "Devt",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Erik157751",
+          "Player2": "Mogged",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Gabanaci",
+          "Player2": "LasVegasChaos",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "GoblinElder",
+          "Player2": "Suzukiii",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "GuiBonella",
+          "Player2": "adorno666",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "habsburger",
+          "Player2": "Kuranari-Jackpa",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "jade-venus",
+          "Player2": "kentaro_hokori",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "TheGrimLavamancer",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kanican",
+          "Player2": "Ark4n",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kasa",
+          "Player2": "samus_ssp",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kentaro_hokori",
+          "Player2": "jade-venus",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Kuranari-Jackpa",
+          "Player2": "habsburger",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "l337erhosen",
+          "Player2": "Napoleon_I",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "L4rss0n",
+          "Player2": "trunks132",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "LasVegasChaos",
+          "Player2": "Gabanaci",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "LeoFa",
+          "Player2": "Sprouts",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "LillHalonen",
+          "Player2": "azmyk1231",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "m_himukai",
+          "Player2": "snoopy-magic",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "Erik157751",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Napoleon_I",
+          "Player2": "l337erhosen",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "NMT_Sco94",
+          "Player2": "RyanWu",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "onelastkiss",
+          "Player2": "Ryuho090",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "oosunq",
+          "Player2": "CoolUser",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "RingoDeathStarr",
+          "Player2": "B-baka",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "RyanWu",
+          "Player2": "NMT_Sco94",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Ryuho090",
+          "Player2": "onelastkiss",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "samus_ssp",
+          "Player2": "kasa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "snoopy-magic",
+          "Player2": "m_himukai",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Sprouts",
+          "Player2": "LeoFa",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Suzukiii",
+          "Player2": "GoblinElder",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "TheGrimLavamancer",
+          "Player2": "Jumba",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "trunks132",
+          "Player2": "L4rss0n",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "adorno666",
+          "Player2": "m_himukai",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "akisamiyou",
+          "Player2": "TheGrimLavamancer",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ark4n",
+          "Player2": "NMT_Sco94",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "ayukawa",
+          "Player2": "CoolUser",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Azerate218",
+          "Player2": "Jumba",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "azmyk1231",
+          "Player2": "habsburger",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "B-baka",
+          "Player2": "GoblinElder",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Carroz",
+          "Player2": "LasVegasChaos",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "samus_ssp",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "CoolUser",
+          "Player2": "ayukawa",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Devt",
+          "Player2": "Erik157751",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dreddybajs",
+          "Player2": "snoopy-magic",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Enrichetta",
+          "Player2": "LillHalonen",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Erik157751",
+          "Player2": "Devt",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Gabanaci",
+          "Player2": "L4rss0n",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "GoblinElder",
+          "Player2": "B-baka",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "habsburger",
+          "Player2": "azmyk1231",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "jade-venus",
+          "Player2": "kasa",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "Azerate218",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "kanican",
+          "Player2": "kentaro_hokori",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "kasa",
+          "Player2": "jade-venus",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kentaro_hokori",
+          "Player2": "kanican",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Kuranari-Jackpa",
+          "Player2": "LeoFa",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "l337erhosen",
+          "Player2": "Ryuho090",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "L4rss0n",
+          "Player2": "Gabanaci",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LasVegasChaos",
+          "Player2": "Carroz",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LeoFa",
+          "Player2": "Kuranari-Jackpa",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "LillHalonen",
+          "Player2": "Enrichetta",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "m_himukai",
+          "Player2": "adorno666",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "oosunq",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Napoleon_I",
+          "Player2": "RingoDeathStarr",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "NMT_Sco94",
+          "Player2": "Ark4n",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "onelastkiss",
+          "Player2": "RyanWu",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "oosunq",
+          "Player2": "Mogged",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "RingoDeathStarr",
+          "Player2": "Napoleon_I",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "RyanWu",
+          "Player2": "onelastkiss",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Ryuho090",
+          "Player2": "l337erhosen",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "samus_ssp",
+          "Player2": "choutin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "snoopy-magic",
+          "Player2": "Dreddybajs",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Sprouts",
+          "Player2": "trunks132",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TheGrimLavamancer",
+          "Player2": "akisamiyou",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "trunks132",
+          "Player2": "Sprouts",
+          "Result": "1-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "Matches": [
+        {
+          "Player1": "akisamiyou",
+          "Player2": "l337erhosen",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Azerate218",
+          "Player2": "NMT_Sco94",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "trunks132",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "l337erhosen",
+          "Player2": "akisamiyou",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "NMT_Sco94",
+          "Player2": "Azerate218",
+          "Result": "0-2-0"
         },
         {
           "Player1": "Sprouts",
@@ -4290,148 +5758,91 @@
           "Result": "2-0-0"
         },
         {
-          "Player1": "akisamiyou",
-          "Player2": "l337erhosen",
+          "Player1": "TheGrimLavamancer",
+          "Player2": "Sprouts",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "trunks132",
+          "Player2": "Jumba",
           "Result": "2-1-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 8",
       "Matches": [
         {
-          "Player1": "trunks132",
-          "Player2": "akisamiyou",
-          "Result": "2-0-0"
+          "Player1": "akisamiyou",
+          "Player2": "trunks132",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Azerate218",
+          "Player2": "Sprouts",
+          "Result": "1-2-0"
         },
         {
           "Player1": "Sprouts",
           "Player2": "Azerate218",
           "Result": "2-1-0"
+        },
+        {
+          "Player1": "trunks132",
+          "Player2": "akisamiyou",
+          "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 9",
       "Matches": [
         {
           "Player1": "Sprouts",
           "Player2": "trunks132",
           "Result": "2-0-0"
+        },
+        {
+          "Player1": "trunks132",
+          "Player2": "Sprouts",
+          "Result": "0-2-0"
         }
       ]
     }
   ],
   "Standings": [
     {
-      "Rank": 1,
-      "Player": "Jumba",
-      "Points": 18,
-      "Wins": 6,
-      "Losses": 1,
+      "Rank": 41,
+      "Player": "adorno666",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 4,
       "Draws": 0,
-      "OMWP": 0.5833,
-      "GWP": 0.9231,
-      "OGWP": 0.5287
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
     },
     {
-      "Rank": 2,
-      "Player": "Sprouts",
-      "Points": 15,
-      "Wins": 8,
-      "Losses": 1,
-      "Draws": 0,
-      "OMWP": 0.6389,
-      "GWP": 0.6875,
-      "OGWP": 0.5596
-    },
-    {
-      "Rank": 3,
-      "Player": "Azerate218",
-      "Points": 15,
-      "Wins": 6,
+      "Rank": 53,
+      "Player": "Ailien",
+      "Points": 0,
+      "Wins": 0,
       "Losses": 2,
       "Draws": 0,
-      "OMWP": 0.6111,
-      "GWP": 0.6875,
-      "OGWP": 0.5828
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
     },
     {
       "Rank": 4,
       "Player": "akisamiyou",
-      "Points": 15,
-      "Wins": 5,
-      "Losses": 2,
-      "Draws": 0,
-      "OMWP": 0.6,
-      "GWP": 0.7692,
-      "OGWP": 0.5478
-    },
-    {
-      "Rank": 5,
-      "Player": "l337erhosen",
-      "Points": 15,
-      "Wins": 5,
-      "Losses": 2,
-      "Draws": 0,
-      "OMWP": 0.5833,
-      "GWP": 0.6875,
-      "OGWP": 0.541
-    },
-    {
-      "Rank": 6,
-      "Player": "NMT_Sco94",
-      "Points": 15,
-      "Wins": 5,
-      "Losses": 2,
-      "Draws": 0,
-      "OMWP": 0.5556,
-      "GWP": 0.6667,
-      "OGWP": 0.5363
-    },
-    {
-      "Rank": 7,
-      "Player": "TheGrimLavamancer",
-      "Points": 12,
-      "Wins": 4,
-      "Losses": 3,
-      "Draws": 0,
-      "OMWP": 0.7222,
-      "GWP": 0.5333,
-      "OGWP": 0.6614
-    },
-    {
-      "Rank": 8,
-      "Player": "trunks132",
-      "Points": 12,
+      "Points": 18,
       "Wins": 6,
-      "Losses": 3,
-      "Draws": 0,
-      "OMWP": 0.6111,
-      "GWP": 0.6,
-      "OGWP": 0.5747
-    },
-    {
-      "Rank": 9,
-      "Player": "RyanWu",
-      "Points": 12,
-      "Wins": 4,
       "Losses": 2,
       "Draws": 0,
-      "OMWP": 0.6111,
-      "GWP": 0.6,
-      "OGWP": 0.5345
-    },
-    {
-      "Rank": 10,
-      "Player": "L4rss0n",
-      "Points": 12,
-      "Wins": 4,
-      "Losses": 2,
-      "Draws": 0,
-      "OMWP": 0.5833,
-      "GWP": 0.6667,
-      "OGWP": 0.5726
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
     },
     {
       "Rank": 11,
@@ -4440,141 +5851,9 @@
       "Wins": 4,
       "Losses": 2,
       "Draws": 0,
-      "OMWP": 0.5556,
-      "GWP": 0.6667,
-      "OGWP": 0.5059
-    },
-    {
-      "Rank": 12,
-      "Player": "Ryuho090",
-      "Points": 12,
-      "Wins": 4,
-      "Losses": 2,
-      "Draws": 0,
-      "OMWP": 0.5556,
-      "GWP": 0.625,
-      "OGWP": 0.5153
-    },
-    {
-      "Rank": 13,
-      "Player": "LeoFa",
-      "Points": 12,
-      "Wins": 4,
-      "Losses": 2,
-      "Draws": 0,
-      "OMWP": 0.5556,
-      "GWP": 0.5882,
-      "OGWP": 0.5097
-    },
-    {
-      "Rank": 14,
-      "Player": "kanican",
-      "Points": 12,
-      "Wins": 4,
-      "Losses": 2,
-      "Draws": 0,
-      "OMWP": 0.5556,
-      "GWP": 0.5294,
-      "OGWP": 0.5615
-    },
-    {
-      "Rank": 15,
-      "Player": "Dreddybajs",
-      "Points": 12,
-      "Wins": 4,
-      "Losses": 2,
-      "Draws": 0,
-      "OMWP": 0.5278,
-      "GWP": 0.6154,
-      "OGWP": 0.5208
-    },
-    {
-      "Rank": 16,
-      "Player": "RingoDeathStarr",
-      "Points": 12,
-      "Wins": 4,
-      "Losses": 2,
-      "Draws": 0,
-      "OMWP": 0.5278,
-      "GWP": 0.6154,
-      "OGWP": 0.4924
-    },
-    {
-      "Rank": 17,
-      "Player": "samus_ssp",
-      "Points": 12,
-      "Wins": 4,
-      "Losses": 2,
-      "Draws": 0,
-      "OMWP": 0.5,
-      "GWP": 0.6,
-      "OGWP": 0.482
-    },
-    {
-      "Rank": 18,
-      "Player": "Mogged",
-      "Points": 12,
-      "Wins": 4,
-      "Losses": 2,
-      "Draws": 0,
-      "OMWP": 0.4444,
-      "GWP": 0.6,
-      "OGWP": 0.4756
-    },
-    {
-      "Rank": 19,
-      "Player": "Napoleon_I",
-      "Points": 9,
-      "Wins": 3,
-      "Losses": 3,
-      "Draws": 0,
-      "OMWP": 0.6667,
-      "GWP": 0.4667,
-      "OGWP": 0.6035
-    },
-    {
-      "Rank": 20,
-      "Player": "snoopy-magic",
-      "Points": 9,
-      "Wins": 3,
-      "Losses": 3,
-      "Draws": 0,
-      "OMWP": 0.6111,
-      "GWP": 0.5333,
-      "OGWP": 0.5533
-    },
-    {
-      "Rank": 21,
-      "Player": "Gabanaci",
-      "Points": 9,
-      "Wins": 3,
-      "Losses": 3,
-      "Draws": 0,
-      "OMWP": 0.5556,
-      "GWP": 0.5333,
-      "OGWP": 0.5201
-    },
-    {
-      "Rank": 22,
-      "Player": "m_himukai",
-      "Points": 9,
-      "Wins": 3,
-      "Losses": 3,
-      "Draws": 0,
-      "OMWP": 0.5556,
-      "GWP": 0.4667,
-      "OGWP": 0.5393
-    },
-    {
-      "Rank": 23,
-      "Player": "Kuranari-Jackpa",
-      "Points": 9,
-      "Wins": 3,
-      "Losses": 3,
-      "Draws": 0,
-      "OMWP": 0.5556,
-      "GWP": 0.4375,
-      "OGWP": 0.5101
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
     },
     {
       "Rank": 24,
@@ -4583,75 +5862,20 @@
       "Wins": 3,
       "Losses": 3,
       "Draws": 0,
-      "OMWP": 0.5278,
-      "GWP": 0.5333,
-      "OGWP": 0.5016
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
     },
     {
-      "Rank": 25,
-      "Player": "kentaro_hokori",
-      "Points": 9,
-      "Wins": 3,
-      "Losses": 3,
+      "Rank": 3,
+      "Player": "Azerate218",
+      "Points": 18,
+      "Wins": 6,
+      "Losses": 2,
       "Draws": 0,
-      "OMWP": 0.5278,
-      "GWP": 0.5333,
-      "OGWP": 0.4827
-    },
-    {
-      "Rank": 26,
-      "Player": "kasa",
-      "Points": 9,
-      "Wins": 3,
-      "Losses": 3,
-      "Draws": 0,
-      "OMWP": 0.5278,
-      "GWP": 0.5,
-      "OGWP": 0.5111
-    },
-    {
-      "Rank": 27,
-      "Player": "Devt",
-      "Points": 9,
-      "Wins": 3,
-      "Losses": 3,
-      "Draws": 0,
-      "OMWP": 0.5,
-      "GWP": 0.5,
-      "OGWP": 0.5195
-    },
-    {
-      "Rank": 28,
-      "Player": "onelastkiss",
-      "Points": 9,
-      "Wins": 3,
-      "Losses": 3,
-      "Draws": 0,
-      "OMWP": 0.5,
-      "GWP": 0.4375,
-      "OGWP": 0.5061
-    },
-    {
-      "Rank": 29,
-      "Player": "oosunq",
-      "Points": 9,
-      "Wins": 3,
-      "Losses": 3,
-      "Draws": 0,
-      "OMWP": 0.4722,
-      "GWP": 0.5333,
-      "OGWP": 0.4621
-    },
-    {
-      "Rank": 30,
-      "Player": "B-baka",
-      "Points": 9,
-      "Wins": 3,
-      "Losses": 3,
-      "Draws": 0,
-      "OMWP": 0.4722,
-      "GWP": 0.4667,
-      "OGWP": 0.4866
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
     },
     {
       "Rank": 31,
@@ -4660,9 +5884,262 @@
       "Wins": 3,
       "Losses": 3,
       "Draws": 0,
-      "OMWP": 0.4722,
-      "GWP": 0.4667,
-      "OGWP": 0.4665
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 30,
+      "Player": "B-baka",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 35,
+      "Player": "Carroz",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 33,
+      "Player": "choutin",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 40,
+      "Player": "CoolUser",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 27,
+      "Player": "Devt",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 42,
+      "Player": "dm2022here",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 15,
+      "Player": "Dreddybajs",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 38,
+      "Player": "Enrichetta",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 37,
+      "Player": "Erik157751",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 21,
+      "Player": "Gabanaci",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 39,
+      "Player": "GoblinElder",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 45,
+      "Player": "GuiBonella",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 36,
+      "Player": "habsburger",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 52,
+      "Player": "_INF_",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 34,
+      "Player": "jade-venus",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 5,
+      "Player": "Jumba",
+      "Points": 18,
+      "Wins": 6,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 14,
+      "Player": "kanican",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 26,
+      "Player": "kasa",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 25,
+      "Player": "kentaro_hokori",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 23,
+      "Player": "Kuranari-Jackpa",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 6,
+      "Player": "l337erhosen",
+      "Points": 15,
+      "Wins": 5,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 10,
+      "Player": "L4rss0n",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 47,
+      "Player": "LarryDavidYo",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
     },
     {
       "Rank": 32,
@@ -4671,9 +6148,251 @@
       "Wins": 3,
       "Losses": 3,
       "Draws": 0,
-      "OMWP": 0.4722,
-      "GWP": 0.4615,
-      "OGWP": 0.4863
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 13,
+      "Player": "LeoFa",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 43,
+      "Player": "LillHalonen",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 5,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 46,
+      "Player": "luvadepedreiro",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 51,
+      "Player": "MahfuzVanGogh",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 22,
+      "Player": "m_himukai",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 18,
+      "Player": "Mogged",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 49,
+      "Player": "molimomaro",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 19,
+      "Player": "Napoleon_I",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 7,
+      "Player": "NMT_Sco94",
+      "Points": 15,
+      "Wins": 5,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 28,
+      "Player": "onelastkiss",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 29,
+      "Player": "oosunq",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 50,
+      "Player": "piao",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 16,
+      "Player": "RingoDeathStarr",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 9,
+      "Player": "RyanWu",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 12,
+      "Player": "Ryuho090",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 17,
+      "Player": "samus_ssp",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 20,
+      "Player": "snoopy-magic",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 48,
+      "Player": "Sol-e22558",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 1,
+      "Player": "Sprouts",
+      "Points": 24,
+      "Wins": 8,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 44,
+      "Player": "Suzukiii",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 8,
+      "Player": "TheGrimLavamancer",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 2,
+      "Player": "trunks132",
+      "Points": 18,
+      "Wins": 6,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
     }
   ]
 }

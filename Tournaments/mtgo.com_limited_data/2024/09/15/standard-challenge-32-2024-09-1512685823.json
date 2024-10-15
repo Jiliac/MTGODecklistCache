@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2024-09-15T00:00:00Z",
     "Name": "Standard Challenge 32",
-    "Uri": "https://www.mtgo.com/decklist/standard-challenge-32-2024-09-1512685823"
+    "Uri": "https://www.mtgo.com/decklist/standard-challenge-32-2024-09-1512685823",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -3780,16 +3783,1206 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
+        {
+          "Player1": "Artemis2021",
+          "Player2": "termidor",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "AttillA",
+          "Player2": "bless_von",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "Tulio_Jaudy",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "Snapcaster1288",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "beraldi",
+          "Player2": "bernardocssa",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "bernardocssa",
+          "Player2": "beraldi",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "billsive",
+          "Player2": "Hamuda",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "AttillA",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Bugsy69",
+          "Player2": "Waldo-",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "DragaoTuga",
+          "Player2": "nicoprietob",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "gazmon48",
+          "Player2": "red_lymphocyte",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Gonito",
+          "Player2": "Jarvis_Me",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Graciasportanto",
+          "Player2": "taldoitalo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "guillaumed19",
+          "Player2": "L1X0",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "hamannator12",
+          "Player2": "LukasDusek2",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Hamuda",
+          "Player2": "billsive",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Jarvis_Me",
+          "Player2": "Gonito",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "L1X0",
+          "Player2": "guillaumed19",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "ovmlcabrera",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "LukasDusek2",
+          "Player2": "hamannator12",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Makoobi",
+          "Player2": "manalacaio",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "manalacaio",
+          "Player2": "Makoobi",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ManUFan",
+          "Player2": "Raydan",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "MDSoccer35",
+          "Player2": "remf",
+          "Result": "1-1-1"
+        },
+        {
+          "Player1": "Misplacedginger",
+          "Player2": "MisterAsiago",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MisterAsiago",
+          "Player2": "Misplacedginger",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MyrRetriever",
+          "Player2": "_ruda_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "nicoprietob",
+          "Player2": "DragaoTuga",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ovmlcabrera",
+          "Player2": "LucasG1ggs",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Raydan",
+          "Player2": "ManUFan",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "red_lymphocyte",
+          "Player2": "gazmon48",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "remf",
+          "Player2": "MDSoccer35",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "RPA",
+          "Player2": "tchuco",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "_ruda_",
+          "Player2": "MyrRetriever",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Snapcaster1288",
+          "Player2": "Beicodegeia",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "taldoitalo",
+          "Player2": "Graciasportanto",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "tchuco",
+          "Player2": "RPA",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "TeamTrainspotting",
+          "Player2": "varal",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "termidor",
+          "Player2": "Artemis2021",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Tulio_Jaudy",
+          "Player2": "_Batutinha_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "varal",
+          "Player2": "TeamTrainspotting",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Waldo-",
+          "Player2": "Bugsy69",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "Artemis2021",
+          "Player2": "bernardocssa",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "AttillA",
+          "Player2": "DragaoTuga",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "beraldi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "Tulio_Jaudy",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "beraldi",
+          "Player2": "_Batutinha_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "bernardocssa",
+          "Player2": "Artemis2021",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "billsive",
+          "Player2": "red_lymphocyte",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "gazmon48",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Bugsy69",
+          "Player2": "LucasG1ggs",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "DragaoTuga",
+          "Player2": "AttillA",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "gazmon48",
+          "Player2": "bless_von",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Gonito",
+          "Player2": "nicoprietob",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Graciasportanto",
+          "Player2": "Makoobi",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "guillaumed19",
+          "Player2": "varal",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "hamannator12",
+          "Player2": "manalacaio",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Hamuda",
+          "Player2": "tchuco",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jarvis_Me",
+          "Player2": "MDSoccer35",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "L1X0",
+          "Player2": "taldoitalo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "Bugsy69",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "LukasDusek2",
+          "Player2": "Misplacedginger",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Makoobi",
+          "Player2": "Graciasportanto",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "manalacaio",
+          "Player2": "hamannator12",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "ManUFan",
+          "Player2": "remf",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MDSoccer35",
+          "Player2": "Jarvis_Me",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Misplacedginger",
+          "Player2": "LukasDusek2",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "MisterAsiago",
+          "Player2": "Waldo-",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "MyrRetriever",
+          "Player2": "Snapcaster1288",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "nicoprietob",
+          "Player2": "Gonito",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "ovmlcabrera",
+          "Player2": "_ruda_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Raydan",
+          "Player2": "termidor",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "red_lymphocyte",
+          "Player2": "billsive",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "remf",
+          "Player2": "ManUFan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "RPA",
+          "Player2": "TeamTrainspotting",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "_ruda_",
+          "Player2": "ovmlcabrera",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Snapcaster1288",
+          "Player2": "MyrRetriever",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "taldoitalo",
+          "Player2": "L1X0",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "tchuco",
+          "Player2": "Hamuda",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "TeamTrainspotting",
+          "Player2": "RPA",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "termidor",
+          "Player2": "Raydan",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Tulio_Jaudy",
+          "Player2": "Beicodegeia",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "varal",
+          "Player2": "guillaumed19",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Waldo-",
+          "Player2": "MisterAsiago",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "Artemis2021",
+          "Player2": "Hamuda",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "AttillA",
+          "Player2": "Beicodegeia",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "LukasDusek2",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "AttillA",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "bernardocssa",
+          "Player2": "RPA",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "billsive",
+          "Player2": "Graciasportanto",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "LucasG1ggs",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DragaoTuga",
+          "Player2": "MDSoccer35",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "gazmon48",
+          "Player2": "ovmlcabrera",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Gonito",
+          "Player2": "remf",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Graciasportanto",
+          "Player2": "billsive",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "guillaumed19",
+          "Player2": "red_lymphocyte",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "hamannator12",
+          "Player2": "Waldo-",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Hamuda",
+          "Player2": "Artemis2021",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Jarvis_Me",
+          "Player2": "MisterAsiago",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "L1X0",
+          "Player2": "ManUFan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "bless_von",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "LukasDusek2",
+          "Player2": "_Batutinha_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Makoobi",
+          "Player2": "varal",
+          "Result": "0-2-1"
+        },
+        {
+          "Player1": "manalacaio",
+          "Player2": "Raydan",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "ManUFan",
+          "Player2": "L1X0",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MDSoccer35",
+          "Player2": "DragaoTuga",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "MisterAsiago",
+          "Player2": "Jarvis_Me",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "MyrRetriever",
+          "Player2": "nicoprietob",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "nicoprietob",
+          "Player2": "MyrRetriever",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ovmlcabrera",
+          "Player2": "gazmon48",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Raydan",
+          "Player2": "manalacaio",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "red_lymphocyte",
+          "Player2": "guillaumed19",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "remf",
+          "Player2": "Gonito",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "RPA",
+          "Player2": "bernardocssa",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "_ruda_",
+          "Player2": "Tulio_Jaudy",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "taldoitalo",
+          "Player2": "TeamTrainspotting",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "tchuco",
+          "Player2": "termidor",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "TeamTrainspotting",
+          "Player2": "taldoitalo",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "termidor",
+          "Player2": "tchuco",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Tulio_Jaudy",
+          "Player2": "_ruda_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "varal",
+          "Player2": "Makoobi",
+          "Result": "2-0-1"
+        },
+        {
+          "Player1": "Waldo-",
+          "Player2": "hamannator12",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "Artemis2021",
+          "Player2": "Beicodegeia",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "AttillA",
+          "Player2": "beraldi",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "red_lymphocyte",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "Artemis2021",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "beraldi",
+          "Player2": "AttillA",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "bernardocssa",
+          "Player2": "termidor",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "billsive",
+          "Player2": "Raydan",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "LukasDusek2",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DragaoTuga",
+          "Player2": "varal",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "gazmon48",
+          "Player2": "Jarvis_Me",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Gonito",
+          "Player2": "LucasG1ggs",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Graciasportanto",
+          "Player2": "manalacaio",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "guillaumed19",
+          "Player2": "MDSoccer35",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "hamannator12",
+          "Player2": "Tulio_Jaudy",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Hamuda",
+          "Player2": "nicoprietob",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Jarvis_Me",
+          "Player2": "gazmon48",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "L1X0",
+          "Player2": "RPA",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "Gonito",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "LukasDusek2",
+          "Player2": "bless_von",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "manalacaio",
+          "Player2": "Graciasportanto",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ManUFan",
+          "Player2": "MisterAsiago",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "MDSoccer35",
+          "Player2": "guillaumed19",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MisterAsiago",
+          "Player2": "ManUFan",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "nicoprietob",
+          "Player2": "Hamuda",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "ovmlcabrera",
+          "Player2": "TeamTrainspotting",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Raydan",
+          "Player2": "billsive",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "red_lymphocyte",
+          "Player2": "_Batutinha_",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "remf",
+          "Player2": "taldoitalo",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "RPA",
+          "Player2": "L1X0",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_ruda_",
+          "Player2": "Waldo-",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "taldoitalo",
+          "Player2": "remf",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TeamTrainspotting",
+          "Player2": "ovmlcabrera",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "termidor",
+          "Player2": "bernardocssa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Tulio_Jaudy",
+          "Player2": "hamannator12",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "varal",
+          "Player2": "DragaoTuga",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Waldo-",
+          "Player2": "_ruda_",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "Artemis2021",
+          "Player2": "Waldo-",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "AttillA",
+          "Player2": "ManUFan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "Graciasportanto",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "manalacaio",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "beraldi",
+          "Player2": "termidor",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "bernardocssa",
+          "Player2": "MDSoccer35",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "billsive",
+          "Player2": "Tulio_Jaudy",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "Jarvis_Me",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "gazmon48",
+          "Player2": "TeamTrainspotting",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Gonito",
+          "Player2": "_ruda_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Graciasportanto",
+          "Player2": "_Batutinha_",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "guillaumed19",
+          "Player2": "tchuco",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "hamannator12",
+          "Player2": "L1X0",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Hamuda",
+          "Player2": "taldoitalo",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Jarvis_Me",
+          "Player2": "bless_von",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "L1X0",
+          "Player2": "hamannator12",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "red_lymphocyte",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LukasDusek2",
+          "Player2": "MisterAsiago",
+          "Result": "0-1-0"
+        },
+        {
+          "Player1": "manalacaio",
+          "Player2": "Beicodegeia",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "ManUFan",
+          "Player2": "AttillA",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MDSoccer35",
+          "Player2": "bernardocssa",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MisterAsiago",
+          "Player2": "LukasDusek2",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "nicoprietob",
+          "Player2": "varal",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ovmlcabrera",
+          "Player2": "remf",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Raydan",
+          "Player2": "RPA",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "red_lymphocyte",
+          "Player2": "LucasG1ggs",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "remf",
+          "Player2": "ovmlcabrera",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "RPA",
+          "Player2": "Raydan",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_ruda_",
+          "Player2": "Gonito",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "taldoitalo",
+          "Player2": "Hamuda",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "tchuco",
+          "Player2": "guillaumed19",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TeamTrainspotting",
+          "Player2": "gazmon48",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "termidor",
+          "Player2": "beraldi",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Tulio_Jaudy",
+          "Player2": "billsive",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "varal",
+          "Player2": "nicoprietob",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Waldo-",
+          "Player2": "Artemis2021",
+          "Result": "1-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "Artemis2021",
+          "Player2": "gazmon48",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "AttillA",
+          "Player2": "MDSoccer35",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "bless_von",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "Gonito",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "beraldi",
+          "Player2": "DragaoTuga",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "bernardocssa",
+          "Player2": "LucasG1ggs",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "billsive",
+          "Player2": "hamannator12",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "_Batutinha_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DragaoTuga",
+          "Player2": "beraldi",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "gazmon48",
+          "Player2": "Artemis2021",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Gonito",
+          "Player2": "Beicodegeia",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Graciasportanto",
+          "Player2": "red_lymphocyte",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "guillaumed19",
+          "Player2": "ManUFan",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "hamannator12",
+          "Player2": "billsive",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Hamuda",
+          "Player2": "Jarvis_Me",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Jarvis_Me",
+          "Player2": "Hamuda",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "L1X0",
+          "Player2": "ovmlcabrera",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "bernardocssa",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "manalacaio",
+          "Player2": "TeamTrainspotting",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ManUFan",
+          "Player2": "guillaumed19",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MDSoccer35",
+          "Player2": "AttillA",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "MisterAsiago",
+          "Player2": "remf",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "nicoprietob",
+          "Player2": "Waldo-",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ovmlcabrera",
+          "Player2": "L1X0",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Raydan",
+          "Player2": "_ruda_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "red_lymphocyte",
+          "Player2": "Graciasportanto",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "remf",
+          "Player2": "MisterAsiago",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "RPA",
+          "Player2": "termidor",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_ruda_",
+          "Player2": "Raydan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "taldoitalo",
+          "Player2": "Tulio_Jaudy",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "tchuco",
+          "Player2": "varal",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "TeamTrainspotting",
+          "Player2": "manalacaio",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "termidor",
+          "Player2": "RPA",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Tulio_Jaudy",
+          "Player2": "taldoitalo",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "varal",
+          "Player2": "tchuco",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Waldo-",
+          "Player2": "nicoprietob",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "Matches": [
+        {
+          "Player1": "Artemis2021",
+          "Player2": "Hamuda",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "gazmon48",
+          "Player2": "Tulio_Jaudy",
+          "Result": "0-2-0"
+        },
         {
           "Player1": "Hamuda",
           "Player2": "Artemis2021",
           "Result": "2-0-0"
         },
         {
-          "Player1": "Tulio_Jaudy",
-          "Player2": "gazmon48",
+          "Player1": "Jarvis_Me",
+          "Player2": "taldoitalo",
           "Result": "2-0-0"
         },
         {
@@ -3798,19 +4991,39 @@
           "Result": "2-0-0"
         },
         {
-          "Player1": "Jarvis_Me",
-          "Player2": "taldoitalo",
+          "Player1": "_ruda_",
+          "Player2": "ovmlcabrera",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "taldoitalo",
+          "Player2": "Jarvis_Me",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Tulio_Jaudy",
+          "Player2": "gazmon48",
           "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 8",
       "Matches": [
+        {
+          "Player1": "Hamuda",
+          "Player2": "Jarvis_Me",
+          "Result": "1-2-0"
+        },
         {
           "Player1": "Jarvis_Me",
           "Player2": "Hamuda",
           "Result": "2-1-0"
+        },
+        {
+          "Player1": "ovmlcabrera",
+          "Player2": "Tulio_Jaudy",
+          "Result": "1-2-0"
         },
         {
           "Player1": "Tulio_Jaudy",
@@ -3820,83 +5033,22 @@
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 9",
       "Matches": [
         {
           "Player1": "Jarvis_Me",
           "Player2": "Tulio_Jaudy",
           "Result": "2-1-0"
+        },
+        {
+          "Player1": "Tulio_Jaudy",
+          "Player2": "Jarvis_Me",
+          "Result": "1-2-0"
         }
       ]
     }
   ],
   "Standings": [
-    {
-      "Rank": 1,
-      "Player": "Tulio_Jaudy",
-      "Points": 18,
-      "Wins": 8,
-      "Losses": 1,
-      "Draws": 0,
-      "OMWP": 0.6389,
-      "GWP": 0.9231,
-      "OGWP": 0.575
-    },
-    {
-      "Rank": 2,
-      "Player": "Hamuda",
-      "Points": 15,
-      "Wins": 6,
-      "Losses": 2,
-      "Draws": 0,
-      "OMWP": 0.6389,
-      "GWP": 0.6471,
-      "OGWP": 0.5736
-    },
-    {
-      "Rank": 3,
-      "Player": "taldoitalo",
-      "Points": 15,
-      "Wins": 5,
-      "Losses": 2,
-      "Draws": 0,
-      "OMWP": 0.6111,
-      "GWP": 0.6875,
-      "OGWP": 0.5873
-    },
-    {
-      "Rank": 4,
-      "Player": "ovmlcabrera",
-      "Points": 15,
-      "Wins": 6,
-      "Losses": 2,
-      "Draws": 0,
-      "OMWP": 0.5556,
-      "GWP": 0.6667,
-      "OGWP": 0.5723
-    },
-    {
-      "Rank": 5,
-      "Player": "_ruda_",
-      "Points": 12,
-      "Wins": 4,
-      "Losses": 3,
-      "Draws": 0,
-      "OMWP": 0.6111,
-      "GWP": 0.6667,
-      "OGWP": 0.5531
-    },
-    {
-      "Rank": 6,
-      "Player": "Jarvis_Me",
-      "Points": 12,
-      "Wins": 7,
-      "Losses": 2,
-      "Draws": 0,
-      "OMWP": 0.6111,
-      "GWP": 0.6,
-      "OGWP": 0.5682
-    },
     {
       "Rank": 7,
       "Player": "Artemis2021",
@@ -3904,273 +5056,9 @@
       "Wins": 4,
       "Losses": 3,
       "Draws": 0,
-      "OMWP": 0.6111,
-      "GWP": 0.5294,
-      "OGWP": 0.5738
-    },
-    {
-      "Rank": 8,
-      "Player": "gazmon48",
-      "Points": 12,
-      "Wins": 4,
-      "Losses": 3,
-      "Draws": 0,
-      "OMWP": 0.5833,
-      "GWP": 0.6667,
-      "OGWP": 0.5285
-    },
-    {
-      "Rank": 9,
-      "Player": "billsive",
-      "Points": 12,
-      "Wins": 4,
-      "Losses": 2,
-      "Draws": 0,
-      "OMWP": 0.5833,
-      "GWP": 0.5294,
-      "OGWP": 0.5483
-    },
-    {
-      "Rank": 10,
-      "Player": "Beicodegeia",
-      "Points": 12,
-      "Wins": 4,
-      "Losses": 2,
-      "Draws": 0,
-      "OMWP": 0.5556,
-      "GWP": 0.6,
-      "OGWP": 0.5308
-    },
-    {
-      "Rank": 11,
-      "Player": "L1X0",
-      "Points": 12,
-      "Wins": 4,
-      "Losses": 2,
-      "Draws": 0,
-      "OMWP": 0.5278,
-      "GWP": 0.6923,
-      "OGWP": 0.4741
-    },
-    {
-      "Rank": 12,
-      "Player": "bless_von",
-      "Points": 12,
-      "Wins": 4,
-      "Losses": 2,
-      "Draws": 0,
-      "OMWP": 0.5111,
-      "GWP": 0.6,
-      "OGWP": 0.5203
-    },
-    {
-      "Rank": 13,
-      "Player": "nicoprietob",
-      "Points": 12,
-      "Wins": 4,
-      "Losses": 2,
-      "Draws": 0,
-      "OMWP": 0.5,
-      "GWP": 0.6667,
-      "OGWP": 0.4597
-    },
-    {
-      "Rank": 14,
-      "Player": "MisterAsiago",
-      "Points": 12,
-      "Wins": 4,
-      "Losses": 2,
-      "Draws": 0,
-      "OMWP": 0.4556,
-      "GWP": 0.6667,
-      "OGWP": 0.4458
-    },
-    {
-      "Rank": 15,
-      "Player": "termidor",
-      "Points": 12,
-      "Wins": 4,
-      "Losses": 2,
-      "Draws": 0,
-      "OMWP": 0.4444,
-      "GWP": 0.625,
-      "OGWP": 0.4548
-    },
-    {
-      "Rank": 16,
-      "Player": "hamannator12",
-      "Points": 9,
-      "Wins": 3,
-      "Losses": 3,
-      "Draws": 0,
-      "OMWP": 0.6222,
-      "GWP": 0.4667,
-      "OGWP": 0.5827
-    },
-    {
-      "Rank": 17,
-      "Player": "Gonito",
-      "Points": 9,
-      "Wins": 3,
-      "Losses": 3,
-      "Draws": 0,
-      "OMWP": 0.6111,
-      "GWP": 0.4286,
-      "OGWP": 0.5944
-    },
-    {
-      "Rank": 18,
-      "Player": "remf",
-      "Points": 9,
-      "Wins": 3,
-      "Losses": 3,
-      "Draws": 0,
-      "OMWP": 0.5833,
-      "GWP": 0.5333,
-      "OGWP": 0.5344
-    },
-    {
-      "Rank": 19,
-      "Player": "Waldo-",
-      "Points": 9,
-      "Wins": 3,
-      "Losses": 3,
-      "Draws": 0,
-      "OMWP": 0.5833,
-      "GWP": 0.4667,
-      "OGWP": 0.5549
-    },
-    {
-      "Rank": 20,
-      "Player": "_Batutinha_",
-      "Points": 9,
-      "Wins": 3,
-      "Losses": 3,
-      "Draws": 0,
-      "OMWP": 0.5389,
-      "GWP": 0.5,
-      "OGWP": 0.5268
-    },
-    {
-      "Rank": 21,
-      "Player": "Raydan",
-      "Points": 9,
-      "Wins": 3,
-      "Losses": 3,
-      "Draws": 0,
-      "OMWP": 0.5278,
-      "GWP": 0.5,
-      "OGWP": 0.5019
-    },
-    {
-      "Rank": 22,
-      "Player": "LucasG1ggs",
-      "Points": 9,
-      "Wins": 3,
-      "Losses": 3,
-      "Draws": 0,
-      "OMWP": 0.5,
-      "GWP": 0.5,
-      "OGWP": 0.4777
-    },
-    {
-      "Rank": 23,
-      "Player": "manalacaio",
-      "Points": 9,
-      "Wins": 3,
-      "Losses": 3,
-      "Draws": 0,
-      "OMWP": 0.4444,
-      "GWP": 0.5,
-      "OGWP": 0.438
-    },
-    {
-      "Rank": 24,
-      "Player": "beraldi",
-      "Points": 9,
-      "Wins": 2,
-      "Losses": 3,
-      "Draws": 0,
-      "OMWP": 0.4333,
-      "GWP": 0.5,
-      "OGWP": 0.4733
-    },
-    {
-      "Rank": 25,
-      "Player": "varal",
-      "Points": 9,
-      "Wins": 3,
-      "Losses": 3,
-      "Draws": 0,
-      "OMWP": 0.3889,
-      "GWP": 0.549,
-      "OGWP": 0.4117
-    },
-    {
-      "Rank": 26,
-      "Player": "TeamTrainspotting",
-      "Points": 6,
-      "Wins": 2,
-      "Losses": 4,
-      "Draws": 0,
-      "OMWP": 0.6111,
-      "GWP": 0.375,
-      "OGWP": 0.5672
-    },
-    {
-      "Rank": 27,
-      "Player": "tchuco",
-      "Points": 6,
-      "Wins": 1,
-      "Losses": 4,
-      "Draws": 0,
-      "OMWP": 0.5333,
-      "GWP": 0.4286,
-      "OGWP": 0.4975
-    },
-    {
-      "Rank": 28,
-      "Player": "LukasDusek2",
-      "Points": 6,
-      "Wins": 2,
-      "Losses": 3,
-      "Draws": 0,
-      "OMWP": 0.5333,
-      "GWP": 0.3846,
-      "OGWP": 0.5133
-    },
-    {
-      "Rank": 29,
-      "Player": "bernardocssa",
-      "Points": 6,
-      "Wins": 2,
-      "Losses": 4,
-      "Draws": 0,
-      "OMWP": 0.5,
-      "GWP": 0.4375,
-      "OGWP": 0.4813
-    },
-    {
-      "Rank": 30,
-      "Player": "red_lymphocyte",
-      "Points": 6,
-      "Wins": 2,
-      "Losses": 4,
-      "Draws": 0,
-      "OMWP": 0.5,
-      "GWP": 0.4,
-      "OGWP": 0.4804
-    },
-    {
-      "Rank": 31,
-      "Player": "ManUFan",
-      "Points": 6,
-      "Wins": 2,
-      "Losses": 4,
-      "Draws": 0,
-      "OMWP": 0.5,
-      "GWP": 0.3571,
-      "OGWP": 0.5327
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
     },
     {
       "Rank": 32,
@@ -4179,9 +5067,449 @@
       "Wins": 2,
       "Losses": 4,
       "Draws": 0,
-      "OMWP": 0.4722,
-      "GWP": 0.4706,
-      "OGWP": 0.4651
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 20,
+      "Player": "_Batutinha_",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 10,
+      "Player": "Beicodegeia",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 24,
+      "Player": "beraldi",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 29,
+      "Player": "bernardocssa",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 9,
+      "Player": "billsive",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 12,
+      "Player": "bless_von",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 40,
+      "Player": "Bugsy69",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 34,
+      "Player": "DragaoTuga",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 8,
+      "Player": "gazmon48",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 17,
+      "Player": "Gonito",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 37,
+      "Player": "Graciasportanto",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 5,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 38,
+      "Player": "guillaumed19",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 5,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 16,
+      "Player": "hamannator12",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 3,
+      "Player": "Hamuda",
+      "Points": 18,
+      "Wins": 6,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 1,
+      "Player": "Jarvis_Me",
+      "Points": 21,
+      "Wins": 7,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 11,
+      "Player": "L1X0",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 22,
+      "Player": "LucasG1ggs",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 28,
+      "Player": "LukasDusek2",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 42,
+      "Player": "Makoobi",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 23,
+      "Player": "manalacaio",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 31,
+      "Player": "ManUFan",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 35,
+      "Player": "MDSoccer35",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 39,
+      "Player": "Misplacedginger",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 14,
+      "Player": "MisterAsiago",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 36,
+      "Player": "MyrRetriever",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 13,
+      "Player": "nicoprietob",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 4,
+      "Player": "ovmlcabrera",
+      "Points": 18,
+      "Wins": 6,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 21,
+      "Player": "Raydan",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 30,
+      "Player": "red_lymphocyte",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 18,
+      "Player": "remf",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 33,
+      "Player": "RPA",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 6,
+      "Player": "_ruda_",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 41,
+      "Player": "Snapcaster1288",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 5,
+      "Player": "taldoitalo",
+      "Points": 15,
+      "Wins": 5,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 27,
+      "Player": "tchuco",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 26,
+      "Player": "TeamTrainspotting",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 15,
+      "Player": "termidor",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 2,
+      "Player": "Tulio_Jaudy",
+      "Points": 24,
+      "Wins": 8,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 25,
+      "Player": "varal",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 19,
+      "Player": "Waldo-",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
     }
   ]
 }
