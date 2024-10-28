@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2024-10-27T00:00:00Z",
     "Name": "Pauper Challenge 32",
-    "Uri": "https://www.mtgo.com/decklist/pauper-challenge-32-2024-10-2712701251"
+    "Uri": "https://www.mtgo.com/decklist/pauper-challenge-32-2024-10-2712701251",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -3368,52 +3371,727 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
+      "Matches": [
+        {
+          "Player1": "Mahers",
+          "Player2": "PedraStone",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "jjkbb2005",
+          "Player2": "Ixidor29",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "AoFTW",
+          "Player2": "Manny-",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "AKvsJJ",
+          "Player2": "Luminati",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Fragoel2",
+          "Player2": "Hamuda",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "msskinbolic",
+          "Player2": "Baizan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Casanova_13",
+          "Player2": "ChaoticMTG",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "spartano",
+          "Player2": "Brasatore",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Condescend",
+          "Player2": "Gregoriusil",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Dr. Jon Osterman",
+          "Player2": "bro_squad",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Antarctica",
+          "Player2": "__Noob__",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Chiozzani_23",
+          "Player2": "Haqy6510",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "broers_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Capipf95",
+          "Player2": "MysteryVillain",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "NickNorman",
+          "Player2": "Kampo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "pokerswizard",
+          "Player2": "Brivenix",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Darkrizos",
+          "Player2": "seasonofmists",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "dch97e",
+          "Player2": "NeonVulture",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "carrot_eater",
+          "Player2": "DB_Tiago",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "LuffyDoChapeuDePalha",
+          "Player2": "billsive",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Oceansoul92",
+          "Player2": "kaikas",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "helvetti",
+          "Player2": "fried-liver-attack",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "ReddFox",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MandrillMan",
+          "Player2": "rasvd",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "thegreatsavior",
+          "Player2": "PNascimento",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "Kampo",
+          "Player2": "AKvsJJ",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "NickNorman",
+          "Player2": "Luminati",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "helvetti",
+          "Player2": "Mahers",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "AoFTW",
+          "Player2": "__Noob__",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dr. Jon Osterman",
+          "Player2": "msskinbolic",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Darkrizos",
+          "Player2": "kaikas",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ChaoticMTG",
+          "Player2": "PNascimento",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "fried-liver-attack",
+          "Player2": "PedraStone",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LuffyDoChapeuDePalha",
+          "Player2": "broers_",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Antarctica",
+          "Player2": "Beicodegeia",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Hamuda",
+          "Player2": "Capipf95",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "spartano",
+          "Player2": "dch97e",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "billsive",
+          "Player2": "rasvd",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "jjkbb2005",
+          "Player2": "seasonofmists",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "pokerswizard",
+          "Player2": "Casanova_13",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Fragoel2",
+          "Player2": "Gregoriusil",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "carrot_eater",
+          "Player2": "ReddFox",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Baizan",
+          "Player2": "Manny-",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Brasatore",
+          "Player2": "thegreatsavior",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Oceansoul92",
+          "Player2": "MysteryVillain",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "Ixidor29",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Condescend",
+          "Player2": "NeonVulture",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Chiozzani_23",
+          "Player2": "DB_Tiago",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Brivenix",
+          "Player2": "MandrillMan",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
       "Matches": [
         {
           "Player1": "fried-liver-attack",
+          "Player2": "seasonofmists",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Darkrizos",
+          "Player2": "Ixidor29",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "msskinbolic",
+          "Player2": "O_danielakos",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Brivenix",
+          "Player2": "Chiozzani_23",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "broers_",
+          "Player2": "ChaoticMTG",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "helvetti",
+          "Player2": "__Noob__",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "MandrillMan",
           "Player2": "PNascimento",
-          "Result": "2-1-0"
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Gregoriusil",
+          "Player2": "PedraStone",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Hamuda",
+          "Player2": "NeonVulture",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "billsive",
+          "Player2": "Brasatore",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "AoFTW",
+          "Player2": "dch97e",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Condescend",
+          "Player2": "AKvsJJ",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "jjkbb2005",
+          "Player2": "LuffyDoChapeuDePalha",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Oceansoul92",
+          "Player2": "NickNorman",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "pokerswizard",
+          "Player2": "rasvd",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "Manny-",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "carrot_eater",
+          "Player2": "Dr. Jon Osterman",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Antarctica",
+          "Player2": "Luminati",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "bro_squad",
+          "Player2": "MysteryVillain",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Baizan",
+          "Player2": "Casanova_13",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Capipf95",
+          "Player2": "thegreatsavior",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "spartano",
+          "Player2": "kaikas",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Fragoel2",
+          "Player2": "DB_Tiago",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "Luminati",
+          "Player2": "DB_Tiago",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dr. Jon Osterman",
+          "Player2": "PedraStone",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "LuffyDoChapeuDePalha",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "AoFTW",
+          "Player2": "ChaoticMTG",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "bro_squad",
+          "Player2": "Mahers",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "seasonofmists",
+          "Player2": "thegreatsavior",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "fried-liver-attack",
+          "Player2": "rasvd",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Manny-",
+          "Player2": "kaikas",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Casanova_13",
+          "Player2": "Brasatore",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Fragoel2",
+          "Player2": "NickNorman",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "msskinbolic",
+          "Player2": "MysteryVillain",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "pokerswizard",
+          "Player2": "Ixidor29",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Brivenix",
+          "Player2": "spartano",
+          "Result": "0-2-0"
         },
         {
           "Player1": "__Noob__",
-          "Player2": "msskinbolic",
+          "Player2": "Gregoriusil",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Oceansoul92",
+          "Player2": "AKvsJJ",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "carrot_eater",
+          "Player2": "jjkbb2005",
           "Result": "2-0-0"
         },
         {
-          "Player1": "seasonofmists",
-          "Player2": "O_danielakos",
+          "Player1": "Condescend",
+          "Player2": "helvetti",
           "Result": "2-0-0"
         },
         {
-          "Player1": "Fragoel2",
-          "Player2": "LuffyDoChapeuDePalha",
-          "Result": "2-1-0"
+          "Player1": "dch97e",
+          "Player2": "PNascimento",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MandrillMan",
+          "Player2": "Chiozzani_23",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "Capipf95",
+          "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 5",
       "Matches": [
+        {
+          "Player1": "O_danielakos",
+          "Player2": "Chiozzani_23",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "seasonofmists",
+          "Player2": "Luminati",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "carrot_eater",
+          "Player2": "AKvsJJ",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Brivenix",
+          "Player2": "Casanova_13",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Ixidor29",
+          "Player2": "bro_squad",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Oceansoul92",
+          "Player2": "DB_Tiago",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "msskinbolic",
+          "Player2": "NickNorman",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Mahers",
+          "Player2": "MysteryVillain",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "spartano",
+          "Player2": "PedraStone",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "pokerswizard",
+          "Player2": "jjkbb2005",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "dch97e",
+          "Player2": "ChaoticMTG",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Gregoriusil",
+          "Player2": "rasvd",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "AoFTW",
+          "Player2": "MandrillMan",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "LuffyDoChapeuDePalha",
+          "Player2": "__Noob__",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "NeonVulture",
+          "Player2": "thegreatsavior",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Manny-",
+          "Player2": "fried-liver-attack",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kaikas",
+          "Player2": "Brasatore",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Condescend",
+          "Player2": "Beicodegeia",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Fragoel2",
+          "Player2": "PNascimento",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "spartano",
+          "Player2": "Chiozzani_23",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MandrillMan",
+          "Player2": "MysteryVillain",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "dch97e",
+          "Player2": "__Noob__",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "jjkbb2005",
+          "Player2": "PedraStone",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "bro_squad",
+          "Player2": "Gregoriusil",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "seasonofmists",
+          "Player2": "rasvd",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Brasatore",
+          "Player2": "Mahers",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "PNascimento",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "msskinbolic",
+          "Player2": "carrot_eater",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Condescend",
+          "Player2": "NickNorman",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LuffyDoChapeuDePalha",
+          "Player2": "Luminati",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Casanova_13",
+          "Player2": "NeonVulture",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "DB_Tiago",
+          "Result": "2-0-0"
+        },
         {
           "Player1": "Fragoel2",
           "Player2": "fried-liver-attack",
-          "Result": "2-1-0"
+          "Result": "0-0-0"
         },
         {
-          "Player1": "seasonofmists",
-          "Player2": "__Noob__",
-          "Result": "2-1-0"
+          "Player1": "Oceansoul92",
+          "Player2": "ChaoticMTG",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "helvetti",
+          "Player2": "AoFTW",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Manny-",
+          "Player2": "thegreatsavior",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kaikas",
+          "Player2": "AKvsJJ",
+          "Result": "0-2-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 7",
+      "Matches": [
+        {
+          "Player1": "Fragoel2",
+          "Player2": "LuffyDoChapeuDePalha",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "seasonofmists",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "fried-liver-attack",
+          "Player2": "PNascimento",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "msskinbolic",
+          "Player2": "__Noob__",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
       "Matches": [
         {
           "Player1": "seasonofmists",
-          "Player2": "Fragoel2",
+          "Player2": "__Noob__",
           "Result": "2-0-0"
+        },
+        {
+          "Player1": "Fragoel2",
+          "Player2": "fried-liver-attack",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 9",
+      "Matches": [
+        {
+          "Player1": "Fragoel2",
+          "Player2": "seasonofmists",
+          "Result": "0-2-0"
         }
       ]
     }
