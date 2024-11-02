@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2024-11-01T00:00:00Z",
     "Name": "Modern Challenge 32",
-    "Uri": "https://www.mtgo.com/decklist/modern-challenge-32-2024-11-0112703183"
+    "Uri": "https://www.mtgo.com/decklist/modern-challenge-32-2024-11-0112703183",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -4176,52 +4179,742 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
+        {
+          "Player1": "Marcuzinho",
+          "Player2": "John_Cabral",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "HermonHero",
+          "Player2": "wutup",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Capriccioso",
+          "Player2": "bomberboss",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "slaxx",
+          "Player2": "Stokes112",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Manny-",
+          "Player2": "RubyXillia",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "KingHairy",
+          "Player2": "Samky21",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TaylorSpain",
+          "Player2": "Reighnart",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Piglet",
+          "Player2": "aarrgh",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "CliffBoyardee",
+          "Player2": "MTGHolic",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "termidor",
+          "Player2": "ice_nine_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "attarex",
+          "Player2": "niuwaid001",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "JulianJohn",
+          "Player2": "NathanOfTheGiltLeaf",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Gul_Dukat",
+          "Player2": "jvidarte",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Garthoro",
+          "Player2": "_J0SE_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MisterAsiago",
+          "Player2": "Alan07",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "gazmon48",
+          "Player2": "CrisMTG77",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Folero",
+          "Player2": "komattaman",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "416FrowningTable",
+          "Player2": "Kittleson22",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "triosk",
+          "Player2": "ManUFan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ale_Mtg",
+          "Player2": "TekiAkuma",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Venom1",
+          "Player2": "azax",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Aelyck",
+          "Player2": "selesneal",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "duke12",
+          "Player2": "albertoSD",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "billster47",
+          "Player2": "raisans",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Killah_SUV",
+          "Player2": "Badcookie",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "klien7",
+          "Player2": "KazukiOoyama",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Misplacedginger",
+          "Player2": "soggymeatball",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Hazarsta",
+          "Player2": "336767332971",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SirTenno",
+          "Player2": "Sapphire-Star",
+          "Result": "0-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "Stokes112",
+          "Player2": "TekiAkuma",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Gul_Dukat",
+          "Player2": "Killah_SUV",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "MTGHolic",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "soggymeatball",
+          "Player2": "Samky21",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Capriccioso",
+          "Player2": "gazmon48",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "niuwaid001",
+          "Player2": "KazukiOoyama",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Misplacedginger",
+          "Player2": "_J0SE_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Folero",
+          "Player2": "Garthoro",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "KingHairy",
+          "Player2": "John_Cabral",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Kittleson22",
+          "Player2": "wutup",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "selesneal",
+          "Player2": "416FrowningTable",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "termidor",
+          "Player2": "jvidarte",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Reighnart",
+          "Player2": "Hazarsta",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ale_Mtg",
+          "Player2": "komattaman",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Marcuzinho",
+          "Player2": "CrisMTG77",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Aelyck",
+          "Player2": "raisans",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "HermonHero",
+          "Player2": "Alan07",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ManUFan",
+          "Player2": "aarrgh",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "JulianJohn",
+          "Player2": "RubyXillia",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "duke12",
+          "Player2": "Venom1",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "attarex",
+          "Player2": "klien7",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "billster47",
+          "Player2": "TaylorSpain",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "slaxx",
+          "Player2": "Piglet",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "triosk",
+          "Player2": "ice_nine_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MisterAsiago",
+          "Player2": "NathanOfTheGiltLeaf",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "azax",
+          "Player2": "SirTenno",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "CliffBoyardee",
+          "Player2": "336767332971",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "bomberboss",
+          "Player2": "Manny-",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "MisterAsiago",
+          "Player2": "Garthoro",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "klien7",
+          "Player2": "ice_nine_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "billster47",
+          "Player2": "416FrowningTable",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "Hazarsta",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "azax",
+          "Player2": "Ale_Mtg",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Reighnart",
+          "Player2": "Killah_SUV",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Alan07",
+          "Player2": "JulianJohn",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Venom1",
+          "Player2": "Marcuzinho",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "komattaman",
+          "Player2": "John_Cabral",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Aelyck",
+          "Player2": "aarrgh",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "duke12",
+          "Player2": "slaxx",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Misplacedginger",
+          "Player2": "gazmon48",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Piglet",
+          "Player2": "niuwaid001",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "CliffBoyardee",
+          "Player2": "NathanOfTheGiltLeaf",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Samky21",
+          "Player2": "336767332971",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MTGHolic",
+          "Player2": "RubyXillia",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Gul_Dukat",
+          "Player2": "KazukiOoyama",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "termidor",
+          "Player2": "TekiAkuma",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "triosk",
+          "Player2": "KingHairy",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "CrisMTG77",
+          "Player2": "_J0SE_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "selesneal",
+          "Player2": "Manny-",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Capriccioso",
+          "Player2": "HermonHero",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "SirTenno",
+          "Player2": "Kittleson22",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "duke12",
+          "Player2": "Marcuzinho",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Reighnart",
+          "Player2": "KingHairy",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Misplacedginger",
+          "Player2": "albertoSD",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "aarrgh",
+          "Player2": "MTGHolic",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "klien7",
+          "Player2": "RubyXillia",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "azax",
+          "Player2": "Killah_SUV",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Manny-",
+          "Player2": "_J0SE_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "termidor",
+          "Player2": "MisterAsiago",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "slaxx",
+          "Player2": "336767332971",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "billster47",
+          "Player2": "John_Cabral",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Venom1",
+          "Player2": "CliffBoyardee",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "HermonHero",
+          "Player2": "CrisMTG77",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "gazmon48",
+          "Player2": "SirTenno",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Aelyck",
+          "Player2": "KazukiOoyama",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "triosk",
+          "Player2": "niuwaid001",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Piglet",
+          "Player2": "Ale_Mtg",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Stokes112",
+          "Player2": "Kittleson22",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "selesneal",
+          "Player2": "Alan07",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ice_nine_",
+          "Player2": "TekiAkuma",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "komattaman",
+          "Player2": "Garthoro",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "416FrowningTable",
+          "Player2": "JulianJohn",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "niuwaid001",
+          "Player2": "JulianJohn",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "416FrowningTable",
+          "Player2": "Alan07",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "triosk",
+          "Player2": "albertoSD",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Misplacedginger",
+          "Player2": "Killah_SUV",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "gazmon48",
+          "Player2": "KingHairy",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SirTenno",
+          "Player2": "CrisMTG77",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Venom1",
+          "Player2": "Stokes112",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "billster47",
+          "Player2": "Marcuzinho",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "KazukiOoyama",
+          "Player2": "336767332971",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Aelyck",
+          "Player2": "komattaman",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Manny-",
+          "Player2": "ice_nine_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "azax",
+          "Player2": "RubyXillia",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "slaxx",
+          "Player2": "klien7",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Piglet",
+          "Player2": "John_Cabral",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Reighnart",
+          "Player2": "MTGHolic",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "HermonHero",
+          "Player2": "MisterAsiago",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "billster47",
+          "Player2": "Alan07",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ice_nine_",
+          "Player2": "CliffBoyardee",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "Venom1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "niuwaid001",
+          "Player2": "Killah_SUV",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "slaxx",
+          "Player2": "Manny-",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Piglet",
+          "Player2": "336767332971",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Reighnart",
+          "Player2": "Marcuzinho",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Misplacedginger",
+          "Player2": "John_Cabral",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "komattaman",
+          "Player2": "MTGHolic",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SirTenno",
+          "Player2": "klien7",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "gazmon48",
+          "Player2": "MisterAsiago",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "HermonHero",
+          "Player2": "JulianJohn",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "azax",
+          "Player2": "KazukiOoyama",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "triosk",
+          "Player2": "416FrowningTable",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "KingHairy",
+          "Player2": "RubyXillia",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "Matches": [
+        {
+          "Player1": "MisterAsiago",
+          "Player2": "niuwaid001",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "azax",
+          "Player2": "Killah_SUV",
+          "Result": "0-2-0"
+        },
         {
           "Player1": "triosk",
           "Player2": "KazukiOoyama",
           "Result": "2-0-0"
         },
         {
-          "Player1": "Killah_SUV",
-          "Player2": "azax",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "niuwaid001",
-          "Player2": "MisterAsiago",
-          "Result": "2-0-0"
-        },
-        {
           "Player1": "Misplacedginger",
           "Player2": "JulianJohn",
-          "Result": "2-1-0"
+          "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 8",
       "Matches": [
         {
           "Player1": "triosk",
           "Player2": "niuwaid001",
-          "Result": "2-1-0"
+          "Result": "2-0-0"
         },
         {
-          "Player1": "Killah_SUV",
-          "Player2": "Misplacedginger",
-          "Result": "2-1-0"
+          "Player1": "Misplacedginger",
+          "Player2": "Killah_SUV",
+          "Result": "0-2-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 9",
       "Matches": [
         {
           "Player1": "triosk",
           "Player2": "Killah_SUV",
-          "Result": "2-1-0"
+          "Result": "2-0-0"
         }
       ]
     }
