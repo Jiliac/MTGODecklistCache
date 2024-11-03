@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2024-11-02T00:00:00Z",
     "Name": "Modern Challenge 32",
-    "Uri": "https://www.mtgo.com/decklist/modern-challenge-32-2024-11-0212703204"
+    "Uri": "https://www.mtgo.com/decklist/modern-challenge-32-2024-11-0212703204",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -4296,52 +4299,427 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
-          "Player1": "IsacConoli",
-          "Player2": "Fatal_Vlad",
-          "Result": "2-1-0"
+          "Player1": "albertoSD",
+          "Player2": "Resol22",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Hamuda",
+          "Player2": "-Nausea-",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "PieGonti",
+          "Player2": "niuwaid001",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "Taddy99",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "perret",
+          "Player2": "musasabi",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "izzy-wilde",
+          "Player2": "matyo804",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "pepeteam",
+          "Player2": "chanel-santini",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "billster47",
+          "Player2": "_Joseba_",
+          "Result": "2-0-0"
         },
         {
           "Player1": "nahuel10",
-          "Player2": "musasabi",
+          "Player2": "_Shikamaru_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "E_Kaminuma",
+          "Player2": "wcl",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "selesneal",
+          "Player2": "GigaChadSigmaMale",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "klien7",
+          "Player2": "blazeuz231",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "IsacConoli",
+          "Player2": "Sapphire-Star",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jvidarte",
+          "Player2": "Fatal_Vlad",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "virp",
+          "Player2": "DiamondAtog",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JulianJohn",
+          "Player2": "SireOfMana",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "nahuel10",
+          "Player2": "E_Kaminuma",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "Taddy99",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "niuwaid001",
+          "Player2": "jvidarte",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "-Nausea-",
+          "Player2": "chanel-santini",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "pepeteam",
+          "Player2": "IsacConoli",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "_Joseba_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JulianJohn",
+          "Player2": "Fatal_Vlad",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "billster47",
+          "Player2": "selesneal",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Sapphire-Star",
+          "Player2": "izzy-wilde",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "PieGonti",
+          "Player2": "virp",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SireOfMana",
+          "Player2": "wcl",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "klien7",
+          "Player2": "Hamuda",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "matyo804",
+          "Player2": "albertoSD",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "perret",
+          "Player2": "Resol22",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "GigaChadSigmaMale",
+          "Player2": "DiamondAtog",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "blazeuz231",
+          "Player2": "_Shikamaru_",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "klien7",
+          "Player2": "chanel-santini",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Taddy99",
+          "Player2": "izzy-wilde",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "billster47",
+          "Player2": "E_Kaminuma",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "virp",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "nahuel10",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "selesneal",
+          "Player2": "Hamuda",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "perret",
+          "Player2": "niuwaid001",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "PieGonti",
+          "Player2": "IsacConoli",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "wcl",
+          "Player2": "Resol22",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "Fatal_Vlad",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "pepeteam",
+          "Player2": "JulianJohn",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "matyo804",
+          "Player2": "_Shikamaru_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "DiamondAtog",
+          "Player2": "SireOfMana",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "perret",
+          "Player2": "SireOfMana",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "selesneal",
+          "Player2": "nahuel10",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "billster47",
+          "Player2": "Taddy99",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "virp",
+          "Player2": "izzy-wilde",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "niuwaid001",
+          "Player2": "_Shikamaru_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "pepeteam",
+          "Player2": "Resol22",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "klien7",
+          "Player2": "DiamondAtog",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "chanel-santini",
+          "Player2": "wcl",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "IsacConoli",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "E_Kaminuma",
+          "Player2": "Fatal_Vlad",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "PieGonti",
+          "Player2": "JulianJohn",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "Hamuda",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "matyo804",
+          "Player2": "-Nausea-",
           "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "musasabi",
+          "Player2": "DiamondAtog",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "Fatal_Vlad",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "perret",
+          "Player2": "klien7",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "virp",
+          "Player2": "E_Kaminuma",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "selesneal",
+          "Player2": "JulianJohn",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "pepeteam",
+          "Player2": "SireOfMana",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "niuwaid001",
+          "Player2": "Taddy99",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "matyo804",
+          "Player2": "chanel-santini",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "-Nausea-",
+          "Player2": "wcl",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "PieGonti",
+          "Player2": "Resol22",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "izzy-wilde",
+          "Player2": "_Shikamaru_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "nahuel10",
+          "Player2": "IsacConoli",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "JulianJohn",
+          "Player2": "izzy-wilde",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "nahuel10",
+          "Result": "0-2-0"
         },
         {
           "Player1": "albertoSD",
           "Player2": "DiamondAtog",
-          "Result": "2-1-0"
+          "Result": "2-0-0"
         },
         {
-          "Player1": "izzy-wilde",
-          "Player2": "JulianJohn",
+          "Player1": "IsacConoli",
+          "Player2": "Fatal_Vlad",
           "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 7",
+      "Matches": [
+        {
+          "Player1": "albertoSD",
+          "Player2": "nahuel10",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "IsacConoli",
+          "Player2": "izzy-wilde",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
       "Matches": [
         {
           "Player1": "nahuel10",
-          "Player2": "albertoSD",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "izzy-wilde",
-          "Player2": "IsacConoli",
-          "Result": "2-0-0"
-        }
-      ]
-    },
-    {
-      "RoundName": "Finals",
-      "Matches": [
-        {
-          "Player1": "izzy-wilde",
-          "Player2": "nahuel10",
-          "Result": "2-0-0"
+          "Player2": "izzy-wilde",
+          "Result": "0-2-0"
         }
       ]
     }
@@ -4652,7 +5030,7 @@
       "Losses": 2,
       "Draws": 0,
       "OMWP": 0.9,
-      "GWP": 0.0,
+      "GWP": 0,
       "OGWP": 0.7381
     },
     {
