@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2024-11-08T00:00:00Z",
     "Name": "Legacy Prelim AnziD Showdown",
-    "Uri": "https://www.mtgo.com/decklist/legacy-prelim-anzid-showdown-2024-11-0812704815"
+    "Uri": "https://www.mtgo.com/decklist/legacy-prelim-anzid-showdown-2024-11-0812704815",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -2536,7 +2539,198 @@
       ]
     }
   ],
-  "Rounds": null,
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "Matches": [
+        {
+          "Player1": "CoolUser",
+          "Player2": "Erik157751",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "silviawataru",
+          "Player2": "IpseVenenaBibas",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "nekonekoneko",
+          "Player2": "maear",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "pepeteam",
+          "Player2": "Killah_SUV",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Aldreen",
+          "Player2": "FerMTG",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "acydcytryk",
+          "Player2": "AlexanderRosdahl",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "GnopesGabes",
+          "Player2": "Just_Roll",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Junkmener",
+          "Player2": "ColossalSkyturtle",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Thulack",
+          "Player2": "JakeTMS",
+          "Result": "0-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "Maraxus_of_NL",
+          "Player2": "JakeTMS",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "acydcytryk",
+          "Player2": "maear",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "pepeteam",
+          "Player2": "ColossalSkyturtle",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "AlexanderRosdahl",
+          "Player2": "Killah_SUV",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Just_Roll",
+          "Player2": "Junkmener",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "nekonekoneko",
+          "Player2": "Erik157751",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "GnopesGabes",
+          "Player2": "CoolUser",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "silviawataru",
+          "Player2": "Aldreen",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Thulack",
+          "Player2": "FerMTG",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "CoolUser",
+          "Player2": "JakeTMS",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Just_Roll",
+          "Player2": "nekonekoneko",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "pepeteam",
+          "Player2": "maear",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "silviawataru",
+          "Player2": "acydcytryk",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Maraxus_of_NL",
+          "Player2": "AlexanderRosdahl",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Junkmener",
+          "Player2": "Killah_SUV",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Aldreen",
+          "Player2": "IpseVenenaBibas",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Erik157751",
+          "Player2": "ColossalSkyturtle",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "GnopesGabes",
+          "Player2": "FerMTG",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "Aldreen",
+          "Player2": "AlexanderRosdahl",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "CoolUser",
+          "Player2": "pepeteam",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Just_Roll",
+          "Player2": "FerMTG",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "silviawataru",
+          "Player2": "ColossalSkyturtle",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Erik157751",
+          "Player2": "IpseVenenaBibas",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Maraxus_of_NL",
+          "Player2": "Junkmener",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "nekonekoneko",
+          "Player2": "JakeTMS",
+          "Result": "2-0-0"
+        }
+      ]
+    }
+  ],
   "Standings": [
     {
       "Rank": 1,
@@ -2733,7 +2927,7 @@
       "Losses": 2,
       "Draws": 0,
       "OMWP": 0.625,
-      "GWP": 0.0,
+      "GWP": 0,
       "OGWP": 0.6
     },
     {
