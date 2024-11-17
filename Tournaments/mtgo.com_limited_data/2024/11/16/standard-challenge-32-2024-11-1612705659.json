@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2024-11-16T00:00:00Z",
     "Name": "Standard Challenge 32",
-    "Uri": "https://www.mtgo.com/decklist/standard-challenge-32-2024-11-1612705659"
+    "Uri": "https://www.mtgo.com/decklist/standard-challenge-32-2024-11-1612705659",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -3552,52 +3555,592 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
+      "Matches": [
+        {
+          "Player1": "thatguy_champ",
+          "Player2": "Angry_chicken",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ForThoseWhoHaveHeart",
+          "Player2": "mtgnate4",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Raydan",
+          "Player2": "KingHairy",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ShadowTitan1",
+          "Player2": "guillaumed19",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Arianne",
+          "Player2": "DskBayWolf",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Venom1",
+          "Player2": "DuduDeNunu",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "RandomOctopus",
+          "Player2": "amin0e",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "BERNASTORRES",
+          "Player2": "ThaisM",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "billster47",
+          "Player2": "keeline",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "HermonHero",
+          "Player2": "Mogged",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "RubyXillia",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "TroyGG36",
+          "Player2": "Hamuda",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ZVendetta",
+          "Player2": "A_Turtle",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Lapsy",
+          "Player2": "ChimmyNorbit",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Danielpena397",
+          "Player2": "MTGHolic",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "remf",
+          "Player2": "Mizl1zzie",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Wata",
+          "Player2": "ScreenwriterNY",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "benedictusdps",
+          "Player2": "maear",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "yPrincipe",
+          "Player2": "AmadeusPro",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "Mogged",
+          "Player2": "ForThoseWhoHaveHeart",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Lapsy",
+          "Player2": "DuduDeNunu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "RandomOctopus",
+          "Player2": "yPrincipe",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "TroyGG36",
+          "Player2": "MTGHolic",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "thatguy_champ",
+          "Player2": "DskBayWolf",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ChimmyNorbit",
+          "Player2": "mtgnate4",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "remf",
+          "Player2": "guillaumed19",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "A_Turtle",
+          "Player2": "VictorEsquici",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Wata",
+          "Player2": "benedictusdps",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Hamuda",
+          "Player2": "ThaisM",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ShadowTitan1",
+          "Player2": "Danielpena397",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "BERNASTORRES",
+          "Player2": "Venom1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Arianne",
+          "Player2": "keeline",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Raydan",
+          "Player2": "amin0e",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "maear",
+          "Player2": "AmadeusPro",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "billster47",
+          "Player2": "ZVendetta",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ScreenwriterNY",
+          "Player2": "RubyXillia",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "HermonHero",
+          "Player2": "Angry_chicken",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "ThaisM",
+          "Player2": "Lapsy",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Arianne",
+          "Player2": "RubyXillia",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "TroyGG36",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "yPrincipe",
+          "Player2": "DuduDeNunu",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "DskBayWolf",
+          "Player2": "mtgnate4",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Raydan",
+          "Player2": "ChimmyNorbit",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "keeline",
+          "Player2": "VictorEsquici",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Venom1",
+          "Player2": "maear",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "BERNASTORRES",
+          "Player2": "ForThoseWhoHaveHeart",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ShadowTitan1",
+          "Player2": "AmadeusPro",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ScreenwriterNY",
+          "Player2": "Angry_chicken",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "benedictusdps",
+          "Player2": "guillaumed19",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "RandomOctopus",
+          "Player2": "Danielpena397",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "A_Turtle",
+          "Player2": "amin0e",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "billster47",
+          "Player2": "HermonHero",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "remf",
+          "Player2": "MTGHolic",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "Hamuda",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "RandomOctopus",
+          "Player2": "AmadeusPro",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ScreenwriterNY",
+          "Player2": "Arianne",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ThaisM",
+          "Player2": "ForThoseWhoHaveHeart",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "HermonHero",
+          "Player2": "benedictusdps",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "TroyGG36",
+          "Player2": "guillaumed19",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Wata",
+          "Player2": "Danielpena397",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "billster47",
+          "Player2": "ShadowTitan1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "keeline",
+          "Player2": "maear",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Raydan",
+          "Player2": "remf",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Venom1",
+          "Player2": "VictorEsquici",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Hamuda",
+          "Player2": "DuduDeNunu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "RubyXillia",
+          "Player2": "ChimmyNorbit",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "A_Turtle",
+          "Player2": "DskBayWolf",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "BERNASTORRES",
+          "Player2": "yPrincipe",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "Mogged",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "amin0e",
+          "Player2": "mtgnate4",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MTGHolic",
+          "Player2": "Angry_chicken",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "DskBayWolf",
+          "Player2": "Angry_chicken",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "maear",
+          "Player2": "guillaumed19",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "remf",
+          "Player2": "ChimmyNorbit",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "mtgnate4",
+          "Player2": "DuduDeNunu",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "BERNASTORRES",
+          "Player2": "Raydan",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "billster47",
+          "Player2": "A_Turtle",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "benedictusdps",
+          "Player2": "AmadeusPro",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "Danielpena397",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TroyGG36",
+          "Player2": "ForThoseWhoHaveHeart",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ThaisM",
+          "Player2": "amin0e",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Arianne",
+          "Player2": "Wata",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MTGHolic",
+          "Player2": "VictorEsquici",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "ShadowTitan1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "RandomOctopus",
+          "Player2": "Hamuda",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Venom1",
+          "Player2": "yPrincipe",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "keeline",
+          "Player2": "ScreenwriterNY",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "Wata",
+          "Player2": "ChimmyNorbit",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Arianne",
+          "Player2": "ThaisM",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "ScreenwriterNY",
+          "Player2": "remf",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Venom1",
+          "Player2": "ShadowTitan1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "ForThoseWhoHaveHeart",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Hamuda",
+          "Player2": "amin0e",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "VictorEsquici",
+          "Player2": "guillaumed19",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "keeline",
+          "Player2": "Raydan",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "TroyGG36",
+          "Player2": "mtgnate4",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "AmadeusPro",
+          "Player2": "DskBayWolf",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "RandomOctopus",
+          "Player2": "DuduDeNunu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "benedictusdps",
+          "Player2": "Angry_chicken",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "yPrincipe",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "BERNASTORRES",
+          "Player2": "MTGHolic",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "billster47",
+          "Player2": "maear",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
       "Matches": [
         {
           "Player1": "billster47",
           "Player2": "Raydan",
-          "Result": "2-1-0"
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "keeline",
+          "Player2": "MTGHolic",
+          "Result": "0-2-0"
         },
         {
           "Player1": "remf",
           "Player2": "maear",
-          "Result": "2-1-0"
+          "Result": "2-0-0"
         },
         {
           "Player1": "ScreenwriterNY",
           "Player2": "VictorEsquici",
           "Result": "2-0-0"
-        },
-        {
-          "Player1": "MTGHolic",
-          "Player2": "keeline",
-          "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 8",
       "Matches": [
         {
-          "Player1": "MTGHolic",
-          "Player2": "ScreenwriterNY",
-          "Result": "2-1-0"
+          "Player1": "billster47",
+          "Player2": "remf",
+          "Result": "0-2-0"
         },
+        {
+          "Player1": "ScreenwriterNY",
+          "Player2": "MTGHolic",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 9",
+      "Matches": [
         {
           "Player1": "remf",
-          "Player2": "billster47",
-          "Result": "2-0-0"
-        }
-      ]
-    },
-    {
-      "RoundName": "Finals",
-      "Matches": [
-        {
-          "Player1": "MTGHolic",
-          "Player2": "remf",
-          "Result": "2-0-0"
+          "Player2": "MTGHolic",
+          "Result": "0-2-0"
         }
       ]
     }
