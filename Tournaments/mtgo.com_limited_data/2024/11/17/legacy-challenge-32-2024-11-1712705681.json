@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2024-11-17T00:00:00Z",
     "Name": "Legacy Challenge 32",
-    "Uri": "https://www.mtgo.com/decklist/legacy-challenge-32-2024-11-1712705681"
+    "Uri": "https://www.mtgo.com/decklist/legacy-challenge-32-2024-11-1712705681",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -4076,52 +4079,752 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
+          "Player1": "_Batutinha_",
+          "Player2": "norinTW",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "funkymankevx",
+          "Player2": "nahuel10",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Sommertroll",
+          "Player2": "choutin",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "JKnecht",
+          "Player2": "PredatorLLM",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "rodeo",
+          "Player2": "hughmann",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Varner",
+          "Player2": "wumbowizard",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "Hamuda",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TonyScapone",
+          "Player2": "Zony",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SwwampySwamp",
+          "Player2": "Erik157751",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Shadaro",
+          "Player2": "pepeteam",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ganesh_69",
+          "Player2": "jvidarte",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Dreddybajs",
+          "Player2": "michaelvlevine",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "adorno666",
+          "Player2": "Sisyfos_happy",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "DB_oldemodave",
+          "Player2": "bdmtg",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dr. Jon Osterman",
+          "Player2": "LucasG1ggs",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Pastratta",
+          "Player2": "_INF_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "oosunq",
+          "Player2": "tao_bye_bye",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SchulzCubed",
+          "Player2": "ChaosBard",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "VampireX_",
+          "Player2": "Ant_Are_MTG",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "8salazzar8",
+          "Player2": "Bezerra_da_Silva",
+          "Result": "2-0-0"
+        },
+        {
           "Player1": "hermanomlg",
-          "Player2": "Mogged",
+          "Player2": "Samky21",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "John1111",
+          "Player2": "Peppembr",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ellison",
+          "Player2": "Djimm",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Oscar_Franco",
+          "Player2": "_J0SE_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "FranMtg",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "Varner",
+          "Player2": "Samky21",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "TonyScapone",
+          "Player2": "Ant_Are_MTG",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "choutin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "VampireX_",
+          "Player2": "Dr. Jon Osterman",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "adorno666",
+          "Player2": "Zony",
           "Result": "2-0-0"
         },
         {
           "Player1": "hughmann",
-          "Player2": "_Batutinha_",
+          "Player2": "8salazzar8",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "John1111",
+          "Player2": "_INF_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "michaelvlevine",
+          "Player2": "PredatorLLM",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "funkymankevx",
+          "Player2": "hermanomlg",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "rodeo",
+          "Player2": "ChaosBard",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "jvidarte",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "nahuel10",
+          "Player2": "Bezerra_da_Silva",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Sommertroll",
+          "Player2": "norinTW",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "FranMtg",
+          "Player2": "bdmtg",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Hamuda",
+          "Player2": "Djimm",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dreddybajs",
+          "Player2": "DB_oldemodave",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "SchulzCubed",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Sisyfos_happy",
+          "Player2": "_J0SE_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "pepeteam",
+          "Player2": "Erik157751",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "SwwampySwamp",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "oosunq",
+          "Player2": "Oscar_Franco",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Pastratta",
+          "Player2": "Peppembr",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ellison",
+          "Player2": "wumbowizard",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JKnecht",
+          "Player2": "Shadaro",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ganesh_69",
+          "Player2": "tao_bye_bye",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "Shadaro",
+          "Player2": "John1111",
           "Result": "2-1-0"
         },
+        {
+          "Player1": "SchulzCubed",
+          "Player2": "choutin",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "oosunq",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ganesh_69",
+          "Player2": "Peppembr",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "hermanomlg",
+          "Player2": "Sisyfos_happy",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ellison",
+          "Player2": "PredatorLLM",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "hughmann",
+          "Player2": "DB_oldemodave",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "rodeo",
+          "Player2": "nahuel10",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "JKnecht",
+          "Player2": "Pastratta",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "pepeteam",
+          "Player2": "8salazzar8",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "wumbowizard",
+          "Player2": "michaelvlevine",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "TonyScapone",
+          "Player2": "SwwampySwamp",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Djimm",
+          "Player2": "_J0SE_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Hamuda",
+          "Player2": "Samky21",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "VampireX_",
+          "Player2": "adorno666",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "Mogged",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Ant_Are_MTG",
+          "Player2": "norinTW",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Zony",
+          "Player2": "ChaosBard",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "_INF_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dreddybajs",
+          "Player2": "FranMtg",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Oscar_Franco",
+          "Player2": "jvidarte",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Varner",
+          "Player2": "Sommertroll",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dr. Jon Osterman",
+          "Player2": "bdmtg",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "funkymankevx",
+          "Player2": "tao_bye_bye",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "Dr. Jon Osterman",
+          "Player2": "michaelvlevine",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "TonyScapone",
+          "Player2": "Sisyfos_happy",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Dreddybajs",
+          "Player2": "musasabi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "adorno666",
+          "Player2": "DB_oldemodave",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "Ellison",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SchulzCubed",
+          "Player2": "norinTW",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "John1111",
+          "Player2": "Ant_Are_MTG",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "rodeo",
+          "Player2": "_INF_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JKnecht",
+          "Player2": "8salazzar8",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "funkymankevx",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Shadaro",
+          "Player2": "SwwampySwamp",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Samky21",
+          "Player2": "choutin",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Pastratta",
+          "Player2": "Zony",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "VampireX_",
+          "Player2": "ganesh_69",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Varner",
+          "Player2": "Hamuda",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "wumbowizard",
+          "Player2": "_J0SE_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "pepeteam",
+          "Player2": "jvidarte",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "FranMtg",
+          "Player2": "Erik157751",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "oosunq",
+          "Player2": "nahuel10",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Djimm",
+          "Player2": "bdmtg",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Peppembr",
+          "Player2": "tao_bye_bye",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "hermanomlg",
+          "Player2": "hughmann",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "Oscar_Franco",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "FranMtg",
+          "Player2": "_J0SE_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Pastratta",
+          "Player2": "norinTW",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Peppembr",
+          "Player2": "bdmtg",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jvidarte",
+          "Player2": "Samky21",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "TonyScapone",
+          "Player2": "8salazzar8",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Ellison",
+          "Player2": "adorno666",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "choutin",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Dreddybajs",
+          "Player2": "Oscar_Franco",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Sisyfos_happy",
+          "Player2": "Ant_Are_MTG",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Varner",
+          "Player2": "michaelvlevine",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "nahuel10",
+          "Player2": "DB_oldemodave",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Shadaro",
+          "Player2": "oosunq",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "SwwampySwamp",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "funkymankevx",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "hughmann",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "VampireX_",
+          "Player2": "rodeo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "tao_bye_bye",
+          "Player2": "Djimm",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ganesh_69",
+          "Player2": "Zony",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "JKnecht",
+          "Player2": "hermanomlg",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "nahuel10",
+          "Player2": "Oscar_Franco",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Peppembr",
+          "Player2": "Djimm",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "Shadaro",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "VampireX_",
+          "Player2": "8salazzar8",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "hermanomlg",
+          "Player2": "SwwampySwamp",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "jvidarte",
+          "Player2": "Ant_Are_MTG",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Varner",
+          "Player2": "DB_oldemodave",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "adorno666",
+          "Player2": "_J0SE_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "JKnecht",
+          "Player2": "musasabi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "Mogged",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "rodeo",
+          "Player2": "Zony",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "TonyScapone",
+          "Player2": "norinTW",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Dreddybajs",
+          "Player2": "choutin",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "tao_bye_bye",
+          "Player2": "bdmtg",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "hughmann",
+          "Player2": "Sisyfos_happy",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "funkymankevx",
+          "Player2": "FranMtg",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Pastratta",
+          "Player2": "michaelvlevine",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "oosunq",
+          "Player2": "Ellison",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "Matches": [
         {
           "Player1": "Sisyfos_happy",
           "Player2": "choutin",
-          "Result": "2-1-0"
+          "Result": "2-0-0"
         },
         {
-          "Player1": "SwwampySwamp",
-          "Player2": "Ellison",
-          "Result": "2-0-0"
-        }
-      ]
-    },
-    {
-      "RoundName": "Semifinals",
-      "Matches": [
-        {
-          "Player1": "Sisyfos_happy",
+          "Player1": "Mogged",
           "Player2": "hermanomlg",
-          "Result": "2-1-0"
+          "Result": "0-2-0"
         },
         {
-          "Player1": "SwwampySwamp",
+          "Player1": "_Batutinha_",
           "Player2": "hughmann",
-          "Result": "2-1-0"
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Ellison",
+          "Player2": "SwwampySwamp",
+          "Result": "0-2-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 8",
       "Matches": [
         {
-          "Player1": "Sisyfos_happy",
+          "Player1": "hermanomlg",
+          "Player2": "Sisyfos_happy",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "hughmann",
           "Player2": "SwwampySwamp",
-          "Result": "2-0-0"
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 9",
+      "Matches": [
+        {
+          "Player1": "SwwampySwamp",
+          "Player2": "Sisyfos_happy",
+          "Result": "0-2-0"
         }
       ]
     }
