@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2024-11-17T00:00:00Z",
     "Name": "Legacy Showcase Challenge",
-    "Uri": "https://www.mtgo.com/decklist/legacy-showcase-challenge-2024-11-1712705888"
+    "Uri": "https://www.mtgo.com/decklist/legacy-showcase-challenge-2024-11-1712705888",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -4206,58 +4209,7 @@
       ]
     }
   ],
-  "Rounds": [
-    {
-      "RoundName": "Quarterfinals",
-      "Matches": [
-        {
-          "Player1": "lazerbeam",
-          "Player2": "acydcytryk",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "jade-venus",
-          "Player2": "Cachorrowo",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "FreeEducation",
-          "Player2": "Manahandler",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "lampalot",
-          "Player2": "wonderPreaux",
-          "Result": "2-0-0"
-        }
-      ]
-    },
-    {
-      "RoundName": "Semifinals",
-      "Matches": [
-        {
-          "Player1": "lampalot",
-          "Player2": "lazerbeam",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "jade-venus",
-          "Player2": "FreeEducation",
-          "Result": "2-0-0"
-        }
-      ]
-    },
-    {
-      "RoundName": "Finals",
-      "Matches": [
-        {
-          "Player1": "jade-venus",
-          "Player2": "lampalot",
-          "Result": "2-0-0"
-        }
-      ]
-    }
-  ],
+  "Rounds": [],
   "Standings": [
     {
       "Rank": 1,

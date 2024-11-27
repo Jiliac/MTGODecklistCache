@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2024-11-20T00:00:00Z",
     "Name": "Legacy Challenge 32",
-    "Uri": "https://www.mtgo.com/decklist/legacy-challenge-32-2024-11-2012706722"
+    "Uri": "https://www.mtgo.com/decklist/legacy-challenge-32-2024-11-2012706722",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -4098,58 +4101,7 @@
       ]
     }
   ],
-  "Rounds": [
-    {
-      "RoundName": "Quarterfinals",
-      "Matches": [
-        {
-          "Player1": "2plus2isfive",
-          "Player2": "Roodslay",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "Icteridae",
-          "Player2": "unluckymonkey",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "Ti0Patinhas",
-          "Player2": "Sapphire-Star",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "AFX",
-          "Player2": "BERNASTORRES",
-          "Result": "2-1-0"
-        }
-      ]
-    },
-    {
-      "RoundName": "Semifinals",
-      "Matches": [
-        {
-          "Player1": "AFX",
-          "Player2": "Ti0Patinhas",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "Icteridae",
-          "Player2": "2plus2isfive",
-          "Result": "2-1-0"
-        }
-      ]
-    },
-    {
-      "RoundName": "Finals",
-      "Matches": [
-        {
-          "Player1": "Icteridae",
-          "Player2": "AFX",
-          "Result": "2-0-0"
-        }
-      ]
-    }
-  ],
+  "Rounds": [],
   "Standings": [
     {
       "Rank": 1,

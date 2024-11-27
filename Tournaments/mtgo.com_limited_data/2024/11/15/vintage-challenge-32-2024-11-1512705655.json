@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2024-11-15T00:00:00Z",
     "Name": "Vintage Challenge 32",
-    "Uri": "https://www.mtgo.com/decklist/vintage-challenge-32-2024-11-1512705655"
+    "Uri": "https://www.mtgo.com/decklist/vintage-challenge-32-2024-11-1512705655",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -5510,58 +5513,7 @@
       ]
     }
   ],
-  "Rounds": [
-    {
-      "RoundName": "Quarterfinals",
-      "Matches": [
-        {
-          "Player1": "_Shatun_",
-          "Player2": "FarmerLGG",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "Montolio",
-          "Player2": "TrueHero",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "IamActuallyLvL1",
-          "Player2": "bolov0",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "The_Gerogerigegege",
-          "Player2": "Dogeminer02",
-          "Result": "2-0-0"
-        }
-      ]
-    },
-    {
-      "RoundName": "Semifinals",
-      "Matches": [
-        {
-          "Player1": "IamActuallyLvL1",
-          "Player2": "_Shatun_",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "Montolio",
-          "Player2": "The_Gerogerigegege",
-          "Result": "2-0-0"
-        }
-      ]
-    },
-    {
-      "RoundName": "Finals",
-      "Matches": [
-        {
-          "Player1": "IamActuallyLvL1",
-          "Player2": "Montolio",
-          "Result": "2-1-0"
-        }
-      ]
-    }
-  ],
+  "Rounds": [],
   "Standings": [
     {
       "Rank": 1,

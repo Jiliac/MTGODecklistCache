@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2024-11-25T00:00:00Z",
     "Name": "Standard Challenge 32",
-    "Uri": "https://www.mtgo.com/decklist/standard-challenge-32-2024-11-2512706798"
+    "Uri": "https://www.mtgo.com/decklist/standard-challenge-32-2024-11-2512706798",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -3678,58 +3681,7 @@
       ]
     }
   ],
-  "Rounds": [
-    {
-      "RoundName": "Quarterfinals",
-      "Matches": [
-        {
-          "Player1": "jayrod115",
-          "Player2": "manalacaio",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "Arianne",
-          "Player2": "DB_Dykman",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "HoldTheElle",
-          "Player2": "esmyth",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "IronBeagle",
-          "Player2": "VitorCarvalho01",
-          "Result": "2-0-0"
-        }
-      ]
-    },
-    {
-      "RoundName": "Semifinals",
-      "Matches": [
-        {
-          "Player1": "HoldTheElle",
-          "Player2": "Arianne",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "jayrod115",
-          "Player2": "IronBeagle",
-          "Result": "2-1-0"
-        }
-      ]
-    },
-    {
-      "RoundName": "Finals",
-      "Matches": [
-        {
-          "Player1": "jayrod115",
-          "Player2": "HoldTheElle",
-          "Result": "2-1-0"
-        }
-      ]
-    }
-  ],
+  "Rounds": [],
   "Standings": [
     {
       "Rank": 1,

@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2024-11-23T00:00:00Z",
     "Name": "Modern Challenge 64",
-    "Uri": "https://www.mtgo.com/decklist/modern-challenge-64-2024-11-2312706768"
+    "Uri": "https://www.mtgo.com/decklist/modern-challenge-64-2024-11-2312706768",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -4354,58 +4357,7 @@
       ]
     }
   ],
-  "Rounds": [
-    {
-      "RoundName": "Quarterfinals",
-      "Matches": [
-        {
-          "Player1": "MagicalSnap",
-          "Player2": "WingedHussar",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "CrazyMorango",
-          "Player2": "Gartxot",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "LordEgg",
-          "Player2": "musasabi",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "nahuel10",
-          "Player2": "IkeanWarlord",
-          "Result": "2-1-0"
-        }
-      ]
-    },
-    {
-      "RoundName": "Semifinals",
-      "Matches": [
-        {
-          "Player1": "LordEgg",
-          "Player2": "MagicalSnap",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "nahuel10",
-          "Player2": "CrazyMorango",
-          "Result": "2-1-0"
-        }
-      ]
-    },
-    {
-      "RoundName": "Finals",
-      "Matches": [
-        {
-          "Player1": "LordEgg",
-          "Player2": "nahuel10",
-          "Result": "2-0-0"
-        }
-      ]
-    }
-  ],
+  "Rounds": [],
   "Standings": [
     {
       "Rank": 1,

@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2024-11-22T00:00:00Z",
     "Name": "Pauper Challenge 32",
-    "Uri": "https://www.mtgo.com/decklist/pauper-challenge-32-2024-11-2212706748"
+    "Uri": "https://www.mtgo.com/decklist/pauper-challenge-32-2024-11-2212706748",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -3354,58 +3357,7 @@
       ]
     }
   ],
-  "Rounds": [
-    {
-      "RoundName": "Quarterfinals",
-      "Matches": [
-        {
-          "Player1": "LuffyDoChapeuDePalha",
-          "Player2": "Mansueto",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "edgo",
-          "Player2": "newbarola",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "CrouchingPig",
-          "Player2": "NickNorman",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "irahscott",
-          "Player2": "Mogged",
-          "Result": "2-0-0"
-        }
-      ]
-    },
-    {
-      "RoundName": "Semifinals",
-      "Matches": [
-        {
-          "Player1": "LuffyDoChapeuDePalha",
-          "Player2": "edgo",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "irahscott",
-          "Player2": "CrouchingPig",
-          "Result": "2-0-0"
-        }
-      ]
-    },
-    {
-      "RoundName": "Finals",
-      "Matches": [
-        {
-          "Player1": "LuffyDoChapeuDePalha",
-          "Player2": "irahscott",
-          "Result": "2-1-0"
-        }
-      ]
-    }
-  ],
+  "Rounds": [],
   "Standings": [
     {
       "Rank": 1,
@@ -3415,7 +3367,7 @@
       "Losses": 1,
       "Draws": 0,
       "OMWP": 0.5667,
-      "GWP": 1.0,
+      "GWP": 1,
       "OGWP": 0.5312
     },
     {

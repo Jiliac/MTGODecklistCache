@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2024-11-01T00:00:00Z",
     "Name": "Pauper Challenge 32",
-    "Uri": "https://www.mtgo.com/decklist/pauper-challenge-32-2024-11-0112703190"
+    "Uri": "https://www.mtgo.com/decklist/pauper-challenge-32-2024-11-0112703190",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -3642,58 +3645,7 @@
       ]
     }
   ],
-  "Rounds": [
-    {
-      "RoundName": "Quarterfinals",
-      "Matches": [
-        {
-          "Player1": "_against_",
-          "Player2": "ManooHawph",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "LuffyDoChapeuDePalha",
-          "Player2": "RClint21",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "O_danielakos",
-          "Player2": "PNascimento",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "outZEROo",
-          "Player2": "Luiz0211",
-          "Result": "2-1-0"
-        }
-      ]
-    },
-    {
-      "RoundName": "Semifinals",
-      "Matches": [
-        {
-          "Player1": "_against_",
-          "Player2": "O_danielakos",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "outZEROo",
-          "Player2": "LuffyDoChapeuDePalha",
-          "Result": "2-1-0"
-        }
-      ]
-    },
-    {
-      "RoundName": "Finals",
-      "Matches": [
-        {
-          "Player1": "outZEROo",
-          "Player2": "_against_",
-          "Result": "2-1-0"
-        }
-      ]
-    }
-  ],
+  "Rounds": [],
   "Standings": [
     {
       "Rank": 1,

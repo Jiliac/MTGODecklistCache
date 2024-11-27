@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2024-11-12T00:00:00Z",
     "Name": "Modern Challenge 32",
-    "Uri": "https://www.mtgo.com/decklist/modern-challenge-32-2024-11-1212705730"
+    "Uri": "https://www.mtgo.com/decklist/modern-challenge-32-2024-11-1212705730",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -4182,58 +4185,7 @@
       ]
     }
   ],
-  "Rounds": [
-    {
-      "RoundName": "Quarterfinals",
-      "Matches": [
-        {
-          "Player1": "_J0SE_",
-          "Player2": "BigD_1992",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "Raydan",
-          "Player2": "DB_MurkPie",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "_Batutinha_",
-          "Player2": "Kihara_Works",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "TheTunnelingCat",
-          "Player2": "rastaf",
-          "Result": "2-0-0"
-        }
-      ]
-    },
-    {
-      "RoundName": "Semifinals",
-      "Matches": [
-        {
-          "Player1": "Raydan",
-          "Player2": "TheTunnelingCat",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "_Batutinha_",
-          "Player2": "_J0SE_",
-          "Result": "2-1-0"
-        }
-      ]
-    },
-    {
-      "RoundName": "Finals",
-      "Matches": [
-        {
-          "Player1": "_Batutinha_",
-          "Player2": "Raydan",
-          "Result": "2-1-0"
-        }
-      ]
-    }
-  ],
+  "Rounds": [],
   "Standings": [
     {
       "Rank": 1,

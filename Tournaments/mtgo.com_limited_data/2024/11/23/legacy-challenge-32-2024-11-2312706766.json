@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2024-11-23T00:00:00Z",
     "Name": "Legacy Challenge 32",
-    "Uri": "https://www.mtgo.com/decklist/legacy-challenge-32-2024-11-2312706766"
+    "Uri": "https://www.mtgo.com/decklist/legacy-challenge-32-2024-11-2312706766",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -4306,58 +4309,7 @@
       ]
     }
   ],
-  "Rounds": [
-    {
-      "RoundName": "Quarterfinals",
-      "Matches": [
-        {
-          "Player1": "habsburger",
-          "Player2": "Ryuho090",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "_INF_",
-          "Player2": "RyanWu",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "choutin",
-          "Player2": "OopsMissedTrigger",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "Oceansoul92",
-          "Player2": "Ark4n",
-          "Result": "2-1-0"
-        }
-      ]
-    },
-    {
-      "RoundName": "Semifinals",
-      "Matches": [
-        {
-          "Player1": "_INF_",
-          "Player2": "choutin",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "habsburger",
-          "Player2": "Oceansoul92",
-          "Result": "2-1-0"
-        }
-      ]
-    },
-    {
-      "RoundName": "Finals",
-      "Matches": [
-        {
-          "Player1": "habsburger",
-          "Player2": "_INF_",
-          "Result": "2-0-0"
-        }
-      ]
-    }
-  ],
+  "Rounds": [],
   "Standings": [
     {
       "Rank": 1,

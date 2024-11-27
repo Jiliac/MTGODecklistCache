@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2024-11-18T00:00:00Z",
     "Name": "Standard Challenge 32",
-    "Uri": "https://www.mtgo.com/decklist/standard-challenge-32-2024-11-1812705697"
+    "Uri": "https://www.mtgo.com/decklist/standard-challenge-32-2024-11-1812705697",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -3554,58 +3557,7 @@
       ]
     }
   ],
-  "Rounds": [
-    {
-      "RoundName": "Quarterfinals",
-      "Matches": [
-        {
-          "Player1": "MattTumavitch13",
-          "Player2": "Drugo",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "billsive",
-          "Player2": "Gitaxian_Probe",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "GzusReturned",
-          "Player2": "Stanshine",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "Lennny",
-          "Player2": "pg8",
-          "Result": "2-1-0"
-        }
-      ]
-    },
-    {
-      "RoundName": "Semifinals",
-      "Matches": [
-        {
-          "Player1": "Lennny",
-          "Player2": "GzusReturned",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "billsive",
-          "Player2": "MattTumavitch13",
-          "Result": "2-1-0"
-        }
-      ]
-    },
-    {
-      "RoundName": "Finals",
-      "Matches": [
-        {
-          "Player1": "billsive",
-          "Player2": "Lennny",
-          "Result": "2-1-0"
-        }
-      ]
-    }
-  ],
+  "Rounds": [],
   "Standings": [
     {
       "Rank": 1,

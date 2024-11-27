@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2024-11-08T00:00:00Z",
     "Name": "Vintage Challenge 32",
-    "Uri": "https://www.mtgo.com/decklist/vintage-challenge-32-2024-11-0812704549"
+    "Uri": "https://www.mtgo.com/decklist/vintage-challenge-32-2024-11-0812704549",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -5354,58 +5357,7 @@
       ]
     }
   ],
-  "Rounds": [
-    {
-      "RoundName": "Quarterfinals",
-      "Matches": [
-        {
-          "Player1": "death_grips",
-          "Player2": "jagers_master",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "Viatt",
-          "Player2": "Dave2187",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "Redhotphil87",
-          "Player2": "_Shikamaru_",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "Dogeminer02",
-          "Player2": "kalcin66rocks",
-          "Result": "2-1-0"
-        }
-      ]
-    },
-    {
-      "RoundName": "Semifinals",
-      "Matches": [
-        {
-          "Player1": "Dogeminer02",
-          "Player2": "Redhotphil87",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "Viatt",
-          "Player2": "death_grips",
-          "Result": "2-0-0"
-        }
-      ]
-    },
-    {
-      "RoundName": "Finals",
-      "Matches": [
-        {
-          "Player1": "Dogeminer02",
-          "Player2": "Viatt",
-          "Result": "2-0-0"
-        }
-      ]
-    }
-  ],
+  "Rounds": [],
   "Standings": [
     {
       "Rank": 1,

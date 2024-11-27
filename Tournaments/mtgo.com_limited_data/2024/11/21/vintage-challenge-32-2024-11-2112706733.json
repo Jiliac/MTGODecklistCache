@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2024-11-21T00:00:00Z",
     "Name": "Vintage Challenge 32",
-    "Uri": "https://www.mtgo.com/decklist/vintage-challenge-32-2024-11-2112706733"
+    "Uri": "https://www.mtgo.com/decklist/vintage-challenge-32-2024-11-2112706733",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -4994,58 +4997,7 @@
       ]
     }
   ],
-  "Rounds": [
-    {
-      "RoundName": "Quarterfinals",
-      "Matches": [
-        {
-          "Player1": "unluckymonkey",
-          "Player2": "billsive",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "Munchlax446",
-          "Player2": "FranMtg",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "Chefen",
-          "Player2": "adm29",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "jade-venus",
-          "Player2": "Dr. Jon Osterman",
-          "Result": "2-0-0"
-        }
-      ]
-    },
-    {
-      "RoundName": "Semifinals",
-      "Matches": [
-        {
-          "Player1": "jade-venus",
-          "Player2": "Munchlax446",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "unluckymonkey",
-          "Player2": "Chefen",
-          "Result": "2-1-0"
-        }
-      ]
-    },
-    {
-      "RoundName": "Finals",
-      "Matches": [
-        {
-          "Player1": "unluckymonkey",
-          "Player2": "jade-venus",
-          "Result": "2-1-0"
-        }
-      ]
-    }
-  ],
+  "Rounds": [],
   "Standings": [
     {
       "Rank": 1,

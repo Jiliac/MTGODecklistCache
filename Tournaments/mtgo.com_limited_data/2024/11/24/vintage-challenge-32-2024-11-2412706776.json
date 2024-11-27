@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2024-11-24T00:00:00Z",
     "Name": "Vintage Challenge 32",
-    "Uri": "https://www.mtgo.com/decklist/vintage-challenge-32-2024-11-2412706776"
+    "Uri": "https://www.mtgo.com/decklist/vintage-challenge-32-2024-11-2412706776",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -5450,58 +5453,7 @@
       ]
     }
   ],
-  "Rounds": [
-    {
-      "RoundName": "Quarterfinals",
-      "Matches": [
-        {
-          "Player1": "unluckymonkey",
-          "Player2": "Danielpena397",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "snoopy-magic",
-          "Player2": "ecobaronen",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "KingHairy",
-          "Player2": "Tsubasa_Cat",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "Nanovo",
-          "Player2": "Mogged",
-          "Result": "2-0-0"
-        }
-      ]
-    },
-    {
-      "RoundName": "Semifinals",
-      "Matches": [
-        {
-          "Player1": "Nanovo",
-          "Player2": "KingHairy",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "unluckymonkey",
-          "Player2": "snoopy-magic",
-          "Result": "2-0-0"
-        }
-      ]
-    },
-    {
-      "RoundName": "Finals",
-      "Matches": [
-        {
-          "Player1": "Nanovo",
-          "Player2": "unluckymonkey",
-          "Result": "2-0-0"
-        }
-      ]
-    }
-  ],
+  "Rounds": [],
   "Standings": [
     {
       "Rank": 1,
