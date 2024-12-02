@@ -1,11 +1,8 @@
 {
   "Tournament": {
-    "Id": 0,
     "Date": "2024-11-24T00:00:00Z",
     "Name": "Pioneer Showcase Challenge",
-    "Uri": "https://www.mtgo.com/decklist/pioneer-showcase-challenge-2024-11-2412706718",
-    "JsonFile": null,
-    "ForceRedownload": false
+    "Uri": "https://www.mtgo.com/decklist/pioneer-showcase-challenge-2024-11-2412706718"
   },
   "Decks": [
     {
@@ -4253,7 +4250,58 @@
       ]
     }
   ],
-  "Rounds": [],
+  "Rounds": [
+    {
+      "RoundName": "Quarterfinals",
+      "Matches": [
+        {
+          "Player1": "msskinbolic",
+          "Player2": "duke12",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "levunga21",
+          "Player2": "336767332971",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "RNGspecialist",
+          "Player2": "_lluks_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "eresopacaso",
+          "Player2": "Devoured",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Semifinals",
+      "Matches": [
+        {
+          "Player1": "RNGspecialist",
+          "Player2": "msskinbolic",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "levunga21",
+          "Player2": "eresopacaso",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Finals",
+      "Matches": [
+        {
+          "Player1": "RNGspecialist",
+          "Player2": "levunga21",
+          "Result": "2-1-0"
+        }
+      ]
+    }
+  ],
   "Standings": [
     {
       "Rank": 1,

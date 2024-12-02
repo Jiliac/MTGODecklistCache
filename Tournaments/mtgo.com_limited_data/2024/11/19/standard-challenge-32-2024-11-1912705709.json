@@ -1,11 +1,8 @@
 {
   "Tournament": {
-    "Id": 0,
     "Date": "2024-11-19T00:00:00Z",
     "Name": "Standard Challenge 32",
-    "Uri": "https://www.mtgo.com/decklist/standard-challenge-32-2024-11-1912705709",
-    "JsonFile": null,
-    "ForceRedownload": false
+    "Uri": "https://www.mtgo.com/decklist/standard-challenge-32-2024-11-1912705709"
   },
   "Decks": [
     {
@@ -3485,7 +3482,58 @@
       ]
     }
   ],
-  "Rounds": [],
+  "Rounds": [
+    {
+      "RoundName": "Quarterfinals",
+      "Matches": [
+        {
+          "Player1": "etoustar",
+          "Player2": "jussupinator",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Kampo",
+          "Player2": "rastaf",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Lollopollo2001",
+          "Player2": "kobayui",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Manuel_Danninger",
+          "Player2": "Lennny",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Semifinals",
+      "Matches": [
+        {
+          "Player1": "Lollopollo2001",
+          "Player2": "Kampo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "etoustar",
+          "Player2": "Manuel_Danninger",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Finals",
+      "Matches": [
+        {
+          "Player1": "etoustar",
+          "Player2": "Lollopollo2001",
+          "Result": "2-1-0"
+        }
+      ]
+    }
+  ],
   "Standings": [
     {
       "Rank": 1,

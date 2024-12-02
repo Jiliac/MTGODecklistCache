@@ -1,11 +1,8 @@
 {
   "Tournament": {
-    "Id": 0,
     "Date": "2024-11-19T00:00:00Z",
     "Name": "Modern Challenge 64",
-    "Uri": "https://www.mtgo.com/decklist/modern-challenge-64-2024-11-1912705711",
-    "JsonFile": null,
-    "ForceRedownload": false
+    "Uri": "https://www.mtgo.com/decklist/modern-challenge-64-2024-11-1912705711"
   },
   "Decks": [
     {
@@ -4349,7 +4346,58 @@
       ]
     }
   ],
-  "Rounds": [],
+  "Rounds": [
+    {
+      "RoundName": "Quarterfinals",
+      "Matches": [
+        {
+          "Player1": "TheAdonis",
+          "Player2": "AFX",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ScreenwriterNY",
+          "Player2": "joker10289",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "bolov0",
+          "Player2": "manukoka",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "barczek",
+          "Player2": "MattTumavitch13",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Semifinals",
+      "Matches": [
+        {
+          "Player1": "TheAdonis",
+          "Player2": "ScreenwriterNY",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "barczek",
+          "Player2": "bolov0",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Finals",
+      "Matches": [
+        {
+          "Player1": "barczek",
+          "Player2": "TheAdonis",
+          "Result": "2-1-0"
+        }
+      ]
+    }
+  ],
   "Standings": [
     {
       "Rank": 1,

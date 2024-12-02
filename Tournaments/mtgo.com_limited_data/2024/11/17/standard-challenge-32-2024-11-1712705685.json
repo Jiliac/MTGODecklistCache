@@ -1,11 +1,8 @@
 {
   "Tournament": {
-    "Id": 0,
     "Date": "2024-11-17T00:00:00Z",
     "Name": "Standard Challenge 32",
-    "Uri": "https://www.mtgo.com/decklist/standard-challenge-32-2024-11-1712705685",
-    "JsonFile": null,
-    "ForceRedownload": false
+    "Uri": "https://www.mtgo.com/decklist/standard-challenge-32-2024-11-1712705685"
   },
   "Decks": [
     {
@@ -3785,7 +3782,58 @@
       ]
     }
   ],
-  "Rounds": [],
+  "Rounds": [
+    {
+      "RoundName": "Quarterfinals",
+      "Matches": [
+        {
+          "Player1": "manalacaio",
+          "Player2": "ninepoundhammer",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "bolov0",
+          "Player2": "Edel",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Graciasportanto",
+          "Player2": "justAlice",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "AlphaFrog",
+          "Player2": "Gitaxian_Probe",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Semifinals",
+      "Matches": [
+        {
+          "Player1": "Graciasportanto",
+          "Player2": "AlphaFrog",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "manalacaio",
+          "Player2": "bolov0",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Finals",
+      "Matches": [
+        {
+          "Player1": "Graciasportanto",
+          "Player2": "manalacaio",
+          "Result": "2-0-0"
+        }
+      ]
+    }
+  ],
   "Standings": [
     {
       "Rank": 1,

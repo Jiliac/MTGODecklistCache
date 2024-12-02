@@ -1,11 +1,8 @@
 {
   "Tournament": {
-    "Id": 0,
     "Date": "2024-11-24T00:00:00Z",
     "Name": "Modern Challenge 32",
-    "Uri": "https://www.mtgo.com/decklist/modern-challenge-32-2024-11-2412706778",
-    "JsonFile": null,
-    "ForceRedownload": false
+    "Uri": "https://www.mtgo.com/decklist/modern-challenge-32-2024-11-2412706778"
   },
   "Decks": [
     {
@@ -4325,7 +4322,58 @@
       ]
     }
   ],
-  "Rounds": [],
+  "Rounds": [
+    {
+      "RoundName": "Quarterfinals",
+      "Matches": [
+        {
+          "Player1": "Kihara_Works",
+          "Player2": "WhiTe TsaR",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "iShambler",
+          "Player2": "Warning_error504",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ejcos531",
+          "Player2": "Capoeira02",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "hugofreitas1",
+          "Player2": "LordEgg",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Semifinals",
+      "Matches": [
+        {
+          "Player1": "hugofreitas1",
+          "Player2": "iShambler",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ejcos531",
+          "Player2": "Kihara_Works",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Finals",
+      "Matches": [
+        {
+          "Player1": "hugofreitas1",
+          "Player2": "ejcos531",
+          "Result": "2-1-0"
+        }
+      ]
+    }
+  ],
   "Standings": [
     {
       "Rank": 1,

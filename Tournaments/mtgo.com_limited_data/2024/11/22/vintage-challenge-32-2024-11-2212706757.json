@@ -1,11 +1,8 @@
 {
   "Tournament": {
-    "Id": 0,
     "Date": "2024-11-22T00:00:00Z",
     "Name": "Vintage Challenge 32",
-    "Uri": "https://www.mtgo.com/decklist/vintage-challenge-32-2024-11-2212706757",
-    "JsonFile": null,
-    "ForceRedownload": false
+    "Uri": "https://www.mtgo.com/decklist/vintage-challenge-32-2024-11-2212706757"
   },
   "Decks": [
     {
@@ -5193,7 +5190,58 @@
       ]
     }
   ],
-  "Rounds": [],
+  "Rounds": [
+    {
+      "RoundName": "Quarterfinals",
+      "Matches": [
+        {
+          "Player1": "WadeB",
+          "Player2": "LucasG1ggs",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "jewdan",
+          "Player2": "musasabi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jade-venus",
+          "Player2": "crK",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "Lord_Beerus",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Semifinals",
+      "Matches": [
+        {
+          "Player1": "jewdan",
+          "Player2": "ecobaronen",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "WadeB",
+          "Player2": "jade-venus",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Finals",
+      "Matches": [
+        {
+          "Player1": "WadeB",
+          "Player2": "jewdan",
+          "Result": "2-1-0"
+        }
+      ]
+    }
+  ],
   "Standings": [
     {
       "Rank": 1,
@@ -5510,9 +5558,9 @@
       "Wins": 0,
       "Losses": 0,
       "Draws": 0,
-      "OMWP": 0,
-      "GWP": 1,
-      "OGWP": 0
+      "OMWP": 0.0,
+      "GWP": 1.0,
+      "OGWP": 0.0
     },
     {
       "Rank": 30,
@@ -5522,7 +5570,7 @@
       "Losses": 2,
       "Draws": 0,
       "OMWP": 0.75,
-      "GWP": 0,
+      "GWP": 0.0,
       "OGWP": 0.6771
     },
     {

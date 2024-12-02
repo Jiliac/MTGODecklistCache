@@ -1,11 +1,8 @@
 {
   "Tournament": {
-    "Id": 0,
     "Date": "2024-11-23T00:00:00Z",
     "Name": "Vintage Challenge 32",
-    "Uri": "https://www.mtgo.com/decklist/vintage-challenge-32-2024-11-2312706770",
-    "JsonFile": null,
-    "ForceRedownload": false
+    "Uri": "https://www.mtgo.com/decklist/vintage-challenge-32-2024-11-2312706770"
   },
   "Decks": [
     {
@@ -5441,7 +5438,58 @@
       ]
     }
   ],
-  "Rounds": [],
+  "Rounds": [
+    {
+      "RoundName": "Quarterfinals",
+      "Matches": [
+        {
+          "Player1": "kabloom",
+          "Player2": "PintuMtg",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "Navas",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "jade-venus",
+          "Player2": "Redhotphil87",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Sprouts",
+          "Player2": "oosunq",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Semifinals",
+      "Matches": [
+        {
+          "Player1": "kabloom",
+          "Player2": "Sprouts",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "jade-venus",
+          "Player2": "musasabi",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Finals",
+      "Matches": [
+        {
+          "Player1": "jade-venus",
+          "Player2": "kabloom",
+          "Result": "2-0-0"
+        }
+      ]
+    }
+  ],
   "Standings": [
     {
       "Rank": 1,

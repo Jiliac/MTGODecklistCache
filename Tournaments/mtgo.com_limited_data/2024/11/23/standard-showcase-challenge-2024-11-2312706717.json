@@ -1,11 +1,8 @@
 {
   "Tournament": {
-    "Id": 0,
     "Date": "2024-11-23T00:00:00Z",
     "Name": "Standard Showcase Challenge",
-    "Uri": "https://www.mtgo.com/decklist/standard-showcase-challenge-2024-11-2312706717",
-    "JsonFile": null,
-    "ForceRedownload": false
+    "Uri": "https://www.mtgo.com/decklist/standard-showcase-challenge-2024-11-2312706717"
   },
   "Decks": [
     {
@@ -3709,7 +3706,58 @@
       ]
     }
   ],
-  "Rounds": [],
+  "Rounds": [
+    {
+      "RoundName": "Quarterfinals",
+      "Matches": [
+        {
+          "Player1": "fingers1991",
+          "Player2": "levunga21",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "MKC",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "E_Hembree",
+          "Player2": "Misplacedginger",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "badgods",
+          "Player2": "etoustar",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Semifinals",
+      "Matches": [
+        {
+          "Player1": "fingers1991",
+          "Player2": "E_Hembree",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "badgods",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Finals",
+      "Matches": [
+        {
+          "Player1": "fingers1991",
+          "Player2": "Jumba",
+          "Result": "2-0-0"
+        }
+      ]
+    }
+  ],
   "Standings": [
     {
       "Rank": 1,

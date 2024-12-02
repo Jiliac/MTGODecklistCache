@@ -1,11 +1,8 @@
 {
   "Tournament": {
-    "Id": 0,
     "Date": "2024-11-22T00:00:00Z",
     "Name": "Standard Challenge 32",
-    "Uri": "https://www.mtgo.com/decklist/standard-challenge-32-2024-11-2212706752",
-    "JsonFile": null,
-    "ForceRedownload": false
+    "Uri": "https://www.mtgo.com/decklist/standard-challenge-32-2024-11-2212706752"
   },
   "Decks": [
     {
@@ -3833,7 +3830,58 @@
       ]
     }
   ],
-  "Rounds": [],
+  "Rounds": [
+    {
+      "RoundName": "Quarterfinals",
+      "Matches": [
+        {
+          "Player1": "jakobpablo",
+          "Player2": "OafMcNamara",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "_Falcon_",
+          "Player2": "cftsoc3",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "L1X0",
+          "Player2": "VitorCarvalho01",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "cicciogire",
+          "Player2": "kthanakit26",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Semifinals",
+      "Matches": [
+        {
+          "Player1": "_Falcon_",
+          "Player2": "jakobpablo",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "L1X0",
+          "Player2": "cicciogire",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Finals",
+      "Matches": [
+        {
+          "Player1": "L1X0",
+          "Player2": "_Falcon_",
+          "Result": "2-0-0"
+        }
+      ]
+    }
+  ],
   "Standings": [
     {
       "Rank": 1,

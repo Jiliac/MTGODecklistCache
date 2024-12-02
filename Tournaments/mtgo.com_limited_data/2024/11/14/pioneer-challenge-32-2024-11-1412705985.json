@@ -1,11 +1,8 @@
 {
   "Tournament": {
-    "Id": 0,
     "Date": "2024-11-14T00:00:00Z",
     "Name": "Pioneer Challenge 32",
-    "Uri": "https://www.mtgo.com/decklist/pioneer-challenge-32-2024-11-1412705985",
-    "JsonFile": null,
-    "ForceRedownload": false
+    "Uri": "https://www.mtgo.com/decklist/pioneer-challenge-32-2024-11-1412705985"
   },
   "Decks": [
     {
@@ -4401,7 +4398,58 @@
       ]
     }
   ],
-  "Rounds": [],
+  "Rounds": [
+    {
+      "RoundName": "Quarterfinals",
+      "Matches": [
+        {
+          "Player1": "_IlNano_",
+          "Player2": "PNascimento",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Graciasportanto",
+          "Player2": "SomeborY",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SpockVidaLoka",
+          "Player2": "Chichichi",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "manalacaio",
+          "Player2": "Gul_Dukat",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Semifinals",
+      "Matches": [
+        {
+          "Player1": "Graciasportanto",
+          "Player2": "SpockVidaLoka",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "manalacaio",
+          "Player2": "_IlNano_",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Finals",
+      "Matches": [
+        {
+          "Player1": "Graciasportanto",
+          "Player2": "manalacaio",
+          "Result": "2-0-0"
+        }
+      ]
+    }
+  ],
   "Standings": [
     {
       "Rank": 1,

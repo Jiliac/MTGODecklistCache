@@ -1,11 +1,8 @@
 {
   "Tournament": {
-    "Id": 0,
     "Date": "2024-11-24T00:00:00Z",
     "Name": "Standard Challenge 32",
-    "Uri": "https://www.mtgo.com/decklist/standard-challenge-32-2024-11-2412706786",
-    "JsonFile": null,
-    "ForceRedownload": false
+    "Uri": "https://www.mtgo.com/decklist/standard-challenge-32-2024-11-2412706786"
   },
   "Decks": [
     {
@@ -3845,7 +3842,58 @@
       ]
     }
   ],
-  "Rounds": [],
+  "Rounds": [
+    {
+      "RoundName": "Quarterfinals",
+      "Matches": [
+        {
+          "Player1": "Nammersquats",
+          "Player2": "L1X0",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "MJ_23",
+          "Player2": "scoutscodemfko",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "XantosCell",
+          "Player2": "LucasG1ggs",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "cftsoc3",
+          "Player2": "Kampo",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Semifinals",
+      "Matches": [
+        {
+          "Player1": "Nammersquats",
+          "Player2": "cftsoc3",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "XantosCell",
+          "Player2": "MJ_23",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Finals",
+      "Matches": [
+        {
+          "Player1": "Nammersquats",
+          "Player2": "XantosCell",
+          "Result": "2-1-0"
+        }
+      ]
+    }
+  ],
   "Standings": [
     {
       "Rank": 1,
