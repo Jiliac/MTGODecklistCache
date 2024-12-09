@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2024-11-30T00:00:00Z",
     "Name": "Legacy Challenge 32",
-    "Uri": "https://www.mtgo.com/decklist/legacy-challenge-32-2024-11-3012708901"
+    "Uri": "https://www.mtgo.com/decklist/legacy-challenge-32-2024-11-3012708901",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -4276,47 +4279,532 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
+      "Matches": [
+        {
+          "Player1": "Stanshine",
+          "Player2": "pino",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "TonyScapone",
+          "Player2": "SiL3nTGoaT",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "FarmerLGG",
+          "Player2": "EdwardKenway",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "utley26",
+          "Player2": "Cachorrowo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jnickerson",
+          "Player2": "DMianete",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "JPA93",
+          "Player2": "wakarock",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "hugofreitas1",
+          "Player2": "fuya",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Shatun_",
+          "Player2": "ecobaronen",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Bugsy69",
+          "Player2": "PierrePoilievre2025",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SHAKELION",
+          "Player2": "Hammafist",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "TheMagePower",
+          "Player2": "Asa_Akira",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "vmana",
+          "Player2": "_J0SE_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Entropy263",
+          "Player2": "Bezerra_da_Silva",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "BazaarOfBagDaddy",
+          "Player2": "Sapphire-Star",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "OrangeBarf",
+          "Player2": "choutin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_INF_",
+          "Player2": "GzusReturned",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "AChord4Five",
+          "Player2": "GoblinElder",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
       "Matches": [
         {
           "Player1": "hugofreitas1",
-          "Player2": "utley26",
+          "Player2": "Hammafist",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Sapphire-Star",
+          "Player2": "GoblinElder",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Entropy263",
+          "Player2": "TonyScapone",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Bezerra_da_Silva",
+          "Player2": "EdwardKenway",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Shatun_",
+          "Player2": "SHAKELION",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Cachorrowo",
+          "Player2": "AChord4Five",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Bugsy69",
+          "Player2": "_J0SE_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "PierrePoilievre2025",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_INF_",
+          "Player2": "SiL3nTGoaT",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "GzusReturned",
+          "Player2": "Asa_Akira",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "JPA93",
+          "Player2": "pino",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "OrangeBarf",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Stanshine",
+          "Player2": "wakarock",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "utley26",
+          "Player2": "JamesKisau",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jnickerson",
+          "Player2": "TheMagePower",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "FarmerLGG",
+          "Player2": "DMianete",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "fuya",
+          "Player2": "BazaarOfBagDaddy",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "choutin",
+          "Player2": "pino",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TonyScapone",
+          "Player2": "Bugsy69",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JamesKisau",
+          "Player2": "DMianete",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TheMagePower",
+          "Player2": "Entropy263",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "vmana",
+          "Player2": "Bezerra_da_Silva",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Stanshine",
+          "Player2": "Hammafist",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "OrangeBarf",
+          "Player2": "_J0SE_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "fuya",
+          "Player2": "PierrePoilievre2025",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "utley26",
+          "Player2": "hugofreitas1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JPA93",
+          "Player2": "Asa_Akira",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "FarmerLGG",
+          "Player2": "SiL3nTGoaT",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "SHAKELION",
+          "Player2": "Cachorrowo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "AChord4Five",
+          "Player2": "EdwardKenway",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "_Shatun_",
+          "Player2": "BazaarOfBagDaddy",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "GzusReturned",
+          "Player2": "GoblinElder",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "Sapphire-Star",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "JPA93",
+          "Player2": "TonyScapone",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Shatun_",
+          "Player2": "pino",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "hugofreitas1",
+          "Player2": "SiL3nTGoaT",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Cachorrowo",
+          "Player2": "Bezerra_da_Silva",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "JamesKisau",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DMianete",
+          "Player2": "_J0SE_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TheMagePower",
+          "Player2": "Stanshine",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "GzusReturned",
+          "Player2": "PierrePoilievre2025",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Entropy263",
+          "Player2": "AChord4Five",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "utley26",
+          "Player2": "Sapphire-Star",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "fuya",
+          "Player2": "choutin",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "vmana",
+          "Player2": "BazaarOfBagDaddy",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "SHAKELION",
+          "Player2": "GoblinElder",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "FarmerLGG",
+          "Player2": "_INF_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Bugsy69",
+          "Player2": "Asa_Akira",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "FarmerLGG",
+          "Player2": "vmana",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "fuya",
+          "Player2": "EdwardKenway",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Sapphire-Star",
+          "Player2": "GzusReturned",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_J0SE_",
+          "Player2": "GoblinElder",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "hugofreitas1",
+          "Player2": "Cachorrowo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "TheMagePower",
+          "Player2": "choutin",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Entropy263",
+          "Player2": "BazaarOfBagDaddy",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Stanshine",
+          "Player2": "JamesKisau",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Bugsy69",
+          "Player2": "SiL3nTGoaT",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "JPA93",
+          "Player2": "DMianete",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_INF_",
+          "Player2": "Bezerra_da_Silva",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Asa_Akira",
+          "Player2": "PierrePoilievre2025",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "TonyScapone",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "utley26",
+          "Player2": "pino",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "vmana",
+          "Player2": "SiL3nTGoaT",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "BazaarOfBagDaddy",
+          "Player2": "EdwardKenway",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "hugofreitas1",
+          "Player2": "_J0SE_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Stanshine",
+          "Player2": "PierrePoilievre2025",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_INF_",
+          "Player2": "choutin",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "JamesKisau",
+          "Player2": "Asa_Akira",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "pino",
+          "Player2": "GoblinElder",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "utley26",
+          "Player2": "TonyScapone",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DMianete",
+          "Player2": "Sapphire-Star",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TheMagePower",
+          "Player2": "Bugsy69",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "JPA93",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Entropy263",
+          "Player2": "Cachorrowo",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "Matches": [
+        {
+          "Player1": "JPA93",
+          "Player2": "Cachorrowo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "utley26",
+          "Player2": "hugofreitas1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "JamesKisau",
           "Result": "2-0-0"
         },
         {
           "Player1": "TonyScapone",
           "Player2": "Asa_Akira",
           "Result": "2-0-0"
-        },
-        {
-          "Player1": "Cachorrowo",
-          "Player2": "JPA93",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "ecobaronen",
-          "Player2": "JamesKisau",
-          "Result": "2-1-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 8",
       "Matches": [
         {
-          "Player1": "TonyScapone",
-          "Player2": "hugofreitas1",
-          "Result": "2-1-0"
+          "Player1": "ecobaronen",
+          "Player2": "Cachorrowo",
+          "Result": "0-2-0"
         },
         {
-          "Player1": "Cachorrowo",
-          "Player2": "ecobaronen",
-          "Result": "2-1-0"
+          "Player1": "hugofreitas1",
+          "Player2": "TonyScapone",
+          "Result": "0-2-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 9",
       "Matches": [
         {
           "Player1": "TonyScapone",

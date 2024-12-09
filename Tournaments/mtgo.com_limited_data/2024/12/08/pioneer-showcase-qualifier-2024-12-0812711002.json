@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2024-12-08T00:00:00Z",
     "Name": "Pioneer Showcase Qualifier",
-    "Uri": "https://www.mtgo.com/decklist/pioneer-showcase-qualifier-2024-12-0812711002"
+    "Uri": "https://www.mtgo.com/decklist/pioneer-showcase-qualifier-2024-12-0812711002",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -4208,52 +4211,557 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
-          "Player1": "Summer_Bloom",
-          "Player2": "duke12",
+          "Player1": "Cachorrowo",
+          "Player2": "Preparation",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "ura_frst",
+          "Player2": "Gitaxian_Probe",
           "Result": "2-0-0"
         },
         {
-          "Player1": "mcwright_",
+          "Player1": "ThaisM",
+          "Player2": "lunaloveee",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "alicoco",
+          "Player2": "RNAPBP1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "L1X0",
+          "Player2": "Hamuda",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "Mathilde8",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "duke12",
+          "Player2": "Summer_Bloom",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "kcomedina",
+          "Player2": "Darthkid",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "BERNASTORRES",
+          "Player2": "MCScards",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "levunga21",
+          "Player2": "Devoured",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_IlNano_",
+          "Player2": "JUJUBEAN__2004",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "TheManLand",
+          "Player2": "FerMTG",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "RNGspecialist",
+          "Player2": "hyyy1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_lluks_",
           "Player2": "eresopacaso",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Stream",
+          "Player2": "MadMaxErnst",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "TheRatZoo",
+          "Player2": "mcwright_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "tzio",
+          "Player2": "esmyth",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "msskinbolic",
+          "Player2": "boytriton",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "TheRatZoo",
+          "Player2": "boytriton",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "tzio",
+          "Player2": "336767332971",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "duke12",
+          "Player2": "levunga21",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ura_frst",
+          "Player2": "hyyy1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Stream",
+          "Player2": "lunaloveee",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "RNAPBP1",
+          "Player2": "Summer_Bloom",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Devoured",
+          "Player2": "Mathilde8",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Darthkid",
+          "Player2": "JUJUBEAN__2004",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_IlNano_",
+          "Player2": "TheManLand",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "BERNASTORRES",
+          "Player2": "Gitaxian_Probe",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "mcwright_",
+          "Player2": "ThaisM",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Hamuda",
+          "Player2": "Cachorrowo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "RNGspecialist",
+          "Player2": "Preparation",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "msskinbolic",
+          "Player2": "eresopacaso",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "L1X0",
+          "Player2": "MCScards",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "MadMaxErnst",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "alicoco",
+          "Player2": "FerMTG",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kcomedina",
+          "Player2": "_lluks_",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "BERNASTORRES",
+          "Player2": "ThaisM",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "RNAPBP1",
+          "Player2": "TheRatZoo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Gitaxian_Probe",
+          "Player2": "Mathilde8",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MCScards",
+          "Player2": "JUJUBEAN__2004",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "TheManLand",
+          "Player2": "Cachorrowo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "tzio",
+          "Player2": "msskinbolic",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "Summer_Bloom",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Darthkid",
+          "Player2": "FerMTG",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Hamuda",
+          "Player2": "Devoured",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MadMaxErnst",
+          "Player2": "336767332971",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ura_frst",
+          "Player2": "Preparation",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "alicoco",
+          "Player2": "kcomedina",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "duke12",
+          "Player2": "hyyy1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "eresopacaso",
+          "Player2": "mcwright_",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "RNGspecialist",
+          "Player2": "lunaloveee",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "L1X0",
+          "Player2": "boytriton",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "levunga21",
+          "Player2": "esmyth",
+          "Result": "0-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "Hamuda",
+          "Player2": "Preparation",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "BERNASTORRES",
+          "Player2": "RNAPBP1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "_lluks_",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "duke12",
+          "Player2": "boytriton",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "ThaisM",
+          "Player2": "Mathilde8",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "levunga21",
+          "Player2": "TheManLand",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "tzio",
+          "Player2": "ura_frst",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "RNGspecialist",
+          "Player2": "Cachorrowo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kcomedina",
+          "Player2": "lunaloveee",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "esmyth",
+          "Player2": "MCScards",
           "Result": "2-0-0"
         },
         {
           "Player1": "FerMTG",
+          "Player2": "hyyy1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Darthkid",
+          "Player2": "eresopacaso",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "alicoco",
+          "Player2": "336767332971",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "mcwright_",
           "Player2": "MadMaxErnst",
-          "Result": "2-1-0"
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "L1X0",
+          "Player2": "msskinbolic",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "JUJUBEAN__2004",
+          "Player2": "Summer_Bloom",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "ura_frst",
+          "Player2": "Darthkid",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "lunaloveee",
+          "Player2": "Devoured",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "eresopacaso",
+          "Player2": "RNGspecialist",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Hamuda",
+          "Player2": "boytriton",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "levunga21",
+          "Player2": "_lluks_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MCScards",
+          "Player2": "RNAPBP1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MadMaxErnst",
+          "Player2": "hyyy1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "mcwright_",
+          "Player2": "FerMTG",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "duke12",
+          "Player2": "Mathilde8",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JUJUBEAN__2004",
+          "Player2": "Cachorrowo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "tzio",
+          "Player2": "Summer_Bloom",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kcomedina",
+          "Player2": "msskinbolic",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "esmyth",
+          "Player2": "336767332971",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "alicoco",
+          "Player2": "ThaisM",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "msskinbolic",
+          "Player2": "MCScards",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "alicoco",
+          "Player2": "_lluks_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "levunga21",
+          "Player2": "Darthkid",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "esmyth",
+          "Player2": "Mathilde8",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "eresopacaso",
+          "Player2": "hyyy1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "RNGspecialist",
+          "Player2": "JUJUBEAN__2004",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "FerMTG",
+          "Player2": "336767332971",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ura_frst",
+          "Player2": "boytriton",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "Devoured",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "duke12",
+          "Player2": "ThaisM",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MadMaxErnst",
+          "Player2": "Summer_Bloom",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "tzio",
+          "Player2": "mcwright_",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "Matches": [
+        {
+          "Player1": "MadMaxErnst",
+          "Player2": "FerMTG",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "duke12",
+          "Player2": "Summer_Bloom",
+          "Result": "0-2-0"
         },
         {
           "Player1": "hyyy1",
           "Player2": "336767332971",
-          "Result": "2-1-0"
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "eresopacaso",
+          "Player2": "mcwright_",
+          "Result": "0-2-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 8",
       "Matches": [
+        {
+          "Player1": "hyyy1",
+          "Player2": "Summer_Bloom",
+          "Result": "2-0-0"
+        },
         {
           "Player1": "mcwright_",
           "Player2": "FerMTG",
           "Result": "2-0-0"
-        },
-        {
-          "Player1": "hyyy1",
-          "Player2": "Summer_Bloom",
-          "Result": "2-1-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 9",
       "Matches": [
         {
           "Player1": "mcwright_",
           "Player2": "hyyy1",
-          "Result": "2-1-0"
+          "Result": "2-0-0"
         }
       ]
     }

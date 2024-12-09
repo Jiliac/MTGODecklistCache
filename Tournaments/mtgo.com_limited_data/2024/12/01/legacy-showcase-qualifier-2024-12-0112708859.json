@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2024-12-01T00:00:00Z",
     "Name": "Legacy Showcase Qualifier",
-    "Uri": "https://www.mtgo.com/decklist/legacy-showcase-qualifier-2024-12-0112708859"
+    "Uri": "https://www.mtgo.com/decklist/legacy-showcase-qualifier-2024-12-0112708859",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -4200,52 +4203,447 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
-          "Player1": "jtl005",
-          "Player2": "PintuMtg",
+          "Player1": "AFX",
+          "Player2": "Xenowan",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "TellKou",
+          "Player2": "FreeEducation",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "l337erhosen",
+          "Player2": "fatumi",
           "Result": "2-0-0"
         },
         {
-          "Player1": "FreeEducation",
+          "Player1": "_Batutinha_",
+          "Player2": "hundinggjornersen",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "lazerbeam",
+          "Player2": "wonderPreaux",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "acydcytryk",
+          "Player2": "JPA93",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Joseba_",
+          "Player2": "LAURI_PROTOUR",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "dani_tb",
+          "Player2": "Cachorrowo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "pepeteam",
+          "Player2": "jtl005",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "WeareVenom",
+          "Player2": "jade-venus",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "aManatease",
+          "Player2": "Pvnisher",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "BERNASTORRES",
+          "Player2": "Manahandler",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "fj_rodman",
+          "Player2": "PintuMtg",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "lampalot",
+          "Player2": "Oceansoul92",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "gatekappa",
+          "Player2": "336767332971",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "OafMcNamara",
           "Player2": "Enrichetta",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "acydcytryk",
+          "Player2": "Xenowan",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "BERNASTORRES",
+          "Player2": "Pvnisher",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "lampalot",
+          "Player2": "hundinggjornersen",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Oceansoul92",
+          "Player2": "Enrichetta",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "l337erhosen",
+          "Player2": "FreeEducation",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "fj_rodman",
+          "Player2": "336767332971",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "OafMcNamara",
+          "Player2": "JPA93",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "lazerbeam",
+          "Player2": "TellKou",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "WeareVenom",
+          "Player2": "fatumi",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "jtl005",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "aManatease",
+          "Player2": "jade-venus",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "wonderPreaux",
+          "Player2": "_Joseba_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "dani_tb",
+          "Player2": "gatekappa",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "PintuMtg",
+          "Player2": "Manahandler",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "pepeteam",
+          "Player2": "Cachorrowo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "AFX",
+          "Player2": "LAURI_PROTOUR",
+          "Result": "0-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "gatekappa",
+          "Player2": "FreeEducation",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "fj_rodman",
+          "Player2": "BERNASTORRES",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "lampalot",
+          "Player2": "wonderPreaux",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "dani_tb",
+          "Player2": "jade-venus",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "OafMcNamara",
+          "Player2": "WeareVenom",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "PintuMtg",
+          "Player2": "aManatease",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "acydcytryk",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "AFX",
+          "Player2": "hundinggjornersen",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Oceansoul92",
+          "Player2": "pepeteam",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Manahandler",
+          "Player2": "fatumi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "lazerbeam",
+          "Player2": "JPA93",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jtl005",
+          "Player2": "_Joseba_",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Xenowan",
+          "Player2": "Enrichetta",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Cachorrowo",
+          "Player2": "336767332971",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "l337erhosen",
+          "Player2": "LAURI_PROTOUR",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "OafMcNamara",
+          "Player2": "AFX",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "JPA93",
+          "Player2": "pepeteam",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "dani_tb",
+          "Player2": "aManatease",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "PintuMtg",
+          "Player2": "jtl005",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "acydcytryk",
+          "Player2": "_Joseba_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "hundinggjornersen",
+          "Player2": "336767332971",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Cachorrowo",
+          "Player2": "LAURI_PROTOUR",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "wonderPreaux",
+          "Player2": "Oceansoul92",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "fatumi",
+          "Player2": "jade-venus",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "lazerbeam",
+          "Player2": "FreeEducation",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "WeareVenom",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Manahandler",
+          "Player2": "Enrichetta",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "l337erhosen",
+          "Player2": "BERNASTORRES",
           "Result": "2-0-0"
         },
         {
           "Player1": "Xenowan",
           "Player2": "gatekappa",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "aManatease",
-          "Player2": "Oceansoul92",
-          "Result": "2-1-0"
-        }
-      ]
-    },
-    {
-      "RoundName": "Semifinals",
-      "Matches": [
-        {
-          "Player1": "aManatease",
-          "Player2": "jtl005",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "FreeEducation",
-          "Player2": "Xenowan",
-          "Result": "2-1-0"
-        }
-      ]
-    },
-    {
-      "RoundName": "Finals",
-      "Matches": [
-        {
-          "Player1": "FreeEducation",
-          "Player2": "aManatease",
           "Result": "2-0-0"
+        },
+        {
+          "Player1": "lampalot",
+          "Player2": "fj_rodman",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "fj_rodman",
+          "Player2": "LAURI_PROTOUR",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "JPA93",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "acydcytryk",
+          "Player2": "Manahandler",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "PintuMtg",
+          "Player2": "Xenowan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "fatumi",
+          "Player2": "336767332971",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Oceansoul92",
+          "Player2": "gatekappa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "aManatease",
+          "Player2": "_Joseba_",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "jtl005",
+          "Player2": "FreeEducation",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "BERNASTORRES",
+          "Player2": "jade-venus",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "l337erhosen",
+          "Player2": "Enrichetta",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "dani_tb",
+          "Player2": "wonderPreaux",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "lazerbeam",
+          "Player2": "AFX",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "Xenowan",
+          "Player2": "gatekappa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "PintuMtg",
+          "Player2": "jtl005",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Enrichetta",
+          "Player2": "FreeEducation",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Oceansoul92",
+          "Player2": "aManatease",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "Matches": [
+        {
+          "Player1": "Xenowan",
+          "Player2": "FreeEducation",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "jtl005",
+          "Player2": "aManatease",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "Matches": [
+        {
+          "Player1": "aManatease",
+          "Player2": "FreeEducation",
+          "Result": "0-2-0"
         }
       ]
     }
@@ -4589,7 +4987,7 @@
       "Losses": 2,
       "Draws": 0,
       "OMWP": 0.6,
-      "GWP": 0.0,
+      "GWP": 0,
       "OGWP": 0.5152
     },
     {

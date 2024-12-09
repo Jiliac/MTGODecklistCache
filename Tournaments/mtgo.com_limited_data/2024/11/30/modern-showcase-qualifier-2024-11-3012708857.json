@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2024-11-30T00:00:00Z",
     "Name": "Modern Showcase Qualifier",
-    "Uri": "https://www.mtgo.com/decklist/modern-showcase-qualifier-2024-11-3012708857"
+    "Uri": "https://www.mtgo.com/decklist/modern-showcase-qualifier-2024-11-3012708857",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -4208,52 +4211,562 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
-          "Player1": "pedrogush",
-          "Player2": "kanister",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "johnmtg",
+          "Player1": "PintuMtg",
           "Player2": "toondoslav",
-          "Result": "2-0-0"
+          "Result": "0-2-0"
         },
         {
           "Player1": "Nammersquats",
-          "Player2": "BONK101",
+          "Player2": "azax",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Matti",
+          "Player2": "TokaraStrait",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Scandimaniac",
+          "Player2": "MTGMoneyMaker",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "Gitaxian_Probe",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Aiteth",
+          "Player2": "FerMTG",
           "Result": "2-0-0"
         },
         {
           "Player1": "Cachorrowo",
-          "Player2": "336767332971",
-          "Result": "2-1-0"
-        }
-      ]
-    },
-    {
-      "RoundName": "Semifinals",
-      "Matches": [
-        {
-          "Player1": "pedrogush",
-          "Player2": "Cachorrowo",
-          "Result": "2-1-0"
+          "Player2": "amin0e",
+          "Result": "2-0-0"
         },
         {
-          "Player1": "johnmtg",
-          "Player2": "Nammersquats",
+          "Player1": "kanister",
+          "Player2": "MikeyCoppola365",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Gerardo94",
+          "Player2": "Giltspire",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "E_Kaminuma",
+          "Player2": "Deskbot000",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Oscar_Franco",
+          "Player2": "336767332971",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "d_peliser",
+          "Player2": "johnmtg",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "aspiringspike",
+          "Player2": "TheManLand",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "BERNASTORRES",
+          "Player2": "BONK101",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "komattaman",
+          "Player2": "RespectTheCat",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "zarbo",
+          "Player2": "416FrowningTable",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ScreenwriterNY",
+          "Player2": "marceliiine",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Joseba_",
+          "Player2": "werhsdnas1414",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "KingHairy",
+          "Player2": "pedrogush",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Hamuda",
+          "Player2": "Flamel88",
           "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 2",
       "Matches": [
         {
-          "Player1": "johnmtg",
+          "Player1": "416FrowningTable",
+          "Player2": "amin0e",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Gerardo94",
+          "Player2": "MikeyCoppola365",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Matti",
+          "Player2": "E_Kaminuma",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "zarbo",
           "Player2": "pedrogush",
-          "Result": "2-1-0"
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "FerMTG",
+          "Player2": "Deskbot000",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Aiteth",
+          "Player2": "komattaman",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ScreenwriterNY",
+          "Player2": "Hamuda",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Oscar_Franco",
+          "Player2": "MTGMoneyMaker",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "BERNASTORRES",
+          "Player2": "azax",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "d_peliser",
+          "Player2": "marceliiine",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "PintuMtg",
+          "Player2": "TokaraStrait",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Nammersquats",
+          "Player2": "Giltspire",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "johnmtg",
+          "Player2": "336767332971",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "toondoslav",
+          "Player2": "werhsdnas1414",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Joseba_",
+          "Player2": "Flamel88",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Scandimaniac",
+          "Player2": "TheManLand",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "BONK101",
+          "Player2": "Gitaxian_Probe",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kanister",
+          "Player2": "Cachorrowo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "aspiringspike",
+          "Player2": "RespectTheCat",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "KingHairy",
+          "Result": "0-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "Matti",
+          "Player2": "azax",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kanister",
+          "Player2": "FerMTG",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "aspiringspike",
+          "Player2": "werhsdnas1414",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Aiteth",
+          "Player2": "KingHairy",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "336767332971",
+          "Player2": "Flamel88",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "MikeyCoppola365",
+          "Player2": "RespectTheCat",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Nammersquats",
+          "Player2": "komattaman",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Scandimaniac",
+          "Player2": "Gitaxian_Probe",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Gerardo94",
+          "Player2": "amin0e",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Cachorrowo",
+          "Player2": "pedrogush",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "PintuMtg",
+          "Player2": "ScreenwriterNY",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "toondoslav",
+          "Player2": "E_Kaminuma",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Oscar_Franco",
+          "Player2": "BONK101",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "zarbo",
+          "Player2": "TheManLand",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Hamuda",
+          "Player2": "johnmtg",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Giltspire",
+          "Player2": "marceliiine",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "Deskbot000",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "Giltspire",
+          "Player2": "amin0e",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "komattaman",
+          "Player2": "Hamuda",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "pedrogush",
+          "Player2": "johnmtg",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Deskbot000",
+          "Player2": "werhsdnas1414",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Scandimaniac",
+          "Player2": "zarbo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "aspiringspike",
+          "Player2": "kanister",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "marceliiine",
+          "Player2": "336767332971",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "PintuMtg",
+          "Player2": "Flamel88",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Gerardo94",
+          "Player2": "Cachorrowo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Aiteth",
+          "Player2": "ScreenwriterNY",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Oscar_Franco",
+          "Player2": "RespectTheCat",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "toondoslav",
+          "Player2": "Gitaxian_Probe",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Nammersquats",
+          "Player2": "E_Kaminuma",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Matti",
+          "Player2": "BONK101",
+          "Result": "0-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "Nammersquats",
+          "Player2": "Flamel88",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "Giltspire",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "pedrogush",
+          "Player2": "BONK101",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "336767332971",
+          "Player2": "Gitaxian_Probe",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "aspiringspike",
+          "Player2": "Gerardo94",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Oscar_Franco",
+          "Player2": "Hamuda",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kanister",
+          "Player2": "ScreenwriterNY",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "marceliiine",
+          "Player2": "werhsdnas1414",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "toondoslav",
+          "Player2": "johnmtg",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "E_Kaminuma",
+          "Player2": "Cachorrowo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Matti",
+          "Player2": "amin0e",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Scandimaniac",
+          "Player2": "komattaman",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Aiteth",
+          "Player2": "zarbo",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "Scandimaniac",
+          "Player2": "BONK101",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Aiteth",
+          "Player2": "Mogged",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Matti",
+          "Player2": "ScreenwriterNY",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "E_Kaminuma",
+          "Player2": "pedrogush",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Cachorrowo",
+          "Player2": "336767332971",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Hamuda",
+          "Player2": "Gitaxian_Probe",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Deskbot000",
+          "Player2": "Flamel88",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Gerardo94",
+          "Player2": "marceliiine",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "zarbo",
+          "Player2": "komattaman",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Nammersquats",
+          "Player2": "johnmtg",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kanister",
+          "Player2": "toondoslav",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "amin0e",
+          "Player2": "werhsdnas1414",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "Matches": [
+        {
+          "Player1": "Cachorrowo",
+          "Player2": "336767332971",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "toondoslav",
+          "Player2": "johnmtg",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kanister",
+          "Player2": "pedrogush",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Nammersquats",
+          "Player2": "BONK101",
+          "Result": "0-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "Matches": [
+        {
+          "Player1": "Nammersquats",
+          "Player2": "johnmtg",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Cachorrowo",
+          "Player2": "pedrogush",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 9",
+      "Matches": [
+        {
+          "Player1": "pedrogush",
+          "Player2": "johnmtg",
+          "Result": "0-2-0"
         }
       ]
     }

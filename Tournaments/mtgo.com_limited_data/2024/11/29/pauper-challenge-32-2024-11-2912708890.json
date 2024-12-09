@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2024-11-29T00:00:00Z",
     "Name": "Pauper Challenge 32",
-    "Uri": "https://www.mtgo.com/decklist/pauper-challenge-32-2024-11-2912708890"
+    "Uri": "https://www.mtgo.com/decklist/pauper-challenge-32-2024-11-2912708890",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -3568,47 +3571,597 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
-          "Player1": "discoverN",
+          "Player1": "Jinjaa",
           "Player2": "outZEROo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Gobern",
+          "Player2": "DobleP",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "discoverN",
+          "Player2": "Starlliege",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "True-Name-Nemesis",
+          "Player2": "PNascimento",
           "Result": "2-0-0"
         },
         {
-          "Player1": "Tyerube1618",
-          "Player2": "LuffyDoChapeuDePalha",
-          "Result": "2-1-0"
+          "Player1": "Venga",
+          "Player2": "Marmotte_Lambda",
+          "Result": "2-0-0"
         },
+        {
+          "Player1": "othavirium",
+          "Player2": "Hamuda",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "carrot_eater",
+          "Player2": "Luminati",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "Viatt",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "BERNASTORRES",
+          "Player2": "NMT_Sco94",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Terminus0",
+          "Player2": "JTlemmon",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Entropy263",
+          "Player2": "cicciogire",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "Xuxa",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "sai199orz",
+          "Player2": "barff",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "3draw_TANO",
+          "Player2": "HobbyHorstorian",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "IL_COSCA",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SpockVidaLoka",
+          "Player2": "PedraStone",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "carvs",
+          "Player2": "NickNorman",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LuffyDoChapeuDePalha",
+          "Player2": "Tyerube1618",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "CooperTheRed",
+          "Player2": "ganjadejanga",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "pat0presidente",
+          "Player2": "Burek",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
         {
           "Player1": "carvs",
           "Player2": "Luminati",
           "Result": "2-0-0"
         },
         {
-          "Player1": "Beicodegeia",
-          "Player2": "Xuxa",
-          "Result": "2-1-0"
+          "Player1": "cicciogire",
+          "Player2": "barff",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jinjaa",
+          "Player2": "Burek",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "sai199orz",
+          "Player2": "Entropy263",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Terminus0",
+          "Player2": "LuffyDoChapeuDePalha",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Venga",
+          "Player2": "True-Name-Nemesis",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JTlemmon",
+          "Player2": "Marmotte_Lambda",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Xuxa",
+          "Player2": "outZEROo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "carrot_eater",
+          "Player2": "Hamuda",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "IL_COSCA",
+          "Player2": "HobbyHorstorian",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "pat0presidente",
+          "Player2": "Beicodegeia",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Gobern",
+          "Player2": "Viatt",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "DobleP",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "ganjadejanga",
+          "Player2": "Starlliege",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "PedraStone",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Tyerube1618",
+          "Player2": "PNascimento",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "BERNASTORRES",
+          "Player2": "CooperTheRed",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "NickNorman",
+          "Player2": "NMT_Sco94",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SpockVidaLoka",
+          "Player2": "3draw_TANO",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "discoverN",
+          "Player2": "othavirium",
+          "Result": "0-2-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "JTlemmon",
+          "Player2": "PedraStone",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "pat0presidente",
+          "Player2": "Starlliege",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "CooperTheRed",
+          "Player2": "Mogged",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "discoverN",
+          "Player2": "NickNorman",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Marmotte_Lambda",
+          "Player2": "3draw_TANO",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jinjaa",
+          "Player2": "Tyerube1618",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Xuxa",
+          "Player2": "HobbyHorstorian",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Venga",
+          "Player2": "DobleP",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "carrot_eater",
+          "Player2": "True-Name-Nemesis",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "cicciogire",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Terminus0",
+          "Player2": "Luminati",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "carvs",
+          "Player2": "barff",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Hamuda",
+          "Player2": "Burek",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Entropy263",
+          "Player2": "Gobern",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "LuffyDoChapeuDePalha",
+          "Player2": "SpockVidaLoka",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "NMT_Sco94",
+          "Player2": "PNascimento",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "BERNASTORRES",
+          "Player2": "outZEROo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "othavirium",
+          "Player2": "Beicodegeia",
+          "Result": "0-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "Entropy263",
+          "Player2": "Jinjaa",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "NickNorman",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "outZEROo",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Terminus0",
+          "Player2": "Starlliege",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "pat0presidente",
+          "Player2": "cicciogire",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Gobern",
+          "Player2": "barff",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "carrot_eater",
+          "Player2": "3draw_TANO",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "discoverN",
+          "Player2": "SpockVidaLoka",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "CooperTheRed",
+          "Player2": "Luminati",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Xuxa",
+          "Player2": "LuffyDoChapeuDePalha",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "PedraStone",
+          "Player2": "PNascimento",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "True-Name-Nemesis",
+          "Player2": "JTlemmon",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "BERNASTORRES",
+          "Player2": "Tyerube1618",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "othavirium",
+          "Player2": "DobleP",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Marmotte_Lambda",
+          "Player2": "HobbyHorstorian",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Venga",
+          "Player2": "carvs",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "Hamuda",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "Hamuda",
+          "Player2": "SpockVidaLoka",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "othavirium",
+          "Player2": "PNascimento",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Tyerube1618",
+          "Player2": "DobleP",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "carvs",
+          "Player2": "outZEROo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "discoverN",
+          "Player2": "Xuxa",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "LuffyDoChapeuDePalha",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "BERNASTORRES",
+          "Player2": "Gobern",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "NickNorman",
+          "Player2": "3draw_TANO",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "carrot_eater",
+          "Player2": "Starlliege",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "cicciogire",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jinjaa",
+          "Player2": "True-Name-Nemesis",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "CooperTheRed",
+          "Player2": "HobbyHorstorian",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "pat0presidente",
+          "Player2": "barff",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "Marmotte_Lambda",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Venga",
+          "Player2": "Luminati",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "Luminati",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "discoverN",
+          "Player2": "cicciogire",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "carrot_eater",
+          "Player2": "othavirium",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Hamuda",
+          "Player2": "True-Name-Nemesis",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Gobern",
+          "Player2": "PNascimento",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "carvs",
+          "Player2": "Xuxa",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Venga",
+          "Player2": "LuffyDoChapeuDePalha",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "BERNASTORRES",
+          "Player2": "NickNorman",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jinjaa",
+          "Player2": "DobleP",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "3draw_TANO",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "SpockVidaLoka",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "barff",
+          "Player2": "Starlliege",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "pat0presidente",
+          "Player2": "CooperTheRed",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Tyerube1618",
+          "Player2": "outZEROo",
+          "Result": "0-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "Matches": [
+        {
+          "Player1": "carvs",
+          "Player2": "Luminati",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Xuxa",
+          "Player2": "Beicodegeia",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "discoverN",
+          "Player2": "outZEROo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LuffyDoChapeuDePalha",
+          "Player2": "Tyerube1618",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
       "Matches": [
         {
           "Player1": "Beicodegeia",
           "Player2": "Tyerube1618",
-          "Result": "2-1-0"
+          "Result": "2-0-0"
         },
         {
-          "Player1": "carvs",
-          "Player2": "discoverN",
-          "Result": "2-0-0"
+          "Player1": "discoverN",
+          "Player2": "carvs",
+          "Result": "0-2-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 9",
       "Matches": [
         {
           "Player1": "carvs",

@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2024-12-07T00:00:00Z",
     "Name": "Modern Challenge 32",
-    "Uri": "https://www.mtgo.com/decklist/modern-challenge-32-2024-12-0712711051"
+    "Uri": "https://www.mtgo.com/decklist/modern-challenge-32-2024-12-0712711051",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -4308,52 +4311,442 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
-          "Player1": "MTGMoneyMaker",
-          "Player2": "_Joseba_",
+          "Player1": "medvedev",
+          "Player2": "nahuel10",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "txepi",
+          "Player2": "soggymeatball",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "sokos13",
+          "Player2": "MeninooNey",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "jvidarte",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JustAnotherGuy83",
+          "Player2": "Selir",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "virp",
+          "Player2": "CaboGrosso",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Shatun_",
+          "Player2": "SvenSveeterSven",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Delve3",
+          "Player2": "MTGMoneyMaker",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Kumezz",
+          "Player2": "Preparation",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "komattaman",
+          "Player2": "GreyMerchant",
           "Result": "2-0-0"
         },
         {
           "Player1": "steelleaf51",
+          "Player2": "_Joseba_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ipbanned",
+          "Player2": "Callenutg1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Capriccioso",
+          "Player2": "FranMtg",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Kurusu",
+          "Player2": "MacKDaddyyy",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "ShadowTitan1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "maear",
+          "Player2": "Juintatz",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "Capriccioso",
+          "Player2": "ShadowTitan1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "steelleaf51",
+          "Player2": "maear",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "Callenutg1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "GreyMerchant",
+          "Player2": "Selir",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "soggymeatball",
+          "Player2": "MeninooNey",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Shatun_",
+          "Player2": "nahuel10",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "komattaman",
+          "Player2": "Juintatz",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "txepi",
+          "Player2": "Kumezz",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "FranMtg",
+          "Player2": "Delve3",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "CaboGrosso",
           "Player2": "medvedev",
-          "Result": "2-1-0"
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "sokos13",
+          "Player2": "SvenSveeterSven",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Joseba_",
+          "Player2": "JustAnotherGuy83",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Kurusu",
+          "Player2": "jvidarte",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "MTGMoneyMaker",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MacKDaddyyy",
+          "Player2": "ipbanned",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "virp",
+          "Player2": "Preparation",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "ipbanned",
+          "Player2": "_Joseba_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Capriccioso",
+          "Player2": "_Shatun_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "sokos13",
+          "Player2": "Kurusu",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "txepi",
+          "Player2": "nahuel10",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Preparation",
+          "Player2": "MeninooNey",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "soggymeatball",
+          "Player2": "komattaman",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "FranMtg",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Kumezz",
+          "Player2": "Callenutg1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "ShadowTitan1",
+          "Result": "2-0-0"
         },
         {
           "Player1": "Juintatz",
-          "Player2": "_Shatun_",
-          "Result": "2-1-0"
+          "Player2": "MTGMoneyMaker",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MacKDaddyyy",
+          "Player2": "Selir",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "SvenSveeterSven",
+          "Player2": "GreyMerchant",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "steelleaf51",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Delve3",
+          "Player2": "CaboGrosso",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "virp",
+          "Player2": "JustAnotherGuy83",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "steelleaf51",
+          "Player2": "MeninooNey",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "ipbanned",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Joseba_",
+          "Player2": "Preparation",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "komattaman",
+          "Player2": "Selir",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "txepi",
+          "Player2": "virp",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Shatun_",
+          "Player2": "MTGMoneyMaker",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "GreyMerchant",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Capriccioso",
+          "Player2": "medvedev",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Kumezz",
+          "Player2": "soggymeatball",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "FranMtg",
+          "Player2": "Callenutg1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "nahuel10",
+          "Player2": "JustAnotherGuy83",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ShadowTitan1",
+          "Player2": "CaboGrosso",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "sokos13",
+          "Player2": "Juintatz",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "sokos13",
+          "Player2": "soggymeatball",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "albertoSD",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JustAnotherGuy83",
+          "Player2": "Callenutg1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "FranMtg",
+          "Player2": "Selir",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Delve3",
+          "Player2": "virp",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Shatun_",
+          "Player2": "_Joseba_",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "ipbanned",
+          "Player2": "MeninooNey",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Capriccioso",
+          "Player2": "txepi",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "CaboGrosso",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "steelleaf51",
+          "Player2": "Juintatz",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "komattaman",
+          "Player2": "Preparation",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "nahuel10",
+          "Player2": "MTGMoneyMaker",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Kumezz",
+          "Player2": "GreyMerchant",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "_Shatun_",
+          "Player2": "Juintatz",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "steelleaf51",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "_Joseba_",
+          "Player2": "MTGMoneyMaker",
+          "Result": "0-2-0"
         },
         {
           "Player1": "nahuel10",
           "Player2": "Preparation",
-          "Result": "2-1-0"
+          "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 7",
+      "Matches": [
+        {
+          "Player1": "steelleaf51",
+          "Player2": "Juintatz",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "nahuel10",
+          "Player2": "MTGMoneyMaker",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
       "Matches": [
         {
           "Player1": "Juintatz",
-          "Player2": "steelleaf51",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "MTGMoneyMaker",
-          "Player2": "nahuel10",
-          "Result": "2-1-0"
-        }
-      ]
-    },
-    {
-      "RoundName": "Finals",
-      "Matches": [
-        {
-          "Player1": "MTGMoneyMaker",
-          "Player2": "Juintatz",
-          "Result": "2-0-0"
+          "Player2": "MTGMoneyMaker",
+          "Result": "0-2-0"
         }
       ]
     }
@@ -4697,7 +5090,7 @@
       "Losses": 5,
       "Draws": 0,
       "OMWP": 0.56,
-      "GWP": 0.0,
+      "GWP": 0,
       "OGWP": 0.5581
     },
     {
