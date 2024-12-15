@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2024-12-13T00:00:00Z",
     "Name": "Modern Challenge 32",
-    "Uri": "https://www.mtgo.com/decklist/modern-challenge-32-2024-12-1312714073"
+    "Uri": "https://www.mtgo.com/decklist/modern-challenge-32-2024-12-1312714073",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -4296,52 +4299,682 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
+        {
+          "Player1": "manukoka",
+          "Player2": "IcePowers",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "CaboGrosso",
+          "Player2": "fazparte",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Amplumnox",
+          "Player2": "FlawlessVictory-",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "Traumatismes",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Sutilyloco",
+          "Player2": "vmana",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "matiasarg",
+          "Player2": "Graciasportanto",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "EvolveMTG",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "nicokour",
+          "Player2": "JackSparr0w",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Janisss",
+          "Player2": "TekiAkuma",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Aelyck",
+          "Player2": "NickBolas90",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "apriolo1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Rvng",
+          "Player2": "hugofreitas1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "unagieel",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Univerce",
+          "Player2": "PNascimento",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Entropy263",
+          "Player2": "Bugsy69",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "steelleaf51",
+          "Player2": "Silentstorm1003",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "JakeTMS",
+          "Player2": "NathanOfTheGiltLeaf",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Misplacedginger",
+          "Player2": "termidor",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Baku_91",
+          "Player2": "AlpInco",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "virp",
+          "Player2": "MTGMoneyMaker",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Callenutg1",
+          "Player2": "Bellazio",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "citizenofnerdvana",
+          "Player2": "Scooby_Snacks",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "sokos13",
+          "Player2": "MeninooNey",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "Callenutg1",
+          "Player2": "Silentstorm1003",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Entropy263",
+          "Player2": "nicokour",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "AlpInco",
+          "Player2": "Bellazio",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Baku_91",
+          "Player2": "Payakan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Rvng",
+          "Player2": "FlawlessVictory-",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Misplacedginger",
+          "Player2": "IcePowers",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Aelyck",
+          "Player2": "hugofreitas1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "NathanOfTheGiltLeaf",
+          "Player2": "PNascimento",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "JackSparr0w",
+          "Player2": "vmana",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "unagieel",
+          "Player2": "matiasarg",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "virp",
+          "Player2": "Sutilyloco",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "CaboGrosso",
+          "Player2": "TekiAkuma",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "EvolveMTG",
+          "Player2": "fazparte",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "termidor",
+          "Player2": "MTGMoneyMaker",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "Beicodegeia",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "sokos13",
+          "Player2": "NickBolas90",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "citizenofnerdvana",
+          "Player2": "steelleaf51",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Graciasportanto",
+          "Player2": "JakeTMS",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Amplumnox",
+          "Player2": "Janisss",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "Scooby_Snacks",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "Univerce",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Traumatismes",
+          "Player2": "MeninooNey",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "manukoka",
+          "Player2": "Bugsy69",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "albertoSD",
+          "Player2": "termidor",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "IcePowers",
+          "Player2": "Univerce",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Sutilyloco",
+          "Player2": "MeninooNey",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JackSparr0w",
+          "Player2": "PNascimento",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Entropy263",
+          "Player2": "JakeTMS",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "virp",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "citizenofnerdvana",
+          "Player2": "Amplumnox",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Silentstorm1003",
+          "Player2": "Scooby_Snacks",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Misplacedginger",
+          "Player2": "Traumatismes",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "MTGMoneyMaker",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "nicokour",
+          "Player2": "Bellazio",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "steelleaf51",
+          "Player2": "Janisss",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "hugofreitas1",
+          "Player2": "Callenutg1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "AlpInco",
+          "Player2": "CaboGrosso",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Graciasportanto",
+          "Player2": "TekiAkuma",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Rvng",
+          "Player2": "Bugsy69",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "sokos13",
+          "Player2": "Payakan",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Baku_91",
+          "Player2": "NickBolas90",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "matiasarg",
+          "Player2": "EvolveMTG",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "manukoka",
+          "Player2": "FlawlessVictory-",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "vmana",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "NickBolas90",
+          "Player2": "Scooby_Snacks",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Misplacedginger",
+          "Player2": "Silentstorm1003",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Entropy263",
+          "Player2": "citizenofnerdvana",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "sokos13",
+          "Player2": "Bellazio",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "steelleaf51",
+          "Player2": "MeninooNey",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "hugofreitas1",
+          "Player2": "Beicodegeia",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "EvolveMTG",
+          "Player2": "Callenutg1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "manukoka",
+          "Player2": "termidor",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "matiasarg",
+          "Player2": "Traumatismes",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "virp",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "TekiAkuma",
+          "Player2": "vmana",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "AlpInco",
+          "Player2": "PNascimento",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Baku_91",
+          "Player2": "FlawlessVictory-",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Rvng",
+          "Player2": "JakeTMS",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Amplumnox",
+          "Player2": "CaboGrosso",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "Graciasportanto",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MTGMoneyMaker",
+          "Player2": "Payakan",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "JackSparr0w",
+          "Player2": "Univerce",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "Sutilyloco",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "matiasarg",
+          "Player2": "Amplumnox",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Traumatismes",
+          "Player2": "PNascimento",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Callenutg1",
+          "Player2": "Sutilyloco",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "AlpInco",
+          "Player2": "Univerce",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "JackSparr0w",
+          "Player2": "EvolveMTG",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "Misplacedginger",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Janisss",
+          "Player2": "Bellazio",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "CaboGrosso",
+          "Player2": "Scooby_Snacks",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Baku_91",
+          "Player2": "Silentstorm1003",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "virp",
+          "Player2": "Payakan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "steelleaf51",
+          "Player2": "FlawlessVictory-",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "sokos13",
+          "Player2": "Beicodegeia",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "termidor",
+          "Player2": "TekiAkuma",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "hugofreitas1",
+          "Player2": "citizenofnerdvana",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Graciasportanto",
+          "Player2": "NickBolas90",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Entropy263",
+          "Player2": "vmana",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "manukoka",
+          "Player2": "JakeTMS",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Rvng",
+          "Player2": "MTGMoneyMaker",
+          "Result": "1-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "JackSparr0w",
+          "Player2": "Silentstorm1003",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Rvng",
+          "Player2": "Bellazio",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "AlpInco",
+          "Player2": "Jumba",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Amplumnox",
+          "Player2": "vmana",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Univerce",
+          "Player2": "CaboGrosso",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TekiAkuma",
+          "Player2": "MTGMoneyMaker",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Graciasportanto",
+          "Player2": "termidor",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "matiasarg",
+          "Player2": "steelleaf51",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Baku_91",
+          "Player2": "EvolveMTG",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "manukoka",
+          "Player2": "virp",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Traumatismes",
+          "Player2": "Janisss",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "Scooby_Snacks",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JakeTMS",
+          "Player2": "Payakan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "sokos13",
+          "Player2": "Sutilyloco",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "Callenutg1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "hugofreitas1",
+          "Player2": "PNascimento",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "Matches": [
+        {
+          "Player1": "Baku_91",
+          "Player2": "virp",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Graciasportanto",
+          "Player2": "Scooby_Snacks",
+          "Result": "0-2-0"
+        },
         {
           "Player1": "termidor",
           "Player2": "Silentstorm1003",
-          "Result": "2-1-0"
+          "Result": "2-0-0"
         },
         {
           "Player1": "_Batutinha_",
           "Player2": "MTGMoneyMaker",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "virp",
-          "Player2": "Baku_91",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "Scooby_Snacks",
-          "Player2": "Graciasportanto",
           "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 8",
       "Matches": [
-        {
-          "Player1": "Scooby_Snacks",
-          "Player2": "virp",
-          "Result": "2-0-0"
-        },
         {
           "Player1": "_Batutinha_",
           "Player2": "termidor",
-          "Result": "2-1-0"
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "virp",
+          "Player2": "Scooby_Snacks",
+          "Result": "0-0-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 9",
       "Matches": [
         {
-          "Player1": "Scooby_Snacks",
-          "Player2": "_Batutinha_",
-          "Result": "2-0-0"
+          "Player1": "_Batutinha_",
+          "Player2": "Scooby_Snacks",
+          "Result": "0-2-0"
         }
       ]
     }

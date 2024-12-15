@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2024-12-12T00:00:00Z",
     "Name": "Vintage Challenge 32",
-    "Uri": "https://www.mtgo.com/decklist/vintage-challenge-32-2024-12-1212714056"
+    "Uri": "https://www.mtgo.com/decklist/vintage-challenge-32-2024-12-1212714056",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -5144,52 +5147,657 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
-          "Player1": "cicciogire",
-          "Player2": "LasVegasChaos",
-          "Result": "2-1-0"
+          "Player1": "RogeDeckWins",
+          "Player2": "cicciogire",
+          "Result": "0-2-0"
         },
         {
-          "Player1": "Tsubasa_Cat",
+          "Player1": "Marcuzinho",
+          "Player2": "wiky",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Oppa",
+          "Player2": "Aaa258",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "adm29",
+          "Player2": "Tsubasa_Cat",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "Wesal",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_TOP_G",
+          "Player2": "_J0SE_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "joker10289",
+          "Player2": "Ale_Mtg",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "416FrowningTable",
+          "Player2": "Viatt",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Erik157751",
+          "Player2": "Gitaxian_Probe",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "PieGonti",
+          "Player2": "The_Gerogerigegege",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "etoustar",
+          "Player2": "Munchlax446",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "TrueHero",
           "Player2": "StormGuyisme",
-          "Result": "2-1-0"
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "matttothec",
+          "Player2": "vmana",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "B-Rad-Ley",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Butakov",
+          "Player2": "jade-venus",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "ziofrancone",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "discoverN",
+          "Player2": "Scooby_Snacks",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "J0hnWick",
+          "Player2": "FlawlessVictory-",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "oosunq",
+          "Player2": "PivoUlivo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "LasVegasChaos",
+          "Player2": "Shuichi_Saito",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "GigaChadSigmaMale",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "KingHairy",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "RogeDeckWins",
+          "Player2": "Marcuzinho",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "Aaa258",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "adm29",
+          "Player2": "etoustar",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "J0hnWick",
+          "Player2": "Shuichi_Saito",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "PieGonti",
+          "Player2": "vmana",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Oppa",
+          "Player2": "jade-venus",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "416FrowningTable",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "joker10289",
+          "Player2": "_TOP_G",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "B-Rad-Ley",
+          "Player2": "_J0SE_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "matttothec",
+          "Player2": "FlawlessVictory-",
+          "Result": "2-0-0"
         },
         {
           "Player1": "wiky",
-          "Player2": "joker10289",
-          "Result": "1-0-0"
+          "Player2": "ziofrancone",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Viatt",
+          "Player2": "Munchlax446",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TrueHero",
+          "Player2": "Scooby_Snacks",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Erik157751",
+          "Player2": "StormGuyisme",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "discoverN",
+          "Player2": "KingHairy",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Wesal",
+          "Player2": "Gitaxian_Probe",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "GigaChadSigmaMale",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "cicciogire",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "Ale_Mtg",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "PivoUlivo",
+          "Player2": "The_Gerogerigegege",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "LasVegasChaos",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "O_danielakos",
+          "Player2": "_J0SE_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "matttothec",
+          "Player2": "LasVegasChaos",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "etoustar",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "cicciogire",
+          "Player2": "wiky",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "FlawlessVictory-",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "PivoUlivo",
+          "Player2": "Erik157751",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "joker10289",
+          "Player2": "Tsubasa_Cat",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Ale_Mtg",
+          "Player2": "Munchlax446",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "RogeDeckWins",
+          "Player2": "J0hnWick",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "KingHairy",
+          "Player2": "TrueHero",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "adm29",
+          "Player2": "B-Rad-Ley",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "discoverN",
+          "Player2": "Oppa",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "oosunq",
+          "Player2": "Shuichi_Saito",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_TOP_G",
+          "Player2": "jade-venus",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "The_Gerogerigegege",
+          "Player2": "Gitaxian_Probe",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "416FrowningTable",
+          "Player2": "GigaChadSigmaMale",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "PieGonti",
+          "Player2": "ziofrancone",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Marcuzinho",
+          "Player2": "vmana",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "StormGuyisme",
+          "Player2": "Viatt",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "Shuichi_Saito",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "TrueHero",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Oppa",
+          "Player2": "The_Gerogerigegege",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "J0hnWick",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "wiky",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "etoustar",
+          "Player2": "jade-venus",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "_TOP_G",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "B-Rad-Ley",
+          "Player2": "Gitaxian_Probe",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "adm29",
+          "Player2": "Marcuzinho",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "matttothec",
+          "Player2": "cicciogire",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "joker10289",
+          "Player2": "416FrowningTable",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Erik157751",
+          "Player2": "GigaChadSigmaMale",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "discoverN",
+          "Player2": "PivoUlivo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "PieGonti",
+          "Player2": "_J0SE_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "RogeDeckWins",
+          "Player2": "vmana",
+          "Result": "0-2-0"
         },
         {
           "Player1": "ziofrancone",
-          "Player2": "TrueHero",
+          "Player2": "FlawlessVictory-",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "oosunq",
+          "Player2": "Ale_Mtg",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "StormGuyisme",
+          "Player2": "LasVegasChaos",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "Viatt",
           "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 5",
       "Matches": [
         {
+          "Player1": "416FrowningTable",
+          "Player2": "Gitaxian_Probe",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ale_Mtg",
+          "Player2": "_J0SE_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ziofrancone",
+          "Player2": "PivoUlivo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TrueHero",
+          "Player2": "LasVegasChaos",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "jade-venus",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "cicciogire",
+          "Player2": "Oppa",
+          "Result": "2-0-0"
+        },
+        {
           "Player1": "Tsubasa_Cat",
-          "Player2": "ziofrancone",
-          "Result": "2-1-0"
+          "Player2": "The_Gerogerigegege",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Erik157751",
+          "Player2": "FlawlessVictory-",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "vmana",
+          "Player2": "GigaChadSigmaMale",
+          "Result": "0-2-0"
         },
         {
           "Player1": "wiky",
-          "Player2": "cicciogire",
-          "Result": "2-1-0"
+          "Player2": "Viatt",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Marcuzinho",
+          "Player2": "Shuichi_Saito",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "joker10289",
+          "Player2": "oosunq",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "bless_von",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "B-Rad-Ley",
+          "Player2": "J0hnWick",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "discoverN",
+          "Player2": "Munchlax446",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "StormGuyisme",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "matttothec",
+          "Player2": "etoustar",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "adm29",
+          "Player2": "RogeDeckWins",
+          "Result": "0-2-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 6",
       "Matches": [
         {
+          "Player1": "discoverN",
+          "Player2": "GigaChadSigmaMale",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "B-Rad-Ley",
+          "Player2": "Shuichi_Saito",
+          "Result": "0-2-0"
+        },
+        {
           "Player1": "wiky",
-          "Player2": "Tsubasa_Cat",
+          "Player2": "TrueHero",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "oosunq",
           "Result": "2-0-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "J0hnWick",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "cicciogire",
+          "Player2": "Tsubasa_Cat",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "joker10289",
+          "Player2": "etoustar",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "vmana",
+          "Player2": "jade-venus",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "matttothec",
+          "Player2": "StormGuyisme",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "PivoUlivo",
+          "Player2": "Ale_Mtg",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "Erik157751",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "Gitaxian_Probe",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Oppa",
+          "Player2": "ziofrancone",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "RogeDeckWins",
+          "Player2": "_J0SE_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "416FrowningTable",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LasVegasChaos",
+          "Player2": "The_Gerogerigegege",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "Matches": [
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "StormGuyisme",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "joker10289",
+          "Player2": "wiky",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "TrueHero",
+          "Player2": "ziofrancone",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "cicciogire",
+          "Player2": "LasVegasChaos",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "Matches": [
+        {
+          "Player1": "cicciogire",
+          "Player2": "wiky",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "ziofrancone",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 9",
+      "Matches": [
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "wiky",
+          "Result": "0-2-0"
         }
       ]
     }

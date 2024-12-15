@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2024-12-14T00:00:00Z",
     "Name": "Standard Challenge 32",
-    "Uri": "https://www.mtgo.com/decklist/standard-challenge-32-2024-12-1412714084"
+    "Uri": "https://www.mtgo.com/decklist/standard-challenge-32-2024-12-1412714084",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -3792,47 +3795,442 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
-          "Player1": "Lostwanderer",
+          "Player1": "LucaAshok",
+          "Player2": "gazmon48",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ejk",
           "Player2": "VictorEsquici",
-          "Result": "2-1-0"
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Tulio_Jaudy",
+          "Player2": "ChimmyNorbit",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Hernan72",
+          "Player2": "Slasher21",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Lostwanderer",
+          "Player2": "Tyerube1618",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "canepis16",
+          "Player2": "Hamuda",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Arcbound_Papi",
+          "Player2": "MTGHolic",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "DylansHyper",
+          "Player2": "CristRod",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "ccie19311",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "__OVC__",
+          "Player2": "temur4life",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "beraldi",
+          "Player2": "Nyataro",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "quinniac",
+          "Player2": "manalacaio",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Betrix2688",
+          "Player2": "MatadorTCG2",
+          "Result": "2-0-0"
         },
         {
           "Player1": "Logo-299",
-          "Player2": "LucaAshok",
-          "Result": "2-1-0"
+          "Player2": "JTlemmon",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Misplacedginger",
+          "Player2": "adebevoise",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Venom1",
+          "Player2": "A_Baiotto",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "Lostwanderer",
+          "Player2": "A_Baiotto",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DylansHyper",
+          "Player2": "MatadorTCG2",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "gazmon48",
+          "Player2": "Arcbound_Papi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Tulio_Jaudy",
+          "Player2": "Venom1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Betrix2688",
+          "Player2": "Hamuda",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "CristRod",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Hernan72",
+          "Player2": "manalacaio",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Misplacedginger",
+          "Player2": "Slasher21",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "adebevoise",
+          "Player2": "VictorEsquici",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "beraldi",
+          "Player2": "temur4life",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Logo-299",
+          "Player2": "MTGHolic",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LucaAshok",
+          "Player2": "ChimmyNorbit",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ejk",
+          "Player2": "ccie19311",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "canepis16",
+          "Player2": "JTlemmon",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "quinniac",
+          "Player2": "Tyerube1618",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "__OVC__",
+          "Player2": "Nyataro",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "Logo-299",
+          "Player2": "temur4life",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ejk",
+          "Player2": "DylansHyper",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Lostwanderer",
+          "Player2": "Jumba",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Slasher21",
+          "Player2": "manalacaio",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MTGHolic",
+          "Player2": "ChimmyNorbit",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Arcbound_Papi",
+          "Player2": "Tyerube1618",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Hernan72",
+          "Player2": "Hamuda",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Nyataro",
+          "Player2": "MatadorTCG2",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "canepis16",
+          "Player2": "VictorEsquici",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Venom1",
+          "Player2": "CristRod",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "__OVC__",
+          "Player2": "Betrix2688",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "A_Baiotto",
+          "Player2": "beraldi",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "JTlemmon",
+          "Player2": "ccie19311",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LucaAshok",
+          "Player2": "adebevoise",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "gazmon48",
+          "Player2": "quinniac",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "Lostwanderer",
+          "Player2": "quinniac",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "beraldi",
+          "Player2": "manalacaio",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "temur4life",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Tulio_Jaudy",
+          "Player2": "MTGHolic",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Betrix2688",
+          "Player2": "Nyataro",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "gazmon48",
+          "Player2": "Slasher21",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Venom1",
+          "Player2": "Logo-299",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "A_Baiotto",
+          "Player2": "canepis16",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DylansHyper",
+          "Player2": "ChimmyNorbit",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ejk",
+          "Player2": "JTlemmon",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "__OVC__",
+          "Player2": "adebevoise",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Hernan72",
+          "Player2": "VictorEsquici",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "LucaAshok",
+          "Player2": "Hamuda",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Arcbound_Papi",
+          "Player2": "CristRod",
+          "Result": "0-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "Jumba",
+          "Player2": "Hamuda",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "__OVC__",
+          "Player2": "Lostwanderer",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "beraldi",
+          "Player2": "Logo-299",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "LucaAshok",
+          "Player2": "temur4life",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "A_Baiotto",
+          "Player2": "Nyataro",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Venom1",
+          "Player2": "quinniac",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "VictorEsquici",
+          "Player2": "ChimmyNorbit",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Hernan72",
+          "Player2": "ejk",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "adebevoise",
+          "Player2": "CristRod",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "gazmon48",
+          "Player2": "JTlemmon",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DylansHyper",
+          "Player2": "manalacaio",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Tulio_Jaudy",
+          "Player2": "Slasher21",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Arcbound_Papi",
+          "Player2": "ccie19311",
+          "Result": "0-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "temur4life",
+          "Player2": "Hamuda",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Lostwanderer",
+          "Player2": "VictorEsquici",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LucaAshok",
+          "Player2": "Logo-299",
+          "Result": "0-2-0"
         },
         {
           "Player1": "Jumba",
           "Player2": "ChimmyNorbit",
           "Result": "2-0-0"
-        },
-        {
-          "Player1": "temur4life",
-          "Player2": "Hamuda",
-          "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 7",
       "Matches": [
-        {
-          "Player1": "Logo-299",
-          "Player2": "temur4life",
-          "Result": "2-1-0"
-        },
         {
           "Player1": "Lostwanderer",
           "Player2": "Jumba",
           "Result": "2-0-0"
+        },
+        {
+          "Player1": "Logo-299",
+          "Player2": "temur4life",
+          "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 8",
       "Matches": [
         {
           "Player1": "Lostwanderer",
