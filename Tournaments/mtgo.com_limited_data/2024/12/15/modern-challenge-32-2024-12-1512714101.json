@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2024-12-15T00:00:00Z",
     "Name": "Modern Challenge 32",
-    "Uri": "https://www.mtgo.com/decklist/modern-challenge-32-2024-12-1512714101"
+    "Uri": "https://www.mtgo.com/decklist/modern-challenge-32-2024-12-1512714101",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -4096,47 +4099,667 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
-          "Player1": "oskiyaa",
-          "Player2": "wefald",
+          "Player1": "ovmlcabrera",
+          "Player2": "Mpsbrn",
           "Result": "2-0-0"
         },
         {
-          "Player1": "-CAPS-",
-          "Player2": "ovmlcabrera",
-          "Result": "2-1-0"
+          "Player1": "oskiyaa",
+          "Player2": "txepi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Apocalypso",
+          "Player2": "TomJubarte",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Capoeira02",
+          "Player2": "Ale_Mtg",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Erik157751",
+          "Player2": "SireOfMana",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "andrea2381",
+          "Player2": "gyyby297",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Rvng",
+          "Player2": "hugofreitas1",
+          "Result": "2-0-0"
         },
         {
           "Player1": "Diem4x",
+          "Player2": "Zoob5555",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DobleP",
+          "Player2": "choutin",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "wefald",
+          "Player2": "AlpInco",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ginp",
+          "Player2": "Callenutg1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jvidarte",
+          "Player2": "-CAPS-",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "sokos13",
+          "Player2": "MeninooNey",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "matiasarg",
+          "Player2": "gurig",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Tubaba",
+          "Player2": "Kaarkoh",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "russell_wilson",
+          "Player2": "svessesvv",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "NickBolas90",
           "Player2": "CrazyMorango",
-          "Result": "2-1-0"
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "John1111",
+          "Player2": "Preparation",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MayoDominaria",
+          "Player2": "grinderA",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "RSS29",
+          "Player2": "iamyep",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "unagieel",
+          "Player2": "Gonz1987",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "steelleaf51",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "jvidarte",
+          "Player2": "RSS29",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "unagieel",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Apocalypso",
+          "Player2": "Callenutg1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "hugofreitas1",
+          "Player2": "Erik157751",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "sokos13",
+          "Player2": "svessesvv",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Diem4x",
+          "Player2": "grinderA",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "matiasarg",
+          "Player2": "CrazyMorango",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "oskiyaa",
+          "Player2": "gyyby297",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "NickBolas90",
+          "Player2": "MeninooNey",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Capoeira02",
+          "Player2": "MayoDominaria",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Tubaba",
+          "Player2": "Mpsbrn",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "andrea2381",
+          "Player2": "Zoob5555",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ginp",
+          "Player2": "iamyep",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "russell_wilson",
+          "Player2": "John1111",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Ale_Mtg",
+          "Player2": "Preparation",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "gurig",
+          "Player2": "Gonz1987",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "txepi",
+          "Player2": "AlpInco",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SireOfMana",
+          "Player2": "TomJubarte",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "wefald",
+          "Player2": "choutin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Kaarkoh",
+          "Player2": "-CAPS-",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "steelleaf51",
+          "Player2": "DobleP",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "ovmlcabrera",
+          "Player2": "Rvng",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "andrea2381",
+          "Player2": "Capoeira02",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "unagieel",
+          "Player2": "steelleaf51",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "NickBolas90",
+          "Player2": "Kaarkoh",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Apocalypso",
+          "Player2": "MeninooNey",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "hugofreitas1",
+          "Player2": "Callenutg1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "sokos13",
+          "Player2": "Preparation",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "matiasarg",
+          "Player2": "SireOfMana",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "oskiyaa",
+          "Player2": "-CAPS-",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "gyyby297",
+          "Player2": "txepi",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "grinderA",
+          "Player2": "jvidarte",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Rvng",
+          "Player2": "ginp",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Mpsbrn",
+          "Player2": "RSS29",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ovmlcabrera",
+          "Player2": "Diem4x",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MayoDominaria",
+          "Player2": "Zoob5555",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ale_Mtg",
+          "Player2": "TomJubarte",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "svessesvv",
+          "Player2": "John1111",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "CrazyMorango",
+          "Player2": "iamyep",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "wefald",
+          "Player2": "_Batutinha_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "gurig",
+          "Player2": "DobleP",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Tubaba",
+          "Player2": "choutin",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "wefald",
+          "Player2": "oskiyaa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "iamyep",
+          "Player2": "Kaarkoh",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "grinderA",
+          "Player2": "RSS29",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Capoeira02",
+          "Player2": "ginp",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "gyyby297",
+          "Player2": "svessesvv",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "sokos13",
+          "Player2": "Tubaba",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "hugofreitas1",
+          "Player2": "choutin",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "jvidarte",
+          "Player2": "Ale_Mtg",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "NickBolas90",
+          "Player2": "TomJubarte",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "andrea2381",
+          "Player2": "Mpsbrn",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Rvng",
+          "Player2": "John1111",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "DobleP",
+          "Player2": "MeninooNey",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "CrazyMorango",
+          "Player2": "Preparation",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Diem4x",
+          "Player2": "SireOfMana",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "MayoDominaria",
+          "Player2": "gurig",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "ovmlcabrera",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "unagieel",
+          "Player2": "Callenutg1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "txepi",
+          "Player2": "-CAPS-",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Zoob5555",
+          "Player2": "Erik157751",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "iamyep",
+          "Player2": "choutin",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "sokos13",
+          "Player2": "-CAPS-",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Capoeira02",
+          "Player2": "Callenutg1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ginp",
+          "Player2": "jvidarte",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "gyyby297",
+          "Player2": "hugofreitas1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "gurig",
+          "Player2": "Preparation",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "txepi",
+          "Player2": "svessesvv",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Rvng",
+          "Player2": "Tubaba",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Mpsbrn",
+          "Player2": "MeninooNey",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "wefald",
+          "Player2": "SireOfMana",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "unagieel",
+          "Player2": "Diem4x",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Apocalypso",
+          "Player2": "grinderA",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "oskiyaa",
+          "Player2": "Kaarkoh",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "John1111",
+          "Player2": "Ale_Mtg",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "MayoDominaria",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ovmlcabrera",
+          "Player2": "CrazyMorango",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Erik157751",
+          "Player2": "RSS29",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "NickBolas90",
+          "Player2": "DobleP",
+          "Result": "0-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "andrea2381",
+          "Player2": "Tubaba",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "CrazyMorango",
+          "Player2": "SireOfMana",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "NickBolas90",
+          "Player2": "choutin",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "hugofreitas1",
+          "Player2": "svessesvv",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "gurig",
+          "Player2": "John1111",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Capoeira02",
+          "Player2": "txepi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Diem4x",
+          "Player2": "DobleP",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "wefald",
+          "Player2": "-CAPS-",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "jvidarte",
+          "Player2": "Callenutg1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ginp",
+          "Player2": "grinderA",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "sokos13",
+          "Player2": "iamyep",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Apocalypso",
+          "Player2": "Mpsbrn",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "MeninooNey",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "MayoDominaria",
+          "Player2": "Preparation",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "unagieel",
+          "Player2": "Kaarkoh",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Rvng",
+          "Player2": "RSS29",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ovmlcabrera",
+          "Player2": "oskiyaa",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "Matches": [
+        {
+          "Player1": "Diem4x",
+          "Player2": "CrazyMorango",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "wefald",
+          "Player2": "oskiyaa",
+          "Result": "0-2-0"
         },
         {
           "Player1": "gurig",
           "Player2": "SireOfMana",
-          "Result": "2-1-0"
-        }
-      ]
-    },
-    {
-      "RoundName": "Semifinals",
-      "Matches": [
-        {
-          "Player1": "oskiyaa",
-          "Player2": "Diem4x",
-          "Result": "2-1-0"
+          "Result": "2-0-0"
         },
         {
-          "Player1": "-CAPS-",
-          "Player2": "gurig",
-          "Result": "2-0-0"
+          "Player1": "ovmlcabrera",
+          "Player2": "-CAPS-",
+          "Result": "0-2-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 8",
+      "Matches": [
+        {
+          "Player1": "gurig",
+          "Player2": "-CAPS-",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Diem4x",
+          "Player2": "oskiyaa",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 9",
       "Matches": [
         {
           "Player1": "oskiyaa",

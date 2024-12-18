@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2024-12-15T00:00:00Z",
     "Name": "Modern Challenge 32",
-    "Uri": "https://www.mtgo.com/decklist/modern-challenge-32-2024-12-1512714097"
+    "Uri": "https://www.mtgo.com/decklist/modern-challenge-32-2024-12-1512714097",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -4164,47 +4167,637 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
-          "Player1": "TekiAkuma",
+          "Player1": "padakey",
+          "Player2": "SoggyCheerios",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "ChimmyNorbit",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "EvolveMTG",
+          "Player2": "choutin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Venom1",
+          "Player2": "FlawlessVictory-",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "steelleaf51",
+          "Player2": "JulianJohn",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "fingers1991",
+          "Player2": "Silentstorm1003",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "tibalt_of_red_sub",
+          "Player2": "klien7",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "karatedom",
+          "Player2": "DerpityDerpz",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "wolf2222",
+          "Player2": "termidor",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "jvidarte",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "RedandSnap1",
+          "Player2": "Giltspire",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Yut0kun",
+          "Player2": "Cachorrowo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "hugofreitas1",
+          "Player2": "InsaneAP3Z",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MatadorTCG2",
+          "Player2": "DannyTigrai",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "oOMegaGenesis",
+          "Player2": "Juintatz",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "peter780108",
+          "Player2": "TekiAkuma",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MyPotatoes",
+          "Player2": "DB_xerioc",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "gurig",
+          "Player2": "NJ5030",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "GirthGod",
+          "Player2": "MacIsaac",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "auzzie51",
+          "Player2": "DemonicTutors",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Arcbound_Papi",
+          "Player2": "Tyerube1618",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Bugsy69",
+          "Player2": "SvenSveeterSven",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "fingers1991",
+          "Player2": "jvidarte",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "padakey",
+          "Player2": "choutin",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "karatedom",
+          "Player2": "oOMegaGenesis",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "hugofreitas1",
+          "Player2": "JulianJohn",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "auzzie51",
+          "Player2": "NJ5030",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "SvenSveeterSven",
+          "Player2": "DerpityDerpz",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Arcbound_Papi",
+          "Player2": "RedandSnap1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Juintatz",
+          "Player2": "FlawlessVictory-",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "GirthGod",
+          "Player2": "Giltspire",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MyPotatoes",
+          "Player2": "MacIsaac",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Bugsy69",
+          "Player2": "Cachorrowo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "tibalt_of_red_sub",
+          "Player2": "ChimmyNorbit",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "musasabi",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "InsaneAP3Z",
+          "Player2": "MatadorTCG2",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "gurig",
+          "Player2": "TekiAkuma",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Tyerube1618",
+          "Player2": "Silentstorm1003",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "peter780108",
+          "Player2": "steelleaf51",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SoggyCheerios",
           "Player2": "EvolveMTG",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "klien7",
+          "Player2": "DannyTigrai",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Venom1",
+          "Player2": "DB_xerioc",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "termidor",
+          "Player2": "DemonicTutors",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "wolf2222",
+          "Player2": "Yut0kun",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "tibalt_of_red_sub",
+          "Player2": "Arcbound_Papi",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Bugsy69",
+          "Player2": "GirthGod",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "gurig",
+          "Player2": "JulianJohn",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "termidor",
+          "Player2": "ChimmyNorbit",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "hugofreitas1",
+          "Player2": "Silentstorm1003",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Venom1",
+          "Player2": "musasabi",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Cachorrowo",
+          "Player2": "DB_xerioc",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Tyerube1618",
+          "Player2": "Juintatz",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DerpityDerpz",
+          "Player2": "NJ5030",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "klien7",
+          "Player2": "EvolveMTG",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "steelleaf51",
+          "Player2": "SvenSveeterSven",
           "Result": "2-0-0"
         },
         {
           "Player1": "fingers1991",
+          "Player2": "RedandSnap1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "padakey",
+          "Player2": "Giltspire",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Yut0kun",
+          "Player2": "MyPotatoes",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "peter780108",
+          "Player2": "MacIsaac",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "karatedom",
+          "Player2": "SoggyCheerios",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "choutin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "InsaneAP3Z",
+          "Player2": "TekiAkuma",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "wolf2222",
+          "Player2": "DannyTigrai",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "oOMegaGenesis",
+          "Player2": "DemonicTutors",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "Bugsy69",
+          "Player2": "TekiAkuma",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "wolf2222",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "JulianJohn",
+          "Player2": "choutin",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "fingers1991",
+          "Player2": "klien7",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Yut0kun",
+          "Player2": "Juintatz",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MacIsaac",
+          "Player2": "DannyTigrai",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "EvolveMTG",
+          "Player2": "Silentstorm1003",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "GirthGod",
+          "Player2": "DB_xerioc",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "oOMegaGenesis",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "hugofreitas1",
+          "Player2": "SoggyCheerios",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "tibalt_of_red_sub",
+          "Player2": "padakey",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Venom1",
+          "Player2": "Giltspire",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Arcbound_Papi",
+          "Player2": "ChimmyNorbit",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "peter780108",
+          "Player2": "termidor",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "gurig",
+          "Player2": "Tyerube1618",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "steelleaf51",
+          "Player2": "RedandSnap1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "DemonicTutors",
+          "Player2": "DerpityDerpz",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "DemonicTutors",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JulianJohn",
+          "Player2": "DB_xerioc",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "padakey",
+          "Player2": "Juintatz",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Tyerube1618",
+          "Player2": "klien7",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "oOMegaGenesis",
+          "Player2": "Giltspire",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Venom1",
+          "Player2": "Arcbound_Papi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SoggyCheerios",
+          "Player2": "TekiAkuma",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Yut0kun",
+          "Player2": "DannyTigrai",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "hugofreitas1",
+          "Player2": "RedandSnap1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "fingers1991",
+          "Player2": "DerpityDerpz",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "musasabi",
           "Player2": "Silentstorm1003",
           "Result": "2-0-0"
         },
         {
           "Player1": "wolf2222",
-          "Player2": "SoggyCheerios",
-          "Result": "2-1-0"
+          "Player2": "gurig",
+          "Result": "2-0-0"
         },
         {
-          "Player1": "musasabi",
+          "Player1": "tibalt_of_red_sub",
+          "Player2": "steelleaf51",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "peter780108",
+          "Player2": "choutin",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "termidor",
           "Player2": "Bugsy69",
-          "Result": "2-1-0"
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "GirthGod",
+          "Player2": "EvolveMTG",
+          "Result": "0-2-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 6",
       "Matches": [
+        {
+          "Player1": "tibalt_of_red_sub",
+          "Player2": "Juintatz",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Arcbound_Papi",
+          "Player2": "DemonicTutors",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Venom1",
+          "Player2": "klien7",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "gurig",
+          "Player2": "hugofreitas1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "SoggyCheerios",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Giltspire",
+          "Player2": "DerpityDerpz",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "oOMegaGenesis",
+          "Player2": "EvolveMTG",
+          "Result": "0-2-0"
+        },
         {
           "Player1": "fingers1991",
           "Player2": "wolf2222",
-          "Result": "2-1-0"
+          "Result": "0-2-0"
         },
         {
-          "Player1": "TekiAkuma",
-          "Player2": "musasabi",
+          "Player1": "padakey",
+          "Player2": "DannyTigrai",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Bugsy69",
+          "Player2": "choutin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Silentstorm1003",
+          "Player2": "TekiAkuma",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "peter780108",
+          "Player2": "JulianJohn",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "termidor",
+          "Player2": "Yut0kun",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "GirthGod",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "RedandSnap1",
+          "Player2": "DB_xerioc",
           "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 7",
+      "Matches": [
+        {
+          "Player1": "wolf2222",
+          "Player2": "SoggyCheerios",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "Bugsy69",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "EvolveMTG",
+          "Player2": "TekiAkuma",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "fingers1991",
+          "Player2": "Silentstorm1003",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "Matches": [
+        {
+          "Player1": "musasabi",
+          "Player2": "TekiAkuma",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "fingers1991",
+          "Player2": "wolf2222",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 9",
       "Matches": [
         {
           "Player1": "fingers1991",
