@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2024-12-21T00:00:00Z",
     "Name": "Modern Challenge 32",
-    "Uri": "https://www.mtgo.com/decklist/modern-challenge-32-2024-12-2112718117"
+    "Uri": "https://www.mtgo.com/decklist/modern-challenge-32-2024-12-2112718117",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -4132,47 +4135,607 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
-          "Player1": "Venom1",
-          "Player2": "MTGMoneyMaker",
-          "Result": "2-1-0"
+          "Player1": "LavaSpike2000",
+          "Player2": "Alisa",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Decoyforhire",
+          "Player2": "scipios",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kePs",
+          "Player2": "Furina",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DragonFodder",
+          "Player2": "soggymeatball",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Rooney56",
+          "Player2": "nahuel10",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "FakeShaver",
+          "Player2": "Venom1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "BigD_1992",
+          "Player2": "steelleaf51",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Juggalotus92",
+          "Player2": "Marvelman123",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "taku123",
+          "Player2": "MeninooNey",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Juintatz",
+          "Player2": "RowdyGainz",
+          "Result": "2-0-0"
         },
         {
           "Player1": "AlpInco",
+          "Player2": "_Joseba_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LasVegasChaos",
+          "Player2": "Nanovo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "RainerZahnfall92",
+          "Player2": "Tienmtg",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "KillerSheep",
+          "Player2": "Redhotphil87",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ettore09",
+          "Player2": "Payakan",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "felider",
+          "Player2": "jvidarte",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "MTGMoneyMaker",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "matiasarg",
           "Player2": "Themata",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Callenutg1",
+          "Player2": "acelerado440",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "AmadeusPro",
+          "Player2": "FlawlessVictory-",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "fradev1988",
+          "Player2": "sergilpg",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "matiasarg",
+          "Player2": "nahuel10",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "Marvelman123",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Venom1",
+          "Player2": "Callenutg1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ettore09",
+          "Player2": "RowdyGainz",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "LavaSpike2000",
+          "Player2": "felider",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Decoyforhire",
+          "Player2": "Alisa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Themata",
+          "Player2": "AmadeusPro",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "KillerSheep",
+          "Player2": "Tienmtg",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Rooney56",
+          "Player2": "FlawlessVictory-",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "fradev1988",
+          "Player2": "BigD_1992",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Redhotphil87",
+          "Player2": "Nanovo",
           "Result": "2-0-0"
         },
         {
           "Player1": "jvidarte",
-          "Player2": "Rooney56",
+          "Player2": "Payakan",
           "Result": "2-0-0"
+        },
+        {
+          "Player1": "Juggalotus92",
+          "Player2": "AlpInco",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "sergilpg",
+          "Player2": "Juintatz",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "steelleaf51",
+          "Player2": "MTGMoneyMaker",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "FakeShaver",
+          "Player2": "acelerado440",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "taku123",
+          "Player2": "RainerZahnfall92",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kePs",
+          "Player2": "soggymeatball",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "DragonFodder",
+          "Player2": "_Joseba_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "scipios",
+          "Player2": "Furina",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "LasVegasChaos",
+          "Player2": "MeninooNey",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "Nanovo",
+          "Player2": "Furina",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "nahuel10",
+          "Player2": "MeninooNey",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "FakeShaver",
+          "Player2": "Alisa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "soggymeatball",
+          "Player2": "Juintatz",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "RainerZahnfall92",
+          "Player2": "felider",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Tienmtg",
+          "Player2": "RowdyGainz",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Venom1",
+          "Player2": "MTGMoneyMaker",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "fradev1988",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "BigD_1992",
+          "Player2": "FlawlessVictory-",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "kePs",
+          "Player2": "sergilpg",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "scipios",
+          "Player2": "Callenutg1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Decoyforhire",
+          "Player2": "AlpInco",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "LasVegasChaos",
+          "Player2": "Payakan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Joseba_",
+          "Player2": "Marvelman123",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Rooney56",
+          "Player2": "Themata",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Redhotphil87",
+          "Player2": "steelleaf51",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "KillerSheep",
+          "Player2": "jvidarte",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Juggalotus92",
+          "Player2": "AmadeusPro",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "Rooney56",
+          "Player2": "MTGMoneyMaker",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Themata",
+          "Player2": "_Joseba_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Redhotphil87",
+          "Player2": "Alisa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Venom1",
+          "Player2": "Juintatz",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "nahuel10",
+          "Player2": "felider",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "kePs",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "steelleaf51",
+          "Player2": "Nanovo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "RowdyGainz",
+          "Player2": "Furina",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ettore09",
+          "Player2": "Marvelman123",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "scipios",
+          "Player2": "Payakan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "KillerSheep",
+          "Player2": "Callenutg1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "sergilpg",
+          "Player2": "Tienmtg",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "soggymeatball",
+          "Player2": "AlpInco",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Decoyforhire",
+          "Player2": "MeninooNey",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "FakeShaver",
+          "Player2": "AmadeusPro",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "RainerZahnfall92",
+          "Player2": "BigD_1992",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jvidarte",
+          "Player2": "LasVegasChaos",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "AlpInco",
+          "Player2": "Juintatz",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "sergilpg",
+          "Player2": "Marvelman123",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Redhotphil87",
+          "Player2": "AmadeusPro",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "soggymeatball",
+          "Player2": "Callenutg1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "jvidarte",
+          "Player2": "MTGMoneyMaker",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "KillerSheep",
+          "Player2": "BigD_1992",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Decoyforhire",
+          "Player2": "Themata",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "nahuel10",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Ettore09",
+          "Player2": "fradev1988",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "FakeShaver",
+          "Player2": "_Joseba_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LasVegasChaos",
+          "Player2": "Tienmtg",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Venom1",
+          "Player2": "scipios",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Rooney56",
+          "Player2": "RainerZahnfall92",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Payakan",
+          "Player2": "Nanovo",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "kePs",
+          "Player2": "MeninooNey",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "sergilpg",
+          "Player2": "MeninooNey",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "nahuel10",
+          "Player2": "Juintatz",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "scipios",
+          "Player2": "Nanovo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "KillerSheep",
+          "Player2": "Marvelman123",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Joseba_",
+          "Player2": "Payakan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Themata",
+          "Player2": "jvidarte",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Redhotphil87",
+          "Player2": "soggymeatball",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LasVegasChaos",
+          "Player2": "Callenutg1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "FakeShaver",
+          "Player2": "BigD_1992",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Rooney56",
+          "Player2": "AmadeusPro",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "fradev1988",
+          "Player2": "Furina",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "Venom1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "AlpInco",
+          "Player2": "MTGMoneyMaker",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Decoyforhire",
+          "Player2": "RainerZahnfall92",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "Matches": [
+        {
+          "Player1": "Venom1",
+          "Player2": "MTGMoneyMaker",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Themata",
+          "Player2": "AlpInco",
+          "Result": "0-2-0"
         },
         {
           "Player1": "Callenutg1",
           "Player2": "AmadeusPro",
           "Result": "2-0-0"
+        },
+        {
+          "Player1": "Rooney56",
+          "Player2": "jvidarte",
+          "Result": "0-2-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 8",
       "Matches": [
+        {
+          "Player1": "AlpInco",
+          "Player2": "jvidarte",
+          "Result": "0-2-0"
+        },
         {
           "Player1": "Venom1",
           "Player2": "Callenutg1",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "jvidarte",
-          "Player2": "AlpInco",
-          "Result": "2-1-0"
+          "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 9",
       "Matches": [
         {
           "Player1": "Venom1",
