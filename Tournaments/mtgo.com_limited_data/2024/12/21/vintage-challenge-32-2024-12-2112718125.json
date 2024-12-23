@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2024-12-21T00:00:00Z",
     "Name": "Vintage Challenge 32",
-    "Uri": "https://www.mtgo.com/decklist/vintage-challenge-32-2024-12-2112718125"
+    "Uri": "https://www.mtgo.com/decklist/vintage-challenge-32-2024-12-2112718125",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -5272,51 +5275,441 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
-          "Player1": "Tunaktunak",
+          "Player1": "Montolio",
+          "Player2": "CrazyDiamond513",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "crK",
+          "Player2": "izzy-wilde",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "therealkinda",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Wizard_2002",
+          "Player2": "JustABee5",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "xDingusKhan",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "aBlueRaven",
+          "Player2": "Arca_de_Karn",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jagers_master",
+          "Player2": "PieGonti",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "Jumba",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "TrueHero",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Viatt",
+          "Player2": "Bezerra_da_Silva",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "B-Carp",
+          "Player2": "Munchlax446",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Shatun_",
+          "Player2": "Will_Split",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "SHAKELION",
+          "Player2": "Messi_10",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "WLS",
+          "Player2": "_J0SE_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "_INF_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "unluckymonkey",
+          "Player2": "Lord_Beerus",
+          "Result": "0-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "CrazyDiamond513",
+          "Player2": "Will_Split",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Montolio",
+          "Player2": "Viatt",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Shatun_",
+          "Player2": "unluckymonkey",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Wizard_2002",
+          "Player2": "xDingusKhan",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "aBlueRaven",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "_J0SE_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jagers_master",
+          "Player2": "Bezerra_da_Silva",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "SHAKELION",
+          "Player2": "Munchlax446",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "B-Carp",
+          "Player2": "TrueHero",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Arca_de_Karn",
+          "Player2": "ecobaronen",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "Jumba",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "crK",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "WLS",
+          "Player2": "PieGonti",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Messi_10",
+          "Player2": "izzy-wilde",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "therealkinda",
+          "Player2": "_INF_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "JustABee5",
+          "Player2": "LucasG1ggs",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "_INF_",
+          "Player2": "Viatt",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "xDingusKhan",
+          "Player2": "Bezerra_da_Silva",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Montolio",
+          "Player2": "Messi_10",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "PieGonti",
+          "Player2": "TrueHero",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "therealkinda",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "aBlueRaven",
+          "Player2": "Munchlax446",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "CrazyDiamond513",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "JustABee5",
+          "Player2": "SHAKELION",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "Will_Split",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
           "Player2": "izzy-wilde",
           "Result": "2-0-0"
         },
         {
-          "Player1": "CrazyDiamond513",
-          "Player2": "O_danielakos",
-          "Result": "2-1-0"
+          "Player1": "albertoSD",
+          "Player2": "crK",
+          "Result": "0-2-0"
         },
         {
-          "Player1": "unluckymonkey",
-          "Player2": "_Batutinha_",
-          "Result": "2-1-0"
+          "Player1": "_Batutinha_",
+          "Player2": "Arca_de_Karn",
+          "Result": "2-0-0"
         },
         {
-          "Player1": "wiky",
-          "Player2": "Magic_Dads71522",
-          "Result": "2-1-0"
+          "Player1": "Wizard_2002",
+          "Player2": "unluckymonkey",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "jagers_master",
+          "Player2": "_J0SE_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Shatun_",
+          "Player2": "WLS",
+          "Result": "0-2-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 4",
       "Matches": [
         {
-          "Player1": "unluckymonkey",
-          "Player2": "wiky",
+          "Player1": "JustABee5",
+          "Player2": "albertoSD",
           "Result": "2-0-0"
         },
         {
-          "Player1": "Tunaktunak",
+          "Player1": "jagers_master",
           "Player2": "CrazyDiamond513",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Arca_de_Karn",
+          "Player2": "_J0SE_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "_INF_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "crK",
+          "Player2": "Will_Split",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "xDingusKhan",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "Lord_Beerus",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Montolio",
+          "Player2": "Jumba",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "unluckymonkey",
+          "Player2": "Viatt",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Bezerra_da_Silva",
+          "Player2": "Munchlax446",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Shatun_",
+          "Player2": "izzy-wilde",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "WLS",
+          "Player2": "TrueHero",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "PieGonti",
+          "Player2": "aBlueRaven",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Wizard_2002",
+          "Player2": "SHAKELION",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "Arca_de_Karn",
+          "Player2": "izzy-wilde",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "Messi_10",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "_J0SE_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "unluckymonkey",
+          "Player2": "Munchlax446",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "crK",
+          "Player2": "Bezerra_da_Silva",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JustABee5",
+          "Player2": "PieGonti",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Montolio",
+          "Player2": "jagers_master",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "SHAKELION",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "xDingusKhan",
+          "Player2": "Will_Split",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "CrazyDiamond513",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "TrueHero",
+          "Player2": "_INF_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "aBlueRaven",
+          "Player2": "Viatt",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "Bezerra_da_Silva",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "Will_Split",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "PieGonti",
+          "Player2": "CrazyDiamond513",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "crK",
+          "Player2": "jagers_master",
           "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 7",
       "Matches": [
         {
-          "Player1": "unluckymonkey",
-          "Player2": "Tunaktunak",
+          "Player1": "crK",
+          "Player2": "CrazyDiamond513",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Bezerra_da_Silva",
+          "Player2": "Will_Split",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "Matches": [
+        {
+          "Player1": "CrazyDiamond513",
+          "Player2": "Bezerra_da_Silva",
           "Result": "2-0-0"
         }
       ]
