@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2024-12-29T00:00:00Z",
     "Name": "Vintage Challenge 32",
-    "Uri": "https://www.mtgo.com/decklist/vintage-challenge-32-2024-12-2912718236"
+    "Uri": "https://www.mtgo.com/decklist/vintage-challenge-32-2024-12-2912718236",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -5432,52 +5435,527 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
-          "Player1": "_epinephrine",
-          "Player2": "_Shatun_",
+          "Player1": "albertoSD",
+          "Player2": "Mogged",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "_Chamytinho_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "unluckymonkey",
+          "Player2": "TrueHero",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Wesal",
+          "Player2": "_dr4gun0v_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "BERNASTORRES",
+          "Player2": "Redhotphil87",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Butakov",
+          "Player2": "therealkinda",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "FranMtg",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Slasher21",
+          "Player2": "EiJunCHN",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Rooney56",
+          "Player2": "death_grips",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "FlawlessVictory-",
+          "Player2": "desolutionist",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "Breckoroni",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "Nanovo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "crK",
+          "Player2": "DB_bhobbsie",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "adm29",
+          "Player2": "bless_von",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Joseba_",
+          "Player2": "MyPotatoes",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kristofff",
+          "Player2": "wiky",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "discoverN",
+          "Player2": "_epinephrine",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "desolutionist",
+          "Player2": "Mogged",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "EiJunCHN",
+          "Player2": "FlawlessVictory-",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Wesal",
+          "Player2": "Munchlax446",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "death_grips",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "kristofff",
+          "Player2": "discoverN",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "unluckymonkey",
+          "Player2": "Nanovo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "adm29",
+          "Player2": "_epinephrine",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "Breckoroni",
           "Result": "2-0-0"
         },
         {
           "Player1": "BERNASTORRES",
-          "Player2": "FranMtg",
+          "Player2": "_Chamytinho_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "ecobaronen",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "wiky",
+          "Player2": "DB_bhobbsie",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Redhotphil87",
+          "Player2": "TrueHero",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "FranMtg",
+          "Player2": "Slasher21",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Rooney56",
+          "Player2": "crK",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Shatun_",
+          "Player2": "_dr4gun0v_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "therealkinda",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Butakov",
+          "Player2": "_Joseba_",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "Nanovo",
+          "Player2": "_epinephrine",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "wiky",
+          "Player2": "Slasher21",
           "Result": "2-1-0"
         },
+        {
+          "Player1": "medvedev",
+          "Player2": "_dr4gun0v_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "desolutionist",
+          "Player2": "Breckoroni",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "therealkinda",
+          "Player2": "_Chamytinho_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kristofff",
+          "Player2": "death_grips",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "FranMtg",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Rooney56",
+          "Player2": "_Shatun_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "crK",
+          "Player2": "TrueHero",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Joseba_",
+          "Player2": "EiJunCHN",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "BERNASTORRES",
+          "Player2": "bless_von",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "adm29",
+          "Player2": "DB_bhobbsie",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Butakov",
+          "Player2": "discoverN",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "unluckymonkey",
+          "Player2": "Munchlax446",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "Redhotphil87",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "adm29",
+          "Player2": "musasabi",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Butakov",
+          "Player2": "Rooney56",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "discoverN",
+          "Player2": "FranMtg",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Shatun_",
+          "Player2": "BERNASTORRES",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Slasher21",
+          "Player2": "_Joseba_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "unluckymonkey",
+          "Player2": "_Chamytinho_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "crK",
+          "Player2": "wiky",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "therealkinda",
+          "Player2": "Nanovo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "EiJunCHN",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Breckoroni",
+          "Player2": "_epinephrine",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "death_grips",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "Munchlax446",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "TrueHero",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kristofff",
+          "Player2": "_dr4gun0v_",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "musasabi",
+          "Player2": "Breckoroni",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Rooney56",
+          "Player2": "FranMtg",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "discoverN",
+          "Player2": "BERNASTORRES",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TrueHero",
+          "Player2": "_epinephrine",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Butakov",
+          "Player2": "_dr4gun0v_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "therealkinda",
+          "Player2": "Munchlax446",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "_Shatun_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "wiky",
+          "Player2": "_Chamytinho_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "EiJunCHN",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "death_grips",
+          "Player2": "Nanovo",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "unluckymonkey",
+          "Player2": "bless_von",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kristofff",
+          "Player2": "albertoSD",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "crK",
+          "Player2": "_Joseba_",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "BERNASTORRES",
+          "Player2": "_epinephrine",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "wiky",
+          "Player2": "EiJunCHN",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Rooney56",
+          "Player2": "discoverN",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "FranMtg",
+          "Player2": "_Chamytinho_",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Butakov",
+          "Player2": "albertoSD",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "Mogged",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "unluckymonkey",
+          "Player2": "therealkinda",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "TrueHero",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "crK",
+          "Player2": "Nanovo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Shatun_",
+          "Player2": "musasabi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Joseba_",
+          "Player2": "_dr4gun0v_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "adm29",
+          "Player2": "death_grips",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kristofff",
+          "Player2": "Munchlax446",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "Matches": [
         {
           "Player1": "Rooney56",
           "Player2": "discoverN",
           "Result": "2-0-0"
         },
         {
-          "Player1": "_Chamytinho_",
-          "Player2": "medvedev",
-          "Result": "2-1-0"
-        }
-      ]
-    },
-    {
-      "RoundName": "Semifinals",
-      "Matches": [
-        {
-          "Player1": "_Chamytinho_",
-          "Player2": "BERNASTORRES",
-          "Result": "2-1-0"
+          "Player1": "_Shatun_",
+          "Player2": "_epinephrine",
+          "Result": "0-2-0"
         },
         {
-          "Player1": "_epinephrine",
-          "Player2": "Rooney56",
+          "Player1": "BERNASTORRES",
+          "Player2": "FranMtg",
           "Result": "2-0-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "_Chamytinho_",
+          "Result": "0-2-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 8",
       "Matches": [
         {
-          "Player1": "_Chamytinho_",
+          "Player1": "Rooney56",
           "Player2": "_epinephrine",
-          "Result": "2-0-0"
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "BERNASTORRES",
+          "Player2": "_Chamytinho_",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 9",
+      "Matches": [
+        {
+          "Player1": "_epinephrine",
+          "Player2": "_Chamytinho_",
+          "Result": "0-0-0"
         }
       ]
     }
