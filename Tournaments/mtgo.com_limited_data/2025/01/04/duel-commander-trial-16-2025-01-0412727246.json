@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2025-01-04T00:00:00Z",
     "Name": "Duel Commander Trial 16",
-    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-01-0412727246"
+    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-01-0412727246",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -8424,37 +8427,317 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
           "Player1": "rodixSK",
+          "Player2": "Bezerra_da_Silva",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "yPrincipe",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Lopik6",
+          "Player2": "manalacaio",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "WhinMTG",
+          "Player2": "Bong0411",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "coluche",
+          "Player2": "DuduDeNunu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "stainerson",
+          "Player2": "_Batutinha_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Killerp0p0",
+          "Player2": "Arrias",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "Hamuda",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Beekeeper",
+          "Player2": "Rex_Iudex",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "complexsimpleton",
           "Player2": "_Chamytinho_",
-          "Result": "2-1-0"
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Butakov",
+          "Player2": "_Shatun_",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "Butakov",
+          "Player2": "manalacaio",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "complexsimpleton",
+          "Player2": "Arrias",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Chamytinho_",
+          "Player2": "DuduDeNunu",
+          "Result": "2-0-0"
         },
         {
           "Player1": "yPrincipe",
-          "Player2": "Hamuda",
-          "Result": "1-0-0"
+          "Player2": "_Shatun_",
+          "Result": "2-0-0"
         },
         {
+          "Player1": "ecobaronen",
+          "Player2": "rodixSK",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "stainerson",
+          "Player2": "coluche",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Hamuda",
+          "Player2": "Bong0411",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "WhinMTG",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Lopik6",
+          "Player2": "Bezerra_da_Silva",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Killerp0p0",
+          "Player2": "Rex_Iudex",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "Beekeeper",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
           "Player1": "manalacaio",
-          "Player2": "stainerson",
+          "Player2": "yPrincipe",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "complexsimpleton",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "WhinMTG",
+          "Player2": "DuduDeNunu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Arrias",
+          "Player2": "Bezerra_da_Silva",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Killerp0p0",
+          "Player2": "_Shatun_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Butakov",
+          "Player2": "Bong0411",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Chamytinho_",
+          "Player2": "rodixSK",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "Lopik6",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "stainerson",
+          "Player2": "medvedev",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Hamuda",
+          "Player2": "Rex_Iudex",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "Killerp0p0",
+          "Player2": "_Batutinha_",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Hamuda",
+          "Player2": "manalacaio",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Shatun_",
+          "Player2": "Arrias",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "rodixSK",
+          "Player2": "DuduDeNunu",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Beekeeper",
+          "Player2": "WhinMTG",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "Lopik6",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "Bong0411",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Rex_Iudex",
+          "Player2": "_Chamytinho_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "complexsimpleton",
+          "Player2": "yPrincipe",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "stainerson",
+          "Player2": "Butakov",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "medvedev",
+          "Player2": "WhinMTG",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "Killerp0p0",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "rodixSK",
+          "Player2": "yPrincipe",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "DuduDeNunu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Butakov",
+          "Player2": "Arrias",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Chamytinho_",
+          "Player2": "Hamuda",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "complexsimpleton",
+          "Player2": "manalacaio",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "stainerson",
+          "Player2": "Rex_Iudex",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Lopik6",
+          "Player2": "Bong0411",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "yPrincipe",
+          "Player2": "Hamuda",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "stainerson",
+          "Player2": "manalacaio",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "rodixSK",
+          "Player2": "_Chamytinho_",
           "Result": "2-0-0"
         },
         {
           "Player1": "medvedev",
           "Player2": "Rex_Iudex",
-          "Result": "2-1-0"
+          "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 7",
       "Matches": [
         {
           "Player1": "rodixSK",
           "Player2": "yPrincipe",
-          "Result": "2-1-0"
+          "Result": "2-0-0"
         },
         {
           "Player1": "medvedev",
@@ -8464,12 +8747,12 @@
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 8",
       "Matches": [
         {
           "Player1": "rodixSK",
           "Player2": "medvedev",
-          "Result": "2-1-0"
+          "Result": "2-0-0"
         }
       ]
     }
