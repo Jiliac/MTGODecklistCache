@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2025-01-06T00:00:00Z",
     "Name": "Duel Commander Trial 16",
-    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-01-0612727264"
+    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-01-0612727264",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -6092,52 +6095,217 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
-          "Player1": "CrazyMorango",
+          "Player1": "albertoSD",
+          "Player2": "yPrincipe",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "VampireX_",
           "Player2": "ecobaronen",
-          "Result": "2-1-0"
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "RitualSinkhole",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Boucha",
+          "Player2": "Killah_SUV",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "unworldlyorigin",
+          "Player2": "CrazyMorango",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Firetruck",
+          "Player2": "manalacaio",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jose Guillermo",
+          "Player2": "Carbozo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "complexsimpleton",
+          "Player2": "Byvci",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "unworldlyorigin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "yPrincipe",
+          "Player2": "manalacaio",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "ecobaronen",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "VampireX_",
+          "Player2": "Byvci",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "RitualSinkhole",
+          "Player2": "CrazyMorango",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jose Guillermo",
+          "Player2": "Firetruck",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "complexsimpleton",
+          "Player2": "Boucha",
+          "Result": "0-0-0"
         },
         {
           "Player1": "Killah_SUV",
           "Player2": "Carbozo",
-          "Result": "2-1-0"
+          "Result": "0-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "Jose Guillermo",
+          "Player2": "albertoSD",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "unworldlyorigin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "complexsimpleton",
+          "Player2": "CrazyMorango",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Firetruck",
+          "Player2": "Carbozo",
+          "Result": "0-2-0"
         },
         {
           "Player1": "_Batutinha_",
-          "Player2": "VampireX_",
-          "Result": "2-1-0"
+          "Player2": "Killah_SUV",
+          "Result": "0-2-0"
         },
         {
           "Player1": "Byvci",
           "Player2": "yPrincipe",
-          "Result": "2-1-0"
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "VampireX_",
+          "Player2": "manalacaio",
+          "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 4",
       "Matches": [
         {
-          "Player1": "CrazyMorango",
-          "Player2": "Killah_SUV",
+          "Player1": "VampireX_",
+          "Player2": "CrazyMorango",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "Byvci",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "complexsimpleton",
+          "Player2": "unworldlyorigin",
           "Result": "2-0-0"
         },
         {
           "Player1": "_Batutinha_",
-          "Player2": "Byvci",
+          "Player2": "Carbozo",
           "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jose Guillermo",
+          "Player2": "manalacaio",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "yPrincipe",
+          "Player2": "Killah_SUV",
+          "Result": "0-2-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 5",
       "Matches": [
         {
-          "Player1": "CrazyMorango",
-          "Player2": "_Batutinha_",
+          "Player1": "Killah_SUV",
+          "Player2": "Carbozo",
           "Result": "2-0-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "CrazyMorango",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Byvci",
+          "Player2": "yPrincipe",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "VampireX_",
+          "Player2": "_Batutinha_",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "Byvci",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Killah_SUV",
+          "Player2": "CrazyMorango",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "CrazyMorango",
+          "Result": "0-2-0"
         }
       ]
     }
