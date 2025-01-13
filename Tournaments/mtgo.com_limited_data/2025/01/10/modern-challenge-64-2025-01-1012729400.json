@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2025-01-10T00:00:00Z",
     "Name": "Modern Challenge 64",
-    "Uri": "https://www.mtgo.com/decklist/modern-challenge-64-2025-01-1012729400"
+    "Uri": "https://www.mtgo.com/decklist/modern-challenge-64-2025-01-1012729400",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -4412,47 +4415,1292 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
-          "Player1": "_Batutinha_",
+          "Player1": "Coachinho",
+          "Player2": "ResponsiblyStupid",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "CAPSLOCKGUY",
           "Player2": "DaemonArchon",
-          "Result": "2-1-0"
+          "Result": "0-2-0"
         },
         {
-          "Player1": "PierrePoilievre2025",
+          "Player1": "Varo",
+          "Player2": "NotSnype315",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Dreddybajs",
+          "Player2": "CaboGrosso",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "pelli",
           "Player2": "xl_snapcaster",
-          "Result": "1-0-0"
+          "Result": "0-2-0"
         },
         {
-          "Player1": "ClaymoreTobi",
+          "Player1": "unagieel",
+          "Player2": "ClaymoreTobi",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Sol0monGrundy",
           "Player2": "ziofrancone",
-          "Result": "2-1-0"
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Salvatto",
+          "Player2": "-Nausea-",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "WrzoBuSeks",
+          "Player2": "josetorr87",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Graciasportanto",
+          "Player2": "Volttera",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "jamiewvh",
+          "Player2": "Payakan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Gobern",
+          "Player2": "groot02",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "msskinbolic",
+          "Player2": "SPyromancer",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Nammersquats",
+          "Player2": "-CAPS-",
+          "Result": "2-0-0"
         },
         {
           "Player1": "NathanOfTheGiltLeaf",
-          "Player2": "FreshKale",
+          "Player2": "Soseloso",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "stefanocanclini",
+          "Player2": "Ashe_Oathkeeper",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "oskiyaa",
+          "Player2": "DeporeNyan",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_IlNano_",
+          "Player2": "Bugsy69",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Andrea94",
+          "Player2": "House565",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ZVendetta",
+          "Player2": "happyx3",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "PDeS",
+          "Player2": "mERAZED",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Nikito18",
+          "Player2": "MATTOMARINAIO",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Gernardi",
+          "Player2": "Lollopollo2001",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "bunnyfat",
+          "Player2": "Doomenstein",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "dehloco",
+          "Player2": "Xerk",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "peter780108",
+          "Player2": "Azja",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Chefen",
+          "Player2": "Pingo7637",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "OZ_Senpai",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "PellinTop",
+          "Player2": "aarrgh",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "nahuel10",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Mochabeezy",
+          "Player2": "JakeTMS",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "rastaf",
+          "Player2": "tcgvaluehunter",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Deathmaxx",
+          "Player2": "Xsper",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "amiz",
+          "Player2": "Lobanovski",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "DragonFodder",
+          "Player2": "alemilan19",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "AlexanderRosdahl",
+          "Player2": "slow_brz",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "TSPJendrek",
+          "Player2": "Mogged",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "sokos13",
+          "Player2": "Gatatouille",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ettore09",
+          "Player2": "dedav",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Misplacedginger",
+          "Player2": "Savior0117",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "nedyahiske",
+          "Player2": "PierrePoilievre2025",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "FreshKale",
+          "Player2": "Dirty0wl",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Zlatan1044",
+          "Player2": "MTGMoneyMaker",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "scipios",
+          "Player2": "JulianJohn",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Napoleon_I",
+          "Player2": "eccelleente",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Thomjasz",
+          "Player2": "Prim3Time",
           "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 2",
       "Matches": [
         {
-          "Player1": "PierrePoilievre2025",
-          "Player2": "_Batutinha_",
+          "Player1": "peter780108",
+          "Player2": "Soseloso",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Nammersquats",
+          "Player2": "FreshKale",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "OZ_Senpai",
+          "Player2": "-CAPS-",
           "Result": "2-0-0"
+        },
+        {
+          "Player1": "Volttera",
+          "Player2": "SPyromancer",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Xsper",
+          "Player2": "happyx3",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "AlexanderRosdahl",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Gernardi",
+          "Player2": "dedav",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "sokos13",
+          "Player2": "Doomenstein",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "amiz",
+          "Player2": "mERAZED",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "nahuel10",
+          "Player2": "MTGMoneyMaker",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "slow_brz",
+          "Player2": "Lobanovski",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Napoleon_I",
+          "Player2": "Deathmaxx",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Mochabeezy",
+          "Player2": "eccelleente",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "scipios",
+          "Player2": "Coachinho",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dreddybajs",
+          "Player2": "Salvatto",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "TSPJendrek",
+          "Player2": "Thomjasz",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Gobern",
+          "Player2": "ClaymoreTobi",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "PDeS",
+          "Player2": "Ettore09",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Xerk",
+          "Player2": "Dirty0wl",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "WrzoBuSeks",
+          "Player2": "CAPSLOCKGUY",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Lollopollo2001",
+          "Player2": "JulianJohn",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Sol0monGrundy",
+          "Player2": "CaboGrosso",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "oskiyaa",
+          "Player2": "Zlatan1044",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Pingo7637",
+          "Player2": "-Nausea-",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "rastaf",
+          "Player2": "Andrea94",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jamiewvh",
+          "Player2": "ResponsiblyStupid",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Savior0117",
+          "Player2": "Bugsy69",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "msskinbolic",
+          "Player2": "MATTOMARINAIO",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Azja",
+          "Player2": "aarrgh",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Chefen",
+          "Player2": "Nikito18",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Misplacedginger",
+          "Player2": "josetorr87",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "alemilan19",
+          "Player2": "Ashe_Oathkeeper",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "PellinTop",
+          "Player2": "Varo",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "NotSnype315",
+          "Player2": "_Batutinha_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "DragonFodder",
+          "Player2": "Graciasportanto",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "bunnyfat",
+          "Player2": "Payakan",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Drugo",
+          "Player2": "DaemonArchon",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "tcgvaluehunter",
+          "Player2": "ziofrancone",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "xl_snapcaster",
+          "Player2": "House565",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "_IlNano_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "DeporeNyan",
+          "Player2": "PierrePoilievre2025",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "JakeTMS",
+          "Player2": "groot02",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "pelli",
+          "Player2": "unagieel",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "dehloco",
+          "Player2": "NathanOfTheGiltLeaf",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ZVendetta",
+          "Player2": "Prim3Time",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "CAPSLOCKGUY",
+          "Player2": "NotSnype315",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Chefen",
+          "Player2": "Volttera",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "alemilan19",
+          "Player2": "SPyromancer",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "tcgvaluehunter",
+          "Player2": "Deathmaxx",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "-Nausea-",
+          "Player2": "Soseloso",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Nammersquats",
+          "Player2": "Sol0monGrundy",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DeporeNyan",
+          "Player2": "Ashe_Oathkeeper",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "DaemonArchon",
+          "Player2": "NathanOfTheGiltLeaf",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Pingo7637",
+          "Player2": "CaboGrosso",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Thomjasz",
+          "Player2": "_Batutinha_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "dehloco",
+          "Player2": "Dirty0wl",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "scipios",
+          "Player2": "MTGMoneyMaker",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "slow_brz",
+          "Player2": "Doomenstein",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Azja",
+          "Player2": "Lobanovski",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Varo",
+          "Player2": "Lollopollo2001",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "sokos13",
+          "Player2": "PierrePoilievre2025",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "nahuel10",
+          "Player2": "xl_snapcaster",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Bugsy69",
+          "Player2": "ziofrancone",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "oskiyaa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dreddybajs",
+          "Player2": "unagieel",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "_IlNano_",
+          "Player2": "groot02",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "PDeS",
+          "Player2": "MATTOMARINAIO",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "eccelleente",
+          "Player2": "Xsper",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "msskinbolic",
+          "Player2": "Coachinho",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "PellinTop",
+          "Player2": "DragonFodder",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ettore09",
+          "Player2": "Mochabeezy",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Graciasportanto",
+          "Player2": "Gernardi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "OZ_Senpai",
+          "Player2": "Nikito18",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "peter780108",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TSPJendrek",
+          "Player2": "Payakan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jamiewvh",
+          "Player2": "amiz",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "WrzoBuSeks",
+          "Player2": "aarrgh",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ResponsiblyStupid",
+          "Player2": "ClaymoreTobi",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "FreshKale",
+          "Player2": "happyx3",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Salvatto",
+          "Player2": "JulianJohn",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ZVendetta",
+          "Player2": "-CAPS-",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Xerk",
+          "Player2": "josetorr87",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "stefanocanclini",
+          "Player2": "Prim3Time",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "rastaf",
+          "Player2": "Misplacedginger",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Drugo",
+          "Player2": "Zlatan1044",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "AlexanderRosdahl",
+          "Player2": "House565",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "TSPJendrek",
+          "Player2": "slow_brz",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Nikito18",
+          "Player2": "FreshKale",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "msskinbolic",
+          "Player2": "DeporeNyan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dreddybajs",
+          "Player2": "Bugsy69",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "ziofrancone",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "OZ_Senpai",
+          "Player2": "eccelleente",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Lollopollo2001",
+          "Player2": "groot02",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "alemilan19",
+          "Player2": "Drugo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "Prim3Time",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Graciasportanto",
+          "Player2": "stefanocanclini",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Varo",
+          "Player2": "Lobanovski",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "sokos13",
+          "Player2": "nahuel10",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "PDeS",
+          "Player2": "jamiewvh",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Nammersquats",
+          "Player2": "House565",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "dehloco",
+          "Player2": "Zlatan1044",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Ashe_Oathkeeper",
+          "Player2": "happyx3",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Mochabeezy",
+          "Player2": "SPyromancer",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_IlNano_",
+          "Player2": "JulianJohn",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Sol0monGrundy",
+          "Player2": "MATTOMARINAIO",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "rastaf",
+          "Player2": "Dirty0wl",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Volttera",
+          "Player2": "Pingo7637",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ettore09",
+          "Player2": "CAPSLOCKGUY",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Azja",
+          "Player2": "ClaymoreTobi",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Doomenstein",
+          "Player2": "PellinTop",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ResponsiblyStupid",
+          "Player2": "Soseloso",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Thomjasz",
+          "Player2": "amiz",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "aarrgh",
+          "Player2": "Xsper",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "ZVendetta",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Salvatto",
+          "Player2": "NathanOfTheGiltLeaf",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Chefen",
+          "Player2": "Deathmaxx",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DaemonArchon",
+          "Player2": "MTGMoneyMaker",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "scipios",
+          "Player2": "Payakan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "josetorr87",
+          "Player2": "peter780108",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "xl_snapcaster",
+          "Player2": "PierrePoilievre2025",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "PierrePoilievre2025",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Mochabeezy",
+          "Player2": "NathanOfTheGiltLeaf",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "sokos13",
+          "Player2": "scipios",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "alemilan19",
+          "Player2": "Nikito18",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Salvatto",
+          "Player2": "DaemonArchon",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Dreddybajs",
+          "Player2": "ziofrancone",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "FreshKale",
+          "Player2": "ClaymoreTobi",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Nammersquats",
+          "Player2": "SPyromancer",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "PDeS",
+          "Player2": "Thomjasz",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "Prim3Time",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "xl_snapcaster",
+          "Player2": "Azja",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "msskinbolic",
+          "Player2": "Sol0monGrundy",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jamiewvh",
+          "Player2": "Lobanovski",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Volttera",
+          "Player2": "Drugo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "peter780108",
+          "Player2": "Doomenstein",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "slow_brz",
+          "Player2": "happyx3",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "nahuel10",
+          "Player2": "CAPSLOCKGUY",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "OZ_Senpai",
+          "Player2": "Zlatan1044",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Graciasportanto",
+          "Player2": "Ettore09",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "amiz",
+          "Player2": "MATTOMARINAIO",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Deathmaxx",
+          "Player2": "JulianJohn",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "rastaf",
+          "Player2": "Varo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "dehloco",
+          "Player2": "DeporeNyan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Bugsy69",
+          "Player2": "House565",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "PellinTop",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ZVendetta",
+          "Player2": "Lollopollo2001",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_IlNano_",
+          "Player2": "Xsper",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Chefen",
+          "Player2": "Soseloso",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "DaemonArchon",
+          "Player2": "ClaymoreTobi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "msskinbolic",
+          "Player2": "Azja",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "jamiewvh",
+          "Player2": "Ettore09",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Doomenstein",
+          "Player2": "Lobanovski",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Chefen",
+          "Player2": "alemilan19",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Deathmaxx",
+          "Player2": "Zlatan1044",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "amiz",
+          "Player2": "House565",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Salvatto",
+          "Player2": "CAPSLOCKGUY",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "DeporeNyan",
+          "Player2": "Prim3Time",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "NathanOfTheGiltLeaf",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "SPyromancer",
+          "Player2": "Soseloso",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ZVendetta",
+          "Player2": "PDeS",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Nammersquats",
+          "Player2": "Mochabeezy",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_IlNano_",
+          "Player2": "xl_snapcaster",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "FreshKale",
+          "Player2": "ziofrancone",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Lollopollo2001",
+          "Player2": "Mogged",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "dehloco",
+          "Player2": "JulianJohn",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Bugsy69",
+          "Player2": "PellinTop",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "rastaf",
+          "Player2": "PierrePoilievre2025",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "peter780108",
+          "Player2": "OZ_Senpai",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "scipios",
+          "Player2": "Xsper",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Thomjasz",
+          "Player2": "happyx3",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "slow_brz",
+          "Player2": "Nikito18",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "sokos13",
+          "Player2": "Volttera",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Varo",
+          "Player2": "Graciasportanto",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "Matches": [
+        {
+          "Player1": "Doomenstein",
+          "Player2": "JulianJohn",
+          "Result": "0-2-0"
         },
         {
           "Player1": "NathanOfTheGiltLeaf",
           "Player2": "ClaymoreTobi",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_IlNano_",
+          "Player2": "jamiewvh",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Nammersquats",
+          "Player2": "ziofrancone",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "alemilan19",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "sokos13",
+          "Player2": "Azja",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Lollopollo2001",
+          "Player2": "scipios",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Mochabeezy",
+          "Player2": "Zlatan1044",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Graciasportanto",
+          "Player2": "CAPSLOCKGUY",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "PDeS",
+          "Player2": "SPyromancer",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "rastaf",
+          "Player2": "FreshKale",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Ettore09",
+          "Player2": "PellinTop",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "DaemonArchon",
+          "Player2": "PierrePoilievre2025",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Salvatto",
+          "Player2": "House565",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "dehloco",
+          "Player2": "Lobanovski",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "ZVendetta",
+          "Player2": "Varo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "OZ_Senpai",
+          "Player2": "amiz",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "slow_brz",
+          "Player2": "Xsper",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Volttera",
+          "Player2": "Nikito18",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Chefen",
+          "Player2": "Thomjasz",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "xl_snapcaster",
+          "Player2": "happyx3",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "peter780108",
+          "Player2": "Prim3Time",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "msskinbolic",
+          "Player2": "Deathmaxx",
           "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 8",
+      "Matches": [
+        {
+          "Player1": "FreshKale",
+          "Player2": "NathanOfTheGiltLeaf",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "xl_snapcaster",
+          "Player2": "PierrePoilievre2025",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ziofrancone",
+          "Player2": "ClaymoreTobi",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "DaemonArchon",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 9",
+      "Matches": [
+        {
+          "Player1": "NathanOfTheGiltLeaf",
+          "Player2": "ClaymoreTobi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "PierrePoilievre2025",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 10",
       "Matches": [
         {
           "Player1": "NathanOfTheGiltLeaf",

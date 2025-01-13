@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2025-01-12T00:00:00Z",
     "Name": "Duel Commander Trial 16",
-    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-01-1212730992"
+    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-01-1212730992",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -9354,47 +9357,367 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
-          "Player1": "Firetruck",
-          "Player2": "ambroiseb1",
-          "Result": "2-1-0"
+          "Player1": "VampireX_",
+          "Player2": "Gatsukawa",
+          "Result": "2-0-0"
         },
         {
-          "Player1": "Agirmir",
-          "Player2": "Eton01",
-          "Result": "2-1-0"
+          "Player1": "almostomniscient",
+          "Player2": "Gianhunter",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Pasdejambon",
+          "Player2": "Bong0411",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ambroiseb1",
+          "Player2": "Karloss4000",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "RogeDeckWins",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DominoMTG",
+          "Player2": "Lopik6",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "pomafefc",
+          "Player2": "Firetruck",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Eton01",
+          "Player2": "Shuichi_Saito",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Hampuse1",
+          "Player2": "choutin",
+          "Result": "0-2-0"
         },
         {
           "Player1": "Byvci",
-          "Player2": "manalacaio",
-          "Result": "2-1-0"
+          "Player2": "grumgrum",
+          "Result": "0-2-0"
         },
         {
-          "Player1": "Shuichi_Saito",
-          "Player2": "Pasdejambon",
-          "Result": "2-1-0"
+          "Player1": "manalacaio",
+          "Player2": "Rex_Iudex",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "Aghi",
+          "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 2",
       "Matches": [
         {
+          "Player1": "Firetruck",
+          "Player2": "manalacaio",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "ambroiseb1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Pasdejambon",
+          "Player2": "Karloss4000",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Gianhunter",
+          "Player2": "choutin",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Hampuse1",
+          "Player2": "RogeDeckWins",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "Eton01",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "almostomniscient",
+          "Player2": "Bong0411",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Rex_Iudex",
+          "Player2": "Gatsukawa",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "pomafefc",
+          "Player2": "Byvci",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "VampireX_",
+          "Player2": "Lopik6",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Agirmir",
+          "Player2": "grumgrum",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Aghi",
+          "Player2": "Shuichi_Saito",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "Lopik6",
+          "Player2": "Eton01",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "RogeDeckWins",
+          "Player2": "Pasdejambon",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Agirmir",
+          "Player2": "Gatsukawa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "manalacaio",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "almostomniscient",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "pomafefc",
+          "Player2": "Hampuse1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Aghi",
+          "Player2": "grumgrum",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Firetruck",
+          "Player2": "Bong0411",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "VampireX_",
+          "Player2": "Byvci",
+          "Result": "0-2-0"
+        },
+        {
           "Player1": "Shuichi_Saito",
+          "Player2": "DominoMTG",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ambroiseb1",
+          "Player2": "choutin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Gianhunter",
+          "Player2": "Rex_Iudex",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "Agirmir",
           "Player2": "Firetruck",
           "Result": "2-0-0"
         },
         {
-          "Player1": "Agirmir",
-          "Player2": "Byvci",
+          "Player1": "VampireX_",
+          "Player2": "Pasdejambon",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Byvci",
+          "Player2": "almostomniscient",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "RogeDeckWins",
+          "Player2": "Gatsukawa",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Aghi",
+          "Player2": "Rex_Iudex",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Lopik6",
+          "Player2": "Shuichi_Saito",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ambroiseb1",
+          "Player2": "Eton01",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "Karloss4000",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Hampuse1",
+          "Player2": "DominoMTG",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Bong0411",
+          "Player2": "choutin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "Gianhunter",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "manalacaio",
+          "Player2": "grumgrum",
           "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "manalacaio",
+          "Player2": "Eton01",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "VampireX_",
+          "Player2": "ecobaronen",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "grumgrum",
+          "Player2": "choutin",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Gatsukawa",
+          "Player2": "Karloss4000",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Byvci",
+          "Player2": "Firetruck",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "ambroiseb1",
+          "Player2": "Agirmir",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "Gianhunter",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Pasdejambon",
+          "Player2": "DominoMTG",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Bong0411",
+          "Player2": "Shuichi_Saito",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Lopik6",
+          "Player2": "almostomniscient",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "pomafefc",
+          "Player2": "Aghi",
+          "Result": "1-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "Pasdejambon",
+          "Player2": "Shuichi_Saito",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ambroiseb1",
+          "Player2": "Firetruck",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Agirmir",
+          "Player2": "Eton01",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Byvci",
+          "Player2": "manalacaio",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "Matches": [
+        {
+          "Player1": "Agirmir",
+          "Player2": "Byvci",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Firetruck",
+          "Player2": "Shuichi_Saito",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
       "Matches": [
         {
           "Player1": "Agirmir",
