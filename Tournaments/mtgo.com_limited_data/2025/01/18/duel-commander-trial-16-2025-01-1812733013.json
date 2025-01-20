@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2025-01-18T00:00:00Z",
     "Name": "Duel Commander Trial 16",
-    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-01-1812733013"
+    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-01-1812733013",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -6008,47 +6011,212 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
-          "Player1": "Rex_Iudex",
+          "Player1": "NickNorman",
           "Player2": "Slasher21",
-          "Result": "2-1-0"
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "powered_by_VANYA",
+          "Player2": "ecobaronen",
+          "Result": "2-0-0"
         },
         {
           "Player1": "LucasG1ggs",
           "Player2": "_Batutinha_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "DuduDeNunu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "Karloss4000",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jose Guillermo",
+          "Player2": "kojirohyuga1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "manalacaio",
+          "Player2": "Rex_Iudex",
           "Result": "2-0-0"
         },
         {
-          "Player1": "powered_by_VANYA",
-          "Player2": "manalacaio",
+          "Player1": "_Chamytinho_",
+          "Player2": "Rafikh",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "albertoSD",
+          "Player2": "ecobaronen",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Karloss4000",
+          "Player2": "Slasher21",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kojirohyuga1",
+          "Player2": "DuduDeNunu",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "manalacaio",
+          "Player2": "Rafikh",
           "Result": "2-0-0"
         },
         {
           "Player1": "NickNorman",
-          "Player2": "kojirohyuga1",
+          "Player2": "_Chamytinho_",
           "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jose Guillermo",
+          "Player2": "Rex_Iudex",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "powered_by_VANYA",
+          "Result": "0-2-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 3",
       "Matches": [
         {
-          "Player1": "powered_by_VANYA",
-          "Player2": "NickNorman",
+          "Player1": "DuduDeNunu",
+          "Player2": "ecobaronen",
           "Result": "2-0-0"
         },
         {
           "Player1": "LucasG1ggs",
-          "Player2": "Rex_Iudex",
-          "Result": "2-1-0"
+          "Player2": "NickNorman",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kojirohyuga1",
+          "Player2": "powered_by_VANYA",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Karloss4000",
+          "Player2": "_Batutinha_",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Rex_Iudex",
+          "Player2": "Rafikh",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Slasher21",
+          "Player2": "manalacaio",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jose Guillermo",
+          "Player2": "albertoSD",
+          "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "Jose Guillermo",
+          "Player2": "_Chamytinho_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Rafikh",
+          "Player2": "Karloss4000",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "powered_by_VANYA",
+          "Player2": "DuduDeNunu",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "Rex_Iudex",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "NickNorman",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "manalacaio",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kojirohyuga1",
+          "Player2": "Slasher21",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "Slasher21",
+          "Player2": "Rex_Iudex",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "LucasG1ggs",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kojirohyuga1",
+          "Player2": "NickNorman",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "manalacaio",
+          "Player2": "powered_by_VANYA",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "NickNorman",
+          "Player2": "powered_by_VANYA",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "Rex_Iudex",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
       "Matches": [
         {
           "Player1": "LucasG1ggs",
@@ -6232,7 +6400,7 @@
       "Losses": 1,
       "Draws": 0,
       "OMWP": 0.3333,
-      "GWP": 0.0,
+      "GWP": 0,
       "OGWP": 0.4
     }
   ]
