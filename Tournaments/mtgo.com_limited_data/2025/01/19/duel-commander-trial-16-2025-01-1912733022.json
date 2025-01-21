@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2025-01-19T00:00:00Z",
     "Name": "Duel Commander Trial 16",
-    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-01-1912733022"
+    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-01-1912733022",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -9446,52 +9449,362 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
-          "Player1": "medvedev",
-          "Player2": "ZacharyHaleComstock",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "slaxx",
-          "Player2": "manalacaio",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "Beelzebuth667",
-          "Player2": "BERNASTORRES",
+          "Player1": "Folero",
+          "Player2": "NicolasP",
           "Result": "2-0-0"
         },
         {
           "Player1": "LeoFa",
           "Player2": "Slasher21",
           "Result": "2-0-0"
-        }
-      ]
-    },
-    {
-      "RoundName": "Semifinals",
-      "Matches": [
+        },
         {
-          "Player1": "LeoFa",
+          "Player1": "i_b_TRUE",
+          "Player2": "death_grips",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "slaxx",
+          "Player2": "rodixSK",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Pasdejambon",
+          "Player2": "DominoMTG",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Rafikh",
+          "Player2": "DuduDeNunu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ambroiseb1",
+          "Player2": "SuttaKuma",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "KanyMTG",
+          "Player2": "BERNASTORRES",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Brunninho",
           "Player2": "Beelzebuth667",
-          "Result": "2-1-0"
+          "Result": "0-2-0"
         },
         {
           "Player1": "medvedev",
-          "Player2": "slaxx",
+          "Player2": "FranMtg",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SoIMBAGallade",
+          "Player2": "manalacaio",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "atomconfirmer",
+          "Player2": "Harvey_Specter",
           "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "FranMtg",
+          "Player2": "DominoMTG",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "slaxx",
+          "Player2": "ZacharyHaleComstock",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "LeoFa",
+          "Player2": "ambroiseb1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Harvey_Specter",
+          "Player2": "KanyMTG",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Folero",
+          "Player2": "Pasdejambon",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "rodixSK",
+          "Player2": "NicolasP",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "BERNASTORRES",
+          "Player2": "SuttaKuma",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SoIMBAGallade",
+          "Player2": "Brunninho",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Slasher21",
+          "Player2": "Rafikh",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "Beelzebuth667",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "manalacaio",
+          "Player2": "atomconfirmer",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "death_grips",
+          "Player2": "DuduDeNunu",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "KanyMTG",
+          "Player2": "Beelzebuth667",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ambroiseb1",
+          "Player2": "DominoMTG",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "manalacaio",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Folero",
+          "Player2": "i_b_TRUE",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SuttaKuma",
+          "Player2": "death_grips",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "BERNASTORRES",
+          "Player2": "Pasdejambon",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "Slasher21",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Harvey_Specter",
+          "Player2": "Rafikh",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "SoIMBAGallade",
+          "Player2": "NicolasP",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "FranMtg",
+          "Player2": "rodixSK",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "slaxx",
+          "Player2": "atomconfirmer",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "LeoFa",
+          "Player2": "DuduDeNunu",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "SoIMBAGallade",
+          "Player2": "SuttaKuma",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "KanyMTG",
+          "Player2": "FranMtg",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "BERNASTORRES",
+          "Player2": "LeoFa",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Brunninho",
+          "Player2": "Slasher21",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "NicolasP",
+          "Player2": "Rafikh",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "manalacaio",
+          "Player2": "death_grips",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Beelzebuth667",
+          "Player2": "DuduDeNunu",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ambroiseb1",
+          "Player2": "Harvey_Specter",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "Folero",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "slaxx",
+          "Player2": "Pasdejambon",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "rodixSK",
+          "Player2": "ZacharyHaleComstock",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "Folero",
+          "Player2": "Rafikh",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "ambroiseb1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Pasdejambon",
+          "Player2": "death_grips",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "FranMtg",
+          "Player2": "Brunninho",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "LeoFa",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "SuttaKuma",
+          "Player2": "DuduDeNunu",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Slasher21",
+          "Player2": "manalacaio",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "rodixSK",
+          "Player2": "Beelzebuth667",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "slaxx",
+          "Player2": "BERNASTORRES",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "KanyMTG",
+          "Player2": "DominoMTG",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "BERNASTORRES",
+          "Player2": "Beelzebuth667",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "ZacharyHaleComstock",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LeoFa",
+          "Player2": "Slasher21",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "slaxx",
+          "Player2": "manalacaio",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
       "Matches": [
         {
           "Player1": "LeoFa",
+          "Player2": "Beelzebuth667",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "slaxx",
           "Player2": "medvedev",
-          "Result": "2-1-0"
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "Matches": [
+        {
+          "Player1": "medvedev",
+          "Player2": "LeoFa",
+          "Result": "0-2-0"
         }
       ]
     }
