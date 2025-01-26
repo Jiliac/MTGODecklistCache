@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2025-01-25T00:00:00Z",
     "Name": "Legacy Challenge 32",
-    "Uri": "https://www.mtgo.com/decklist/legacy-challenge-32-2025-01-2512737494"
+    "Uri": "https://www.mtgo.com/decklist/legacy-challenge-32-2025-01-2512737494",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -4088,17 +4091,502 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
-          "Player1": "2plus2isfive",
+          "Player1": "Mav40121",
+          "Player2": "adorno666",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ark4n",
+          "Player2": "Oceansoul92",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "_INF_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "Istvanattheoaks",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Why5oSerious",
+          "Player2": "clan",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "EdwardKenway",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "Taddy99",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "VsTheWorld",
+          "Player2": "Prima-Plum",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "moro66",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JPA93",
+          "Player2": "chinarapov",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ThomasH",
+          "Player2": "Minest110",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "kanican",
+          "Player2": "Allengar",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "acydcytryk",
+          "Player2": "dag8",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "oosunq",
+          "Player2": "Just_Roll",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "habsburger",
+          "Player2": "NMT_Sco94",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jibeta",
           "Player2": "Kuranari-Jackpa",
-          "Result": "2-1-0"
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "2plus2isfive",
+          "Player2": "Munchlax446",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "JPA93",
+          "Player2": "Just_Roll",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Oceansoul92",
+          "Player2": "dag8",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ThomasH",
+          "Player2": "chinarapov",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Ark4n",
+          "Player2": "Prima-Plum",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "Istvanattheoaks",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Kuranari-Jackpa",
+          "Player2": "EdwardKenway",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Why5oSerious",
+          "Player2": "Allengar",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "oosunq",
+          "Player2": "musasabi",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Minest110",
+          "Player2": "2plus2isfive",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jibeta",
+          "Player2": "adorno666",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "Mav40121",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "clan",
+          "Player2": "Taddy99",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "habsburger",
+          "Player2": "acydcytryk",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "_INF_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "moro66",
+          "Player2": "Munchlax446",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "NMT_Sco94",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "VsTheWorld",
+          "Player2": "kanican",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "Jumba",
+          "Player2": "clan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jibeta",
+          "Player2": "moro66",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "JPA93",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "chinarapov",
+          "Player2": "Taddy99",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kanican",
+          "Player2": "adorno666",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Mav40121",
+          "Player2": "Kuranari-Jackpa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "oosunq",
+          "Player2": "Istvanattheoaks",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "habsburger",
+          "Player2": "dag8",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "Prima-Plum",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Why5oSerious",
+          "Player2": "NMT_Sco94",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Just_Roll",
+          "Player2": "Minest110",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "2plus2isfive",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Allengar",
+          "Player2": "EdwardKenway",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_INF_",
+          "Player2": "Munchlax446",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ark4n",
+          "Player2": "acydcytryk",
+          "Result": "1-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "Prima-Plum",
+          "Player2": "clan",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "habsburger",
+          "Player2": "_INF_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "dag8",
+          "Player2": "EdwardKenway",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Ark4n",
+          "Player2": "2plus2isfive",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "moro66",
+          "Player2": "Istvanattheoaks",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "acydcytryk",
+          "Player2": "Mav40121",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "Munchlax446",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "chinarapov",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "oosunq",
+          "Player2": "jibeta",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Just_Roll",
+          "Player2": "Allengar",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JPA93",
+          "Player2": "Why5oSerious",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Minest110",
+          "Player2": "Jumba",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "NMT_Sco94",
+          "Player2": "adorno666",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Kuranari-Jackpa",
+          "Player2": "Taddy99",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "kanican",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "musasabi",
+          "Player2": "NMT_Sco94",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "moro66",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "chinarapov",
+          "Player2": "dag8",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "_INF_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "acydcytryk",
+          "Player2": "JPA93",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "Taddy99",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Prima-Plum",
+          "Player2": "Allengar",
+          "Result": "2-0-0"
         },
         {
           "Player1": "Mav40121",
           "Player2": "Jumba",
-          "Result": "2-1-0"
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ark4n",
+          "Player2": "jibeta",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Minest110",
+          "Player2": "EdwardKenway",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kanican",
+          "Player2": "2plus2isfive",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Kuranari-Jackpa",
+          "Player2": "clan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "habsburger",
+          "Player2": "Just_Roll",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Why5oSerious",
+          "Player2": "adorno666",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "musasabi",
+          "Player2": "EdwardKenway",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ark4n",
+          "Player2": "Taddy99",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "JPA93",
+          "Player2": "Mav40121",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kanican",
+          "Player2": "Prima-Plum",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jibeta",
+          "Player2": "Allengar",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "adorno666",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "dag8",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_INF_",
+          "Player2": "clan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Just_Roll",
+          "Player2": "Jumba",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Kuranari-Jackpa",
+          "Player2": "2plus2isfive",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Istvanattheoaks",
+          "Player2": "Munchlax446",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "acydcytryk",
+          "Player2": "Why5oSerious",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "habsburger",
+          "Player2": "Minest110",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "Matches": [
+        {
+          "Player1": "habsburger",
+          "Player2": "Just_Roll",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Mav40121",
+          "Player2": "Jumba",
+          "Result": "2-0-0"
         },
         {
           "Player1": "JPA93",
@@ -4106,29 +4594,29 @@
           "Result": "2-0-0"
         },
         {
-          "Player1": "Just_Roll",
-          "Player2": "habsburger",
-          "Result": "2-0-0"
+          "Player1": "Kuranari-Jackpa",
+          "Player2": "2plus2isfive",
+          "Result": "0-2-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 8",
       "Matches": [
         {
-          "Player1": "2plus2isfive",
-          "Player2": "JPA93",
-          "Result": "2-1-0"
+          "Player1": "Mav40121",
+          "Player2": "Just_Roll",
+          "Result": "0-0-0"
         },
         {
-          "Player1": "Just_Roll",
-          "Player2": "Mav40121",
-          "Result": "2-1-0"
+          "Player1": "JPA93",
+          "Player2": "2plus2isfive",
+          "Result": "0-2-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 9",
       "Matches": [
         {
           "Player1": "Just_Roll",

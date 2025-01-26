@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2025-01-25T00:00:00Z",
     "Name": "Modern Challenge 32",
-    "Uri": "https://www.mtgo.com/decklist/modern-challenge-32-2025-01-2512737491"
+    "Uri": "https://www.mtgo.com/decklist/modern-challenge-32-2025-01-2512737491",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -4476,12 +4479,422 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
           "Player1": "josetorr87",
-          "Player2": "felider",
+          "Player2": "Nauragar",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "YungDingo",
+          "Player2": "AmadeusPro",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Suechtler",
+          "Player2": "pablohotdog",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MAFS",
+          "Player2": "Athenani",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "morris",
+          "Player2": "Sam_Lewin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "GrandpaBiceps",
+          "Player2": "ice_nine_",
           "Result": "2-1-0"
+        },
+        {
+          "Player1": "unagieel",
+          "Player2": "keyzoo",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "steelleaf51",
+          "Player2": "manohito",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "felider",
+          "Player2": "JTlemmon",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "fj_rodman",
+          "Player2": "ZVendetta",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Minest110",
+          "Player2": "HouseOfManaMTG",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "fradev1988",
+          "Player2": "CLChad",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "ice_mtg",
+          "Player2": "praiseseigerhino",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Sterwindra",
+          "Player2": "CrusherBotBG",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "watdoink",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Katlos",
+          "Player2": "soggymeatball",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "sokos13",
+          "Player2": "ItBurnsWhenICast",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "josetorr87",
+          "Player2": "steelleaf51",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Minest110",
+          "Player2": "CLChad",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "fj_rodman",
+          "Player2": "Katlos",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ZVendetta",
+          "Player2": "Suechtler",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "morris",
+          "Player2": "pablohotdog",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Sam_Lewin",
+          "Player2": "praiseseigerhino",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MAFS",
+          "Player2": "manohito",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "unagieel",
+          "Player2": "ice_mtg",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "fradev1988",
+          "Player2": "Nauragar",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "HouseOfManaMTG",
+          "Player2": "ItBurnsWhenICast",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ice_nine_",
+          "Player2": "keyzoo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "CrusherBotBG",
+          "Player2": "Athenani",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "GrandpaBiceps",
+          "Player2": "YungDingo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "felider",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "sokos13",
+          "Player2": "Sterwindra",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "soggymeatball",
+          "Player2": "AmadeusPro",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "albertoSD",
+          "Player2": "pablohotdog",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MAFS",
+          "Player2": "Nauragar",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Katlos",
+          "Player2": "felider",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "morris",
+          "Player2": "AmadeusPro",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Suechtler",
+          "Player2": "soggymeatball",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Sterwindra",
+          "Player2": "Athenani",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "fj_rodman",
+          "Player2": "GrandpaBiceps",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "josetorr87",
+          "Player2": "manohito",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "praiseseigerhino",
+          "Player2": "JTlemmon",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "fradev1988",
+          "Player2": "steelleaf51",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "CrusherBotBG",
+          "Player2": "YungDingo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Minest110",
+          "Player2": "ice_mtg",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "sokos13",
+          "Player2": "CLChad",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "HouseOfManaMTG",
+          "Player2": "keyzoo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ice_nine_",
+          "Player2": "ItBurnsWhenICast",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "unagieel",
+          "Player2": "ZVendetta",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "morris",
+          "Player2": "manohito",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Nauragar",
+          "Player2": "Athenani",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Suechtler",
+          "Player2": "ice_nine_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "sokos13",
+          "Player2": "felider",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "keyzoo",
+          "Player2": "YungDingo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Sterwindra",
+          "Player2": "soggymeatball",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ZVendetta",
+          "Player2": "AmadeusPro",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "josetorr87",
+          "Player2": "CLChad",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "CrusherBotBG",
+          "Player2": "ItBurnsWhenICast",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "GrandpaBiceps",
+          "Player2": "ice_mtg",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "MAFS",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "fj_rodman",
+          "Player2": "JTlemmon",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "unagieel",
+          "Player2": "pablohotdog",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "JTlemmon",
+          "Player2": "ItBurnsWhenICast",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "MAFS",
+          "Player2": "AmadeusPro",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "josetorr87",
+          "Player2": "GrandpaBiceps",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "unagieel",
+          "Player2": "albertoSD",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Sterwindra",
+          "Player2": "Suechtler",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "soggymeatball",
+          "Player2": "Athenani",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "felider",
+          "Player2": "keyzoo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Nauragar",
+          "Player2": "ice_mtg",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "fj_rodman",
+          "Player2": "manohito",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "sokos13",
+          "Player2": "morris",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "pablohotdog",
+          "Player2": "CLChad",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "fradev1988",
+          "Player2": "CrusherBotBG",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "keyzoo",
+          "Player2": "JTlemmon",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MAFS",
+          "Player2": "CrusherBotBG",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "GrandpaBiceps",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "sokos13",
+          "Player2": "Nauragar",
+          "Result": "2-0-0"
         },
         {
           "Player1": "fj_rodman",
@@ -4489,39 +4902,89 @@
           "Result": "2-0-0"
         },
         {
-          "Player1": "GrandpaBiceps",
-          "Player2": "albertoSD",
+          "Player1": "Sterwindra",
+          "Player2": "ItBurnsWhenICast",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "fradev1988",
+          "Player2": "AmadeusPro",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Suechtler",
+          "Player2": "Athenani",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "morris",
+          "Player2": "ice_mtg",
           "Result": "2-0-0"
         },
         {
           "Player1": "unagieel",
-          "Player2": "manohito",
-          "Result": "2-1-0"
-        }
-      ]
-    },
-    {
-      "RoundName": "Semifinals",
-      "Matches": [
-        {
-          "Player1": "fj_rodman",
           "Player2": "josetorr87",
-          "Result": "2-1-0"
+          "Result": "2-0-0"
         },
         {
-          "Player1": "GrandpaBiceps",
-          "Player2": "unagieel",
+          "Player1": "soggymeatball",
+          "Player2": "felider",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "manohito",
+          "Player2": "CLChad",
           "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 7",
       "Matches": [
         {
-          "Player1": "GrandpaBiceps",
-          "Player2": "fj_rodman",
-          "Result": "1-0-0"
+          "Player1": "unagieel",
+          "Player2": "manohito",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "GrandpaBiceps",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "fj_rodman",
+          "Player2": "pablohotdog",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "josetorr87",
+          "Player2": "felider",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "Matches": [
+        {
+          "Player1": "fj_rodman",
+          "Player2": "josetorr87",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "unagieel",
+          "Player2": "GrandpaBiceps",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 9",
+      "Matches": [
+        {
+          "Player1": "fj_rodman",
+          "Player2": "GrandpaBiceps",
+          "Result": "0-2-0"
         }
       ]
     }

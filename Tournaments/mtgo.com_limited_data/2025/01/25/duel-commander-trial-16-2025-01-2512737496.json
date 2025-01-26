@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2025-01-25T00:00:00Z",
     "Name": "Duel Commander Trial 16",
-    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-01-2512737496"
+    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-01-2512737496",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -5996,17 +5999,32 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
-          "Player1": "DuduDeNunu",
+          "Player1": "Vazdru",
+          "Player2": "Kajkn",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SoIMBAGallade",
+          "Player2": "manalacaio",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jose Guillermo",
           "Player2": "Zyxia",
           "Result": "2-0-0"
         },
         {
-          "Player1": "_Batutinha_",
-          "Player2": "SoIMBAGallade",
-          "Result": "2-1-0"
+          "Player1": "RNAPBP1",
+          "Player2": "grumgrum",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "KanyMTG",
+          "Player2": "DuduDeNunu",
+          "Result": "0-2-0"
         },
         {
           "Player1": "ZacharyHaleComstock",
@@ -6014,14 +6032,159 @@
           "Result": "2-0-0"
         },
         {
-          "Player1": "Jose Guillermo",
+          "Player1": "_Batutinha_",
+          "Player2": "Magic-Michael",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Byvci",
           "Player2": "ecobaronen",
-          "Result": "2-1-0"
+          "Result": "0-2-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "ecobaronen",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jose Guillermo",
+          "Player2": "Vazdru",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "grumgrum",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "KanyMTG",
+          "Player2": "Magic-Michael",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "manalacaio",
+          "Player2": "Zyxia",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "SoIMBAGallade",
+          "Player2": "DuduDeNunu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Rex_Iudex",
+          "Player2": "Kajkn",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "Jose Guillermo",
+          "Player2": "ZacharyHaleComstock",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "SoIMBAGallade",
+          "Player2": "Rex_Iudex",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "grumgrum",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "RNAPBP1",
+          "Player2": "Zyxia",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "DuduDeNunu",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Vazdru",
+          "Player2": "KanyMTG",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Magic-Michael",
+          "Player2": "Kajkn",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "Magic-Michael",
+          "Player2": "manalacaio",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jose Guillermo",
+          "Player2": "Rex_Iudex",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "KanyMTG",
+          "Player2": "grumgrum",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "ZacharyHaleComstock",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "DuduDeNunu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Vazdru",
+          "Player2": "Zyxia",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "SoIMBAGallade",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jose Guillermo",
+          "Player2": "ecobaronen",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Zyxia",
+          "Player2": "DuduDeNunu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "Rex_Iudex",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
       "Matches": [
         {
           "Player1": "_Batutinha_",
@@ -6029,19 +6192,19 @@
           "Result": "2-0-0"
         },
         {
-          "Player1": "ZacharyHaleComstock",
-          "Player2": "Jose Guillermo",
-          "Result": "2-0-0"
+          "Player1": "Jose Guillermo",
+          "Player2": "ZacharyHaleComstock",
+          "Result": "0-2-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 7",
       "Matches": [
         {
-          "Player1": "ZacharyHaleComstock",
-          "Player2": "_Batutinha_",
-          "Result": "2-0-0"
+          "Player1": "_Batutinha_",
+          "Player2": "ZacharyHaleComstock",
+          "Result": "0-2-0"
         }
       ]
     }
