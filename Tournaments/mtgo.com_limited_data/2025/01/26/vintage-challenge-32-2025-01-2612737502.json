@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2025-01-26T00:00:00Z",
     "Name": "Vintage Challenge 32",
-    "Uri": "https://www.mtgo.com/decklist/vintage-challenge-32-2025-01-2612737502"
+    "Uri": "https://www.mtgo.com/decklist/vintage-challenge-32-2025-01-2612737502",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -5220,52 +5223,447 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
+      "Matches": [
+        {
+          "Player1": "oosunq",
+          "Player2": "yoshiwata",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "adm29",
+          "Player2": "etoustar",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Duellist",
+          "Player2": "M1KY",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "_Chamytinho_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "svessesvv",
+          "Player2": "sixmp",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "crK",
+          "Player2": "Wesal",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LasVegasChaos",
+          "Player2": "MyPotatoes",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "TaJoordan",
+          "Player2": "unluckymonkey",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "_INF_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jujkata",
+          "Player2": "Munchlax446",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "Mogged",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Raydan",
+          "Player2": "Minest110",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "RNAPBP1",
+          "Player2": "golfsapao",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jinjaa",
+          "Player2": "choutin",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "vwxyza648204",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kristofff",
+          "Player2": "toonbleu",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "musasabi",
+          "Player2": "RNAPBP1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "adm29",
+          "Player2": "LasVegasChaos",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "choutin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Raydan",
+          "Player2": "MyPotatoes",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "TaJoordan",
+          "Player2": "kristofff",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Duellist",
+          "Player2": "svessesvv",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Wesal",
+          "Player2": "Mogged",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "sixmp",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "oosunq",
+          "Player2": "Munchlax446",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "golfsapao",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "unluckymonkey",
+          "Player2": "etoustar",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jinjaa",
+          "Player2": "_INF_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "crK",
+          "Player2": "toonbleu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "M1KY",
+          "Player2": "_Chamytinho_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "Minest110",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jujkata",
+          "Player2": "vwxyza648204",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "Raydan",
+          "Player2": "_INF_",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "adm29",
+          "Player2": "Munchlax446",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "M1KY",
+          "Player2": "MyPotatoes",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "toonbleu",
+          "Player2": "Tsubasa_Cat",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jujkata",
+          "Player2": "sixmp",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Duellist",
+          "Player2": "vwxyza648204",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "TaJoordan",
+          "Player2": "Minest110",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "etoustar",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "kristofff",
+          "Player2": "LasVegasChaos",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "unluckymonkey",
+          "Player2": "Wesal",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "crK",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "_Chamytinho_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "oosunq",
+          "Player2": "svessesvv",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "golfsapao",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "Jinjaa",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "Mogged",
+          "Player2": "kristofff",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "sixmp",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Wesal",
+          "Player2": "_INF_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "MyPotatoes",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Raydan",
+          "Player2": "choutin",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Minest110",
+          "Player2": "etoustar",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "unluckymonkey",
+          "Player2": "LasVegasChaos",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "adm29",
+          "Player2": "svessesvv",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "_Chamytinho_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "Jujkata",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Duellist",
+          "Player2": "crK",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "Jinjaa",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "toonbleu",
+          "Player2": "vwxyza648204",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "M1KY",
+          "Player2": "golfsapao",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "toonbleu",
+          "Player2": "Minest110",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jujkata",
+          "Player2": "choutin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "_Chamytinho_",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "unluckymonkey",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "sixmp",
+          "Player2": "MyPotatoes",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "LasVegasChaos",
+          "Player2": "Munchlax446",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Duellist",
+          "Player2": "adm29",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "Tsubasa_Cat",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "vwxyza648204",
+          "Player2": "_INF_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "crK",
+          "Player2": "Jinjaa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "etoustar",
+          "Player2": "golfsapao",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "kristofff",
+          "Player2": "svessesvv",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "M1KY",
+          "Player2": "Wesal",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
       "Matches": [
         {
           "Player1": "Wesal",
           "Player2": "_Chamytinho_",
-          "Result": "2-1-0"
+          "Result": "2-0-0"
         },
         {
-          "Player1": "MyPotatoes",
-          "Player2": "yoshiwata",
-          "Result": "2-1-0"
+          "Player1": "M1KY",
+          "Player2": "sixmp",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "MyPotatoes",
+          "Result": "0-2-0"
         },
         {
           "Player1": "albertoSD",
           "Player2": "Minest110",
           "Result": "2-0-0"
-        },
-        {
-          "Player1": "sixmp",
-          "Player2": "M1KY",
-          "Result": "2-1-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 7",
       "Matches": [
+        {
+          "Player1": "albertoSD",
+          "Player2": "sixmp",
+          "Result": "0-2-0"
+        },
         {
           "Player1": "Wesal",
           "Player2": "MyPotatoes",
           "Result": "2-0-0"
-        },
-        {
-          "Player1": "sixmp",
-          "Player2": "albertoSD",
-          "Result": "2-1-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 8",
       "Matches": [
         {
-          "Player1": "sixmp",
-          "Player2": "Wesal",
-          "Result": "2-1-0"
+          "Player1": "Wesal",
+          "Player2": "sixmp",
+          "Result": "0-2-0"
         }
       ]
     }
@@ -5620,7 +6018,7 @@
       "Losses": 2,
       "Draws": 0,
       "OMWP": 0.3667,
-      "GWP": 0.0,
+      "GWP": 0,
       "OGWP": 0.375
     }
   ]

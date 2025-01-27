@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2025-01-27T00:00:00Z",
     "Name": "Duel Commander Trial 16",
-    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-01-2712737512"
+    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-01-2712737512",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -7098,22 +7101,252 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
           "Player1": "ZacharyHaleComstock",
+          "Player2": "Mogged",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "chanel-santini",
+          "Player2": "GuiBonella",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "Eton01",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "duke12",
+          "Player2": "swiftwarkite2",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "_Chamytinho_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "JayCutler",
           "Player2": "Feitosa_",
-          "Result": "2-1-0"
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jose Guillermo",
+          "Player2": "NickNorman",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "manalacaio",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "joker10289",
+          "Player2": "SuperCow12653",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "SuperCow12653",
+          "Player2": "chanel-santini",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "NickNorman",
+          "Player2": "manalacaio",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "_Chamytinho_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "swiftwarkite2",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Jose Guillermo",
+          "Player2": "Mogged",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "joker10289",
+          "Player2": "Feitosa_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Pernobyl",
+          "Player2": "Eton01",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "duke12",
+          "Player2": "JayCutler",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "GuiBonella",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "NickNorman",
+          "Player2": "Eton01",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "duke12",
+          "Player2": "SuperCow12653",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Pernobyl",
+          "Player2": "_Chamytinho_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "chanel-santini",
+          "Player2": "Feitosa_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "manalacaio",
+          "Player2": "GuiBonella",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "JayCutler",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "Mogged",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jose Guillermo",
+          "Player2": "ecobaronen",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "ecobaronen",
+          "Player2": "manalacaio",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "GuiBonella",
+          "Player2": "_Chamytinho_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "NickNorman",
+          "Player2": "Feitosa_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jose Guillermo",
+          "Player2": "Pernobyl",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "SuperCow12653",
+          "Player2": "JayCutler",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "duke12",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "chanel-santini",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "Eton01",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "Mogged",
+          "Player2": "manalacaio",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jose Guillermo",
+          "Player2": "GuiBonella",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "SuperCow12653",
+          "Result": "2-0-0"
         },
         {
           "Player1": "Eton01",
-          "Player2": "NickNorman",
-          "Result": "2-1-0"
+          "Player2": "Feitosa_",
+          "Result": "2-0-0"
         },
         {
-          "Player1": "_Chamytinho_",
-          "Player2": "ecobaronen",
-          "Result": "2-1-0"
+          "Player1": "Pernobyl",
+          "Player2": "NickNorman",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "JayCutler",
+          "Player2": "chanel-santini",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "_Chamytinho_",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "ecobaronen",
+          "Player2": "_Chamytinho_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "NickNorman",
+          "Player2": "Eton01",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "Feitosa_",
+          "Result": "2-0-0"
         },
         {
           "Player1": "SuperCow12653",
@@ -7123,22 +7356,22 @@
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 7",
       "Matches": [
-        {
-          "Player1": "Eton01",
-          "Player2": "_Chamytinho_",
-          "Result": "2-0-0"
-        },
         {
           "Player1": "ZacharyHaleComstock",
           "Player2": "SuperCow12653",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Eton01",
+          "Player2": "_Chamytinho_",
           "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 8",
       "Matches": [
         {
           "Player1": "ZacharyHaleComstock",
@@ -7344,7 +7577,7 @@
       "Losses": 1,
       "Draws": 0,
       "OMWP": 0.6,
-      "GWP": 0.0,
+      "GWP": 0,
       "OGWP": 0.6154
     },
     {
@@ -7355,7 +7588,7 @@
       "Losses": 2,
       "Draws": 0,
       "OMWP": 0.5667,
-      "GWP": 0.0,
+      "GWP": 0,
       "OGWP": 0.4744
     }
   ]
