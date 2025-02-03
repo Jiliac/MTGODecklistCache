@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2025-02-02T00:00:00Z",
     "Name": "Duel Commander Trial 16",
-    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-02-0212738703"
+    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-02-0212738703",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -9282,52 +9285,362 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
-          "Player1": "rodixSK",
-          "Player2": "duke12",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "Tsubasa_Cat",
-          "Player2": "eheh_dude",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "LeoFa",
-          "Player2": "atomconfirmer",
-          "Result": "2-1-0"
-        },
-        {
           "Player1": "kojirohyuga1",
+          "Player2": "atomconfirmer",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "LeoFa",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "billskillz",
           "Player2": "NickNorman",
-          "Result": "2-1-0"
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "rodixSK",
+          "Player2": "Tsubasa_Cat",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "KingHairy",
+          "Player2": "Karloss4000",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Pasdejambon",
+          "Player2": "FreeTheCookies",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "eheh_dude",
+          "Player2": "Zodiacek",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "John1111",
+          "Player2": "DuduDeNunu",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Aldreen",
+          "Player2": "ambroiseb1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Rex_Iudex",
+          "Player2": "demmers",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Vazdru",
+          "Player2": "manalacaio",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "duke12",
+          "Player2": "Eton01",
+          "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 2",
       "Matches": [
+        {
+          "Player1": "kojirohyuga1",
+          "Player2": "Zodiacek",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LeoFa",
+          "Player2": "John1111",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Pasdejambon",
+          "Player2": "DuduDeNunu",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "eheh_dude",
+          "Player2": "ambroiseb1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "atomconfirmer",
+          "Player2": "Karloss4000",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "rodixSK",
+          "Player2": "ecobaronen",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Aldreen",
+          "Player2": "Eton01",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "billskillz",
+          "Player2": "KingHairy",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "Rex_Iudex",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "manalacaio",
+          "Player2": "demmers",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "NickNorman",
+          "Player2": "FreeTheCookies",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "duke12",
+          "Player2": "Vazdru",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "billskillz",
+          "Player2": "Zodiacek",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "KingHairy",
+          "Player2": "John1111",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "duke12",
+          "Player2": "atomconfirmer",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Rex_Iudex",
+          "Player2": "Karloss4000",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "manalacaio",
+          "Player2": "FreeTheCookies",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ambroiseb1",
+          "Player2": "kojirohyuga1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Eton01",
+          "Player2": "demmers",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Pasdejambon",
+          "Player2": "Tsubasa_Cat",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "eheh_dude",
+          "Player2": "rodixSK",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "ZacharyHaleComstock",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "LeoFa",
+          "Player2": "NickNorman",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Vazdru",
+          "Player2": "Aldreen",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "ambroiseb1",
+          "Player2": "Eton01",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Aldreen",
+          "Player2": "Karloss4000",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "eheh_dude",
+          "Player2": "atomconfirmer",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "demmers",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "rodixSK",
+          "Player2": "NickNorman",
+          "Result": "2-0-0"
+        },
         {
           "Player1": "kojirohyuga1",
           "Player2": "LeoFa",
           "Result": "2-0-0"
         },
         {
-          "Player1": "rodixSK",
-          "Player2": "Tsubasa_Cat",
-          "Result": "2-1-0"
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "KingHairy",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Pasdejambon",
+          "Player2": "manalacaio",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Vazdru",
+          "Player2": "Rex_Iudex",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "duke12",
+          "Player2": "Zodiacek",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "FreeTheCookies",
+          "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 5",
       "Matches": [
         {
-          "Player1": "kojirohyuga1",
-          "Player2": "rodixSK",
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "Eton01",
           "Result": "2-0-0"
+        },
+        {
+          "Player1": "duke12",
+          "Player2": "ecobaronen",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Vazdru",
+          "Player2": "Pasdejambon",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Zodiacek",
+          "Player2": "FreeTheCookies",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "NickNorman",
+          "Player2": "Rex_Iudex",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "billskillz",
+          "Player2": "manalacaio",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "rodixSK",
+          "Player2": "atomconfirmer",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "LeoFa",
+          "Player2": "Karloss4000",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "eheh_dude",
+          "Player2": "KingHairy",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kojirohyuga1",
+          "Player2": "Tsubasa_Cat",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "duke12",
+          "Player2": "rodixSK",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "eheh_dude",
+          "Player2": "Tsubasa_Cat",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "LeoFa",
+          "Player2": "atomconfirmer",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kojirohyuga1",
+          "Player2": "NickNorman",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "Matches": [
+        {
+          "Player1": "rodixSK",
+          "Player2": "Tsubasa_Cat",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kojirohyuga1",
+          "Player2": "LeoFa",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "Matches": [
+        {
+          "Player1": "rodixSK",
+          "Player2": "kojirohyuga1",
+          "Result": "0-2-0"
         }
       ]
     }
