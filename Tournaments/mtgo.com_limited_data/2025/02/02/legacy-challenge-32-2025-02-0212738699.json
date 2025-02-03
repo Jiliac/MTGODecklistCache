@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2025-02-02T00:00:00Z",
     "Name": "Legacy Challenge 32",
-    "Uri": "https://www.mtgo.com/decklist/legacy-challenge-32-2025-02-0212738699"
+    "Uri": "https://www.mtgo.com/decklist/legacy-challenge-32-2025-02-0212738699",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -4164,52 +4167,557 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
+      "Matches": [
+        {
+          "Player1": "kanican",
+          "Player2": "WadeB",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Kricha13",
+          "Player2": "fetchmonkeygo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Stanshine",
+          "Player2": "Mogged",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "THEHEAT01",
+          "Player2": "_INF_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "reisyasu",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Slasher21",
+          "Player2": "Munchlax446",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Roodslay",
+          "Player2": "JohnDoe397",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Trohck",
+          "Player2": "XanaZero",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "habsburger",
+          "Player2": "OSCA66",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "dag8",
+          "Player2": "pino",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "wonderPreaux",
+          "Player2": "Maxtortion",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "Suzukiii",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "into_play",
+          "Player2": "SDBobPlissken",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "clan",
+          "Player2": "choutin",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "elpariah",
+          "Player2": "SmokyboyJFF",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "stu909090",
+          "Player2": "KazukiOoyama",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "m-boy",
+          "Player2": "m_himukai",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Venom1",
+          "Player2": "einstein9998",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "kanican",
+          "Player2": "Maxtortion",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_INF_",
+          "Player2": "choutin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "einstein9998",
+          "Player2": "WadeB",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "m-boy",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Roodslay",
+          "Player2": "pino",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "clan",
+          "Player2": "m_himukai",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "stu909090",
+          "Player2": "Ryuho090",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "JohnDoe397",
+          "Player2": "dag8",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "XanaZero",
+          "Player2": "musasabi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Trohck",
+          "Player2": "into_play",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "elpariah",
+          "Player2": "habsburger",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "reisyasu",
+          "Player2": "Kricha13",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "wonderPreaux",
+          "Player2": "fetchmonkeygo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Venom1",
+          "Player2": "SmokyboyJFF",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SDBobPlissken",
+          "Player2": "Suzukiii",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Stanshine",
+          "Player2": "Munchlax446",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "KazukiOoyama",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "OSCA66",
+          "Player2": "THEHEAT01",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "reisyasu",
+          "Player2": "dag8",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "elpariah",
+          "Player2": "wonderPreaux",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "m_himukai",
+          "Player2": "KazukiOoyama",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "SmokyboyJFF",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "kanican",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Venom1",
+          "Player2": "choutin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Maxtortion",
+          "Player2": "m-boy",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "XanaZero",
+          "Player2": "Munchlax446",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "stu909090",
+          "Player2": "pino",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Kricha13",
+          "Player2": "Slasher21",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "einstein9998",
+          "Player2": "THEHEAT01",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Suzukiii",
+          "Player2": "WadeB",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "habsburger",
+          "Player2": "_INF_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Stanshine",
+          "Player2": "Roodslay",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "into_play",
+          "Player2": "Ryuho090",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "fetchmonkeygo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Trohck",
+          "Player2": "JohnDoe397",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "m_himukai",
+          "Player2": "fetchmonkeygo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Kricha13",
+          "Player2": "einstein9998",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "KazukiOoyama",
+          "Player2": "Munchlax446",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kanican",
+          "Player2": "OSCA66",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "XanaZero",
+          "Player2": "Maxtortion",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "THEHEAT01",
+          "Player2": "JohnDoe397",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Stanshine",
+          "Player2": "pino",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "into_play",
+          "Player2": "Suzukiii",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "WadeB",
+          "Player2": "Ryuho090",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Trohck",
+          "Player2": "habsburger",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "reisyasu",
+          "Player2": "choutin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "elpariah",
+          "Player2": "Venom1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "m-boy",
+          "Player2": "_INF_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "Mogged",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "Roodslay",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "yoshiwata",
+          "Player2": "Ryuho090",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "into_play",
+          "Player2": "pino",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "m_himukai",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Suzukiii",
+          "Player2": "_INF_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "m-boy",
+          "Player2": "fetchmonkeygo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "JohnDoe397",
+          "Player2": "KazukiOoyama",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kanican",
+          "Player2": "SmokyboyJFF",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Stanshine",
+          "Player2": "WadeB",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Kricha13",
+          "Player2": "Venom1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "elpariah",
+          "Player2": "einstein9998",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "habsburger",
+          "Player2": "Roodslay",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Trohck",
+          "Player2": "choutin",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "OSCA66",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Maxtortion",
+          "Player2": "reisyasu",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "JohnDoe397",
+          "Player2": "Munchlax446",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "einstein9998",
+          "Player2": "_INF_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Kricha13",
+          "Player2": "KazukiOoyama",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "WadeB",
+          "Player2": "m_himukai",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Stanshine",
+          "Player2": "yoshiwata",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "into_play",
+          "Player2": "reisyasu",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "elpariah",
+          "Player2": "m-boy",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Roodslay",
+          "Player2": "Ryuho090",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Venom1",
+          "Player2": "pino",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Trohck",
+          "Player2": "kanican",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Suzukiii",
+          "Player2": "Maxtortion",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "habsburger",
+          "Player2": "fetchmonkeygo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "choutin",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
       "Matches": [
         {
           "Player1": "Roodslay",
           "Player2": "fetchmonkeygo",
-          "Result": "2-1-0"
+          "Result": "2-0-0"
         },
         {
-          "Player1": "m-boy",
-          "Player2": "yoshiwata",
-          "Result": "2-1-0"
+          "Player1": "einstein9998",
+          "Player2": "WadeB",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "m-boy",
+          "Result": "0-2-0"
         },
         {
           "Player1": "Stanshine",
           "Player2": "Ryuho090",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "WadeB",
-          "Player2": "einstein9998",
           "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 8",
       "Matches": [
-        {
-          "Player1": "m-boy",
-          "Player2": "Stanshine",
-          "Result": "2-1-0"
-        },
         {
           "Player1": "Roodslay",
           "Player2": "WadeB",
-          "Result": "2-1-0"
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Stanshine",
+          "Player2": "m-boy",
+          "Result": "0-2-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 9",
       "Matches": [
         {
-          "Player1": "Roodslay",
-          "Player2": "m-boy",
-          "Result": "2-0-0"
+          "Player1": "m-boy",
+          "Player2": "Roodslay",
+          "Result": "0-2-0"
         }
       ]
     }
