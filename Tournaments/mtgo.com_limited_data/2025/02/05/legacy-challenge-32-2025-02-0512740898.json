@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2025-02-05T00:00:00Z",
     "Name": "Legacy Challenge 32",
-    "Uri": "https://www.mtgo.com/decklist/legacy-challenge-32-2025-02-0512740898"
+    "Uri": "https://www.mtgo.com/decklist/legacy-challenge-32-2025-02-0512740898",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -4104,22 +4107,552 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
-          "Player1": "DeathWrongShaman420",
+          "Player1": "GinkoHS",
+          "Player2": "Hammafist",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Magic_Dads71522",
+          "Player2": "The_shallow_grave",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "DrakeHaven",
+          "Player2": "harmonywoods",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "B-Carp",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "TheTunnelingCat",
+          "Player2": "Geodude_Jared",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Betrix2688",
+          "Player2": "ScreenwriterNY",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "death_grips",
+          "Player2": "Flossed",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "haveaboavida",
+          "Player2": "boytriton",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "XanaZero",
           "Player2": "Jumba",
-          "Result": "2-1-0"
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "TonyScapone",
+          "Player2": "choutin",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jpsn54",
+          "Player2": "MafiaDoSplit",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "McWinSauce",
+          "Player2": "DeathWrongShaman420",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "zNoodz",
+          "Player2": "Roodslay",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "CCdsmash",
+          "Player2": "_Chamytinho_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "Scorpion100",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Capitano_CL",
+          "Player2": "O_danielakos",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jankyb",
+          "Player2": "Slasher21",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "utley26",
+          "Player2": "Joyfulwaffle",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "PierrePoilievre2025",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "Betrix2688",
+          "Player2": "death_grips",
+          "Result": "0-2-0"
         },
         {
           "Player1": "MafiaDoSplit",
-          "Player2": "TheTunnelingCat",
+          "Player2": "harmonywoods",
           "Result": "2-0-0"
         },
         {
-          "Player1": "choutin",
-          "Player2": "_Batutinha_",
+          "Player1": "GinkoHS",
+          "Player2": "haveaboavida",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "DeathWrongShaman420",
+          "Player2": "Joyfulwaffle",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "Capitano_CL",
           "Result": "2-0-0"
+        },
+        {
+          "Player1": "TonyScapone",
+          "Player2": "Roodslay",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "CCdsmash",
+          "Player2": "Hammafist",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "jankyb",
+          "Player2": "Geodude_Jared",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Slasher21",
+          "Player2": "PierrePoilievre2025",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "Magic_Dads71522",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TheTunnelingCat",
+          "Player2": "Jumba",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "zNoodz",
+          "Player2": "The_shallow_grave",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "utley26",
+          "Player2": "DrakeHaven",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "_Chamytinho_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "i_b_TRUE",
+          "Player2": "Flossed",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "B-Carp",
+          "Player2": "Jpsn54",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "XanaZero",
+          "Player2": "boytriton",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "McWinSauce",
+          "Player2": "Scorpion100",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "ScreenwriterNY",
+          "Player2": "choutin",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "i_b_TRUE",
+          "Player2": "MafiaDoSplit",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "_Chamytinho_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TheTunnelingCat",
+          "Player2": "Flossed",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "XanaZero",
+          "Player2": "Magic_Dads71522",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jankyb",
+          "Player2": "O_danielakos",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "PierrePoilievre2025",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ScreenwriterNY",
+          "Player2": "Scorpion100",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "boytriton",
+          "Player2": "death_grips",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "choutin",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Slasher21",
+          "Player2": "Joyfulwaffle",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "haveaboavida",
+          "Player2": "The_shallow_grave",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "CCdsmash",
+          "Player2": "B-Carp",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Betrix2688",
+          "Player2": "Geodude_Jared",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "zNoodz",
+          "Player2": "TonyScapone",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "GinkoHS",
+          "Player2": "harmonywoods",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Capitano_CL",
+          "Player2": "DeathWrongShaman420",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "utley26",
+          "Player2": "medvedev",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "B-Carp",
+          "Player2": "ScreenwriterNY",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "GinkoHS",
+          "Player2": "_Chamytinho_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Slasher21",
+          "Player2": "MafiaDoSplit",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "XanaZero",
+          "Player2": "O_danielakos",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jankyb",
+          "Player2": "death_grips",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "i_b_TRUE",
+          "Player2": "DeathWrongShaman420",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "CCdsmash",
+          "Player2": "PierrePoilievre2025",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "haveaboavida",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "Scorpion100",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "TheTunnelingCat",
+          "Player2": "TonyScapone",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "Betrix2688",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "Joyfulwaffle",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "zNoodz",
+          "Player2": "Jpsn54",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "boytriton",
+          "Player2": "harmonywoods",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "utley26",
+          "Player2": "The_shallow_grave",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "utley26",
+          "Player2": "DeathWrongShaman420",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ScreenwriterNY",
+          "Player2": "boytriton",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Chamytinho_",
+          "Player2": "The_shallow_grave",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "CCdsmash",
+          "Player2": "death_grips",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "GinkoHS",
+          "Player2": "Joyfulwaffle",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "jankyb",
+          "Player2": "PierrePoilievre2025",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "XanaZero",
+          "Player2": "TonyScapone",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "zNoodz",
+          "Player2": "harmonywoods",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "TheTunnelingCat",
+          "Player2": "choutin",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "Slasher21",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "haveaboavida",
+          "Player2": "Jumba",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "MafiaDoSplit",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "Magic_Dads71522",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "i_b_TRUE",
+          "Player2": "Betrix2688",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jpsn54",
+          "Player2": "Scorpion100",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "O_danielakos",
+          "Player2": "Betrix2688",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ScreenwriterNY",
+          "Player2": "harmonywoods",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TheTunnelingCat",
+          "Player2": "Slasher21",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "XanaZero",
+          "Player2": "_Chamytinho_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TonyScapone",
+          "Player2": "boytriton",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Scorpion100",
+          "Player2": "Magic_Dads71522",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jpsn54",
+          "Player2": "The_shallow_grave",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "death_grips",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "utley26",
+          "Player2": "haveaboavida",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "GinkoHS",
+          "Player2": "PierrePoilievre2025",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "zNoodz",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "i_b_TRUE",
+          "Player2": "jankyb",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "choutin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "CCdsmash",
+          "Player2": "DeathWrongShaman420",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MafiaDoSplit",
+          "Player2": "Joyfulwaffle",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "choutin",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "DeathWrongShaman420",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "TheTunnelingCat",
+          "Player2": "MafiaDoSplit",
+          "Result": "0-2-0"
         },
         {
           "Player1": "haveaboavida",
@@ -4129,27 +4662,27 @@
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 8",
       "Matches": [
+        {
+          "Player1": "MafiaDoSplit",
+          "Player2": "DeathWrongShaman420",
+          "Result": "0-0-0"
+        },
         {
           "Player1": "haveaboavida",
           "Player2": "choutin",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "DeathWrongShaman420",
-          "Player2": "MafiaDoSplit",
-          "Result": "2-1-0"
+          "Result": "0-0-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 9",
       "Matches": [
         {
           "Player1": "haveaboavida",
           "Player2": "DeathWrongShaman420",
-          "Result": "2-1-0"
+          "Result": "2-0-0"
         }
       ]
     }

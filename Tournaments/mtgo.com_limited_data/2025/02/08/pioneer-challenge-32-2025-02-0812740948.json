@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2025-02-08T00:00:00Z",
     "Name": "Pioneer Challenge 32",
-    "Uri": "https://www.mtgo.com/decklist/pioneer-challenge-32-2025-02-0812740948"
+    "Uri": "https://www.mtgo.com/decklist/pioneer-challenge-32-2025-02-0812740948",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -4248,52 +4251,597 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
-          "Player1": "CamKelly13",
-          "Player2": "Arianne",
+          "Player1": "O_danielakos",
+          "Player2": "ParzivalSunncrowned",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "jev_",
+          "Player2": "esmyth",
           "Result": "2-0-0"
         },
         {
-          "Player1": "_PJ_",
+          "Player1": "Moniz0801",
+          "Player2": "_PJ_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Cachorrowo",
+          "Player2": "dingzhen",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Hamuda",
+          "Player2": "Arkany1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Xwhale",
+          "Player2": "moon11",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "CamKelly13",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Brian_Kibler_Is_God",
+          "Player2": "GinkoHS",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "newbarola",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Caleb_Yetman",
+          "Player2": "viashinoperuano",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Xuxa",
           "Player2": "SpockVidaLoka",
-          "Result": "2-1-0"
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "tim96",
+          "Player2": "SemoMTGBros",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "PNascimento",
+          "Player2": "Will_Costa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JulioP1985",
+          "Player2": "fuxin123",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MJ_23",
+          "Player2": "ZendicardGames",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "mysteryman21",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Arianne",
+          "Player2": "AnotherStep",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "karatedom",
+          "Player2": "Kricha13",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kanara38204",
+          "Player2": "_Falcon_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ignotus97",
+          "Player2": "CrusherBotBG",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Thief_Of_Crowns",
+          "Player2": "mtgnate4",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "viashinoperuano",
+          "Player2": "Arkany1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Ignotus97",
+          "Player2": "ParzivalSunncrowned",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "dingzhen",
+          "Player2": "mtgnate4",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kanara38204",
+          "Player2": "SemoMTGBros",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jev_",
+          "Player2": "_PJ_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Xwhale",
+          "Player2": "Thief_Of_Crowns",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MJ_23",
+          "Player2": "CamKelly13",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Arianne",
+          "Player2": "Caleb_Yetman",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Falcon_",
+          "Player2": "ZendicardGames",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "mysteryman21",
+          "Player2": "JulioP1985",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "AnotherStep",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "Hamuda",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Moondrius",
+          "Player2": "Cachorrowo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "tim96",
+          "Player2": "Xuxa",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Moniz0801",
+          "Player2": "Will_Costa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Brian_Kibler_Is_God",
+          "Player2": "PNascimento",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "moon11",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "karatedom",
+          "Player2": "CrusherBotBG",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "GinkoHS",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Kricha13",
+          "Player2": "fuxin123",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "newbarola",
+          "Player2": "SpockVidaLoka",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "Moondrius",
+          "Player2": "mtgnate4",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "moon11",
+          "Player2": "Cachorrowo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "CamKelly13",
+          "Player2": "PNascimento",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MJ_23",
+          "Player2": "Caleb_Yetman",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Xuxa",
+          "Player2": "CrusherBotBG",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ZendicardGames",
+          "Player2": "Arkany1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kanara38204",
+          "Player2": "Beicodegeia",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "GinkoHS",
+          "Player2": "mysteryman21",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Moniz0801",
+          "Player2": "Ignotus97",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Kricha13",
+          "Player2": "_PJ_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "viashinoperuano",
+          "Player2": "Hamuda",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Xwhale",
+          "Player2": "jev_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SpockVidaLoka",
+          "Player2": "fuxin123",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "SemoMTGBros",
+          "Player2": "Thief_Of_Crowns",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "newbarola",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "_Falcon_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Arianne",
+          "Player2": "ParzivalSunncrowned",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "O_danielakos",
+          "Player2": "Xuxa",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Arkany1",
+          "Player2": "ParzivalSunncrowned",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "Thief_Of_Crowns",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Arianne",
+          "Player2": "kanara38204",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Hamuda",
+          "Player2": "SpockVidaLoka",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "GinkoHS",
+          "Player2": "fuxin123",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "moon11",
+          "Player2": "jev_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Xwhale",
+          "Player2": "CamKelly13",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "SemoMTGBros",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Moondrius",
+          "Player2": "_PJ_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Caleb_Yetman",
+          "Player2": "ZendicardGames",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Kricha13",
+          "Player2": "Will_Costa",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Falcon_",
+          "Player2": "mtgnate4",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Cachorrowo",
+          "Player2": "PNascimento",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Moniz0801",
+          "Player2": "CrusherBotBG",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MJ_23",
+          "Player2": "newbarola",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "CrusherBotBG",
+          "Player2": "newbarola",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ZendicardGames",
+          "Player2": "SpockVidaLoka",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kanara38204",
+          "Player2": "Moniz0801",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "jev_",
+          "Player2": "Thief_Of_Crowns",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "Xuxa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Xwhale",
+          "Player2": "_PJ_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Kricha13",
+          "Player2": "Caleb_Yetman",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Cachorrowo",
+          "Player2": "ParzivalSunncrowned",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "moon11",
+          "Player2": "Hamuda",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "_Falcon_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Arianne",
+          "Player2": "CamKelly13",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Arkany1",
+          "Player2": "PNascimento",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MJ_23",
+          "Player2": "fuxin123",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "mtgnate4",
+          "Player2": "Will_Costa",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "ParzivalSunncrowned",
+          "Player2": "Beicodegeia",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "moon11",
+          "Player2": "CrusherBotBG",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MJ_23",
+          "Player2": "kanara38204",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Xwhale",
+          "Player2": "PNascimento",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Moniz0801",
+          "Player2": "CamKelly13",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "newbarola",
+          "Player2": "jev_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Falcon_",
+          "Player2": "Will_Costa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Arkany1",
+          "Player2": "Thief_Of_Crowns",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "Hamuda",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Cachorrowo",
+          "Player2": "mtgnate4",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Arianne",
+          "Player2": "fuxin123",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "Caleb_Yetman",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SpockVidaLoka",
+          "Player2": "_PJ_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Xuxa",
+          "Player2": "ZendicardGames",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "Matches": [
+        {
+          "Player1": "Arianne",
+          "Player2": "CamKelly13",
+          "Result": "0-2-0"
         },
         {
           "Player1": "Moniz0801",
           "Player2": "Arkany1",
-          "Result": "2-1-0"
+          "Result": "2-0-0"
         },
         {
-          "Player1": "fuxin123",
-          "Player2": "MJ_23",
-          "Result": "2-1-0"
+          "Player1": "MJ_23",
+          "Player2": "fuxin123",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "SpockVidaLoka",
+          "Player2": "_PJ_",
+          "Result": "0-2-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 8",
+      "Matches": [
+        {
+          "Player1": "CamKelly13",
+          "Player2": "_PJ_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Moniz0801",
+          "Player2": "fuxin123",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 9",
       "Matches": [
         {
           "Player1": "_PJ_",
-          "Player2": "CamKelly13",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "fuxin123",
-          "Player2": "Moniz0801",
-          "Result": "2-0-0"
-        }
-      ]
-    },
-    {
-      "RoundName": "Finals",
-      "Matches": [
-        {
-          "Player1": "fuxin123",
-          "Player2": "_PJ_",
-          "Result": "2-0-0"
+          "Player2": "fuxin123",
+          "Result": "0-2-0"
         }
       ]
     }

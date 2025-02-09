@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2025-02-06T00:00:00Z",
     "Name": "Standard Challenge 32",
-    "Uri": "https://www.mtgo.com/decklist/standard-challenge-32-2025-02-0612740901"
+    "Uri": "https://www.mtgo.com/decklist/standard-challenge-32-2025-02-0612740901",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -3816,52 +3819,692 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
-          "Player1": "RubyXillia",
-          "Player2": "Misplacedginger",
+          "Player1": "Misplacedginger",
+          "Player2": "Popeville",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "aarrgh",
+          "Player2": "peterhmasters",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "numberonenoob",
+          "Player2": "manalacaio",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "esmyth",
+          "Player2": "Shadowz2005",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "peter780108",
+          "Player2": "thatguy_champ",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "rollo1993",
+          "Player2": "Venom1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Betrayedblocks",
+          "Player2": "BoltTargetYou",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "dehloco",
+          "Player2": "O_danielakos",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MAFS",
+          "Player2": "SpockVidaLoka",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "FranBenitez91",
+          "Player2": "ElGuri",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "vini_torres",
+          "Player2": "RodChaves",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Sarlanga",
+          "Player2": "Saulliert",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "ZendicardGames",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "MicroPago",
+          "Player2": "fuxin123",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "PierrePoilievre2025",
+          "Player2": "kthanakit26",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "pokerswizard",
+          "Player2": "MTGHolic",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "rastaf",
+          "Player2": "azatoyellow",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "RubyXillia",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "Beicodegeia",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "robodude222",
+          "Player2": "SkiLwrAp",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SoulStrong",
+          "Player2": "henry_morehouse",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "tchuco",
+          "Player2": "bhowie",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Folero",
+          "Player2": "E_Hembree",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Manny-",
+          "Player2": "TinyDinomo",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "SkiLwrAp",
+          "Player2": "RodChaves",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "rollo1993",
+          "Player2": "SpockVidaLoka",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "vini_torres",
+          "Player2": "kthanakit26",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "Manny-",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "esmyth",
+          "Player2": "numberonenoob",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "Betrayedblocks",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "aarrgh",
+          "Player2": "RubyXillia",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Folero",
+          "Player2": "TinyDinomo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "dehloco",
+          "Player2": "E_Hembree",
+          "Result": "0-0-1"
+        },
+        {
+          "Player1": "SoulStrong",
+          "Player2": "BoltTargetYou",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Shadowz2005",
+          "Player2": "MicroPago",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "tchuco",
+          "Player2": "MTGHolic",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "Saulliert",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "henry_morehouse",
+          "Player2": "fuxin123",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Misplacedginger",
+          "Player2": "azatoyellow",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "rastaf",
+          "Player2": "Popeville",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Venom1",
+          "Player2": "Mogged",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ZendicardGames",
+          "Player2": "PierrePoilievre2025",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "FranBenitez91",
+          "Player2": "peter780108",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "pokerswizard",
+          "Player2": "bhowie",
           "Result": "2-0-0"
         },
         {
           "Player1": "Sarlanga",
-          "Player2": "numberonenoob",
-          "Result": "2-1-0"
+          "Player2": "O_danielakos",
+          "Result": "1-2-0"
         },
         {
-          "Player1": "Mogged",
-          "Player2": "vini_torres",
+          "Player1": "robodude222",
+          "Player2": "MAFS",
           "Result": "2-0-0"
         },
         {
-          "Player1": "TinyDinomo",
-          "Player2": "O_danielakos",
+          "Player1": "manalacaio",
+          "Player2": "peterhmasters",
           "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 3",
       "Matches": [
         {
-          "Player1": "Mogged",
-          "Player2": "Sarlanga",
+          "Player1": "dehloco",
+          "Player2": "BoltTargetYou",
           "Result": "2-0-0"
         },
         {
-          "Player1": "TinyDinomo",
+          "Player1": "Mogged",
+          "Player2": "Beicodegeia",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Venom1",
+          "Player2": "fuxin123",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "Shadowz2005",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "esmyth",
+          "Player2": "Manny-",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "vini_torres",
+          "Player2": "henry_morehouse",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Folero",
+          "Player2": "MicroPago",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ElGuri",
+          "Player2": "kthanakit26",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "pokerswizard",
+          "Player2": "manalacaio",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SoulStrong",
+          "Player2": "Saulliert",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Misplacedginger",
+          "Player2": "SkiLwrAp",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "RodChaves",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "FranBenitez91",
+          "Player2": "Betrayedblocks",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MTGHolic",
+          "Player2": "TinyDinomo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "rastaf",
+          "Player2": "MAFS",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "tchuco",
+          "Player2": "aarrgh",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "peter780108",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "azatoyellow",
           "Player2": "RubyXillia",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Sarlanga",
+          "Player2": "ZendicardGames",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "E_Hembree",
+          "Player2": "SpockVidaLoka",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "numberonenoob",
+          "Player2": "robodude222",
           "Result": "2-1-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "pokerswizard",
+          "Player2": "Beicodegeia",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "dehloco",
+          "Player2": "manalacaio",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "E_Hembree",
+          "Player2": "Saulliert",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "numberonenoob",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "RubyXillia",
+          "Player2": "TinyDinomo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "henry_morehouse",
+          "Player2": "MicroPago",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "esmyth",
+          "Player2": "MAFS",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ElGuri",
+          "Player2": "Manny-",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Shadowz2005",
+          "Player2": "RodChaves",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Folero",
+          "Player2": "ZendicardGames",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "FranBenitez91",
+          "Player2": "Venom1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "robodude222",
+          "Player2": "kthanakit26",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "rastaf",
+          "Player2": "fuxin123",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Sarlanga",
+          "Player2": "peter780108",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "azatoyellow",
+          "Player2": "MTGHolic",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Misplacedginger",
+          "Player2": "aarrgh",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "Betrayedblocks",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SoulStrong",
+          "Player2": "SpockVidaLoka",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "tchuco",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "vini_torres",
+          "Player2": "Mogged",
+          "Result": "0-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "tchuco",
+          "Player2": "Shadowz2005",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "ElGuri",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "ZendicardGames",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "FranBenitez91",
+          "Player2": "E_Hembree",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Manny-",
+          "Player2": "fuxin123",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "rastaf",
+          "Player2": "MTGHolic",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Venom1",
+          "Player2": "kthanakit26",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "pokerswizard",
+          "Player2": "TinyDinomo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "peter780108",
+          "Player2": "Beicodegeia",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "vini_torres",
+          "Player2": "RubyXillia",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Sarlanga",
+          "Player2": "numberonenoob",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "aarrgh",
+          "Player2": "MicroPago",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "Mogged",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "henry_morehouse",
+          "Player2": "MAFS",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "azatoyellow",
+          "Player2": "manalacaio",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "dehloco",
+          "Player2": "SoulStrong",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "robodude222",
+          "Player2": "SpockVidaLoka",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Misplacedginger",
+          "Player2": "Saulliert",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "Sarlanga",
+          "Player2": "Beicodegeia",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Venom1",
+          "Player2": "E_Hembree",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "dehloco",
+          "Player2": "tchuco",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SoulStrong",
+          "Player2": "ZendicardGames",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "RubyXillia",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "manalacaio",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "henry_morehouse",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Manny-",
+          "Player2": "RodChaves",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "pokerswizard",
+          "Player2": "MicroPago",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ElGuri",
+          "Player2": "peter780108",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "numberonenoob",
+          "Player2": "TinyDinomo",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "SpockVidaLoka",
+          "Player2": "Saulliert",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MTGHolic",
+          "Player2": "fuxin123",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "azatoyellow",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "rastaf",
+          "Player2": "vini_torres",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Misplacedginger",
+          "Player2": "kthanakit26",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "Matches": [
+        {
+          "Player1": "Misplacedginger",
+          "Player2": "RubyXillia",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "vini_torres",
+          "Player2": "Mogged",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "TinyDinomo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Sarlanga",
+          "Player2": "numberonenoob",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "Matches": [
+        {
+          "Player1": "RubyXillia",
+          "Player2": "TinyDinomo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Sarlanga",
+          "Player2": "Mogged",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 9",
       "Matches": [
         {
           "Player1": "Mogged",
           "Player2": "TinyDinomo",
-          "Result": "1-0-0"
+          "Result": "2-0-0"
         }
       ]
     }
