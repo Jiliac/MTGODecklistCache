@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2025-02-15T00:00:00Z",
     "Name": "Duel Commander Trial 16",
-    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-02-1512743727"
+    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-02-1512743727",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -7496,52 +7499,312 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
+          "Player1": "Misenaive",
+          "Player2": "demmers",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "NickNorman",
+          "Player2": "manalacaio",
+          "Result": "0-2-0"
+        },
+        {
           "Player1": "Young_Shaman",
-          "Player2": "ecobaronen",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "DuduDeNunu",
-          "Player2": "ambroiseb1",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "RedisRed2",
           "Player2": "papaRMSKY",
           "Result": "2-0-0"
         },
         {
+          "Player1": "Misplacedginger",
+          "Player2": "Aghi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Oppa",
+          "Player2": "ecobaronen",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "ambroiseb1",
+          "Player2": "DuduDeNunu",
+          "Result": "2-0-0"
+        },
+        {
           "Player1": "Jose Guillermo",
+          "Player2": "RedisRed2",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "-Sefiro-",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "zuranthus",
           "Player2": "LouisdeSentenac",
-          "Result": "2-1-0"
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Pernobyl",
+          "Player2": "Bricoflex",
+          "Result": "0-2-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 2",
       "Matches": [
         {
+          "Player1": "ecobaronen",
+          "Player2": "Young_Shaman",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Misplacedginger",
+          "Player2": "manalacaio",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Misenaive",
+          "Player2": "papaRMSKY",
+          "Result": "0-2-0"
+        },
+        {
           "Player1": "DuduDeNunu",
-          "Player2": "Jose Guillermo",
-          "Result": "2-1-0"
+          "Player2": "-Sefiro-",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ambroiseb1",
+          "Player2": "LouisdeSentenac",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jose Guillermo",
+          "Player2": "demmers",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "Bricoflex",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Aghi",
+          "Player2": "RedisRed2",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "NickNorman",
+          "Player2": "Oppa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Pernobyl",
+          "Player2": "zuranthus",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "Misenaive",
+          "Player2": "LouisdeSentenac",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "DuduDeNunu",
+          "Player2": "papaRMSKY",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "NickNorman",
+          "Player2": "demmers",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Aghi",
+          "Player2": "-Sefiro-",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "Young_Shaman",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Pernobyl",
+          "Player2": "manalacaio",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Bricoflex",
+          "Player2": "RedisRed2",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jose Guillermo",
+          "Player2": "ambroiseb1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Misplacedginger",
+          "Player2": "ecobaronen",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "LouisdeSentenac",
+          "Player2": "papaRMSKY",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "demmers",
+          "Result": "2-0-0"
         },
         {
           "Player1": "RedisRed2",
-          "Player2": "Young_Shaman",
-          "Result": "2-1-0"
+          "Player2": "DuduDeNunu",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Bricoflex",
+          "Player2": "zuranthus",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Pernobyl",
+          "Player2": "NickNorman",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Misenaive",
+          "Player2": "-Sefiro-",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "manalacaio",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Young_Shaman",
+          "Player2": "Jose Guillermo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Misplacedginger",
+          "Player2": "ambroiseb1",
+          "Result": "0-2-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 5",
       "Matches": [
         {
-          "Player1": "DuduDeNunu",
-          "Player2": "RedisRed2",
+          "Player1": "NickNorman",
+          "Player2": "LouisdeSentenac",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Misplacedginger",
+          "Player2": "papaRMSKY",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Aghi",
+          "Player2": "zuranthus",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jose Guillermo",
+          "Player2": "manalacaio",
           "Result": "2-0-0"
+        },
+        {
+          "Player1": "Pernobyl",
+          "Player2": "Misenaive",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "DuduDeNunu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "ambroiseb1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Bricoflex",
+          "Player2": "demmers",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Young_Shaman",
+          "Player2": "RedisRed2",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "ambroiseb1",
+          "Player2": "DuduDeNunu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "RedisRed2",
+          "Player2": "papaRMSKY",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Jose Guillermo",
+          "Player2": "LouisdeSentenac",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "Young_Shaman",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "Matches": [
+        {
+          "Player1": "Jose Guillermo",
+          "Player2": "DuduDeNunu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Young_Shaman",
+          "Player2": "RedisRed2",
+          "Result": "0-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "Matches": [
+        {
+          "Player1": "RedisRed2",
+          "Player2": "DuduDeNunu",
+          "Result": "0-2-0"
         }
       ]
     }

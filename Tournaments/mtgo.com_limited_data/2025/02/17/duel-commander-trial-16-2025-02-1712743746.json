@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2025-02-17T00:00:00Z",
     "Name": "Duel Commander Trial 16",
-    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-02-1712743746"
+    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-02-1712743746",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -7234,37 +7237,267 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
+          "Player1": "Xenowan",
+          "Player2": "Dalminho",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "GuiBonella",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "RedisRed2",
+          "Player2": "fuxin123",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ChironTheMage",
+          "Player2": "Eton01",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TheSandwichKing",
+          "Player2": "zuranthus",
+          "Result": "0-2-0"
+        },
+        {
           "Player1": "Jose Guillermo",
-          "Player2": "PedraStone",
-          "Result": "2-1-0"
+          "Player2": "ZacharyHaleComstock",
+          "Result": "0-2-0"
         },
         {
-          "Player1": "ZacharyHaleComstock",
-          "Player2": "ecobaronen",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "GuiBonella",
-          "Player2": "ChironTheMage",
-          "Result": "2-1-0"
+          "Player1": "hockeybro26",
+          "Player2": "MatheusPonciano",
+          "Result": "2-0-0"
         },
         {
           "Player1": "BaronOfBacon",
-          "Player2": "RedisRed2",
-          "Result": "2-1-0"
+          "Player2": "Schiaveto",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "PedraStone",
+          "Player2": "Pernobyl",
+          "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "RedisRed2",
+          "Player2": "PedraStone",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jose Guillermo",
+          "Player2": "TheSandwichKing",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "Schiaveto",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "hockeybro26",
+          "Player2": "zuranthus",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "ChironTheMage",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Pernobyl",
+          "Player2": "fuxin123",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "MatheusPonciano",
+          "Player2": "Dalminho",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "BaronOfBacon",
+          "Player2": "Xenowan",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "GuiBonella",
+          "Player2": "Feitosa_",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "ecobaronen",
+          "Player2": "BaronOfBacon",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Eton01",
+          "Player2": "fuxin123",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Xenowan",
+          "Player2": "GuiBonella",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "zuranthus",
+          "Player2": "Feitosa_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MatheusPonciano",
+          "Player2": "PedraStone",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "hockeybro26",
+          "Player2": "ChironTheMage",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "RedisRed2",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jose Guillermo",
+          "Player2": "Pernobyl",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "Feitosa_",
+          "Player2": "fuxin123",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "hockeybro26",
+          "Player2": "ZacharyHaleComstock",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Xenowan",
+          "Player2": "PedraStone",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Pernobyl",
+          "Player2": "Schiaveto",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ChironTheMage",
+          "Player2": "BaronOfBacon",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "zuranthus",
+          "Player2": "Jose Guillermo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "Eton01",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "RedisRed2",
+          "Player2": "GuiBonella",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "ecobaronen",
+          "Player2": "zuranthus",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jose Guillermo",
+          "Player2": "GuiBonella",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "PedraStone",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ChironTheMage",
+          "Player2": "Schiaveto",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "BaronOfBacon",
+          "Player2": "RedisRed2",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MatheusPonciano",
+          "Player2": "Xenowan",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "hockeybro26",
+          "Player2": "Feitosa_",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
       "Matches": [
         {
           "Player1": "BaronOfBacon",
-          "Player2": "ZacharyHaleComstock",
+          "Player2": "RedisRed2",
           "Result": "2-0-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "ZacharyHaleComstock",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ChironTheMage",
+          "Player2": "GuiBonella",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Jose Guillermo",
+          "Player2": "PedraStone",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "Matches": [
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "BaronOfBacon",
+          "Result": "0-2-0"
         },
         {
           "Player1": "Jose Guillermo",
@@ -7274,12 +7507,12 @@
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 8",
       "Matches": [
         {
           "Player1": "Jose Guillermo",
           "Player2": "BaronOfBacon",
-          "Result": "2-1-0"
+          "Result": "2-0-0"
         }
       ]
     }
@@ -7480,7 +7713,7 @@
       "Losses": 2,
       "Draws": 0,
       "OMWP": 0.6,
-      "GWP": 0.0,
+      "GWP": 0,
       "OGWP": 0.5909
     },
     {
