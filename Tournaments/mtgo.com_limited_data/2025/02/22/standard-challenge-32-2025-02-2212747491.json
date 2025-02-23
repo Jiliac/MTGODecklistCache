@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2025-02-22T00:00:00Z",
     "Name": "Standard Challenge 32",
-    "Uri": "https://www.mtgo.com/decklist/standard-challenge-32-2025-02-2212747491"
+    "Uri": "https://www.mtgo.com/decklist/standard-challenge-32-2025-02-2212747491",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -4000,47 +4003,727 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
+        {
+          "Player1": "MyNameTidus",
+          "Player2": "Oscar_Franco",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Capitano_CL",
+          "Player2": "TheKingJijah",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Demian77",
+          "Player2": "_Joseba_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "fives",
+          "Player2": "SimoCr",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "pretzelol236",
+          "Player2": "BoBandy08",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Suechtler",
+          "Player2": "MMelo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Lukas261997",
+          "Player2": "Hamuda",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MJ_23",
+          "Player2": "DavidDaBridges",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ovmlcabrera",
+          "Player2": "Graciasportanto",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "termidor",
+          "Player2": "rushi_00",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "_Falcon_",
+          "Player2": "guillaumed19",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "jps_17",
+          "Player2": "CamKelly13",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Tia93_",
+          "Player2": "JulioP1985",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "AlexanderRosdahl",
+          "Player2": "VitorCarvalho01",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "oosunq",
+          "Player2": "Lifeisrisk7",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "L1X0",
+          "Player2": "unagieel",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "joker10289",
+          "Player2": "YSZzz",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "xGSx",
+          "Player2": "starfall",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "amaransneak",
+          "Player2": "Okayasu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Matsukasa10",
+          "Player2": "smile_papa4",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Solodin",
+          "Player2": "TheManLand",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "coco7721",
+          "Player2": "manalacaio",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "mashirorc",
+          "Player2": "567konner",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Arianne",
+          "Player2": "MagicalSnap",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Janisss",
+          "Player2": "itstime",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "pokerswizard",
+          "Player2": "caronte1991",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "CamKelly13",
+          "Player2": "Lifeisrisk7",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "TheManLand",
+          "Player2": "_Joseba_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "joker10289",
+          "Player2": "MyNameTidus",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "starfall",
+          "Player2": "MMelo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "amaransneak",
+          "Player2": "TheKingJijah",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "AlexanderRosdahl",
+          "Player2": "DavidDaBridges",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "rushi_00",
+          "Player2": "567konner",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "pretzelol236",
+          "Player2": "caronte1991",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "L1X0",
+          "Player2": "Oscar_Franco",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Okayasu",
+          "Player2": "Janisss",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "manalacaio",
+          "Player2": "JulioP1985",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "xGSx",
+          "Player2": "_Tia93_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Demian77",
+          "Player2": "MagicalSnap",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "BoBandy08",
+          "Player2": "smile_papa4",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Solodin",
+          "Player2": "itstime",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "YSZzz",
+          "Player2": "Lukas261997",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "unagieel",
+          "Player2": "Matsukasa10",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "pokerswizard",
+          "Player2": "VitorCarvalho01",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MJ_23",
+          "Player2": "guillaumed19",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Graciasportanto",
+          "Player2": "SimoCr",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Arianne",
+          "Player2": "Suechtler",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ovmlcabrera",
+          "Player2": "_Falcon_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Capitano_CL",
+          "Player2": "fives",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "coco7721",
+          "Player2": "Hamuda",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "oosunq",
+          "Player2": "termidor",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "jps_17",
+          "Player2": "mashirorc",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "smile_papa4",
+          "Player2": "guillaumed19",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "termidor",
+          "Player2": "Janisss",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "jps_17",
+          "Player2": "VitorCarvalho01",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "pokerswizard",
+          "Player2": "L1X0",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "joker10289",
+          "Player2": "JulioP1985",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Oscar_Franco",
+          "Player2": "amaransneak",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MJ_23",
+          "Player2": "TheKingJijah",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Demian77",
+          "Player2": "mashirorc",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ovmlcabrera",
+          "Player2": "caronte1991",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "unagieel",
+          "Player2": "Okayasu",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Tia93_",
+          "Player2": "coco7721",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Suechtler",
+          "Player2": "pretzelol236",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Falcon_",
+          "Player2": "Hamuda",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Graciasportanto",
+          "Player2": "MagicalSnap",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "AlexanderRosdahl",
+          "Player2": "MMelo",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "MyNameTidus",
+          "Player2": "DavidDaBridges",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "567konner",
+          "Player2": "itstime",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "fives",
+          "Player2": "TheManLand",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Capitano_CL",
+          "Player2": "Matsukasa10",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "rushi_00",
+          "Player2": "Lifeisrisk7",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "xGSx",
+          "Player2": "Lukas261997",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Arianne",
+          "Player2": "CamKelly13",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "BoBandy08",
+          "Player2": "_Joseba_",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "TheManLand",
+          "Player2": "Lifeisrisk7",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "BoBandy08",
+          "Player2": "termidor",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Tia93_",
+          "Player2": "DavidDaBridges",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "CamKelly13",
+          "Player2": "567konner",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "fives",
+          "Player2": "itstime",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MagicalSnap",
+          "Player2": "_Falcon_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "L1X0",
+          "Player2": "_Joseba_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MMelo",
+          "Player2": "guillaumed19",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MyNameTidus",
+          "Player2": "Okayasu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "starfall",
+          "Player2": "caronte1991",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MJ_23",
+          "Player2": "Suechtler",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "unagieel",
+          "Player2": "Hamuda",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Matsukasa10",
+          "Player2": "coco7721",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Arianne",
+          "Player2": "xGSx",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "pokerswizard",
+          "Player2": "mashirorc",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "jps_17",
+          "Player2": "Janisss",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Demian77",
+          "Player2": "Oscar_Franco",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "pretzelol236",
+          "Player2": "rushi_00",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ovmlcabrera",
+          "Player2": "AlexanderRosdahl",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "amaransneak",
+          "Player2": "VitorCarvalho01",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "joker10289",
+          "Player2": "Capitano_CL",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "jps_17",
+          "Player2": "MMelo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Tia93_",
+          "Player2": "fives",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "AlexanderRosdahl",
+          "Player2": "TheManLand",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ovmlcabrera",
+          "Player2": "mashirorc",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Capitano_CL",
+          "Player2": "Okayasu",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "BoBandy08",
+          "Player2": "567konner",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "itstime",
+          "Player2": "VitorCarvalho01",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "L1X0",
+          "Player2": "_Falcon_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "rushi_00",
+          "Player2": "caronte1991",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MyNameTidus",
+          "Player2": "amaransneak",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "pokerswizard",
+          "Player2": "Oscar_Franco",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Hamuda",
+          "Player2": "DavidDaBridges",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MJ_23",
+          "Player2": "Matsukasa10",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MagicalSnap",
+          "Player2": "Janisss",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Suechtler",
+          "Player2": "Lifeisrisk7",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "joker10289",
+          "Player2": "xGSx",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "unagieel",
+          "Player2": "pretzelol236",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Arianne",
+          "Player2": "_Joseba_",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "unagieel",
+          "Player2": "MMelo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Hamuda",
+          "Player2": "Lifeisrisk7",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TheManLand",
+          "Player2": "MagicalSnap",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MyNameTidus",
+          "Player2": "AlexanderRosdahl",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Capitano_CL",
+          "Player2": "pretzelol236",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Suechtler",
+          "Player2": "_Tia93_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Falcon_",
+          "Player2": "itstime",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Arianne",
+          "Player2": "DavidDaBridges",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "xGSx",
+          "Player2": "Matsukasa10",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MJ_23",
+          "Player2": "Janisss",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "joker10289",
+          "Player2": "jps_17",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "caronte1991",
+          "Player2": "VitorCarvalho01",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "fives",
+          "Player2": "_Joseba_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Oscar_Franco",
+          "Player2": "567konner",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "L1X0",
+          "Player2": "BoBandy08",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "mashirorc",
+          "Player2": "Okayasu",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "Matches": [
+        {
+          "Player1": "Suechtler",
+          "Player2": "DavidDaBridges",
+          "Result": "0-2-0"
+        },
         {
           "Player1": "Capitano_CL",
           "Player2": "_Tia93_",
           "Result": "2-0-0"
         },
         {
-          "Player1": "DavidDaBridges",
-          "Player2": "Suechtler",
-          "Result": "2-1-0"
+          "Player1": "MagicalSnap",
+          "Player2": "Lifeisrisk7",
+          "Result": "0-0-0"
         },
         {
-          "Player1": "Lifeisrisk7",
-          "Player2": "MagicalSnap",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "Hamuda",
-          "Player2": "pretzelol236",
-          "Result": "2-1-0"
+          "Player1": "pretzelol236",
+          "Player2": "Hamuda",
+          "Result": "0-2-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 8",
       "Matches": [
         {
-          "Player1": "Hamuda",
-          "Player2": "Capitano_CL",
-          "Result": "2-1-0"
+          "Player1": "Capitano_CL",
+          "Player2": "Hamuda",
+          "Result": "0-2-0"
         },
         {
           "Player1": "Lifeisrisk7",
           "Player2": "DavidDaBridges",
-          "Result": "2-1-0"
+          "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 9",
       "Matches": [
         {
           "Player1": "Hamuda",

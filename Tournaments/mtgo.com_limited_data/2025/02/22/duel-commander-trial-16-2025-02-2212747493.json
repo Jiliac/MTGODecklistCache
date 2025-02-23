@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2025-02-22T00:00:00Z",
     "Name": "Duel Commander Trial 16",
-    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-02-2212747493"
+    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-02-2212747493",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -6354,22 +6357,242 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
-          "Player1": "MatheusPonciano",
+          "Player1": "Kakashi_",
+          "Player2": "BatCoach",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Vazdru",
           "Player2": "medvedev",
-          "Result": "2-1-0"
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "mechrataal",
+          "Player2": "Maxlamax",
+          "Result": "0-2-0"
         },
         {
           "Player1": "ecobaronen",
-          "Player2": "Kakashi_",
-          "Result": "2-1-0"
+          "Player2": "manalacaio",
+          "Result": "2-0-0"
         },
+        {
+          "Player1": "NeptuneX",
+          "Player2": "Oror",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Demian77",
+          "Player2": "DuduDeNunu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "MatheusPonciano",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jose Guillermo",
+          "Player2": "Killerp0p0",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "msskinbolic",
+          "Player2": "ecobaronen",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jose Guillermo",
+          "Player2": "DuduDeNunu",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Vazdru",
+          "Player2": "manalacaio",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Kakashi_",
+          "Player2": "Maxlamax",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "Oror",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Demian77",
+          "Player2": "medvedev",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "BatCoach",
+          "Player2": "Killerp0p0",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "mechrataal",
+          "Player2": "NeptuneX",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "Jose Guillermo",
+          "Player2": "ecobaronen",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Killerp0p0",
+          "Player2": "Kakashi_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Demian77",
+          "Player2": "manalacaio",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MatheusPonciano",
+          "Player2": "Maxlamax",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "NeptuneX",
+          "Player2": "DuduDeNunu",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "ZacharyHaleComstock",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "mechrataal",
+          "Player2": "msskinbolic",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Vazdru",
+          "Player2": "Oror",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "msskinbolic",
+          "Player2": "Oror",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Killerp0p0",
+          "Player2": "Maxlamax",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "manalacaio",
+          "Player2": "DuduDeNunu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "ZacharyHaleComstock",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jose Guillermo",
+          "Player2": "medvedev",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Demian77",
+          "Player2": "mechrataal",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MatheusPonciano",
+          "Player2": "Kakashi_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Vazdru",
+          "Player2": "NeptuneX",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "msskinbolic",
+          "Player2": "MatheusPonciano",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "Kakashi_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jose Guillermo",
+          "Player2": "Oror",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Vazdru",
+          "Player2": "Maxlamax",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "mechrataal",
+          "Player2": "DuduDeNunu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Killerp0p0",
+          "Player2": "NeptuneX",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "ecobaronen",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
         {
           "Player1": "ZacharyHaleComstock",
           "Player2": "Maxlamax",
           "Result": "2-0-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "Kakashi_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "MatheusPonciano",
+          "Result": "0-2-0"
         },
         {
           "Player1": "msskinbolic",
@@ -6379,27 +6602,27 @@
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 7",
       "Matches": [
-        {
-          "Player1": "ecobaronen",
-          "Player2": "msskinbolic",
-          "Result": "2-0-0"
-        },
         {
           "Player1": "ZacharyHaleComstock",
           "Player2": "MatheusPonciano",
-          "Result": "2-1-0"
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "msskinbolic",
+          "Player2": "ecobaronen",
+          "Result": "0-2-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 8",
       "Matches": [
         {
-          "Player1": "ZacharyHaleComstock",
-          "Player2": "ecobaronen",
-          "Result": "2-0-0"
+          "Player1": "ecobaronen",
+          "Player2": "ZacharyHaleComstock",
+          "Result": "0-2-0"
         }
       ]
     }
