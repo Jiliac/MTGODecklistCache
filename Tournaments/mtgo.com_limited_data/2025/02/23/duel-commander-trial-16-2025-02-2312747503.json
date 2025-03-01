@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2025-02-23T00:00:00Z",
     "Name": "Duel Commander Trial 16",
-    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-02-2312747503"
+    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-02-2312747503",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -6016,32 +6019,212 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
+          "Player1": "msskinbolic",
+          "Player2": "LeoFa",
+          "Result": "0-2-0"
+        },
+        {
           "Player1": "JJENDA",
-          "Player2": "ZacharyHaleComstock",
+          "Player2": "choutin",
           "Result": "2-0-0"
         },
         {
-          "Player1": "LeoFa",
+          "Player1": "Tyerube1618",
+          "Player2": "Oror",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Byvci",
+          "Player2": "_dr4gun0v_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "ecobaronen",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "medvedev",
           "Player2": "Kakashi_",
-          "Result": "2-1-0"
+          "Result": "0-2-0"
         },
         {
-          "Player1": "ambroiseb1",
-          "Player2": "mechrataal",
-          "Result": "2-1-0"
+          "Player1": "mechrataal",
+          "Player2": "ambroiseb1",
+          "Result": "0-2-0"
         },
         {
-          "Player1": "ecobaronen",
-          "Player2": "msskinbolic",
-          "Result": "2-1-0"
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "Glacier7",
+          "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "Tyerube1618",
+          "Player2": "Glacier7",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "Byvci",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "JJENDA",
+          "Player2": "Kakashi_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "ambroiseb1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "_Batutinha_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "_dr4gun0v_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "msskinbolic",
+          "Player2": "mechrataal",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LeoFa",
+          "Player2": "Oror",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "Kakashi_",
+          "Player2": "Oror",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "Glacier7",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "Tyerube1618",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "msskinbolic",
+          "Player2": "_dr4gun0v_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Byvci",
+          "Player2": "choutin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ambroiseb1",
+          "Player2": "JJENDA",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "mechrataal",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "LeoFa",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "ecobaronen",
+          "Player2": "Byvci",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_dr4gun0v_",
+          "Player2": "Oror",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "LeoFa",
+          "Player2": "JJENDA",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "ambroiseb1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "msskinbolic",
+          "Player2": "Kakashi_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Glacier7",
+          "Player2": "choutin",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "mechrataal",
+          "Player2": "Tyerube1618",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "medvedev",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "LeoFa",
+          "Player2": "Kakashi_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "mechrataal",
+          "Player2": "ambroiseb1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "msskinbolic",
+          "Player2": "ecobaronen",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "JJENDA",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
       "Matches": [
         {
           "Player1": "LeoFa",
@@ -6051,12 +6234,12 @@
         {
           "Player1": "ecobaronen",
           "Player2": "JJENDA",
-          "Result": "2-1-0"
+          "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 7",
       "Matches": [
         {
           "Player1": "ecobaronen",
