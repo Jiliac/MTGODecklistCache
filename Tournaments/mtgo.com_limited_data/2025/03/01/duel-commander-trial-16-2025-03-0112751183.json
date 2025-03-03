@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2025-03-01T00:00:00Z",
     "Name": "Duel Commander Trial 16",
-    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-03-0112751183"
+    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-03-0112751183",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -9944,47 +9947,357 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
+        {
+          "Player1": "Jose Guillermo",
+          "Player2": "BatCoach",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Boin",
+          "Player2": "LordOfTheLeash",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Bricoflex",
+          "Player2": "Kakashi_",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "kojirohyuga1",
+          "Player2": "Mogged",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "Mogg_Flunkies",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Demian77",
+          "Player2": "ZacharyHaleComstock",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "Oror",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Pasdejambon",
+          "Player2": "zuranthus",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "pirol94",
+          "Player2": "GuiBonella",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "NickNorman",
+          "Player2": "CardGameAddict",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Nostraa",
+          "Player2": "Karloss4000",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MatheusPonciano",
+          "Player2": "manalacaio",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "grumgrum",
+          "Player2": "NeptuneX",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "GuiBonella",
+          "Player2": "BatCoach",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LordOfTheLeash",
+          "Player2": "NeptuneX",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "Demian77",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Boin",
+          "Player2": "Oror",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "NickNorman",
+          "Player2": "grumgrum",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "pirol94",
+          "Player2": "CardGameAddict",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kojirohyuga1",
+          "Player2": "Pasdejambon",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "manalacaio",
+          "Player2": "Bricoflex",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "zuranthus",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Kakashi_",
+          "Player2": "MatheusPonciano",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Mogg_Flunkies",
+          "Player2": "Nostraa",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "Karloss4000",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Jose Guillermo",
+          "Player2": "ZacharyHaleComstock",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "Mogged",
+          "Player2": "LordOfTheLeash",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jose Guillermo",
+          "Player2": "Kakashi_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MatheusPonciano",
+          "Player2": "Nostraa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Bricoflex",
+          "Player2": "albertoSD",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Mogg_Flunkies",
+          "Player2": "NeptuneX",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Boin",
+          "Player2": "grumgrum",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Demian77",
+          "Player2": "Oror",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kojirohyuga1",
+          "Player2": "Karloss4000",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "NickNorman",
+          "Player2": "zuranthus",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "CardGameAddict",
+          "Player2": "GuiBonella",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "Pasdejambon",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "Jose Guillermo",
+          "Player2": "zuranthus",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kojirohyuga1",
+          "Player2": "Oror",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "CardGameAddict",
+          "Player2": "manalacaio",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "MatheusPonciano",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Bricoflex",
+          "Player2": "NeptuneX",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Pasdejambon",
+          "Player2": "Kakashi_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "Mogg_Flunkies",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "NickNorman",
+          "Player2": "Karloss4000",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "grumgrum",
+          "Player2": "Nostraa",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Boin",
+          "Player2": "GuiBonella",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "Pasdejambon",
+          "Player2": "NeptuneX",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jose Guillermo",
+          "Player2": "kojirohyuga1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "manalacaio",
+          "Player2": "Mogged",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Kakashi_",
+          "Player2": "CardGameAddict",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Mogg_Flunkies",
+          "Player2": "Oror",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "NickNorman",
+          "Player2": "Nostraa",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "GuiBonella",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Demian77",
+          "Player2": "grumgrum",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Boin",
+          "Player2": "MatheusPonciano",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Bricoflex",
+          "Player2": "Karloss4000",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "Boin",
+          "Player2": "ZacharyHaleComstock",
+          "Result": "0-2-0"
+        },
         {
           "Player1": "NeptuneX",
           "Player2": "Nostraa",
-          "Result": "2-1-0"
+          "Result": "2-0-0"
         },
         {
           "Player1": "MatheusPonciano",
           "Player2": "Kakashi_",
-          "Result": "2-1-0"
+          "Result": "2-0-0"
         },
         {
-          "Player1": "ZacharyHaleComstock",
-          "Player2": "Boin",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "GuiBonella",
-          "Player2": "Pasdejambon",
-          "Result": "2-1-0"
+          "Player1": "Pasdejambon",
+          "Player2": "GuiBonella",
+          "Result": "0-2-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 7",
       "Matches": [
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "MatheusPonciano",
+          "Result": "0-2-0"
+        },
         {
           "Player1": "GuiBonella",
           "Player2": "NeptuneX",
           "Result": "2-0-0"
-        },
-        {
-          "Player1": "MatheusPonciano",
-          "Player2": "ZacharyHaleComstock",
-          "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 8",
       "Matches": [
         {
           "Player1": "MatheusPonciano",
