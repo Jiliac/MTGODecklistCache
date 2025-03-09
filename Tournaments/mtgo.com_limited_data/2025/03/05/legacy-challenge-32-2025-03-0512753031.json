@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2025-03-05T00:00:00Z",
     "Name": "Legacy Challenge 32",
-    "Uri": "https://www.mtgo.com/decklist/legacy-challenge-32-2025-03-0512753031"
+    "Uri": "https://www.mtgo.com/decklist/legacy-challenge-32-2025-03-0512753031",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -4048,52 +4051,707 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
+        {
+          "Player1": "albertoSD",
+          "Player2": "Ale_Mtg",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "BLJ",
+          "Player2": "Roodslay",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MathiasHardStyle",
+          "Player2": "Cachorrowo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "hermanomlg",
+          "Player2": "KoolooLimpah",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Messi_10",
+          "Player2": "Joyfulwaffle",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "McWinSauce",
+          "Player2": "marceliiine",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ziggy_stardust",
+          "Player2": "Jumba",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "HNSDMPF",
+          "Player2": "boytriton",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "i_b_TRUE",
+          "Player2": "maat33",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Boucha",
+          "Player2": "O_danielakos",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "nedyahiske",
+          "Player2": "The_shallow_grave",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "markdm",
+          "Player2": "Asa_Akira",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "CCdsmash",
+          "Player2": "morsaaa",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Selfeisek",
+          "Player2": "Munchlax446",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "Magic_Dads71522",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "TheGrimLavamancer",
+          "Player2": "choutin",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Sprouts",
+          "Player2": "Villela",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "XanaZero",
+          "Player2": "Illao1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "duke12",
+          "Player2": "DelverFofoqueiro",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "TonyScapone",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "DemonicTutors",
+          "Player2": "GuiBonella",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "romariovidal",
+          "Player2": "WadeB",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "faultedform",
+          "Player2": "Lau7y",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "CrazyMorango",
+          "Player2": "harmonywoods",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "KoolooLimpah",
+          "Player2": "Ale_Mtg",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "WadeB",
+          "Player2": "TheGrimLavamancer",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Sprouts",
+          "Player2": "choutin",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "faultedform",
+          "Player2": "CrazyMorango",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "Lord_Beerus",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "HNSDMPF",
+          "Player2": "nedyahiske",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "McWinSauce",
+          "Player2": "DelverFofoqueiro",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "XanaZero",
+          "Player2": "morsaaa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "hermanomlg",
+          "Player2": "maat33",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "BLJ",
+          "Player2": "TonyScapone",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Messi_10",
+          "Player2": "Asa_Akira",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "duke12",
+          "Player2": "DemonicTutors",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "romariovidal",
+          "Player2": "The_shallow_grave",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "CCdsmash",
+          "Player2": "Munchlax446",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "Magic_Dads71522",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "i_b_TRUE",
+          "Player2": "Boucha",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Roodslay",
+          "Player2": "Lau7y",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "ziggy_stardust",
+          "Player2": "Illao1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Cachorrowo",
+          "Player2": "Joyfulwaffle",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "markdm",
+          "Player2": "GuiBonella",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "boytriton",
+          "Player2": "marceliiine",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Villela",
+          "Player2": "Selfeisek",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "MathiasHardStyle",
+          "Player2": "harmonywoods",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "Jumba",
+          "Result": "0-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "markdm",
+          "Player2": "faultedform",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Villela",
+          "Player2": "Lord_Beerus",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "TonyScapone",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "boytriton",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "HNSDMPF",
+          "Player2": "Joyfulwaffle",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MathiasHardStyle",
+          "Player2": "Roodslay",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Boucha",
+          "Player2": "CCdsmash",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "choutin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DemonicTutors",
+          "Player2": "The_shallow_grave",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "WadeB",
+          "Player2": "Magic_Dads71522",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ziggy_stardust",
+          "Player2": "maat33",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "Cachorrowo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "XanaZero",
+          "Player2": "hermanomlg",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "BLJ",
+          "Player2": "KoolooLimpah",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "McWinSauce",
+          "Player2": "nedyahiske",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "morsaaa",
+          "Player2": "Asa_Akira",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "CrazyMorango",
+          "Player2": "DelverFofoqueiro",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "romariovidal",
+          "Player2": "GuiBonella",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Messi_10",
+          "Player2": "harmonywoods",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "Lau7y",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Selfeisek",
+          "Player2": "TheGrimLavamancer",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "duke12",
+          "Player2": "Sprouts",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "TonyScapone",
+          "Player2": "faultedform",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Villela",
+          "Player2": "The_shallow_grave",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "WadeB",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Sprouts",
+          "Player2": "maat33",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Boucha",
+          "Player2": "Lord_Beerus",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "HNSDMPF",
+          "Player2": "KoolooLimpah",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "boytriton",
+          "Player2": "DelverFofoqueiro",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "TheGrimLavamancer",
+          "Player2": "CrazyMorango",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Magic_Dads71522",
+          "Player2": "Messi_10",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "McWinSauce",
+          "Player2": "hermanomlg",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Roodslay",
+          "Player2": "GuiBonella",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MathiasHardStyle",
+          "Player2": "CCdsmash",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Selfeisek",
+          "Player2": "Cachorrowo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "XanaZero",
+          "Player2": "markdm",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ziggy_stardust",
+          "Player2": "harmonywoods",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "nedyahiske",
+          "Player2": "Joyfulwaffle",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "romariovidal",
+          "Player2": "musasabi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "duke12",
+          "Player2": "albertoSD",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "BLJ",
+          "Player2": "morsaaa",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "Asa_Akira",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "CrazyMorango",
+          "Player2": "The_shallow_grave",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Selfeisek",
+          "Player2": "nedyahiske",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "hermanomlg",
+          "Player2": "Cachorrowo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MathiasHardStyle",
+          "Player2": "markdm",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Sprouts",
+          "Player2": "GuiBonella",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ziggy_stardust",
+          "Player2": "DelverFofoqueiro",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "HNSDMPF",
+          "Player2": "Asa_Akira",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "morsaaa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "BLJ",
+          "Player2": "Munchlax446",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Boucha",
+          "Player2": "Joyfulwaffle",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "CCdsmash",
+          "Player2": "harmonywoods",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "McWinSauce",
+          "Player2": "TheGrimLavamancer",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "Villela",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "DemonicTutors",
+          "Player2": "Messi_10",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "KoolooLimpah",
+          "Player2": "WadeB",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "romariovidal",
+          "Player2": "Magic_Dads71522",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TonyScapone",
+          "Player2": "Roodslay",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "duke12",
+          "Player2": "Lord_Beerus",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "XanaZero",
+          "Player2": "faultedform",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "hermanomlg",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "BLJ",
+          "Player2": "HNSDMPF",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Villela",
+          "Player2": "KoolooLimpah",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Selfeisek",
+          "Player2": "CrazyMorango",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Boucha",
+          "Player2": "harmonywoods",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "TonyScapone",
+          "Player2": "Cachorrowo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MathiasHardStyle",
+          "Player2": "Magic_Dads71522",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Roodslay",
+          "Player2": "DelverFofoqueiro",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Sprouts",
+          "Player2": "XanaZero",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "romariovidal",
+          "Player2": "morsaaa",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "McWinSauce",
+          "Player2": "Jumba",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "nedyahiske",
+          "Player2": "faultedform",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "CCdsmash",
+          "Player2": "GuiBonella",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "duke12",
+          "Player2": "WadeB",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "TheGrimLavamancer",
+          "Player2": "Munchlax446",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ziggy_stardust",
+          "Player2": "DemonicTutors",
+          "Result": "0-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "Matches": [
+        {
+          "Player1": "McWinSauce",
+          "Player2": "faultedform",
+          "Result": "0-2-0"
+        },
         {
           "Player1": "hermanomlg",
           "Player2": "nedyahiske",
           "Result": "2-0-0"
         },
         {
-          "Player1": "Jumba",
-          "Player2": "TonyScapone",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "faultedform",
-          "Player2": "McWinSauce",
-          "Result": "2-0-0"
+          "Player1": "TonyScapone",
+          "Player2": "Jumba",
+          "Result": "0-2-0"
         },
         {
           "Player1": "XanaZero",
           "Player2": "Cachorrowo",
-          "Result": "2-1-0"
+          "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 8",
       "Matches": [
-        {
-          "Player1": "XanaZero",
-          "Player2": "hermanomlg",
-          "Result": "2-1-0"
-        },
         {
           "Player1": "Jumba",
           "Player2": "faultedform",
-          "Result": "2-1-0"
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "XanaZero",
+          "Player2": "hermanomlg",
+          "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 9",
       "Matches": [
         {
-          "Player1": "Jumba",
-          "Player2": "XanaZero",
-          "Result": "2-0-0"
+          "Player1": "XanaZero",
+          "Player2": "Jumba",
+          "Result": "0-2-0"
         }
       ]
     }

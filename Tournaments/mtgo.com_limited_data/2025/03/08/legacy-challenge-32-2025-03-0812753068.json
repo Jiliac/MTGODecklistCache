@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2025-03-08T00:00:00Z",
     "Name": "Legacy Challenge 32",
-    "Uri": "https://www.mtgo.com/decklist/legacy-challenge-32-2025-03-0812753068"
+    "Uri": "https://www.mtgo.com/decklist/legacy-challenge-32-2025-03-0812753068",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -4076,51 +4079,591 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
-          "Player1": "haveaboavida",
-          "Player2": "OlorinMaiar",
-          "Result": "2-1-0"
+          "Player1": "yoshiwata",
+          "Player2": "azmyk1231",
+          "Result": "0-2-0"
         },
         {
-          "Player1": "Alfzera",
-          "Player2": "Joyfulwaffle",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "Eureka22422",
-          "Player2": "ziggy_stardust",
+          "Player1": "Dafne17",
+          "Player2": "_INF_",
           "Result": "2-0-0"
         },
         {
-          "Player1": "GrouchyTurtle",
+          "Player1": "joker10289",
+          "Player2": "l337erhosen",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "XanaZero",
+          "Player2": "ziofrancone",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "k4ff33b0hn3",
+          "Player2": "Selfeisek",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Sol-e22558",
+          "Player2": "LasVegasChaos",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jibeta",
+          "Player2": "TheGrimLavamancer",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "duke12",
+          "Player2": "Galaxy_Impact",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ale_ax95",
+          "Player2": "ReformedPaolo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Killabee",
+          "Player2": "SAWATARIX",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Ark4n",
+          "Player2": "choutin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kentaro_hokori",
+          "Player2": "sabebe",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "clan",
+          "Player2": "_epinephrine",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Terminus0",
+          "Player2": "Koike",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Oceansoul92",
+          "Player2": "Dogeminer02",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "hayatatsu",
+          "Player2": "Bezerra_da_Silva",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "wallofspikes",
+          "Player2": "kanican",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Kuranari-Jackpa",
+          "Player2": "_Johnzeira_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "mortr3d",
           "Player2": "habsburger",
-          "Result": "2-1-0"
+          "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 2",
       "Matches": [
         {
-          "Player1": "haveaboavida",
-          "Player2": "Alfzera",
+          "Player1": "wallofspikes",
+          "Player2": "hayatatsu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_INF_",
+          "Player2": "choutin",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "kanican",
+          "Player2": "Bezerra_da_Silva",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Killabee",
+          "Player2": "Dafne17",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "jibeta",
+          "Player2": "Dogeminer02",
           "Result": "2-0-0"
         },
         {
-          "Player1": "Eureka22422",
-          "Player2": "GrouchyTurtle",
+          "Player1": "sabebe",
+          "Player2": "LasVegasChaos",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kentaro_hokori",
+          "Player2": "mortr3d",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Kuranari-Jackpa",
+          "Player2": "Koike",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "habsburger",
+          "Player2": "_epinephrine",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "clan",
+          "Player2": "_Johnzeira_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "joker10289",
+          "Player2": "SAWATARIX",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Selfeisek",
+          "Player2": "TheGrimLavamancer",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "azmyk1231",
+          "Player2": "Sol-e22558",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Ark4n",
+          "Player2": "Terminus0",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "k4ff33b0hn3",
+          "Player2": "yoshiwata",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "l337erhosen",
+          "Player2": "hrvr",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ziofrancone",
+          "Player2": "Galaxy_Impact",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "XanaZero",
+          "Player2": "ale_ax95",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Oceansoul92",
+          "Player2": "ReformedPaolo",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "mortr3d",
+          "Player2": "Galaxy_Impact",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Koike",
+          "Player2": "choutin",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ale_ax95",
+          "Player2": "TheGrimLavamancer",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "l337erhosen",
+          "Player2": "clan",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Oceansoul92",
+          "Player2": "_INF_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Selfeisek",
+          "Player2": "ziofrancone",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "habsburger",
+          "Player2": "azmyk1231",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "sabebe",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "k4ff33b0hn3",
+          "Player2": "SAWATARIX",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Killabee",
+          "Player2": "LasVegasChaos",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "joker10289",
+          "Player2": "kanican",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jibeta",
+          "Player2": "Terminus0",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "wallofspikes",
+          "Player2": "hrvr",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Ark4n",
+          "Player2": "Sol-e22558",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dafne17",
+          "Player2": "ReformedPaolo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kentaro_hokori",
+          "Player2": "hayatatsu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Bezerra_da_Silva",
+          "Player2": "_Johnzeira_",
           "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 4",
       "Matches": [
         {
-          "Player1": "Eureka22422",
-          "Player2": "haveaboavida",
+          "Player1": "sabebe",
+          "Player2": "Galaxy_Impact",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Sol-e22558",
+          "Player2": "SAWATARIX",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "mortr3d",
+          "Player2": "Killabee",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dafne17",
+          "Player2": "clan",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "jibeta",
+          "Player2": "choutin",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kentaro_hokori",
+          "Player2": "Bezerra_da_Silva",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "joker10289",
+          "Player2": "yoshiwata",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ReformedPaolo",
+          "Player2": "hrvr",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "l337erhosen",
+          "Player2": "Selfeisek",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Koike",
+          "Player2": "_Johnzeira_",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Oceansoul92",
+          "Player2": "TheGrimLavamancer",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "k4ff33b0hn3",
+          "Player2": "Terminus0",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "hayatatsu",
+          "Player2": "ziofrancone",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ale_ax95",
+          "Player2": "LasVegasChaos",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "habsburger",
+          "Player2": "Ark4n",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "wallofspikes",
+          "Player2": "azmyk1231",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "mortr3d",
+          "Player2": "clan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ark4n",
+          "Player2": "Dafne17",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "l337erhosen",
+          "Player2": "Oceansoul92",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Sol-e22558",
+          "Player2": "Galaxy_Impact",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "k4ff33b0hn3",
+          "Player2": "sabebe",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "wallofspikes",
+          "Player2": "jibeta",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "hayatatsu",
+          "Player2": "TheGrimLavamancer",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Selfeisek",
+          "Player2": "Bezerra_da_Silva",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "habsburger",
+          "Player2": "Killabee",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LasVegasChaos",
+          "Player2": "_Johnzeira_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ReformedPaolo",
+          "Player2": "ziofrancone",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "SAWATARIX",
+          "Player2": "choutin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "Koike",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "joker10289",
+          "Player2": "hrvr",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ale_ax95",
+          "Player2": "azmyk1231",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kentaro_hokori",
+          "Player2": "Terminus0",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "ale_ax95",
+          "Player2": "sabebe",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "habsburger",
+          "Player2": "clan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "azmyk1231",
+          "Player2": "LasVegasChaos",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Selfeisek",
+          "Player2": "choutin",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Sol-e22558",
+          "Player2": "_Johnzeira_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "k4ff33b0hn3",
+          "Player2": "Koike",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SAWATARIX",
+          "Player2": "Bezerra_da_Silva",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "mortr3d",
+          "Player2": "TheGrimLavamancer",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "joker10289",
+          "Player2": "Galaxy_Impact",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "hayatatsu",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Oceansoul92",
+          "Player2": "hrvr",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "l337erhosen",
+          "Player2": "wallofspikes",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jibeta",
+          "Player2": "ReformedPaolo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Ark4n",
+          "Player2": "ziofrancone",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Terminus0",
+          "Player2": "Dafne17",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "Matches": [
+        {
+          "Player1": "mortr3d",
+          "Player2": "Bezerra_da_Silva",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "habsburger",
+          "Player2": "ziofrancone",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Ark4n",
+          "Player2": "TheGrimLavamancer",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Dafne17",
+          "Player2": "ReformedPaolo",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "Matches": [
+        {
+          "Player1": "ReformedPaolo",
+          "Player2": "TheGrimLavamancer",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ziofrancone",
+          "Player2": "Bezerra_da_Silva",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 9",
+      "Matches": [
+        {
+          "Player1": "ReformedPaolo",
+          "Player2": "Bezerra_da_Silva",
           "Result": "2-0-0"
         }
       ]
