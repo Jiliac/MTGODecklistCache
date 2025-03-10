@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2025-03-08T00:00:00Z",
     "Name": "Pioneer Challenge 32",
-    "Uri": "https://www.mtgo.com/decklist/pioneer-challenge-32-2025-03-0812753080"
+    "Uri": "https://www.mtgo.com/decklist/pioneer-challenge-32-2025-03-0812753080",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -4336,17 +4339,542 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
-          "Player1": "Strongmind",
+          "Player1": "fried-liver-attack",
+          "Player2": "CrazyMorango",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Arianne",
+          "Player2": "fuxin123",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "SweetnamStyle",
+          "Player2": "aarrgh",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Misplacedginger",
+          "Player2": "Raydan",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Gravetrayal",
+          "Player2": "Caleb_Yetman",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "xGSx",
+          "Player2": "_Shatun_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "j_money10",
+          "Player2": "nedyahiske",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Golgarburr",
+          "Player2": "kaikas",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Nowayh",
+          "Player2": "DelverFofoqueiro",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "newbarola",
+          "Player2": "Feitosa_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "billster47",
           "Player2": "wkmidori",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "mysteryman21",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "esmyth",
+          "Player2": "mrtoolshed",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "PNascimento",
+          "Player2": "MJ_23",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "wordy333",
+          "Player2": "maybenextime",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "CrusherBotBG",
+          "Player2": "EVhuner",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Funnyman31399",
+          "Player2": "VitorCarvalho01",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "DookieTrouserMD",
+          "Player2": "Strongmind",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kanara38204",
+          "Player2": "Beicodegeia",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "wordy333",
+          "Player2": "kaikas",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Raydan",
+          "Player2": "Beicodegeia",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "maybenextime",
+          "Player2": "Hernan72",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "CrusherBotBG",
+          "Player2": "PNascimento",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "xGSx",
+          "Player2": "EVhuner",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Caleb_Yetman",
+          "Player2": "Strongmind",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Gravetrayal",
+          "Player2": "VitorCarvalho01",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "j_money10",
+          "Player2": "_Shatun_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "fried-liver-attack",
+          "Player2": "nedyahiske",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Golgarburr",
+          "Player2": "mrtoolshed",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Nowayh",
+          "Player2": "newbarola",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "wkmidori",
+          "Player2": "DookieTrouserMD",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Misplacedginger",
+          "Player2": "kanara38204",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "mysteryman21",
+          "Player2": "SweetnamStyle",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "billster47",
+          "Player2": "Funnyman31399",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DelverFofoqueiro",
+          "Player2": "Feitosa_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Arianne",
+          "Player2": "CrazyMorango",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "MJ_23",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "aarrgh",
+          "Player2": "fuxin123",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "Raydan",
+          "Player2": "DelverFofoqueiro",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "nedyahiske",
+          "Player2": "Feitosa_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "wordy333",
+          "Player2": "Caleb_Yetman",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Shatun_",
+          "Player2": "CrazyMorango",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "mysteryman21",
+          "Player2": "kaikas",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Gravetrayal",
+          "Player2": "aarrgh",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "EVhuner",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Golgarburr",
+          "Player2": "fuxin123",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "wkmidori",
+          "Player2": "VitorCarvalho01",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Funnyman31399",
+          "Player2": "kanara38204",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "xGSx",
+          "Player2": "fried-liver-attack",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "mrtoolshed",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MJ_23",
+          "Player2": "Hernan72",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Misplacedginger",
+          "Player2": "Strongmind",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "newbarola",
+          "Player2": "PNascimento",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "maybenextime",
+          "Player2": "CrusherBotBG",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "billster47",
+          "Player2": "DookieTrouserMD",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "CrazyMorango",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "billster47",
+          "Player2": "Hernan72",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "DookieTrouserMD",
+          "Player2": "PNascimento",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MJ_23",
+          "Player2": "wkmidori",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Raydan",
+          "Player2": "Caleb_Yetman",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Shatun_",
+          "Player2": "kaikas",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Golgarburr",
+          "Player2": "Beicodegeia",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "DelverFofoqueiro",
+          "Player2": "Arianne",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Funnyman31399",
+          "Player2": "Gravetrayal",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "mysteryman21",
+          "Player2": "aarrgh",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "fuxin123",
+          "Player2": "Strongmind",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "wordy333",
+          "Player2": "CrusherBotBG",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "nedyahiske",
+          "Player2": "EVhuner",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "fried-liver-attack",
+          "Player2": "Feitosa_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "xGSx",
+          "Player2": "newbarola",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "maybenextime",
+          "Player2": "VitorCarvalho01",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "aarrgh",
+          "Player2": "CrazyMorango",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "nedyahiske",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "maybenextime",
+          "Player2": "wkmidori",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "DookieTrouserMD",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Arianne",
+          "Player2": "Golgarburr",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Raydan",
+          "Player2": "Strongmind",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Caleb_Yetman",
+          "Player2": "DelverFofoqueiro",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "billster47",
+          "Player2": "mysteryman21",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Feitosa_",
+          "Player2": "PNascimento",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "wordy333",
+          "Player2": "_Shatun_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "VitorCarvalho01",
+          "Player2": "fuxin123",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Gravetrayal",
+          "Player2": "kaikas",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "xGSx",
+          "Player2": "CrusherBotBG",
           "Result": "2-0-0"
         },
         {
           "Player1": "MJ_23",
           "Player2": "EVhuner",
-          "Result": "2-1-0"
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Hernan72",
+          "Player2": "fried-liver-attack",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "EVhuner",
+          "Player2": "Strongmind",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "maybenextime",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "CrazyMorango",
+          "Player2": "fuxin123",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MJ_23",
+          "Player2": "Beicodegeia",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "wordy333",
+          "Player2": "PNascimento",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "_Shatun_",
+          "Player2": "DelverFofoqueiro",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "aarrgh",
+          "Player2": "VitorCarvalho01",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "CrusherBotBG",
+          "Player2": "DookieTrouserMD",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Gravetrayal",
+          "Player2": "Feitosa_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "billster47",
+          "Player2": "nedyahiske",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "fried-liver-attack",
+          "Player2": "wkmidori",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Golgarburr",
+          "Player2": "Hernan72",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "xGSx",
+          "Player2": "Raydan",
+          "Result": "0-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "Matches": [
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "fried-liver-attack",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "MJ_23",
+          "Player2": "EVhuner",
+          "Result": "2-0-0"
         },
         {
           "Player1": "nedyahiske",
@@ -4354,29 +4882,29 @@
           "Result": "2-0-0"
         },
         {
-          "Player1": "fried-liver-attack",
-          "Player2": "Beicodegeia",
-          "Result": "2-0-0"
+          "Player1": "wkmidori",
+          "Player2": "Strongmind",
+          "Result": "0-2-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 8",
       "Matches": [
         {
-          "Player1": "nedyahiske",
-          "Player2": "fried-liver-attack",
-          "Result": "2-0-0"
+          "Player1": "fried-liver-attack",
+          "Player2": "nedyahiske",
+          "Result": "0-2-0"
         },
         {
           "Player1": "MJ_23",
           "Player2": "Strongmind",
-          "Result": "2-1-0"
+          "Result": "0-0-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 9",
       "Matches": [
         {
           "Player1": "MJ_23",
