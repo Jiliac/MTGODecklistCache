@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2025-03-13T00:00:00Z",
     "Name": "Duel Commander Trial 16",
-    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-03-1312754409"
+    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-03-1312754409",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -7698,32 +7701,307 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
+          "Player1": "albertoSD",
+          "Player2": "ZacharyHaleComstock",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "rinazina",
+          "Player2": "CardGameAddict",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "TheManLand",
+          "Player2": "golfsapao",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Shatun_",
+          "Player2": "Illao1",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "NickNorman",
+          "Player2": "GuiBonella",
+          "Result": "0-2-0"
+        },
+        {
           "Player1": "FriskiFraska",
-          "Player2": "Demian77",
-          "Result": "2-1-0"
+          "Player2": "boytriton",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "BatCoach",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "FranMtg",
+          "Player2": "MNSHK",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "AntoninG",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "Hampuse1",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "Hampuse1",
+          "Player2": "LucasG1ggs",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "_Shatun_",
+          "Player2": "GuiBonella",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "FranMtg",
+          "Player2": "Illao1",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "NickNorman",
+          "Player2": "golfsapao",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "AntoninG",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "boytriton",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Demian77",
+          "Player2": "CardGameAddict",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "FriskiFraska",
+          "Player2": "MNSHK",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "BatCoach",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "rinazina",
+          "Player2": "ZacharyHaleComstock",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "GuiBonella",
+          "Player2": "BatCoach",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "CardGameAddict",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "boytriton",
+          "Player2": "rinazina",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "LucasG1ggs",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Demian77",
+          "Player2": "AntoninG",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "MNSHK",
+          "Result": "0-2-0"
         },
         {
           "Player1": "Hampuse1",
-          "Player2": "albertoSD",
-          "Result": "2-1-0"
+          "Player2": "TheManLand",
+          "Result": "2-0-0"
         },
         {
-          "Player1": "BatCoach",
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "NickNorman",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Shatun_",
+          "Player2": "golfsapao",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "FriskiFraska",
+          "Player2": "Illao1",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "rinazina",
+          "Player2": "medvedev",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "FriskiFraska",
+          "Player2": "BatCoach",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TheManLand",
+          "Player2": "Illao1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "FranMtg",
+          "Player2": "golfsapao",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "ZacharyHaleComstock",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "GuiBonella",
+          "Player2": "AntoninG",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Demian77",
+          "Player2": "MNSHK",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Hampuse1",
+          "Player2": "_Shatun_",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "NickNorman",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "CardGameAddict",
+          "Player2": "boytriton",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "Hampuse1",
+          "Player2": "FriskiFraska",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "NickNorman",
+          "Player2": "rinazina",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Demian77",
+          "Player2": "LucasG1ggs",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "Illao1",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "AntoninG",
+          "Player2": "BatCoach",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "_Shatun_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "albertoSD",
           "Player2": "GuiBonella",
           "Result": "2-0-0"
         },
         {
           "Player1": "MNSHK",
           "Player2": "boytriton",
-          "Result": "2-1-0"
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "TheManLand",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "CardGameAddict",
+          "Player2": "golfsapao",
+          "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "albertoSD",
+          "Player2": "Hampuse1",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Demian77",
+          "Player2": "FriskiFraska",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "GuiBonella",
+          "Player2": "BatCoach",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MNSHK",
+          "Player2": "boytriton",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
       "Matches": [
         {
           "Player1": "MNSHK",
@@ -7733,17 +8011,17 @@
         {
           "Player1": "Hampuse1",
           "Player2": "FriskiFraska",
-          "Result": "2-1-0"
+          "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 8",
       "Matches": [
         {
           "Player1": "Hampuse1",
           "Player2": "MNSHK",
-          "Result": "2-1-0"
+          "Result": "2-0-0"
         }
       ]
     }
