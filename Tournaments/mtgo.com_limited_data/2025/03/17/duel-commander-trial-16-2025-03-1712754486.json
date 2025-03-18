@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2025-03-17T00:00:00Z",
     "Name": "Duel Commander Trial 16",
-    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-03-1712754486"
+    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-03-1712754486",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -8356,52 +8359,327 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
-          "Player1": "Patxi",
-          "Player2": "Woobzy",
+          "Player1": "Demian77",
+          "Player2": "BatCoach",
           "Result": "2-0-0"
         },
         {
-          "Player1": "boytriton",
-          "Player2": "Jumba",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "DuduDeNunu",
+          "Player1": "BERNASTORRES",
           "Player2": "MNSHK",
-          "Result": "2-1-0"
+          "Result": "0-2-0"
         },
         {
-          "Player1": "NickNorman",
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "NickNorman",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Patxi",
           "Player2": "Rod_Chill",
-          "Result": "2-1-0"
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ChironTheMage",
+          "Player2": "Jumba",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "Oror",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Woobzy",
+          "Player2": "FriskiFraska",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TheManLand",
+          "Player2": "boytriton",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "GuiBonella",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "DuduDeNunu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Dreddybajs",
+          "Player2": "Sneil27",
+          "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 2",
       "Matches": [
         {
-          "Player1": "DuduDeNunu",
-          "Player2": "NickNorman",
+          "Player1": "Sneil27",
+          "Player2": "FriskiFraska",
           "Result": "2-0-0"
+        },
+        {
+          "Player1": "NickNorman",
+          "Player2": "boytriton",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Patxi",
+          "Player2": "ZacharyHaleComstock",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Woobzy",
+          "Player2": "DuduDeNunu",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Demian77",
+          "Player2": "GuiBonella",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "ChironTheMage",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MNSHK",
+          "Player2": "Rod_Chill",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "TheManLand",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "Oror",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "BERNASTORRES",
+          "Player2": "Mogged",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Dreddybajs",
+          "Player2": "BatCoach",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "Dreddybajs",
+          "Player2": "NickNorman",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "BatCoach",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Demian77",
+          "Player2": "boytriton",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Sneil27",
+          "Player2": "Oror",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "BERNASTORRES",
+          "Player2": "ZacharyHaleComstock",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Woobzy",
+          "Player2": "Rod_Chill",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ChironTheMage",
+          "Player2": "Mogged",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Patxi",
+          "Player2": "DuduDeNunu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "GuiBonella",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "MNSHK",
+          "Result": "0-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "Patxi",
+          "Player2": "BERNASTORRES",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Demian77",
+          "Player2": "TheManLand",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Dreddybajs",
+          "Player2": "Oror",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Woobzy",
+          "Player2": "Jumba",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "ZacharyHaleComstock",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "BatCoach",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "GuiBonella",
+          "Player2": "Rod_Chill",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "NickNorman",
+          "Player2": "MNSHK",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Sneil27",
+          "Player2": "boytriton",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ChironTheMage",
+          "Player2": "DuduDeNunu",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "NickNorman",
+          "Player2": "Rod_Chill",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "ChironTheMage",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Sneil27",
+          "Player2": "TheManLand",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "Oror",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "BatCoach",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Demian77",
+          "Player2": "Patxi",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MNSHK",
+          "Player2": "DuduDeNunu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Woobzy",
+          "Player2": "boytriton",
+          "Result": "0-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "NickNorman",
+          "Player2": "Rod_Chill",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Woobzy",
+          "Player2": "Patxi",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MNSHK",
+          "Player2": "DuduDeNunu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "boytriton",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "Matches": [
+        {
+          "Player1": "NickNorman",
+          "Player2": "DuduDeNunu",
+          "Result": "0-0-0"
         },
         {
           "Player1": "Patxi",
           "Player2": "boytriton",
-          "Result": "2-1-0"
+          "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 8",
       "Matches": [
         {
-          "Player1": "DuduDeNunu",
-          "Player2": "Patxi",
-          "Result": "2-0-0"
+          "Player1": "Patxi",
+          "Player2": "DuduDeNunu",
+          "Result": "0-2-0"
         }
       ]
     }
