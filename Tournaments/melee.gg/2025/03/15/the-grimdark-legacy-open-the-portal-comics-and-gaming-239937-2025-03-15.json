@@ -1,15 +1,16 @@
 {
   "Tournament": {
-    "Date": "2025-03-15T15:00:00Z",
+    "Date": "2025-03-15T15:00:00",
     "Name": "The GrimDark Legacy Open @ The Portal Comics and Gaming",
-    "Uri": "https://melee.gg/Tournament/View/239937"
+    "Uri": "https://melee.gg/Tournament/View/239937",
+    "Formats": "Legacy"
   },
   "Decks": [
     {
       "Date": null,
       "Player": "Bobby Wescott",
       "Result": "1st Place",
-      "AnchorUri": "https://melee.gg/Decklist/View/491498",
+      "AnchorUri": "https://melee.gg/Decklist/View/4077fe93-90d0-477b-bd5f-6b62ce12209a",
       "Mainboard": [
         {
           "Count": 4,
@@ -155,7 +156,7 @@
       "Date": null,
       "Player": "Micah De La Huerta",
       "Result": "4th Place",
-      "AnchorUri": "https://melee.gg/Decklist/View/490637",
+      "AnchorUri": "https://melee.gg/Decklist/View/c1c94db9-c08d-4c59-9a74-08eef2d3862c",
       "Mainboard": [
         {
           "Count": 3,
@@ -289,7 +290,7 @@
       "Date": null,
       "Player": "paul lynch",
       "Result": "9th Place",
-      "AnchorUri": "https://melee.gg/Decklist/View/491729",
+      "AnchorUri": "https://melee.gg/Decklist/View/5d8fe27b-bcb6-4c60-97bd-0a49a2b00ea0",
       "Mainboard": [
         {
           "Count": 2,
@@ -423,79 +424,15 @@
       "Date": null,
       "Player": "Danny Brennan",
       "Result": "11th Place",
-      "AnchorUri": "https://melee.gg/Decklist/View/490188",
+      "AnchorUri": "https://melee.gg/Decklist/View/21ed5089-ec53-4cd5-b7e5-5220a40eb965",
       "Mainboard": [
         {
-          "Count": 2,
-          "CardName": "Bloodstained Mire"
-        },
-        {
           "Count": 4,
-          "CardName": "Brainstorm"
-        },
-        {
-          "Count": 1,
-          "CardName": "Cabal Ritual"
-        },
-        {
-          "Count": 1,
-          "CardName": "Cavern of Souls"
-        },
-        {
-          "Count": 1,
-          "CardName": "Consider"
-        },
-        {
-          "Count": 4,
-          "CardName": "Dark Ritual"
-        },
-        {
-          "Count": 4,
-          "CardName": "Daze"
-        },
-        {
-          "Count": 1,
-          "CardName": "Deep Analysis"
-        },
-        {
-          "Count": 4,
-          "CardName": "Doomsday"
-        },
-        {
-          "Count": 2,
-          "CardName": "Edge of Autumn"
-        },
-        {
-          "Count": 1,
-          "CardName": "Flusterstorm"
-        },
-        {
-          "Count": 4,
-          "CardName": "Force of Will"
-        },
-        {
-          "Count": 1,
-          "CardName": "Island"
-        },
-        {
-          "Count": 1,
-          "CardName": "Lion's Eye Diamond"
-        },
-        {
-          "Count": 3,
-          "CardName": "Lotus Petal"
-        },
-        {
-          "Count": 3,
-          "CardName": "Personal Tutor"
+          "CardName": "Underground Sea"
         },
         {
           "Count": 4,
           "CardName": "Polluted Delta"
-        },
-        {
-          "Count": 4,
-          "CardName": "Ponder"
         },
         {
           "Count": 2,
@@ -503,15 +440,83 @@
         },
         {
           "Count": 2,
-          "CardName": "Street Wraith"
+          "CardName": "Bloodstained Mire"
+        },
+        {
+          "Count": 1,
+          "CardName": "Island"
         },
         {
           "Count": 1,
           "CardName": "Swamp"
         },
         {
+          "Count": 1,
+          "CardName": "Lion's Eye Diamond"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cabal Ritual"
+        },
+        {
+          "Count": 4,
+          "CardName": "Dark Ritual"
+        },
+        {
+          "Count": 3,
+          "CardName": "Lotus Petal"
+        },
+        {
+          "Count": 1,
+          "CardName": "Undercity Sewers"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cavern of Souls"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ponder"
+        },
+        {
+          "Count": 4,
+          "CardName": "Force of Will"
+        },
+        {
+          "Count": 4,
+          "CardName": "Doomsday"
+        },
+        {
+          "Count": 4,
+          "CardName": "Brainstorm"
+        },
+        {
+          "Count": 3,
+          "CardName": "Personal Tutor"
+        },
+        {
           "Count": 2,
           "CardName": "Thassa's Oracle"
+        },
+        {
+          "Count": 2,
+          "CardName": "Street Wraith"
+        },
+        {
+          "Count": 2,
+          "CardName": "Edge of Autumn"
+        },
+        {
+          "Count": 4,
+          "CardName": "Daze"
+        },
+        {
+          "Count": 1,
+          "CardName": "Consider"
+        },
+        {
+          "Count": 1,
+          "CardName": "Deep Analysis"
         },
         {
           "Count": 3,
@@ -519,11 +524,7 @@
         },
         {
           "Count": 1,
-          "CardName": "Undercity Sewers"
-        },
-        {
-          "Count": 4,
-          "CardName": "Underground Sea"
+          "CardName": "Flusterstorm"
         }
       ],
       "Sideboard": [
@@ -532,28 +533,28 @@
           "CardName": "Barrowgoyf"
         },
         {
-          "Count": 2,
-          "CardName": "Consign to Memory"
-        },
-        {
-          "Count": 2,
-          "CardName": "Fatal Push"
-        },
-        {
-          "Count": 2,
-          "CardName": "Force of Negation"
+          "Count": 3,
+          "CardName": "Murktide Regent"
         },
         {
           "Count": 2,
           "CardName": "Grafdigger's Cage"
         },
         {
+          "Count": 2,
+          "CardName": "Force of Negation"
+        },
+        {
           "Count": 1,
           "CardName": "Hydroblast"
         },
         {
-          "Count": 3,
-          "CardName": "Murktide Regent"
+          "Count": 2,
+          "CardName": "Consign to Memory"
+        },
+        {
+          "Count": 2,
+          "CardName": "Fatal Push"
         }
       ]
     },
@@ -561,79 +562,11 @@
       "Date": null,
       "Player": "David Wojtkowski",
       "Result": "12th Place",
-      "AnchorUri": "https://melee.gg/Decklist/View/491478",
+      "AnchorUri": "https://melee.gg/Decklist/View/7ffc4415-da67-48e8-96ac-bd83ce8f88bf",
       "Mainboard": [
         {
           "Count": 4,
-          "CardName": "Brainstorm"
-        },
-        {
-          "Count": 1,
-          "CardName": "Bristly Bill, Spine Sower"
-        },
-        {
-          "Count": 1,
-          "CardName": "Collector Ouphe"
-        },
-        {
-          "Count": 1,
-          "CardName": "Delighted Halfling"
-        },
-        {
-          "Count": 1,
-          "CardName": "Dryad Arbor"
-        },
-        {
-          "Count": 1,
-          "CardName": "Endurance"
-        },
-        {
-          "Count": 1,
-          "CardName": "Finale of Devastation"
-        },
-        {
-          "Count": 4,
-          "CardName": "Force of Will"
-        },
-        {
-          "Count": 1,
-          "CardName": "Forest"
-        },
-        {
-          "Count": 4,
-          "CardName": "Green Sun's Zenith"
-        },
-        {
-          "Count": 1,
-          "CardName": "Hedge Maze"
-        },
-        {
-          "Count": 1,
-          "CardName": "Island"
-        },
-        {
-          "Count": 1,
-          "CardName": "Karakas"
-        },
-        {
-          "Count": 1,
-          "CardName": "Keen-Eyed Curator"
-        },
-        {
-          "Count": 1,
-          "CardName": "Lush Portico"
-        },
-        {
-          "Count": 4,
-          "CardName": "Misty Rainforest"
-        },
-        {
-          "Count": 4,
           "CardName": "Nadu, Winged Wisdom"
-        },
-        {
-          "Count": 2,
-          "CardName": "Noble Hierarch"
         },
         {
           "Count": 4,
@@ -641,7 +574,43 @@
         },
         {
           "Count": 1,
-          "CardName": "Plains"
+          "CardName": "Bristly Bill, Spine Sower"
+        },
+        {
+          "Count": 1,
+          "CardName": "Springheart Nantuko"
+        },
+        {
+          "Count": 1,
+          "CardName": "Keen-Eyed Curator"
+        },
+        {
+          "Count": 1,
+          "CardName": "Endurance"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sylvan Safekeeper"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dryad Arbor"
+        },
+        {
+          "Count": 4,
+          "CardName": "Swords to Plowshares"
+        },
+        {
+          "Count": 4,
+          "CardName": "Brainstorm"
+        },
+        {
+          "Count": 4,
+          "CardName": "Force of Will"
+        },
+        {
+          "Count": 4,
+          "CardName": "Green Sun's Zenith"
         },
         {
           "Count": 4,
@@ -649,23 +618,19 @@
         },
         {
           "Count": 1,
-          "CardName": "Savannah"
-        },
-        {
-          "Count": 1,
-          "CardName": "Springheart Nantuko"
-        },
-        {
-          "Count": 4,
-          "CardName": "Swords to Plowshares"
-        },
-        {
-          "Count": 1,
-          "CardName": "Sylvan Safekeeper"
+          "CardName": "Finale of Devastation"
         },
         {
           "Count": 2,
           "CardName": "Teferi, Time Raveler"
+        },
+        {
+          "Count": 4,
+          "CardName": "Misty Rainforest"
+        },
+        {
+          "Count": 4,
+          "CardName": "Windswept Heath"
         },
         {
           "Count": 2,
@@ -676,8 +641,44 @@
           "CardName": "Tundra"
         },
         {
-          "Count": 4,
-          "CardName": "Windswept Heath"
+          "Count": 1,
+          "CardName": "Savannah"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lush Portico"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hedge Maze"
+        },
+        {
+          "Count": 1,
+          "CardName": "Karakas"
+        },
+        {
+          "Count": 1,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 1,
+          "CardName": "Island"
+        },
+        {
+          "Count": 1,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 1,
+          "CardName": "Delighted Halfling"
+        },
+        {
+          "Count": 2,
+          "CardName": "Noble Hierarch"
+        },
+        {
+          "Count": 1,
+          "CardName": "Collector Ouphe"
         }
       ],
       "Sideboard": [
@@ -686,24 +687,12 @@
           "CardName": "Consign to Memory"
         },
         {
-          "Count": 1,
-          "CardName": "Deafening Silence"
-        },
-        {
-          "Count": 2,
-          "CardName": "Faerie Macabre"
-        },
-        {
           "Count": 2,
           "CardName": "Force of Negation"
         },
         {
           "Count": 2,
-          "CardName": "Force of Vigor"
-        },
-        {
-          "Count": 1,
-          "CardName": "Hydroblast"
+          "CardName": "Faerie Macabre"
         },
         {
           "Count": 2,
@@ -712,6 +701,18 @@
         {
           "Count": 2,
           "CardName": "Veil of Summer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Deafening Silence"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hydroblast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Force of Vigor"
         }
       ]
     },
@@ -719,7 +720,7 @@
       "Date": null,
       "Player": "BoshNRoll_Brian",
       "Result": "13th Place",
-      "AnchorUri": "https://melee.gg/Decklist/View/490002",
+      "AnchorUri": "https://melee.gg/Decklist/View/5f3590fa-831d-4b1a-a1bf-ddc7c65a9782",
       "Mainboard": [
         {
           "Count": 4,
@@ -837,27 +838,43 @@
       "Date": null,
       "Player": "Mark Hornung",
       "Result": "14th Place",
-      "AnchorUri": "https://melee.gg/Decklist/View/491378",
+      "AnchorUri": "https://melee.gg/Decklist/View/bd1d0977-aa4b-4553-a5c3-b2644087be41",
       "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Yavimaya, Cradle of Growth"
+        },
+        {
+          "Count": 4,
+          "CardName": "Eldrazi Temple"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lotus Petal"
+        },
         {
           "Count": 4,
           "CardName": "Ancient Tomb"
         },
         {
+          "Count": 3,
+          "CardName": "Eye of Ugin"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thought-Knot Seer"
+        },
+        {
           "Count": 1,
-          "CardName": "Blast Zone"
+          "CardName": "Wastes"
         },
         {
           "Count": 4,
           "CardName": "Cavern of Souls"
         },
         {
-          "Count": 4,
-          "CardName": "Chalice of the Void"
-        },
-        {
-          "Count": 1,
-          "CardName": "City of Traitors"
+          "Count": 2,
+          "CardName": "Once Upon a Time"
         },
         {
           "Count": 3,
@@ -865,15 +882,15 @@
         },
         {
           "Count": 4,
-          "CardName": "Eldrazi Temple"
+          "CardName": "Sowing Mycospawn"
         },
         {
-          "Count": 3,
-          "CardName": "Eye of Ugin"
+          "Count": 4,
+          "CardName": "Kozilek's Command"
         },
         {
           "Count": 1,
-          "CardName": "Gaea's Cradle"
+          "CardName": "City of Traitors"
         },
         {
           "Count": 4,
@@ -881,53 +898,37 @@
         },
         {
           "Count": 4,
-          "CardName": "Kozilek's Command"
-        },
-        {
-          "Count": 4,
-          "CardName": "Lotus Petal"
-        },
-        {
-          "Count": 2,
-          "CardName": "Once Upon a Time"
-        },
-        {
-          "Count": 4,
-          "CardName": "Sowing Mycospawn"
-        },
-        {
-          "Count": 2,
-          "CardName": "Talisman of Curiosity"
-        },
-        {
-          "Count": 2,
-          "CardName": "The One Ring"
-        },
-        {
-          "Count": 4,
-          "CardName": "Thought-Knot Seer"
-        },
-        {
-          "Count": 4,
           "CardName": "Wasteland"
-        },
-        {
-          "Count": 1,
-          "CardName": "Wastes"
         },
         {
           "Count": 2,
           "CardName": "Wastescape Battlemage"
         },
         {
+          "Count": 4,
+          "CardName": "Chalice of the Void"
+        },
+        {
+          "Count": 1,
+          "CardName": "Blast Zone"
+        },
+        {
           "Count": 2,
-          "CardName": "Yavimaya, Cradle of Growth"
+          "CardName": "The One Ring"
+        },
+        {
+          "Count": 2,
+          "CardName": "Talisman of Curiosity"
+        },
+        {
+          "Count": 1,
+          "CardName": "Gaea's Cradle"
         }
       ],
       "Sideboard": [
         {
-          "Count": 3,
-          "CardName": "Dismember"
+          "Count": 2,
+          "CardName": "Wastescape Battlemage"
         },
         {
           "Count": 3,
@@ -935,11 +936,11 @@
         },
         {
           "Count": 3,
-          "CardName": "Faerie Macabre"
+          "CardName": "Dismember"
         },
         {
-          "Count": 1,
-          "CardName": "Null Rod"
+          "Count": 3,
+          "CardName": "Faerie Macabre"
         },
         {
           "Count": 2,
@@ -947,11 +948,11 @@
         },
         {
           "Count": 1,
-          "CardName": "Walking Ballista"
+          "CardName": "Null Rod"
         },
         {
-          "Count": 2,
-          "CardName": "Wastescape Battlemage"
+          "Count": 1,
+          "CardName": "Walking Ballista"
         }
       ]
     },
@@ -959,7 +960,7 @@
       "Date": null,
       "Player": "Derek Roesch",
       "Result": "15th Place",
-      "AnchorUri": "https://melee.gg/Decklist/View/491544",
+      "AnchorUri": "https://melee.gg/Decklist/View/525b6a83-12ed-44c7-956f-c50cbc39b193",
       "Mainboard": [
         {
           "Count": 3,
@@ -1089,7 +1090,7 @@
       "Date": null,
       "Player": "Mika Spangler",
       "Result": "16th Place",
-      "AnchorUri": "https://melee.gg/Decklist/View/491542",
+      "AnchorUri": "https://melee.gg/Decklist/View/c8905dab-d560-48e7-8398-e62254d2127d",
       "Mainboard": [
         {
           "Count": 4,
@@ -1215,11 +1216,39 @@
       "Date": null,
       "Player": "Shawn Hontz",
       "Result": "17th Place",
-      "AnchorUri": "https://melee.gg/Decklist/View/491509",
+      "AnchorUri": "https://melee.gg/Decklist/View/91e732dc-688e-426c-82ec-89ddb85e6623",
       "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Ponder"
+        },
+        {
+          "Count": 4,
+          "CardName": "Brainstorm"
+        },
+        {
+          "Count": 4,
+          "CardName": "Noble Heritage"
+        },
+        {
+          "Count": 4,
+          "CardName": "Legolas's Quick Reflexes"
+        },
+        {
+          "Count": 4,
+          "CardName": "Embiggen"
+        },
         {
           "Count": 2,
           "CardName": "Berserk"
+        },
+        {
+          "Count": 4,
+          "CardName": "Glistener Elf"
+        },
+        {
+          "Count": 4,
+          "CardName": "Daze"
         },
         {
           "Count": 4,
@@ -1231,18 +1260,6 @@
         },
         {
           "Count": 4,
-          "CardName": "Brainstorm"
-        },
-        {
-          "Count": 4,
-          "CardName": "Daze"
-        },
-        {
-          "Count": 4,
-          "CardName": "Embiggen"
-        },
-        {
-          "Count": 4,
           "CardName": "Force of Will"
         },
         {
@@ -1251,19 +1268,19 @@
         },
         {
           "Count": 4,
-          "CardName": "Glistener Elf"
+          "CardName": "Windswept Heath"
         },
         {
           "Count": 4,
-          "CardName": "Invigorate"
+          "CardName": "Wooded Foothills"
         },
         {
-          "Count": 4,
-          "CardName": "Legolas's Quick Reflexes"
+          "Count": 3,
+          "CardName": "Tropical Island"
         },
         {
-          "Count": 4,
-          "CardName": "Noble Heritage"
+          "Count": 1,
+          "CardName": "Savannah"
         },
         {
           "Count": 1,
@@ -1271,45 +1288,29 @@
         },
         {
           "Count": 4,
-          "CardName": "Ponder"
-        },
-        {
-          "Count": 1,
-          "CardName": "Savannah"
-        },
-        {
-          "Count": 3,
-          "CardName": "Tropical Island"
-        },
-        {
-          "Count": 4,
-          "CardName": "Windswept Heath"
-        },
-        {
-          "Count": 4,
-          "CardName": "Wooded Foothills"
+          "CardName": "Invigorate"
         }
       ],
       "Sideboard": [
         {
           "Count": 2,
-          "CardName": "Flusterstorm"
-        },
-        {
-          "Count": 2,
-          "CardName": "Force of Vigor"
-        },
-        {
-          "Count": 2,
           "CardName": "Grafdigger's Cage"
         },
         {
-          "Count": 1,
-          "CardName": "Hydroblast"
+          "Count": 2,
+          "CardName": "Veil of Summer"
+        },
+        {
+          "Count": 2,
+          "CardName": "Triumph of Saint Katherine"
         },
         {
           "Count": 1,
           "CardName": "Surgical Extraction"
+        },
+        {
+          "Count": 2,
+          "CardName": "Flusterstorm"
         },
         {
           "Count": 2,
@@ -1321,11 +1322,11 @@
         },
         {
           "Count": 2,
-          "CardName": "Triumph of Saint Katherine"
+          "CardName": "Force of Vigor"
         },
         {
-          "Count": 2,
-          "CardName": "Veil of Summer"
+          "Count": 1,
+          "CardName": "Hydroblast"
         }
       ]
     },
@@ -1333,15 +1334,99 @@
       "Date": null,
       "Player": "Ben Remaly",
       "Result": "21th Place",
-      "AnchorUri": "https://melee.gg/Decklist/View/491489",
+      "AnchorUri": "https://melee.gg/Decklist/View/4b2dafb5-7cec-47ca-9dd3-51bf227595c0",
       "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Lion Sash"
+        },
+        {
+          "Count": 4,
+          "CardName": "Swords to Plowshares"
+        },
+        {
+          "Count": 2,
+          "CardName": "Flickerwisp"
+        },
+        {
+          "Count": 1,
+          "CardName": "Umezawa's Jitte"
+        },
+        {
+          "Count": 1,
+          "CardName": "Kaldra Compleat"
+        },
         {
           "Count": 4,
           "CardName": "Aether Vial"
         },
         {
+          "Count": 4,
+          "CardName": "Stoneforge Mystic"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mother of Runes"
+        },
+        {
           "Count": 2,
-          "CardName": "Arid Mesa"
+          "CardName": "Eiganjo, Seat of the Empire"
+        },
+        {
+          "Count": 4,
+          "CardName": "Solitude"
+        },
+        {
+          "Count": 4,
+          "CardName": "Rishadan Port"
+        },
+        {
+          "Count": 3,
+          "CardName": "Karakas"
+        },
+        {
+          "Count": 4,
+          "CardName": "Recruiter of the Guard"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wasteland"
+        },
+        {
+          "Count": 4,
+          "CardName": "White Orchid Phantom"
+        },
+        {
+          "Count": 3,
+          "CardName": "Thalia, Guardian of Thraben"
+        },
+        {
+          "Count": 2,
+          "CardName": "Witch Enchanter"
+        },
+        {
+          "Count": 3,
+          "CardName": "Phelia, Exuberant Shepherd"
+        },
+        {
+          "Count": 1,
+          "CardName": "Shadowy Backstreet"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pre-War Formalwear"
+        },
+        {
+          "Count": 1,
+          "CardName": "Extraction Specialist"
+        },
+        {
+          "Count": 2,
+          "CardName": "Skyclave Apparition"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spirit of the Labyrinth"
         },
         {
           "Count": 1,
@@ -1353,35 +1438,7 @@
         },
         {
           "Count": 2,
-          "CardName": "Eiganjo, Seat of the Empire"
-        },
-        {
-          "Count": 1,
-          "CardName": "Extraction Specialist"
-        },
-        {
-          "Count": 2,
           "CardName": "Flagstones of Trokair"
-        },
-        {
-          "Count": 2,
-          "CardName": "Flickerwisp"
-        },
-        {
-          "Count": 1,
-          "CardName": "Ghost Quarter"
-        },
-        {
-          "Count": 1,
-          "CardName": "Kaldra Compleat"
-        },
-        {
-          "Count": 3,
-          "CardName": "Karakas"
-        },
-        {
-          "Count": 1,
-          "CardName": "Lion Sash"
         },
         {
           "Count": 1,
@@ -1392,90 +1449,34 @@
           "CardName": "Marsh Flats"
         },
         {
-          "Count": 4,
-          "CardName": "Mother of Runes"
-        },
-        {
-          "Count": 3,
-          "CardName": "Phelia, Exuberant Shepherd"
-        },
-        {
-          "Count": 7,
-          "CardName": "Plains"
-        },
-        {
-          "Count": 1,
-          "CardName": "Pre-War Formalwear"
+          "Count": 2,
+          "CardName": "Arid Mesa"
         },
         {
           "Count": 1,
           "CardName": "Prismatic Vista"
         },
         {
-          "Count": 4,
-          "CardName": "Recruiter of the Guard"
-        },
-        {
-          "Count": 4,
-          "CardName": "Rishadan Port"
-        },
-        {
           "Count": 1,
-          "CardName": "Shadowy Backstreet"
+          "CardName": "Ghost Quarter"
         },
         {
-          "Count": 2,
-          "CardName": "Skyclave Apparition"
-        },
-        {
-          "Count": 4,
-          "CardName": "Solitude"
-        },
-        {
-          "Count": 2,
-          "CardName": "Spirit of the Labyrinth"
-        },
-        {
-          "Count": 4,
-          "CardName": "Stoneforge Mystic"
-        },
-        {
-          "Count": 4,
-          "CardName": "Swords to Plowshares"
-        },
-        {
-          "Count": 3,
-          "CardName": "Thalia, Guardian of Thraben"
-        },
-        {
-          "Count": 1,
-          "CardName": "Umezawa's Jitte"
-        },
-        {
-          "Count": 4,
-          "CardName": "Wasteland"
-        },
-        {
-          "Count": 4,
-          "CardName": "White Orchid Phantom"
-        },
-        {
-          "Count": 2,
-          "CardName": "Witch Enchanter"
+          "Count": 7,
+          "CardName": "Plains"
         }
       ],
       "Sideboard": [
         {
-          "Count": 3,
-          "CardName": "Deafening Silence"
+          "Count": 1,
+          "CardName": "Yorion, Sky Nomad"
         },
         {
           "Count": 2,
           "CardName": "Disruptor Flute"
         },
         {
-          "Count": 1,
-          "CardName": "Emrakul, the Aeons Torn"
+          "Count": 3,
+          "CardName": "Deafening Silence"
         },
         {
           "Count": 2,
@@ -1491,19 +1492,19 @@
         },
         {
           "Count": 1,
+          "CardName": "Serenity"
+        },
+        {
+          "Count": 1,
           "CardName": "Loran of the Third Path"
         },
         {
           "Count": 1,
-          "CardName": "Serenity"
+          "CardName": "Emrakul, the Aeons Torn"
         },
         {
           "Count": 2,
           "CardName": "Wrath of the Skies"
-        },
-        {
-          "Count": 1,
-          "CardName": "Yorion, Sky Nomad"
         }
       ]
     },
@@ -1511,7 +1512,7 @@
       "Date": null,
       "Player": "Adam Sensenig",
       "Result": "22th Place",
-      "AnchorUri": "https://melee.gg/Decklist/View/491554",
+      "AnchorUri": "https://melee.gg/Decklist/View/25ac99b8-a47d-4021-9688-a995200d2596",
       "Mainboard": [
         {
           "Count": 4,
@@ -1644,12 +1645,12 @@
           "CardName": "Leyline of the Void"
         },
         {
-          "Count": 1,
-          "CardName": "Minsc & Boo, Timeless Heroes"
-        },
-        {
           "Count": 3,
           "CardName": "Red Elemental Blast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Minsc & Boo, Timeless Heroes"
         }
       ]
     },
@@ -1657,75 +1658,19 @@
       "Date": null,
       "Player": "JosP13",
       "Result": "23th Place",
-      "AnchorUri": "https://melee.gg/Decklist/View/489468",
+      "AnchorUri": "https://melee.gg/Decklist/View/c9c9dc33-9690-4906-8a53-6b1619a4e714",
       "Mainboard": [
         {
           "Count": 4,
-          "CardName": "Brainstorm"
-        },
-        {
-          "Count": 2,
-          "CardName": "Counterspell"
-        },
-        {
-          "Count": 4,
-          "CardName": "Flooded Strand"
-        },
-        {
-          "Count": 4,
           "CardName": "Force of Will"
-        },
-        {
-          "Count": 2,
-          "CardName": "Island"
-        },
-        {
-          "Count": 1,
-          "CardName": "Jace, the Mind Sculptor"
-        },
-        {
-          "Count": 3,
-          "CardName": "Lórien Revealed"
-        },
-        {
-          "Count": 1,
-          "CardName": "Mystic Sanctuary"
-        },
-        {
-          "Count": 1,
-          "CardName": "Otawara, Soaring City"
-        },
-        {
-          "Count": 2,
-          "CardName": "Plains"
-        },
-        {
-          "Count": 1,
-          "CardName": "Plateau"
-        },
-        {
-          "Count": 2,
-          "CardName": "Prismatic Ending"
-        },
-        {
-          "Count": 2,
-          "CardName": "Scalding Tarn"
-        },
-        {
-          "Count": 3,
-          "CardName": "Spell Pierce"
         },
         {
           "Count": 4,
           "CardName": "Standstill"
         },
         {
-          "Count": 2,
-          "CardName": "Supreme Verdict"
-        },
-        {
           "Count": 4,
-          "CardName": "Swords to Plowshares"
+          "CardName": "Timeless Dragon"
         },
         {
           "Count": 3,
@@ -1736,8 +1681,60 @@
           "CardName": "Teferi, Time Raveler"
         },
         {
+          "Count": 1,
+          "CardName": "Jace, the Mind Sculptor"
+        },
+        {
+          "Count": 3,
+          "CardName": "Lórien Revealed"
+        },
+        {
           "Count": 4,
-          "CardName": "Timeless Dragon"
+          "CardName": "Brainstorm"
+        },
+        {
+          "Count": 3,
+          "CardName": "Spell Pierce"
+        },
+        {
+          "Count": 2,
+          "CardName": "Counterspell"
+        },
+        {
+          "Count": 4,
+          "CardName": "Swords to Plowshares"
+        },
+        {
+          "Count": 2,
+          "CardName": "Prismatic Ending"
+        },
+        {
+          "Count": 2,
+          "CardName": "Supreme Verdict"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wasteland"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mystic Sanctuary"
+        },
+        {
+          "Count": 1,
+          "CardName": "Otawara, Soaring City"
+        },
+        {
+          "Count": 4,
+          "CardName": "Flooded Strand"
+        },
+        {
+          "Count": 2,
+          "CardName": "Scalding Tarn"
+        },
+        {
+          "Count": 1,
+          "CardName": "Plateau"
         },
         {
           "Count": 3,
@@ -1745,33 +1742,29 @@
         },
         {
           "Count": 1,
-          "CardName": "Underground Sea"
-        },
-        {
-          "Count": 1,
           "CardName": "Volcanic Island"
         },
         {
-          "Count": 4,
-          "CardName": "Wasteland"
+          "Count": 1,
+          "CardName": "Underground Sea"
+        },
+        {
+          "Count": 2,
+          "CardName": "Island"
+        },
+        {
+          "Count": 2,
+          "CardName": "Plains"
         }
       ],
       "Sideboard": [
-        {
-          "Count": 2,
-          "CardName": "Back to Basics"
-        },
         {
           "Count": 3,
           "CardName": "Consign to Memory"
         },
         {
-          "Count": 1,
-          "CardName": "Dovin's Veto"
-        },
-        {
-          "Count": 1,
-          "CardName": "Engineered Explosives"
+          "Count": 2,
+          "CardName": "Back to Basics"
         },
         {
           "Count": 1,
@@ -1779,7 +1772,19 @@
         },
         {
           "Count": 1,
+          "CardName": "Dovin's Veto"
+        },
+        {
+          "Count": 1,
           "CardName": "Pyroblast"
+        },
+        {
+          "Count": 1,
+          "CardName": "The Wandering Emperor"
+        },
+        {
+          "Count": 1,
+          "CardName": "Engineered Explosives"
         },
         {
           "Count": 1,
@@ -1788,10 +1793,6 @@
         {
           "Count": 4,
           "CardName": "Surgical Extraction"
-        },
-        {
-          "Count": 1,
-          "CardName": "The Wandering Emperor"
         }
       ]
     },
@@ -1799,7 +1800,7 @@
       "Date": null,
       "Player": "oddessey666",
       "Result": "27th Place",
-      "AnchorUri": "https://melee.gg/Decklist/View/489325",
+      "AnchorUri": "https://melee.gg/Decklist/View/e1a53259-a502-46e0-ac75-f889b21ebd68",
       "Mainboard": [
         {
           "Count": 4,
@@ -1807,15 +1808,31 @@
         },
         {
           "Count": 3,
-          "CardName": "Cunning Wish"
+          "CardName": "Flusterstorm"
         },
         {
-          "Count": 2,
-          "CardName": "Flooded Strand"
+          "Count": 4,
+          "CardName": "Ponder"
+        },
+        {
+          "Count": 1,
+          "CardName": "Intuition"
         },
         {
           "Count": 3,
-          "CardName": "Flusterstorm"
+          "CardName": "Turnabout"
+        },
+        {
+          "Count": 4,
+          "CardName": "Merchant Scroll"
+        },
+        {
+          "Count": 4,
+          "CardName": "Predict"
+        },
+        {
+          "Count": 3,
+          "CardName": "Cunning Wish"
         },
         {
           "Count": 4,
@@ -1826,8 +1843,20 @@
           "CardName": "High Tide"
         },
         {
-          "Count": 1,
-          "CardName": "Intuition"
+          "Count": 4,
+          "CardName": "Time Spiral"
+        },
+        {
+          "Count": 2,
+          "CardName": "Polluted Delta"
+        },
+        {
+          "Count": 2,
+          "CardName": "Flooded Strand"
+        },
+        {
+          "Count": 2,
+          "CardName": "Misty Rainforest"
         },
         {
           "Count": 12,
@@ -1835,45 +1864,41 @@
         },
         {
           "Count": 4,
-          "CardName": "Merchant Scroll"
-        },
-        {
-          "Count": 2,
-          "CardName": "Misty Rainforest"
-        },
-        {
-          "Count": 2,
-          "CardName": "Polluted Delta"
-        },
-        {
-          "Count": 4,
-          "CardName": "Ponder"
-        },
-        {
-          "Count": 4,
-          "CardName": "Predict"
-        },
-        {
-          "Count": 4,
           "CardName": "Preordain"
-        },
-        {
-          "Count": 4,
-          "CardName": "Time Spiral"
-        },
-        {
-          "Count": 3,
-          "CardName": "Turnabout"
         }
       ],
       "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Mind's Desire"
+        },
+        {
+          "Count": 1,
+          "CardName": "Turnabout"
+        },
         {
           "Count": 1,
           "CardName": "Blue Sun's Zenith"
         },
         {
           "Count": 1,
+          "CardName": "Meditate"
+        },
+        {
+          "Count": 1,
           "CardName": "Brain Freeze"
+        },
+        {
+          "Count": 1,
+          "CardName": "Snap"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pact of Negation"
+        },
+        {
+          "Count": 1,
+          "CardName": "Echoing Truth"
         },
         {
           "Count": 2,
@@ -1881,7 +1906,7 @@
         },
         {
           "Count": 1,
-          "CardName": "Echoing Truth"
+          "CardName": "Teferi's Realm"
         },
         {
           "Count": 1,
@@ -1893,35 +1918,11 @@
         },
         {
           "Count": 1,
-          "CardName": "Hurkyl's Recall"
-        },
-        {
-          "Count": 1,
-          "CardName": "Meditate"
-        },
-        {
-          "Count": 1,
-          "CardName": "Mind's Desire"
-        },
-        {
-          "Count": 1,
-          "CardName": "Pact of Negation"
-        },
-        {
-          "Count": 1,
-          "CardName": "Snap"
-        },
-        {
-          "Count": 1,
           "CardName": "Surgical Extraction"
         },
         {
           "Count": 1,
-          "CardName": "Teferi's Realm"
-        },
-        {
-          "Count": 1,
-          "CardName": "Turnabout"
+          "CardName": "Hurkyl's Recall"
         }
       ]
     },
@@ -1929,7 +1930,7 @@
       "Date": null,
       "Player": "chrisdew4",
       "Result": "28th Place",
-      "AnchorUri": "https://melee.gg/Decklist/View/491694",
+      "AnchorUri": "https://melee.gg/Decklist/View/4ade6d9a-8824-4de7-809f-df3a3ea0e9d3",
       "Mainboard": [
         {
           "Count": 1,
@@ -2067,7 +2068,7 @@
       "Date": null,
       "Player": "FRANKLIN SMITH",
       "Result": "29th Place",
-      "AnchorUri": "https://melee.gg/Decklist/View/491511",
+      "AnchorUri": "https://melee.gg/Decklist/View/3e465df6-0bf5-4f34-a7e8-19995cdf2fe5",
       "Mainboard": [
         {
           "Count": 4,
@@ -2075,27 +2076,15 @@
         },
         {
           "Count": 4,
-          "CardName": "Cavern of Souls"
-        },
-        {
-          "Count": 4,
-          "CardName": "Floodpits Drowner"
-        },
-        {
-          "Count": 4,
           "CardName": "Force of Will"
         },
         {
           "Count": 3,
-          "CardName": "Harbinger of the Seas"
+          "CardName": "Mindspring Merfolk"
         },
         {
-          "Count": 2,
-          "CardName": "Harbinger of the Tides"
-        },
-        {
-          "Count": 10,
-          "CardName": "Island"
+          "Count": 4,
+          "CardName": "Tide Shaper"
         },
         {
           "Count": 4,
@@ -2106,20 +2095,12 @@
           "CardName": "Master of the Pearl Trident"
         },
         {
-          "Count": 3,
-          "CardName": "Mindspring Merfolk"
+          "Count": 4,
+          "CardName": "Floodpits Drowner"
         },
         {
-          "Count": 4,
-          "CardName": "Sink into Stupor"
-        },
-        {
-          "Count": 4,
-          "CardName": "Tide Shaper"
-        },
-        {
-          "Count": 4,
-          "CardName": "True-Name Nemesis"
+          "Count": 2,
+          "CardName": "Harbinger of the Tides"
         },
         {
           "Count": 3,
@@ -2127,7 +2108,27 @@
         },
         {
           "Count": 3,
+          "CardName": "Harbinger of the Seas"
+        },
+        {
+          "Count": 4,
+          "CardName": "True-Name Nemesis"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sink into Stupor"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cavern of Souls"
+        },
+        {
+          "Count": 3,
           "CardName": "Wasteland"
+        },
+        {
+          "Count": 10,
+          "CardName": "Island"
         }
       ],
       "Sideboard": [
@@ -2137,19 +2138,19 @@
         },
         {
           "Count": 2,
-          "CardName": "Dismember"
-        },
-        {
-          "Count": 2,
-          "CardName": "Faerie Macabre"
-        },
-        {
-          "Count": 2,
           "CardName": "Flusterstorm"
         },
         {
           "Count": 2,
           "CardName": "Force of Negation"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dismember"
+        },
+        {
+          "Count": 2,
+          "CardName": "Faerie Macabre"
         },
         {
           "Count": 2,
@@ -2165,7 +2166,7 @@
       "Date": null,
       "Player": "Christopher Brill",
       "Result": "30th Place",
-      "AnchorUri": "https://melee.gg/Decklist/View/491481",
+      "AnchorUri": "https://melee.gg/Decklist/View/61171057-d7a4-44f3-bee0-b9c7f2d268b5",
       "Mainboard": [
         {
           "Count": 4,
@@ -2194,10 +2195,6 @@
         {
           "Count": 4,
           "CardName": "Entomb"
-        },
-        {
-          "Count": 1,
-          "CardName": "Flooded Strand"
         },
         {
           "Count": 4,
@@ -2250,6 +2247,10 @@
         {
           "Count": 3,
           "CardName": "Wasteland"
+        },
+        {
+          "Count": 1,
+          "CardName": "Flooded Strand"
         }
       ],
       "Sideboard": [
@@ -2292,348 +2293,7 @@
       ]
     }
   ],
-  "Rounds": [
-    {
-      "RoundName": "Round 1",
-      "Matches": [
-        {
-          "Player1": "Bobby Wescott",
-          "Player2": "Vito",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "Micah De La Huerta",
-          "Player2": "Mika Spangler",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "Ben Remaly",
-          "Player2": "paul lynch",
-          "Result": "1-1-1"
-        },
-        {
-          "Player1": "Danny Brennan",
-          "Player2": "Yackobo1421",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "David Wojtkowski",
-          "Player2": "BoshNRoll_Brian",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "Derek Roesch",
-          "Player2": "Mark Hornung",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "Patrick Cunningham",
-          "Player2": "Shawn Hontz",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "Adam Sensenig",
-          "Player2": "Dominic Monfre",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "JosP13",
-          "Player2": "FRANKLIN SMITH",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "ZachS",
-          "Player2": "oddessey666",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "Jacob Romanski",
-          "Player2": "chrisdew4",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "JosK21",
-          "Player2": "Christopher Brill",
-          "Result": "2-1-0"
-        }
-      ]
-    },
-    {
-      "RoundName": "Round 2",
-      "Matches": [
-        {
-          "Player1": "Bobby Wescott",
-          "Player2": "David Brandt",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "Micah De La Huerta",
-          "Player2": "Jacob Romanski",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "paul lynch",
-          "Player2": "Dominic Monfre",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "Danny Brennan",
-          "Player2": "JosP13",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "ZachS",
-          "Player2": "David Wojtkowski",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "BoshNRoll_Brian",
-          "Player2": "Christopher Brill",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "Mark Hornung",
-          "Player2": "Yackobo1421",
-          "Result": "1-1-0"
-        },
-        {
-          "Player1": "Derek Roesch",
-          "Player2": "Patrick Cunningham",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "Mika Spangler",
-          "Player2": "oddessey666",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "Shawn Hontz",
-          "Player2": "Ben Remaly",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "Joe Brennan",
-          "Player2": "Adam Sensenig",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "dilla",
-          "Player2": "chrisdew4",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "FRANKLIN SMITH",
-          "Player2": "Sam Savage",
-          "Result": "2-0-0"
-        }
-      ]
-    },
-    {
-      "RoundName": "Round 3",
-      "Matches": [
-        {
-          "Player1": "Bobby Wescott",
-          "Player2": "Danny Brennan",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "Micah De La Huerta",
-          "Player2": "ZachS",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "Joe Brennan",
-          "Player2": "paul lynch",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "David Wojtkowski",
-          "Player2": "Mika Spangler",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "Patrick Cunningham",
-          "Player2": "BoshNRoll_Brian",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "Mark Hornung",
-          "Player2": "Ben Remaly",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "Spencer Warburton",
-          "Player2": "Derek Roesch",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "Shawn Hontz",
-          "Player2": "Jacob Romanski",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "David Brandt",
-          "Player2": "Adam Sensenig",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "dilla",
-          "Player2": "JosP13",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "chrisdew4",
-          "Player2": "oddessey666",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "Yackobo1421",
-          "Player2": "FRANKLIN SMITH",
-          "Result": "2-0-0"
-        }
-      ]
-    },
-    {
-      "RoundName": "Round 4",
-      "Matches": [
-        {
-          "Player1": "Bobby Wescott",
-          "Player2": "Spencer Warburton",
-          "Result": "0-0-3"
-        },
-        {
-          "Player1": "Joe Brennan",
-          "Player2": "Micah De La Huerta",
-          "Result": "0-0-3"
-        },
-        {
-          "Player1": "paul lynch",
-          "Player2": "Yackobo1421",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "ZachS",
-          "Player2": "Danny Brennan",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "Mark Hornung",
-          "Player2": "David Wojtkowski",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "BoshNRoll_Brian",
-          "Player2": "Dominic Monfre",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "dilla",
-          "Player2": "Derek Roesch",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "Mika Spangler",
-          "Player2": "chrisdew4",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "David Brandt",
-          "Player2": "Shawn Hontz",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "Ben Remaly",
-          "Player2": "Vito",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "oddessey666",
-          "Player2": "-",
-          "Result": "2-0-0"
-        }
-      ]
-    },
-    {
-      "RoundName": "Round 5",
-      "Matches": [
-        {
-          "Player1": "Bobby Wescott",
-          "Player2": "Micah De La Huerta",
-          "Result": "0-0-3"
-        },
-        {
-          "Player1": "paul lynch",
-          "Player2": "Mark Hornung",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "Danny Brennan",
-          "Player2": "Derek Roesch",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "David Wojtkowski",
-          "Player2": "Yackobo1421",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "BoshNRoll_Brian",
-          "Player2": "Mika Spangler",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "Dominic Monfre",
-          "Player2": "Ben Remaly",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "Vito",
-          "Player2": "oddessey666",
-          "Result": "2-0-0"
-        }
-      ]
-    },
-    {
-      "RoundName": "Quarterfinals",
-      "Matches": [
-        {
-          "Player1": "Bobby Wescott",
-          "Player2": "dilla",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "Micah De La Huerta",
-          "Player2": "David Brandt",
-          "Result": "2-0-0"
-        }
-      ]
-    },
-    {
-      "RoundName": "Semifinals",
-      "Matches": [
-        {
-          "Player1": "Bobby Wescott",
-          "Player2": "Spencer Warburton",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "Joe Brennan",
-          "Player2": "Micah De La Huerta",
-          "Result": "2-0-0"
-        }
-      ]
-    },
-    {
-      "RoundName": "Finals",
-      "Matches": [
-        {
-          "Player1": "Bobby Wescott",
-          "Player2": "Joe Brennan",
-          "Result": "2-0-0"
-        }
-      ]
-    }
-  ],
+  "Rounds": [],
   "Standings": [
     {
       "Rank": 1,

@@ -1,15 +1,16 @@
 {
   "Tournament": {
-    "Date": "2025-03-15T17:00:00Z",
+    "Date": "2025-03-15T17:00:00",
     "Name": "Regional Championship Qualifier US (3) Round 9 Standard RCQ",
-    "Uri": "https://melee.gg/Tournament/View/227643"
+    "Uri": "https://melee.gg/Tournament/View/227643",
+    "Formats": "Standard"
   },
   "Decks": [
     {
       "Date": null,
       "Player": "Sklayton",
       "Result": "1st Place",
-      "AnchorUri": "https://melee.gg/Decklist/View/491795",
+      "AnchorUri": "https://melee.gg/Decklist/View/8cbe0bfc-d6fa-48b7-8bf5-02054d32248b",
       "Mainboard": [
         {
           "Count": 3,
@@ -150,8 +151,8 @@
     {
       "Date": null,
       "Player": "Brendan Layne",
-      "Result": "2nd Place",
-      "AnchorUri": "https://melee.gg/Decklist/View/491800",
+      "Result": "2st Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/3690420f-1402-489e-be38-33a9acaa54b9",
       "Mainboard": [
         {
           "Count": 2,
@@ -280,16 +281,44 @@
     {
       "Date": null,
       "Player": "ThoB36",
-      "Result": "3rd Place",
-      "AnchorUri": "https://melee.gg/Decklist/View/491777",
+      "Result": "3st Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/1ba91ee5-cb78-4e78-a517-cc8bd39004aa",
       "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "Ghost Vacuum"
+        },
+        {
+          "Count": 1,
+          "CardName": "Soul-Guide Lantern"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ketramose, the New Dawn"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sheoldred, the Apocalypse"
+        },
+        {
+          "Count": 4,
+          "CardName": "Authority of the Consuls"
+        },
+        {
+          "Count": 2,
+          "CardName": "Unholy Annex // Ritual Chamber"
+        },
         {
           "Count": 2,
           "CardName": "Anoint with Affliction"
         },
         {
+          "Count": 1,
+          "CardName": "Cease // Desist"
+        },
+        {
           "Count": 4,
-          "CardName": "Authority of the Consuls"
+          "CardName": "Get Lost"
         },
         {
           "Count": 2,
@@ -300,12 +329,36 @@
           "CardName": "Caves of Koilos"
         },
         {
-          "Count": 1,
-          "CardName": "Cease // Desist"
-        },
-        {
           "Count": 3,
           "CardName": "Concealed Courtyard"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fabled Passage"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fountainport"
+        },
+        {
+          "Count": 4,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 2,
+          "CardName": "Shadowy Backstreet"
+        },
+        {
+          "Count": 2,
+          "CardName": "Soulstone Sanctuary"
+        },
+        {
+          "Count": 5,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 1,
+          "CardName": "Kaya, Intangible Slayer"
         },
         {
           "Count": 1,
@@ -324,64 +377,12 @@
           "CardName": "Duress"
         },
         {
-          "Count": 4,
-          "CardName": "Fabled Passage"
-        },
-        {
-          "Count": 1,
-          "CardName": "Fountainport"
-        },
-        {
-          "Count": 4,
-          "CardName": "Get Lost"
-        },
-        {
-          "Count": 3,
-          "CardName": "Ghost Vacuum"
-        },
-        {
-          "Count": 1,
-          "CardName": "Kaya, Intangible Slayer"
-        },
-        {
-          "Count": 4,
-          "CardName": "Ketramose, the New Dawn"
-        },
-        {
           "Count": 3,
           "CardName": "Legions to Ashes"
         },
         {
-          "Count": 4,
-          "CardName": "Plains"
-        },
-        {
-          "Count": 2,
-          "CardName": "Shadowy Backstreet"
-        },
-        {
-          "Count": 2,
-          "CardName": "Sheoldred, the Apocalypse"
-        },
-        {
-          "Count": 1,
-          "CardName": "Soul-Guide Lantern"
-        },
-        {
-          "Count": 2,
-          "CardName": "Soulstone Sanctuary"
-        },
-        {
           "Count": 1,
           "CardName": "Split Up"
-        },
-        {
-          "Count": 5,
-          "CardName": "Swamp"
-        },
-        {
-          "Count": 2,
-          "CardName": "Unholy Annex // Ritual Chamber"
         }
       ],
       "Sideboard": [
@@ -427,12 +428,8 @@
       "Date": null,
       "Player": "Brock Roush",
       "Result": "4th Place",
-      "AnchorUri": "https://melee.gg/Decklist/View/489008",
+      "AnchorUri": "https://melee.gg/Decklist/View/6f82a2a3-dce0-47bc-b93e-f73862fa0772",
       "Mainboard": [
-        {
-          "Count": 4,
-          "CardName": "Burst Lightning"
-        },
         {
           "Count": 4,
           "CardName": "Emberheart Challenger"
@@ -447,10 +444,6 @@
         },
         {
           "Count": 4,
-          "CardName": "Lightning Strike"
-        },
-        {
-          "Count": 4,
           "CardName": "Manifold Mouse"
         },
         {
@@ -459,7 +452,23 @@
         },
         {
           "Count": 4,
+          "CardName": "Screaming Nemesis"
+        },
+        {
+          "Count": 4,
+          "CardName": "Burst Lightning"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lightning Strike"
+        },
+        {
+          "Count": 4,
           "CardName": "Monstrous Rage"
+        },
+        {
+          "Count": 2,
+          "CardName": "Witchstalker Frenzy"
         },
         {
           "Count": 17,
@@ -470,16 +479,8 @@
           "CardName": "Rockface Village"
         },
         {
-          "Count": 4,
-          "CardName": "Screaming Nemesis"
-        },
-        {
           "Count": 2,
           "CardName": "Soulstone Sanctuary"
-        },
-        {
-          "Count": 2,
-          "CardName": "Witchstalker Frenzy"
         }
       ],
       "Sideboard": [
@@ -509,7 +510,7 @@
       "Date": null,
       "Player": "Aristotle_H",
       "Result": "5th Place",
-      "AnchorUri": "https://melee.gg/Decklist/View/491764",
+      "AnchorUri": "https://melee.gg/Decklist/View/4a2b9a93-59ed-46aa-8740-e1154a19ad45",
       "Mainboard": [
         {
           "Count": 4,
@@ -615,39 +616,23 @@
       "Date": null,
       "Player": "Theidermist46",
       "Result": "6th Place",
-      "AnchorUri": "https://melee.gg/Decklist/View/491778",
+      "AnchorUri": "https://melee.gg/Decklist/View/f53708ce-d41b-4559-b650-7185e67e934f",
       "Mainboard": [
         {
-          "Count": 2,
-          "CardName": "Burst Lightning"
-        },
-        {
           "Count": 4,
-          "CardName": "Copperline Gorge"
-        },
-        {
-          "Count": 4,
-          "CardName": "Emberheart Challenger"
-        },
-        {
-          "Count": 1,
-          "CardName": "Forest"
-        },
-        {
-          "Count": 4,
-          "CardName": "Heartfire Hero"
+          "CardName": "Screaming Nemesis"
         },
         {
           "Count": 4,
           "CardName": "Hired Claw"
         },
         {
-          "Count": 2,
-          "CardName": "Innkeeper's Talent"
+          "Count": 4,
+          "CardName": "Heartfire Hero"
         },
         {
-          "Count": 4,
-          "CardName": "Karplusan Forest"
+          "Count": 2,
+          "CardName": "Questing Druid"
         },
         {
           "Count": 4,
@@ -655,11 +640,7 @@
         },
         {
           "Count": 4,
-          "CardName": "Monstrous Rage"
-        },
-        {
-          "Count": 5,
-          "CardName": "Mountain"
+          "CardName": "Emberheart Challenger"
         },
         {
           "Count": 2,
@@ -667,7 +648,35 @@
         },
         {
           "Count": 2,
-          "CardName": "Questing Druid"
+          "CardName": "Witchstalker Frenzy"
+        },
+        {
+          "Count": 2,
+          "CardName": "Burst Lightning"
+        },
+        {
+          "Count": 3,
+          "CardName": "Torch the Tower"
+        },
+        {
+          "Count": 4,
+          "CardName": "Monstrous Rage"
+        },
+        {
+          "Count": 2,
+          "CardName": "Innkeeper's Talent"
+        },
+        {
+          "Count": 4,
+          "CardName": "Copperline Gorge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thornspire Verge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Karplusan Forest"
         },
         {
           "Count": 1,
@@ -675,27 +684,19 @@
         },
         {
           "Count": 2,
-          "CardName": "Rockface Village"
-        },
-        {
-          "Count": 4,
-          "CardName": "Screaming Nemesis"
-        },
-        {
-          "Count": 2,
           "CardName": "Soulstone Sanctuary"
         },
         {
-          "Count": 4,
-          "CardName": "Thornspire Verge"
-        },
-        {
-          "Count": 3,
-          "CardName": "Torch the Tower"
-        },
-        {
           "Count": 2,
-          "CardName": "Witchstalker Frenzy"
+          "CardName": "Rockface Village"
+        },
+        {
+          "Count": 1,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 5,
+          "CardName": "Mountain"
         }
       ],
       "Sideboard": [
@@ -708,28 +709,28 @@
           "CardName": "Lithomantic Barrage"
         },
         {
-          "Count": 2,
-          "CardName": "Obliterating Bolt"
+          "Count": 1,
+          "CardName": "Pawpatch Recruit"
+        },
+        {
+          "Count": 1,
+          "CardName": "Torch the Tower"
         },
         {
           "Count": 2,
-          "CardName": "Obstinate Baloth"
+          "CardName": "Obliterating Bolt"
         },
         {
           "Count": 4,
           "CardName": "Pawpatch Formation"
         },
         {
-          "Count": 1,
-          "CardName": "Pawpatch Recruit"
+          "Count": 2,
+          "CardName": "Obstinate Baloth"
         },
         {
           "Count": 1,
           "CardName": "Sunspine Lynx"
-        },
-        {
-          "Count": 1,
-          "CardName": "Torch the Tower"
         }
       ]
     },
@@ -737,7 +738,7 @@
       "Date": null,
       "Player": "Skrocious",
       "Result": "7th Place",
-      "AnchorUri": "https://melee.gg/Decklist/View/491804",
+      "AnchorUri": "https://melee.gg/Decklist/View/3e70d479-4f8d-4a5e-9975-0a27b4d02d25",
       "Mainboard": [
         {
           "Count": 2,
@@ -879,7 +880,7 @@
       "Date": null,
       "Player": "MtG_GreenRanger",
       "Result": "8th Place",
-      "AnchorUri": "https://melee.gg/Decklist/View/491769",
+      "AnchorUri": "https://melee.gg/Decklist/View/8d683d88-1075-4a41-b502-49bd7328a2d9",
       "Mainboard": [
         {
           "Count": 2,
@@ -1013,7 +1014,7 @@
       "Date": null,
       "Player": "GydeJ",
       "Result": "9th Place",
-      "AnchorUri": "https://melee.gg/Decklist/View/491788",
+      "AnchorUri": "https://melee.gg/Decklist/View/a3d05a85-37ad-4536-a8c9-f68c919f40c9",
       "Mainboard": [
         {
           "Count": 4,
@@ -1135,31 +1136,47 @@
       "Date": null,
       "Player": "TylerShull",
       "Result": "10th Place",
-      "AnchorUri": "https://melee.gg/Decklist/View/491763",
+      "AnchorUri": "https://melee.gg/Decklist/View/e1f30745-f5c7-45a9-9472-5734c8c0b98d",
       "Mainboard": [
-        {
-          "Count": 1,
-          "CardName": "Adarkar Wastes"
-        },
         {
           "Count": 3,
           "CardName": "Beza, the Bounding Spring"
         },
         {
-          "Count": 2,
-          "CardName": "Day of Judgment"
+          "Count": 4,
+          "CardName": "Horned Loch-Whale"
         },
         {
           "Count": 3,
           "CardName": "Deduce"
         },
         {
-          "Count": 2,
-          "CardName": "Demolition Field"
-        },
-        {
           "Count": 4,
           "CardName": "Elspeth's Smite"
+        },
+        {
+          "Count": 3,
+          "CardName": "Get Lost"
+        },
+        {
+          "Count": 1,
+          "CardName": "Negate"
+        },
+        {
+          "Count": 3,
+          "CardName": "No More Lies"
+        },
+        {
+          "Count": 3,
+          "CardName": "Three Steps Ahead"
+        },
+        {
+          "Count": 1,
+          "CardName": "Adarkar Wastes"
+        },
+        {
+          "Count": 2,
+          "CardName": "Demolition Field"
         },
         {
           "Count": 4,
@@ -1171,31 +1188,11 @@
         },
         {
           "Count": 3,
-          "CardName": "Get Lost"
-        },
-        {
-          "Count": 4,
-          "CardName": "Horned Loch-Whale"
-        },
-        {
-          "Count": 3,
           "CardName": "Island"
         },
         {
           "Count": 2,
-          "CardName": "Jace, the Perfected Mind"
-        },
-        {
-          "Count": 2,
           "CardName": "Meticulous Archive"
-        },
-        {
-          "Count": 1,
-          "CardName": "Negate"
-        },
-        {
-          "Count": 3,
-          "CardName": "No More Lies"
         },
         {
           "Count": 3,
@@ -1211,6 +1208,14 @@
         },
         {
           "Count": 2,
+          "CardName": "Jace, the Perfected Mind"
+        },
+        {
+          "Count": 2,
+          "CardName": "Day of Judgment"
+        },
+        {
+          "Count": 2,
           "CardName": "Split Up"
         },
         {
@@ -1220,10 +1225,6 @@
         {
           "Count": 2,
           "CardName": "Sunfall"
-        },
-        {
-          "Count": 3,
-          "CardName": "Three Steps Ahead"
         }
       ],
       "Sideboard": [
@@ -1269,7 +1270,7 @@
       "Date": null,
       "Player": "FloatMana",
       "Result": "11th Place",
-      "AnchorUri": "https://melee.gg/Decklist/View/491589",
+      "AnchorUri": "https://melee.gg/Decklist/View/13e334ec-e94f-4d35-8248-c4458e52ec8f",
       "Mainboard": [
         {
           "Count": 4,
@@ -1387,7 +1388,7 @@
       "Date": null,
       "Player": "evans",
       "Result": "12th Place",
-      "AnchorUri": "https://melee.gg/Decklist/View/491775",
+      "AnchorUri": "https://melee.gg/Decklist/View/536e683b-6175-44dc-8722-683cc771a753",
       "Mainboard": [
         {
           "Count": 2,
@@ -1501,63 +1502,15 @@
       "Date": null,
       "Player": "Zaryx",
       "Result": "13th Place",
-      "AnchorUri": "https://melee.gg/Decklist/View/491699",
+      "AnchorUri": "https://melee.gg/Decklist/View/e93a0c47-b883-4993-9381-09b87cd72be7",
       "Mainboard": [
-        {
-          "Count": 4,
-          "CardName": "Battlefield Forge"
-        },
-        {
-          "Count": 2,
-          "CardName": "Bitter Reunion"
-        },
-        {
-          "Count": 3,
-          "CardName": "Brass's Tunnel-Grinder"
-        },
-        {
-          "Count": 4,
-          "CardName": "Clamorous Ironclad"
-        },
-        {
-          "Count": 2,
-          "CardName": "Disenchant"
-        },
-        {
-          "Count": 4,
-          "CardName": "Fear of Missing Out"
-        },
-        {
-          "Count": 4,
-          "CardName": "Inspiring Vantage"
-        },
-        {
-          "Count": 3,
-          "CardName": "Inti, Seneschal of the Sun"
-        },
-        {
-          "Count": 1,
-          "CardName": "Island"
-        },
-        {
-          "Count": 3,
-          "CardName": "Kiora, the Rising Tide"
-        },
         {
           "Count": 4,
           "CardName": "Marauding Mako"
         },
         {
-          "Count": 1,
-          "CardName": "Mountain"
-        },
-        {
           "Count": 4,
-          "CardName": "Scrounging Skyray"
-        },
-        {
-          "Count": 4,
-          "CardName": "Seachrome Coast"
+          "CardName": "Clamorous Ironclad"
         },
         {
           "Count": 4,
@@ -1565,29 +1518,73 @@
         },
         {
           "Count": 4,
-          "CardName": "Shivan Reef"
+          "CardName": "Fear of Missing Out"
         },
         {
-          "Count": 2,
-          "CardName": "Spell Pierce"
+          "Count": 4,
+          "CardName": "Scrounging Skyray"
+        },
+        {
+          "Count": 4,
+          "CardName": "Shivan Reef"
         },
         {
           "Count": 4,
           "CardName": "Spirebluff Canal"
         },
         {
+          "Count": 4,
+          "CardName": "Seachrome Coast"
+        },
+        {
+          "Count": 4,
+          "CardName": "Inspiring Vantage"
+        },
+        {
+          "Count": 4,
+          "CardName": "Battlefield Forge"
+        },
+        {
           "Count": 3,
           "CardName": "Split Up"
+        },
+        {
+          "Count": 3,
+          "CardName": "Inti, Seneschal of the Sun"
+        },
+        {
+          "Count": 3,
+          "CardName": "Kiora, the Rising Tide"
+        },
+        {
+          "Count": 3,
+          "CardName": "Brass's Tunnel-Grinder"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spell Pierce"
+        },
+        {
+          "Count": 2,
+          "CardName": "Disenchant"
+        },
+        {
+          "Count": 2,
+          "CardName": "Bitter Reunion"
+        },
+        {
+          "Count": 1,
+          "CardName": "Island"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mountain"
         }
       ],
       "Sideboard": [
         {
           "Count": 3,
           "CardName": "Captain Howler, Sea Scourge"
-        },
-        {
-          "Count": 2,
-          "CardName": "Disenchant"
         },
         {
           "Count": 4,
@@ -1599,222 +1596,20 @@
         },
         {
           "Count": 2,
-          "CardName": "Skycrash"
+          "CardName": "Spell Pierce"
         },
         {
           "Count": 2,
-          "CardName": "Spell Pierce"
+          "CardName": "Disenchant"
+        },
+        {
+          "Count": 2,
+          "CardName": "Skycrash"
         }
       ]
     }
   ],
-  "Rounds": [
-    {
-      "RoundName": "Round 1",
-      "Matches": [
-        {
-          "Player1": "Sklayton",
-          "Player2": "GydeJ",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "Brendan Layne",
-          "Player2": "Aristotle_H",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "ThoB36",
-          "Player2": "-",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "Brock Roush",
-          "Player2": "Zaryx",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "FloatMana",
-          "Player2": "Theidermist46",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "MtG_GreenRanger",
-          "Player2": "Skrocious",
-          "Result": "1-1-1"
-        },
-        {
-          "Player1": "TylerShull",
-          "Player2": "evans",
-          "Result": "2-1-0"
-        }
-      ]
-    },
-    {
-      "RoundName": "Round 2",
-      "Matches": [
-        {
-          "Player1": "Sklayton",
-          "Player2": "TylerShull",
-          "Result": "1-1-1"
-        },
-        {
-          "Player1": "Brendan Layne",
-          "Player2": "FloatMana",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "ThoB36",
-          "Player2": "Brock Roush",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "Skrocious",
-          "Player2": "Aristotle_H",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "Theidermist46",
-          "Player2": "Zaryx",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "MtG_GreenRanger",
-          "Player2": "GydeJ",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "evans",
-          "Player2": "-",
-          "Result": "2-0-0"
-        }
-      ]
-    },
-    {
-      "RoundName": "Round 3",
-      "Matches": [
-        {
-          "Player1": "Sklayton",
-          "Player2": "Skrocious",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "Brendan Layne",
-          "Player2": "ThoB36",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "Brock Roush",
-          "Player2": "GydeJ",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "Aristotle_H",
-          "Player2": "Zaryx",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "Theidermist46",
-          "Player2": "evans",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "MtG_GreenRanger",
-          "Player2": "TylerShull",
-          "Result": "2-0-0"
-        }
-      ]
-    },
-    {
-      "RoundName": "Round 4",
-      "Matches": [
-        {
-          "Player1": "Sklayton",
-          "Player2": "Brendan Layne",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "ThoB36",
-          "Player2": "MtG_GreenRanger",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "Brock Roush",
-          "Player2": "Theidermist46",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "Aristotle_H",
-          "Player2": "evans",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "Skrocious",
-          "Player2": "TylerShull",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "GydeJ",
-          "Player2": "Zaryx",
-          "Result": "2-0-0"
-        }
-      ]
-    },
-    {
-      "RoundName": "Round 5",
-      "Matches": [
-        {
-          "Player1": "ThoB36",
-          "Player2": "Sklayton",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "Brendan Layne",
-          "Player2": "Brock Roush",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "Aristotle_H",
-          "Player2": "MtG_GreenRanger",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "Theidermist46",
-          "Player2": "Skrocious",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "GydeJ",
-          "Player2": "TylerShull",
-          "Result": "2-0-0"
-        }
-      ]
-    },
-    {
-      "RoundName": "Quarterfinals",
-      "Matches": [
-        {
-          "Player1": "Sklayton",
-          "Player2": "ThoB36",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "Brendan Layne",
-          "Player2": "Brock Roush",
-          "Result": "2-1-0"
-        }
-      ]
-    },
-    {
-      "RoundName": "Semifinals",
-      "Matches": [
-        {
-          "Player1": "Sklayton",
-          "Player2": "Brendan Layne",
-          "Result": "2-0-0"
-        }
-      ]
-    }
-  ],
+  "Rounds": [],
   "Standings": [
     {
       "Rank": 1,
