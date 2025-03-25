@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2025-03-24T00:00:00Z",
     "Name": "Duel Commander Trial 16",
-    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-03-2412758477"
+    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-03-2412758477",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -8584,12 +8587,302 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
+          "Player1": "vikizin",
+          "Player2": "Shiryu_MTG",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Sneil27",
+          "Player2": "suscak",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "ZacharyHaleComstock",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MisterAsiago",
+          "Player2": "ragnarok1997",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Demian77",
+          "Player2": "DuduDeNunu",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "ChezChelios",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Tunaktunak",
+          "Player2": "BERNASTORRES",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Mikey051092",
+          "Player2": "Tsubasa_Cat",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TheManLand",
+          "Player2": "BeoulveHeart",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Rex_Iudex",
+          "Player2": "Bawer",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ryan100495",
+          "Player2": "Gregoriusil",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Garganelli",
+          "Player2": "GuiBonella",
+          "Result": "0-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "BERNASTORRES",
+          "Player2": "suscak",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Demian77",
+          "Player2": "Mikey051092",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Gregoriusil",
+          "Player2": "Rex_Iudex",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "Bawer",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "vikizin",
+          "Player2": "GuiBonella",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "TheManLand",
+          "Player2": "Shiryu_MTG",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MisterAsiago",
+          "Player2": "Garganelli",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ChezChelios",
+          "Player2": "ZacharyHaleComstock",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "DuduDeNunu",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Tunaktunak",
+          "Player2": "BeoulveHeart",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "ragnarok1997",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "suscak",
+          "Player2": "Gregoriusil",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "Sneil27",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "Tunaktunak",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "BERNASTORRES",
+          "Player2": "TheManLand",
+          "Result": "2-0-0"
+        },
+        {
           "Player1": "ZacharyHaleComstock",
+          "Player2": "Rex_Iudex",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ChezChelios",
+          "Player2": "BeoulveHeart",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Mikey051092",
+          "Player2": "ragnarok1997",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "Shiryu_MTG",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Demian77",
+          "Player2": "Garganelli",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "MisterAsiago",
+          "Player2": "GuiBonella",
+          "Result": "0-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "BERNASTORRES",
+          "Player2": "Shiryu_MTG",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Sneil27",
+          "Player2": "BeoulveHeart",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "TheManLand",
+          "Player2": "Rex_Iudex",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Tunaktunak",
+          "Player2": "vikizin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ChezChelios",
           "Player2": "MisterAsiago",
-          "Result": "2-1-0"
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "ragnarok1997",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Demian77",
+          "Player2": "ZacharyHaleComstock",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "suscak",
+          "Player2": "GuiBonella",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Mikey051092",
+          "Player2": "Gregoriusil",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "Garganelli",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "ChezChelios",
+          "Player2": "ragnarok1997",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Demian77",
+          "Player2": "Shiryu_MTG",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Tunaktunak",
+          "Player2": "Garganelli",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Rex_Iudex",
+          "Player2": "GuiBonella",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "suscak",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Sneil27",
+          "Player2": "vikizin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "BERNASTORRES",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MisterAsiago",
+          "Player2": "TheManLand",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Mikey051092",
+          "Player2": "BeoulveHeart",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "Gregoriusil",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "BERNASTORRES",
+          "Player2": "Mikey051092",
+          "Result": "0-2-0"
         },
         {
           "Player1": "Demian77",
@@ -8597,39 +8890,39 @@
           "Result": "2-0-0"
         },
         {
-          "Player1": "Mikey051092",
-          "Player2": "BERNASTORRES",
-          "Result": "2-1-0"
-        },
-        {
           "Player1": "TheManLand",
           "Player2": "Shiryu_MTG",
-          "Result": "2-1-0"
-        }
-      ]
-    },
-    {
-      "RoundName": "Semifinals",
-      "Matches": [
-        {
-          "Player1": "Mikey051092",
-          "Player2": "TheManLand",
-          "Result": "2-1-0"
+          "Result": "0-0-0"
         },
         {
           "Player1": "ZacharyHaleComstock",
-          "Player2": "Demian77",
+          "Player2": "MisterAsiago",
           "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 7",
+      "Matches": [
+        {
+          "Player1": "Mikey051092",
+          "Player2": "TheManLand",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Demian77",
+          "Player2": "ZacharyHaleComstock",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
       "Matches": [
         {
           "Player1": "ZacharyHaleComstock",
           "Player2": "Mikey051092",
-          "Result": "2-1-0"
+          "Result": "2-0-0"
         }
       ]
     }
@@ -8863,7 +9156,7 @@
       "Losses": 1,
       "Draws": 0,
       "OMWP": 0.8,
-      "GWP": 0.0,
+      "GWP": 0,
       "OGWP": 0.75
     },
     {

@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2025-03-22T00:00:00Z",
     "Name": "Pauper Challenge 32",
-    "Uri": "https://www.mtgo.com/decklist/pauper-challenge-32-2025-03-2212758437"
+    "Uri": "https://www.mtgo.com/decklist/pauper-challenge-32-2025-03-2212758437",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -3516,52 +3519,672 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
+          "Player1": "Broa",
+          "Player2": "Bong0411",
+          "Result": "0-2-0"
+        },
+        {
           "Player1": "galeogiao",
-          "Player2": "Banduz",
-          "Result": "2-1-0"
+          "Player2": "Al_bertoR",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "auzzie51",
+          "Player2": "MisterTwin",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "yesicabyalexisf",
+          "Player2": "GigaChadSigmaMale",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "eresopacaso",
+          "Player2": "Hype12232",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Banduz",
+          "Player2": "pepeteam",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "discoverN",
+          "Player2": "hetare_ane",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "AoFTW",
+          "Player2": "SanPop",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MCScards",
+          "Player2": "LuffyDoChapeuDePalha",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kaikas",
+          "Player2": "kkarmazyn",
+          "Result": "2-0-0"
         },
         {
           "Player1": "Brasatore",
-          "Player2": "Niederschatten",
-          "Result": "2-1-0"
+          "Player2": "Pvnisher",
+          "Result": "0-2-0"
         },
+        {
+          "Player1": "Ratcher",
+          "Player2": "papaRMSKY",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "__Noob__",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Seso",
+          "Player2": "lmstore",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Terminus0",
+          "Player2": "Adrowo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ed_Elric",
+          "Player2": "3vildr4k3",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "KingHairy",
+          "Player2": "Tiomax",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Kirblinxy",
+          "Player2": "Sailor_Moon",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Hamuda",
+          "Player2": "QueMario",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "outZEROo",
+          "Player2": "iceyfire95",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ixidor29",
+          "Player2": "Luddrox",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "Ixidor29",
+          "Player2": "eresopacaso",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "pepeteam",
+          "Player2": "Brasatore",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Adrowo",
+          "Player2": "Al_bertoR",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Pvnisher",
+          "Player2": "lmstore",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Terminus0",
+          "Player2": "3vildr4k3",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kaikas",
+          "Player2": "Hype12232",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Banduz",
+          "Player2": "Niederschatten",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Kirblinxy",
+          "Player2": "Seso",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "LuffyDoChapeuDePalha",
+          "Player2": "Bong0411",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "auzzie51",
+          "Player2": "__Noob__",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "galeogiao",
+          "Player2": "MisterTwin",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Tiomax",
+          "Player2": "iceyfire95",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "yesicabyalexisf",
+          "Player2": "Sailor_Moon",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "outZEROo",
+          "Player2": "Luddrox",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "hetare_ane",
+          "Player2": "KingHairy",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "discoverN",
+          "Player2": "papaRMSKY",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SanPop",
+          "Player2": "Hamuda",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "GigaChadSigmaMale",
+          "Player2": "kkarmazyn",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MCScards",
+          "Player2": "Broa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "Ratcher",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ed_Elric",
+          "Player2": "QueMario",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "LuffyDoChapeuDePalha",
+          "Player2": "outZEROo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "lmstore",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "galeogiao",
+          "Player2": "3vildr4k3",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Adrowo",
+          "Player2": "Luddrox",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "discoverN",
+          "Player2": "SanPop",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "auzzie51",
+          "Player2": "MCScards",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Kirblinxy",
+          "Player2": "Broa",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Seso",
+          "Player2": "Al_bertoR",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "eresopacaso",
+          "Player2": "Brasatore",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Ed_Elric",
+          "Player2": "iceyfire95",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Terminus0",
+          "Player2": "KingHairy",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Tiomax",
+          "Player2": "__Noob__",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Banduz",
+          "Player2": "AoFTW",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "hetare_ane",
+          "Player2": "kkarmazyn",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Ratcher",
+          "Player2": "Pvnisher",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kaikas",
+          "Player2": "Sailor_Moon",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Niederschatten",
+          "Player2": "Hype12232",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Ixidor29",
+          "Player2": "QueMario",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "yesicabyalexisf",
+          "Player2": "MisterTwin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Hamuda",
+          "Player2": "Bong0411",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "Al_bertoR",
+          "Player2": "papaRMSKY",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "AoFTW",
+          "Player2": "eresopacaso",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "hetare_ane",
+          "Player2": "__Noob__",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MCScards",
+          "Player2": "Sailor_Moon",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Niederschatten",
+          "Player2": "Terminus0",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Kirblinxy",
+          "Player2": "Ixidor29",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ed_Elric",
+          "Player2": "Hype12232",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "discoverN",
+          "Player2": "lmstore",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Luddrox",
+          "Player2": "kkarmazyn",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LuffyDoChapeuDePalha",
+          "Player2": "Brasatore",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "SanPop",
+          "Player2": "iceyfire95",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Hamuda",
+          "Player2": "MisterTwin",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Seso",
+          "Player2": "Ratcher",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "yesicabyalexisf",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Adrowo",
+          "Player2": "3vildr4k3",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Broa",
+          "Player2": "QueMario",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "galeogiao",
+          "Player2": "auzzie51",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Banduz",
+          "Player2": "Pvnisher",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kaikas",
+          "Player2": "outZEROo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "KingHairy",
+          "Player2": "Bong0411",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "Kirblinxy",
+          "Player2": "LuffyDoChapeuDePalha",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Pvnisher",
+          "Player2": "Bong0411",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "hetare_ane",
+          "Player2": "Al_bertoR",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "Luddrox",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Ratcher",
+          "Player2": "MCScards",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Ixidor29",
+          "Player2": "Broa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "iceyfire95",
+          "Player2": "Hype12232",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "lmstore",
+          "Player2": "Sailor_Moon",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Seso",
+          "Player2": "Banduz",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Adrowo",
+          "Player2": "papaRMSKY",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "discoverN",
+          "Player2": "Brasatore",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "__Noob__",
+          "Player2": "Hamuda",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "eresopacaso",
+          "Player2": "QueMario",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "AoFTW",
+          "Player2": "kkarmazyn",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Niederschatten",
+          "Player2": "outZEROo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "KingHairy",
+          "Player2": "Ed_Elric",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "auzzie51",
+          "Player2": "kaikas",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Terminus0",
+          "Player2": "MisterTwin",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "galeogiao",
+          "Player2": "yesicabyalexisf",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "LuffyDoChapeuDePalha",
+          "Player2": "Sailor_Moon",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "iceyfire95",
+          "Player2": "Bong0411",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "kaikas",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Broa",
+          "Player2": "lmstore",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "KingHairy",
+          "Player2": "Pvnisher",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Banduz",
+          "Player2": "__Noob__",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Seso",
+          "Player2": "Hype12232",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Terminus0",
+          "Player2": "papaRMSKY",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Kirblinxy",
+          "Player2": "eresopacaso",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Ed_Elric",
+          "Player2": "Luddrox",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MCScards",
+          "Player2": "hetare_ane",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Ixidor29",
+          "Player2": "kkarmazyn",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ratcher",
+          "Player2": "QueMario",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "discoverN",
+          "Player2": "AoFTW",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "outZEROo",
+          "Player2": "yesicabyalexisf",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MisterTwin",
+          "Player2": "Brasatore",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Niederschatten",
+          "Player2": "galeogiao",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "Matches": [
         {
           "Player1": "outZEROo",
           "Player2": "MisterTwin",
           "Result": "2-0-0"
         },
         {
-          "Player1": "Luddrox",
-          "Player2": "yesicabyalexisf",
-          "Result": "2-1-0"
+          "Player1": "Banduz",
+          "Player2": "galeogiao",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "yesicabyalexisf",
+          "Player2": "Luddrox",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Brasatore",
+          "Player2": "Niederschatten",
+          "Result": "0-0-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 8",
       "Matches": [
         {
           "Player1": "Brasatore",
           "Player2": "Luddrox",
-          "Result": "2-1-0"
+          "Result": "2-0-0"
         },
         {
-          "Player1": "outZEROo",
-          "Player2": "galeogiao",
-          "Result": "2-0-0"
+          "Player1": "galeogiao",
+          "Player2": "outZEROo",
+          "Result": "0-2-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 9",
       "Matches": [
         {
-          "Player1": "outZEROo",
-          "Player2": "Brasatore",
-          "Result": "2-0-0"
+          "Player1": "Brasatore",
+          "Player2": "outZEROo",
+          "Result": "0-2-0"
         }
       ]
     }
