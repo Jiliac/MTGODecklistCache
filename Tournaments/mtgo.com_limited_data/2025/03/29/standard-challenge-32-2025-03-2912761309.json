@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2025-03-29T00:00:00Z",
     "Name": "Standard Challenge 32",
-    "Uri": "https://www.mtgo.com/decklist/standard-challenge-32-2025-03-2912761309"
+    "Uri": "https://www.mtgo.com/decklist/standard-challenge-32-2025-03-2912761309",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -3852,22 +3855,627 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
-          "Player1": "Kvothe_De_Arrascaeta",
-          "Player2": "Savior0117",
-          "Result": "2-1-0"
+          "Player1": "hkanfer",
+          "Player2": "Mazianos",
+          "Result": "2-0-0"
         },
         {
-          "Player1": "Strongmind",
+          "Player1": "ejk",
+          "Player2": "Lathyrus",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "pat0presidente",
+          "Player2": "Savior0117",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "edmayer",
+          "Player2": "Kvothe_De_Arrascaeta",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "foodchainen",
+          "Player2": "Mahers",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "mijukumono",
+          "Player2": "Azja",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Owl1013",
+          "Player2": "jakobpablo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "rushi_00",
+          "Player2": "BoltTargetYou",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ScreenwriterNY",
+          "Player2": "MTGHolic",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "aarrgh",
+          "Player2": "Popeville",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "KingHairy",
+          "Player2": "ChefOW",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "quinniac",
+          "Player2": "AFitzsimmons",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "pretender88",
+          "Player2": "KazukiOoyama",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "tchuco",
+          "Player2": "Limetrout",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "cicciogire",
+          "Player2": "AvianScrolls",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Manny-",
+          "Player2": "Strongmind",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Venom1",
+          "Player2": "marito9911",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Sarlanga",
+          "Player2": "GigaChadSigmaMale",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "BANTE",
+          "Player2": "ajifly",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "MarcoBelacca95",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "el-pollo-lolo",
+          "Player2": "Minhoquinha",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "omair00",
+          "Player2": "msmayer",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "FranBenitez91",
+          "Player2": "selesneal",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "-Nausea-",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "edmayer",
+          "Player2": "Lathyrus",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "pat0presidente",
+          "Player2": "Manny-",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Popeville",
+          "Player2": "Minhoquinha",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "msmayer",
+          "Player2": "BoltTargetYou",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "FranBenitez91",
+          "Player2": "Savior0117",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Sarlanga",
+          "Player2": "mijukumono",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ajifly",
+          "Player2": "-Nausea-",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "pretender88",
+          "Player2": "AFitzsimmons",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "BANTE",
+          "Player2": "AvianScrolls",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "omair00",
           "Player2": "rushi_00",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "quinniac",
+          "Player2": "ChefOW",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jakobpablo",
+          "Player2": "KazukiOoyama",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "el-pollo-lolo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ejk",
+          "Player2": "Kvothe_De_Arrascaeta",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ScreenwriterNY",
+          "Player2": "Limetrout",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "marito9911",
+          "Player2": "aarrgh",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Venom1",
+          "Player2": "Mazianos",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MTGHolic",
+          "Player2": "Strongmind",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "tchuco",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MarcoBelacca95",
+          "Player2": "foodchainen",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "selesneal",
+          "Player2": "Owl1013",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "hkanfer",
+          "Player2": "Mahers",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "FranBenitez91",
+          "Player2": "hkanfer",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "aarrgh",
+          "Player2": "KazukiOoyama",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Venom1",
+          "Player2": "msmayer",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Sarlanga",
+          "Player2": "Kvothe_De_Arrascaeta",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Owl1013",
+          "Player2": "-Nausea-",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Manny-",
+          "Player2": "Savior0117",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "jakobpablo",
+          "Player2": "Limetrout",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MTGHolic",
+          "Player2": "Minhoquinha",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ChefOW",
+          "Player2": "ajifly",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "marito9911",
+          "Player2": "foodchainen",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "mijukumono",
+          "Player2": "AvianScrolls",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "pat0presidente",
+          "Player2": "BoltTargetYou",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ejk",
+          "Player2": "el-pollo-lolo",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "MarcoBelacca95",
+          "Player2": "Mazianos",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "omair00",
+          "Player2": "edmayer",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "rushi_00",
+          "Player2": "BANTE",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "tchuco",
+          "Player2": "Mahers",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "quinniac",
+          "Player2": "Strongmind",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "pretender88",
+          "Player2": "selesneal",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "albertoSD",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "selesneal",
+          "Player2": "BANTE",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "edmayer",
+          "Player2": "BoltTargetYou",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "msmayer",
+          "Player2": "mijukumono",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "rushi_00",
+          "Player2": "Strongmind",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "marito9911",
+          "Player2": "quinniac",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "FranBenitez91",
+          "Player2": "AFitzsimmons",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Sarlanga",
+          "Player2": "aarrgh",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Savior0117",
+          "Player2": "KazukiOoyama",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ChefOW",
+          "Player2": "Kvothe_De_Arrascaeta",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "AvianScrolls",
+          "Player2": "Minhoquinha",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Mahers",
+          "Player2": "MTGHolic",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "jakobpablo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "el-pollo-lolo",
+          "Player2": "foodchainen",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "ejk",
+          "Player2": "tchuco",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MarcoBelacca95",
+          "Player2": "-Nausea-",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "omair00",
+          "Player2": "Venom1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Manny-",
+          "Player2": "Mazianos",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "hkanfer",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "msmayer",
+          "Player2": "Minhoquinha",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "AvianScrolls",
+          "Player2": "Strongmind",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Savior0117",
+          "Player2": "jakobpablo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "omair00",
+          "Player2": "el-pollo-lolo",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "FranBenitez91",
+          "Player2": "MarcoBelacca95",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "marito9911",
+          "Player2": "ChefOW",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Mahers",
+          "Player2": "KazukiOoyama",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "pat0presidente",
+          "Player2": "MTGHolic",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "-Nausea-",
+          "Player2": "AFitzsimmons",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "BANTE",
+          "Player2": "aarrgh",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "BoltTargetYou",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "tchuco",
+          "Player2": "Kvothe_De_Arrascaeta",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Sarlanga",
+          "Player2": "albertoSD",
           "Result": "2-0-0"
         },
         {
           "Player1": "Venom1",
           "Player2": "quinniac",
-          "Result": "2-1-0"
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "rushi_00",
+          "Player2": "hkanfer",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ejk",
+          "Player2": "Manny-",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "ejk",
+          "Player2": "-Nausea-",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "BANTE",
+          "Player2": "AFitzsimmons",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "omair00",
+          "Player2": "marito9911",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "ChefOW",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "Kvothe_De_Arrascaeta",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "msmayer",
+          "Player2": "Mahers",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Sarlanga",
+          "Player2": "Savior0117",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "aarrgh",
+          "Player2": "Strongmind",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "pat0presidente",
+          "Player2": "edmayer",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Venom1",
+          "Player2": "hkanfer",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Manny-",
+          "Player2": "tchuco",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "el-pollo-lolo",
+          "Player2": "MarcoBelacca95",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "KazukiOoyama",
+          "Player2": "BoltTargetYou",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "rushi_00",
+          "Player2": "quinniac",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "jakobpablo",
+          "Player2": "AvianScrolls",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "Matches": [
+        {
+          "Player1": "Savior0117",
+          "Player2": "Kvothe_De_Arrascaeta",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "rushi_00",
+          "Player2": "Strongmind",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Venom1",
+          "Player2": "quinniac",
+          "Result": "2-0-0"
         },
         {
           "Player1": "Sarlanga",
@@ -3877,27 +4485,27 @@
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 8",
       "Matches": [
         {
           "Player1": "Venom1",
           "Player2": "Kvothe_De_Arrascaeta",
-          "Result": "2-1-0"
+          "Result": "2-0-0"
         },
         {
           "Player1": "Sarlanga",
           "Player2": "Strongmind",
-          "Result": "2-1-0"
+          "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 9",
       "Matches": [
         {
-          "Player1": "Venom1",
-          "Player2": "Sarlanga",
-          "Result": "2-0-0"
+          "Player1": "Sarlanga",
+          "Player2": "Venom1",
+          "Result": "0-2-0"
         }
       ]
     }

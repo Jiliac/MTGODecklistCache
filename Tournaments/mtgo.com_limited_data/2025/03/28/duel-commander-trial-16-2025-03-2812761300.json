@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2025-03-28T00:00:00Z",
     "Name": "Duel Commander Trial 16",
-    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-03-2812761300"
+    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-03-2812761300",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -6342,47 +6345,257 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
+        {
+          "Player1": "msskinbolic",
+          "Player2": "NickNorman",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "helvetti",
+          "Player2": "Nammersquats",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "DuduDeNunu",
+          "Player2": "Demian77",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MatheusPonciano",
+          "Player2": "Dhedjeshdi",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "xJCloud",
+          "Player2": "DB_fireshoes",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "billsive",
+          "Player2": "Rex_Iudex",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "albertoSD",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "solace",
+          "Player2": "Dreddybajs",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "Dreddybajs",
+          "Player2": "xJCloud",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "MatheusPonciano",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "solace",
+          "Player2": "Dhedjeshdi",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Vazdru",
+          "Player2": "Nammersquats",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "Rex_Iudex",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "helvetti",
+          "Player2": "billsive",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Demian77",
+          "Player2": "NickNorman",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "msskinbolic",
+          "Player2": "DuduDeNunu",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "MatheusPonciano",
+          "Player2": "billsive",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "xJCloud",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Dreddybajs",
+          "Player2": "NickNorman",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Rex_Iudex",
+          "Player2": "Dhedjeshdi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Nammersquats",
+          "Player2": "DuduDeNunu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "msskinbolic",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Demian77",
+          "Player2": "Vazdru",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "Dreddybajs",
+          "Player2": "Rex_Iudex",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "xJCloud",
+          "Player2": "billsive",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Demian77",
+          "Player2": "albertoSD",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "msskinbolic",
+          "Player2": "helvetti",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MatheusPonciano",
+          "Player2": "NickNorman",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "Nammersquats",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Vazdru",
+          "Player2": "DuduDeNunu",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "Nammersquats",
+          "Player2": "NickNorman",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dreddybajs",
+          "Player2": "billsive",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Demian77",
+          "Player2": "msskinbolic",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "helvetti",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "DuduDeNunu",
+          "Player2": "albertoSD",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MatheusPonciano",
+          "Player2": "Rex_Iudex",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Vazdru",
+          "Player2": "xJCloud",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "billsive",
+          "Player2": "DuduDeNunu",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Vazdru",
+          "Player2": "Rex_Iudex",
+          "Result": "0-2-0"
+        },
         {
           "Player1": "Demian77",
           "Player2": "Dreddybajs",
           "Result": "2-0-0"
         },
         {
-          "Player1": "xJCloud",
-          "Player2": "msskinbolic",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "Rex_Iudex",
-          "Player2": "Vazdru",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "billsive",
-          "Player2": "DuduDeNunu",
-          "Result": "2-1-0"
+          "Player1": "msskinbolic",
+          "Player2": "xJCloud",
+          "Result": "0-2-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 7",
       "Matches": [
         {
-          "Player1": "Rex_Iudex",
-          "Player2": "Demian77",
-          "Result": "2-0-0"
+          "Player1": "xJCloud",
+          "Player2": "billsive",
+          "Result": "0-2-0"
         },
         {
-          "Player1": "billsive",
-          "Player2": "xJCloud",
-          "Result": "2-1-0"
+          "Player1": "Demian77",
+          "Player2": "Rex_Iudex",
+          "Result": "0-2-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 8",
       "Matches": [
         {
           "Player1": "billsive",
@@ -6565,7 +6778,7 @@
       "Wins": 0,
       "Losses": 1,
       "Draws": 0,
-      "OMWP": 1.0,
+      "OMWP": 1,
       "GWP": 0.3333,
       "OGWP": 0.7692
     },
@@ -6577,7 +6790,7 @@
       "Losses": 2,
       "Draws": 0,
       "OMWP": 0.5667,
-      "GWP": 0.0,
+      "GWP": 0,
       "OGWP": 0.5893
     }
   ]
