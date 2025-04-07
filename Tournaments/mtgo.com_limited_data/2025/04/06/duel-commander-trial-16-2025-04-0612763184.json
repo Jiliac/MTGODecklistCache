@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2025-04-06T00:00:00Z",
     "Name": "Duel Commander Trial 16",
-    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-04-0612763184"
+    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-04-0612763184",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -8700,32 +8703,322 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
+          "Player1": "Killah_SUV",
+          "Player2": "Rex_Iudex",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Fat_Chocobo",
+          "Player2": "DelverFofoqueiro",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Martin_Dominguez",
+          "Player2": "NickNorman",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "Hampuse1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kablewire",
+          "Player2": "atomconfirmer",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ceralguy",
+          "Player2": "DobleP",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Zokla",
+          "Player2": "Eton01",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "grumgrum",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Dreddybajs",
+          "Player2": "kojirohyuga1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "SoIMBAGallade",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Demian77",
+          "Player2": "Rod_Chill",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "kristofff",
+          "Player2": "Neuroch",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "Fat_Chocobo",
+          "Player2": "Eton01",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Demian77",
+          "Player2": "NickNorman",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kristofff",
+          "Player2": "Hampuse1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DelverFofoqueiro",
+          "Player2": "Rod_Chill",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "DobleP",
+          "Player2": "Neuroch",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "atomconfirmer",
+          "Player2": "Rex_Iudex",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SoIMBAGallade",
+          "Player2": "ceralguy",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Dreddybajs",
+          "Player2": "albertoSD",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kablewire",
+          "Player2": "Killah_SUV",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "Zokla",
+          "Result": "2-0-0"
+        },
+        {
           "Player1": "kojirohyuga1",
+          "Player2": "grumgrum",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "Martin_Dominguez",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "ceralguy",
+          "Player2": "Rex_Iudex",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "NickNorman",
+          "Player2": "kablewire",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kristofff",
+          "Player2": "Fat_Chocobo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "atomconfirmer",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Demian77",
+          "Player2": "albertoSD",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DelverFofoqueiro",
+          "Player2": "DobleP",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Martin_Dominguez",
+          "Player2": "Zokla",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "Rod_Chill",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Hampuse1",
+          "Player2": "Eton01",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "grumgrum",
+          "Player2": "Neuroch",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kojirohyuga1",
+          "Player2": "Killah_SUV",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "medvedev",
+          "Player2": "Rod_Chill",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Martin_Dominguez",
+          "Player2": "atomconfirmer",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Demian77",
+          "Player2": "Neuroch",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Hampuse1",
+          "Player2": "Killah_SUV",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Fat_Chocobo",
+          "Player2": "grumgrum",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ceralguy",
+          "Player2": "NickNorman",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kristofff",
+          "Player2": "DobleP",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kojirohyuga1",
+          "Player2": "Rex_Iudex",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "DelverFofoqueiro",
+          "Result": "0-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "Fat_Chocobo",
+          "Player2": "ceralguy",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Killah_SUV",
+          "Player2": "Neuroch",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kojirohyuga1",
+          "Player2": "atomconfirmer",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Demian77",
+          "Player2": "DobleP",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "Rex_Iudex",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "medvedev",
           "Player2": "DelverFofoqueiro",
           "Result": "2-0-0"
         },
+        {
+          "Player1": "Zokla",
+          "Player2": "Hampuse1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "grumgrum",
+          "Player2": "Rod_Chill",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kristofff",
+          "Player2": "Martin_Dominguez",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
         {
           "Player1": "Rex_Iudex",
           "Player2": "grumgrum",
           "Result": "2-0-0"
         },
         {
-          "Player1": "Rod_Chill",
-          "Player2": "Martin_Dominguez",
-          "Result": "2-1-0"
+          "Player1": "kojirohyuga1",
+          "Player2": "DelverFofoqueiro",
+          "Result": "2-0-0"
         },
         {
           "Player1": "medvedev",
           "Player2": "atomconfirmer",
           "Result": "2-0-0"
+        },
+        {
+          "Player1": "Martin_Dominguez",
+          "Player2": "Rod_Chill",
+          "Result": "0-2-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 7",
       "Matches": [
         {
           "Player1": "medvedev",
@@ -8740,12 +9033,12 @@
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 8",
       "Matches": [
         {
-          "Player1": "kojirohyuga1",
-          "Player2": "medvedev",
-          "Result": "2-1-0"
+          "Player1": "medvedev",
+          "Player2": "kojirohyuga1",
+          "Result": "0-2-0"
         }
       ]
     }
