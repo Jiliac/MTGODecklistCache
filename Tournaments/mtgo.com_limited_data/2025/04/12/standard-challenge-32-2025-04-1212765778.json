@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2025-04-12T00:00:00Z",
     "Name": "Standard Challenge 32",
-    "Uri": "https://www.mtgo.com/decklist/standard-challenge-32-2025-04-1212765778"
+    "Uri": "https://www.mtgo.com/decklist/standard-challenge-32-2025-04-1212765778",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -3976,47 +3979,607 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
+          "Player1": "RandomOctopus",
+          "Player2": "Junkmener",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "Hamuda",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "azatoyellow",
+          "Player2": "CLChad",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Venom1",
+          "Player2": "toothymtg",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "rougedragon",
+          "Player2": "justAlice",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "WadeB",
+          "Player2": "iantl1983",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kcomedina",
+          "Player2": "tim96",
+          "Result": "0-2-0"
+        },
+        {
           "Player1": "GYrabbit47",
-          "Player2": "McBronze",
+          "Player2": "Lord_Beerus",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Arianne",
+          "Player2": "Strongmind",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "manalacaio",
+          "Player2": "Mazianos",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ARunningHans",
+          "Player2": "LemonadeArchery",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "lilianna1989",
+          "Player2": "_Batutinha_",
           "Result": "2-1-0"
+        },
+        {
+          "Player1": "Mottaka",
+          "Player2": "Dakotajmack",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "tchuco",
+          "Player2": "SGMY95",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "numberonenoob",
+          "Player2": "ShadowTitan1",
+          "Result": "0-2-0"
         },
         {
           "Player1": "jakobpablo",
-          "Player2": "Hamuda",
-          "Result": "2-1-0"
+          "Player2": "kingofallyousee",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Tyerube1618",
+          "Player2": "McBronze",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "TacticalWreck",
+          "Player2": "pf-endure",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "ejk",
+          "Result": "2-0-0"
         },
         {
           "Player1": "Misplacedginger",
-          "Player2": "tchuco",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "Junkmener",
-          "Player2": "pf-endure",
+          "Player2": "ArturRizzotti",
           "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 2",
       "Matches": [
         {
-          "Player1": "GYrabbit47",
-          "Player2": "Misplacedginger",
-          "Result": "2-1-0"
+          "Player1": "Arianne",
+          "Player2": "tchuco",
+          "Result": "2-0-0"
         },
         {
-          "Player1": "Junkmener",
+          "Player1": "Venom1",
+          "Player2": "tim96",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ejk",
+          "Player2": "Tyerube1618",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "numberonenoob",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kcomedina",
+          "Player2": "toothymtg",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "RandomOctopus",
+          "Player2": "Dakotajmack",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "CLChad",
+          "Player2": "Mazianos",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "azatoyellow",
+          "Player2": "TacticalWreck",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Hamuda",
+          "Player2": "MohammedbinSalman",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "rougedragon",
           "Player2": "jakobpablo",
-          "Result": "2-1-0"
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ARunningHans",
+          "Player2": "Strongmind",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Misplacedginger",
+          "Player2": "lilianna1989",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LemonadeArchery",
+          "Player2": "iantl1983",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "Junkmener",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "manalacaio",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "GYrabbit47",
+          "Player2": "McBronze",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ArturRizzotti",
+          "Player2": "justAlice",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "SGMY95",
+          "Player2": "WadeB",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "pf-endure",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Mottaka",
+          "Player2": "ShadowTitan1",
+          "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "numberonenoob",
+          "Player2": "Lord_Beerus",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "iantl1983",
+          "Player2": "pf-endure",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Hamuda",
+          "Player2": "Arianne",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ejk",
+          "Player2": "ARunningHans",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "lilianna1989",
+          "Player2": "MohammedbinSalman",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Misplacedginger",
+          "Player2": "Tyerube1618",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "tchuco",
+          "Player2": "LemonadeArchery",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "tim96",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "toothymtg",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ArturRizzotti",
+          "Player2": "Dakotajmack",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Junkmener",
+          "Player2": "McBronze",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ShadowTitan1",
+          "Player2": "bless_von",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "justAlice",
+          "Player2": "SGMY95",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jakobpablo",
+          "Player2": "CLChad",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Venom1",
+          "Player2": "Mottaka",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "RandomOctopus",
+          "Player2": "TacticalWreck",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "GYrabbit47",
+          "Player2": "Strongmind",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "rougedragon",
+          "Player2": "Mazianos",
+          "Result": "0-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "Arianne",
+          "Player2": "justAlice",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "MohammedbinSalman",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "RandomOctopus",
+          "Player2": "ARunningHans",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "numberonenoob",
+          "Player2": "ArturRizzotti",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "GYrabbit47",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Hamuda",
+          "Player2": "jakobpablo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "rougedragon",
+          "Player2": "tchuco",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Misplacedginger",
+          "Player2": "Venom1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kcomedina",
+          "Player2": "ShadowTitan1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Mottaka",
+          "Player2": "TacticalWreck",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "toothymtg",
+          "Player2": "pf-endure",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "SGMY95",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Junkmener",
+          "Player2": "CLChad",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Mazianos",
+          "Player2": "LemonadeArchery",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Tyerube1618",
+          "Player2": "Dakotajmack",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "McBronze",
+          "Player2": "iantl1983",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "lilianna1989",
+          "Player2": "Strongmind",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "GYrabbit47",
+          "Player2": "iantl1983",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "RandomOctopus",
+          "Player2": "Mazianos",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Venom1",
+          "Player2": "Junkmener",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Hamuda",
+          "Player2": "McBronze",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ejk",
+          "Player2": "lilianna1989",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "SGMY95",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "justAlice",
+          "Player2": "pf-endure",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ShadowTitan1",
+          "Player2": "TacticalWreck",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "ArturRizzotti",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Misplacedginger",
+          "Player2": "jakobpablo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kcomedina",
+          "Player2": "ARunningHans",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Tyerube1618",
+          "Player2": "LemonadeArchery",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Arianne",
+          "Player2": "numberonenoob",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "rougedragon",
+          "Player2": "Mottaka",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "Strongmind",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "tchuco",
+          "Player2": "MohammedbinSalman",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "Venom1",
+          "Player2": "justAlice",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Mottaka",
+          "Player2": "Tyerube1618",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MohammedbinSalman",
+          "Player2": "Strongmind",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "GYrabbit47",
+          "Player2": "Hamuda",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Misplacedginger",
+          "Player2": "tchuco",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Junkmener",
+          "Player2": "jakobpablo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "Arianne",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ShadowTitan1",
+          "Player2": "Mazianos",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "RandomOctopus",
+          "Player2": "pf-endure",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "numberonenoob",
+          "Player2": "rougedragon",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SGMY95",
+          "Player2": "iantl1983",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "McBronze",
+          "Player2": "TacticalWreck",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ejk",
+          "Player2": "LemonadeArchery",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "ARunningHans",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kcomedina",
+          "Player2": "ArturRizzotti",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "Matches": [
+        {
+          "Player1": "GYrabbit47",
+          "Player2": "McBronze",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Hamuda",
+          "Player2": "jakobpablo",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Junkmener",
+          "Player2": "pf-endure",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Misplacedginger",
+          "Player2": "tchuco",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "Matches": [
+        {
+          "Player1": "Misplacedginger",
+          "Player2": "GYrabbit47",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Junkmener",
+          "Player2": "jakobpablo",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 9",
       "Matches": [
         {
           "Player1": "GYrabbit47",

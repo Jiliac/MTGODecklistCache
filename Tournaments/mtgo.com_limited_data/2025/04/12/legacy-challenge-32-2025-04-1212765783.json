@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2025-04-12T00:00:00Z",
     "Name": "Legacy Challenge 32",
-    "Uri": "https://www.mtgo.com/decklist/legacy-challenge-32-2025-04-1212765783"
+    "Uri": "https://www.mtgo.com/decklist/legacy-challenge-32-2025-04-1212765783",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -4308,52 +4311,607 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
+          "Player1": "medvedev",
+          "Player2": "ecobaronen",
+          "Result": "2-0-0"
+        },
+        {
           "Player1": "Mogged",
-          "Player2": "rikimaru6",
+          "Player2": "kanican",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JPA93",
+          "Player2": "Brasatore",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kentaro_hokori",
+          "Player2": "yoshiwata",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Czechito",
+          "Player2": "clan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Oceansoul92",
+          "Player2": "CrazyMorango",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "L4rss0n",
+          "Player2": "Sol-e22558",
           "Result": "2-0-0"
         },
         {
           "Player1": "olbeda",
-          "Player2": "Oceansoul92",
+          "Player2": "Galaxy_Impact",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "rikimaru6",
+          "Player2": "pppoku",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Terminus0",
+          "Player2": "wiky",
           "Result": "2-0-0"
         },
+        {
+          "Player1": "i_b_TRUE",
+          "Player2": "_INF_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Ark4n",
+          "Player2": "yushi013",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "piao",
+          "Player2": "ReformedPaolo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "snoopy-magic",
+          "Player2": "2plus2isfive",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Navas",
+          "Player2": "Minest110",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kaikas",
+          "Player2": "Taddy_99",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "grymn",
+          "Player2": "Erik157751",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Schmeckles",
+          "Player2": "boytriton",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Ettore09",
+          "Player2": "ganesh_69",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Folero",
+          "Player2": "choutin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jamiewvh",
+          "Player2": "_Joseba_",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "yoshiwata",
+          "Player2": "snoopy-magic",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ReformedPaolo",
+          "Player2": "_INF_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Minest110",
+          "Player2": "kaikas",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kentaro_hokori",
+          "Player2": "Oceansoul92",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Ark4n",
+          "Player2": "L4rss0n",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jamiewvh",
+          "Player2": "Taddy_99",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "i_b_TRUE",
+          "Player2": "Sol-e22558",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Czechito",
+          "Player2": "pppoku",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "_Joseba_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "wiky",
+          "Player2": "olbeda",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "piao",
+          "Player2": "rikimaru6",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kanican",
+          "Player2": "clan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Terminus0",
+          "Player2": "Galaxy_Impact",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "Mogged",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "JPA93",
+          "Player2": "boytriton",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "yushi013",
+          "Player2": "CrazyMorango",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ettore09",
+          "Player2": "2plus2isfive",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Erik157751",
+          "Player2": "Brasatore",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Schmeckles",
+          "Player2": "choutin",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ganesh_69",
+          "Player2": "Folero",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Navas",
+          "Player2": "grymn",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "jamiewvh",
+          "Player2": "kaikas",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ganesh_69",
+          "Player2": "Sol-e22558",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Navas",
+          "Player2": "Ettore09",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JPA93",
+          "Player2": "Taddy_99",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ReformedPaolo",
+          "Player2": "_Joseba_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "grymn",
+          "Player2": "Czechito",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "pppoku",
+          "Player2": "boytriton",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "snoopy-magic",
+          "Player2": "yushi013",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "L4rss0n",
+          "Player2": "rikimaru6",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kanican",
+          "Player2": "olbeda",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "_INF_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "choutin",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Galaxy_Impact",
+          "Player2": "Brasatore",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Ark4n",
+          "Player2": "Terminus0",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "piao",
+          "Player2": "Schmeckles",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Oceansoul92",
+          "Player2": "Mogged",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Folero",
+          "Player2": "Erik157751",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "Sol-e22558",
+          "Player2": "olbeda",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kanican",
+          "Player2": "Galaxy_Impact",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "piao",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Navas",
+          "Player2": "Ark4n",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Oceansoul92",
+          "Player2": "kaikas",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Joseba_",
+          "Player2": "Taddy_99",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Erik157751",
+          "Player2": "pppoku",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "jamiewvh",
+          "Player2": "ganesh_69",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "rikimaru6",
+          "Player2": "_INF_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "JPA93",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ReformedPaolo",
+          "Player2": "Schmeckles",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Brasatore",
+          "Player2": "snoopy-magic",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Folero",
+          "Player2": "Terminus0",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "grymn",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "boytriton",
+          "Player2": "choutin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Czechito",
+          "Player2": "yushi013",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "Ark4n",
+          "Player2": "Czechito",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ganesh_69",
+          "Player2": "boytriton",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "snoopy-magic",
+          "Player2": "Sol-e22558",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "piao",
+          "Player2": "Erik157751",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Joseba_",
+          "Player2": "olbeda",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Folero",
+          "Player2": "ReformedPaolo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JPA93",
+          "Player2": "Mogged",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_INF_",
+          "Player2": "Schmeckles",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jamiewvh",
+          "Player2": "grymn",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "Taddy_99",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Oceansoul92",
+          "Player2": "Terminus0",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "rikimaru6",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "yushi013",
+          "Player2": "Galaxy_Impact",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Navas",
+          "Player2": "pppoku",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "kanican",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "yoshiwata",
+          "Player2": "_Joseba_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kanican",
+          "Player2": "Erik157751",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Oceansoul92",
+          "Player2": "jamiewvh",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ark4n",
+          "Player2": "JPA93",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Navas",
+          "Player2": "Brasatore",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "grymn",
+          "Player2": "boytriton",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ganesh_69",
+          "Player2": "Taddy_99",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "Galaxy_Impact",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "snoopy-magic",
+          "Player2": "ReformedPaolo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Czechito",
+          "Player2": "Sol-e22558",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Terminus0",
+          "Player2": "yushi013",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_INF_",
+          "Player2": "pppoku",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "piao",
+          "Player2": "choutin",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "olbeda",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Folero",
+          "Player2": "rikimaru6",
+          "Result": "0-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "Matches": [
         {
           "Player1": "Ark4n",
           "Player2": "yoshiwata",
           "Result": "2-0-0"
         },
         {
-          "Player1": "jamiewvh",
-          "Player2": "JPA93",
+          "Player1": "JPA93",
+          "Player2": "jamiewvh",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "rikimaru6",
           "Result": "2-0-0"
+        },
+        {
+          "Player1": "Oceansoul92",
+          "Player2": "olbeda",
+          "Result": "0-2-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 8",
       "Matches": [
-        {
-          "Player1": "Ark4n",
-          "Player2": "Mogged",
-          "Result": "2-1-0"
-        },
         {
           "Player1": "jamiewvh",
           "Player2": "olbeda",
           "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ark4n",
+          "Player2": "Mogged",
+          "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 9",
       "Matches": [
         {
           "Player1": "Ark4n",
           "Player2": "jamiewvh",
-          "Result": "2-1-0"
+          "Result": "2-0-0"
         }
       ]
     }

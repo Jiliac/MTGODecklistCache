@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2025-04-10T00:00:00Z",
     "Name": "Duel Commander Trial 16",
-    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-04-1012765749"
+    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-04-1012765749",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -8542,47 +8545,332 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
-          "Player1": "Killah_SUV",
-          "Player2": "Chichichi",
+          "Player1": "Dreddybajs",
+          "Player2": "Zokla",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "Killah_SUV",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "DuduDeNunu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Demian77",
+          "Player2": "medvedev",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Dafne17",
+          "Player2": "GigaChadSigmaMale",
           "Result": "2-0-0"
         },
         {
           "Player1": "MatheusPonciano",
-          "Player2": "GuiBonella",
+          "Player2": "Rod_Chill",
           "Result": "2-0-0"
         },
         {
-          "Player1": "NeptuneX",
-          "Player2": "Funnyman31399",
-          "Result": "2-1-0"
+          "Player1": "Cheiffireball",
+          "Player2": "NeptuneX",
+          "Result": "2-0-0"
         },
         {
-          "Player1": "Cheiffireball",
-          "Player2": "albertoSD",
+          "Player1": "LucasG1ggs",
+          "Player2": "tabulartony1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Chichichi",
+          "Player2": "DB_fireshoes",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "NickNorman",
+          "Player2": "GuiBonella",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Fat_Chocobo",
+          "Player2": "Ozymandias1996",
           "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 2",
       "Matches": [
+        {
+          "Player1": "medvedev",
+          "Player2": "Chichichi",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "Funnyman31399",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Zokla",
+          "Player2": "GuiBonella",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Demian77",
+          "Player2": "NeptuneX",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "tabulartony1",
+          "Player2": "ZacharyHaleComstock",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MatheusPonciano",
+          "Player2": "DuduDeNunu",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Cheiffireball",
+          "Player2": "LucasG1ggs",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Fat_Chocobo",
+          "Player2": "Dafne17",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Killah_SUV",
+          "Player2": "DB_fireshoes",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "NickNorman",
+          "Player2": "Ozymandias1996",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dreddybajs",
+          "Player2": "Rod_Chill",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "Cheiffireball",
+          "Player2": "Chichichi",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "GigaChadSigmaMale",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "NickNorman",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Funnyman31399",
+          "Player2": "MatheusPonciano",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dafne17",
+          "Player2": "GuiBonella",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Demian77",
+          "Player2": "Ozymandias1996",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "DuduDeNunu",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Killah_SUV",
+          "Player2": "Rod_Chill",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "NeptuneX",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Fat_Chocobo",
+          "Player2": "Zokla",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "Chichichi",
+          "Player2": "GuiBonella",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "Ozymandias1996",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Funnyman31399",
+          "Player2": "Dafne17",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "GigaChadSigmaMale",
+          "Player2": "DuduDeNunu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "Rod_Chill",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "NickNorman",
+          "Player2": "Killah_SUV",
+          "Result": "0-2-0"
+        },
         {
           "Player1": "MatheusPonciano",
           "Player2": "Cheiffireball",
           "Result": "2-0-0"
         },
         {
-          "Player1": "Killah_SUV",
+          "Player1": "albertoSD",
+          "Player2": "ZacharyHaleComstock",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Demian77",
+          "Player2": "Fat_Chocobo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Zokla",
           "Player2": "NeptuneX",
-          "Result": "2-1-0"
+          "Result": "0-2-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "medvedev",
+          "Player2": "Ozymandias1996",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "GigaChadSigmaMale",
+          "Player2": "Rod_Chill",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Funnyman31399",
+          "Player2": "Chichichi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Demian77",
+          "Player2": "Cheiffireball",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Killah_SUV",
+          "Player2": "GuiBonella",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "NickNorman",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Zokla",
+          "Player2": "DuduDeNunu",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "Dafne17",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MatheusPonciano",
+          "Player2": "NeptuneX",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "Fat_Chocobo",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "MatheusPonciano",
+          "Player2": "GuiBonella",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Chichichi",
+          "Player2": "Killah_SUV",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Funnyman31399",
+          "Player2": "NeptuneX",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "Cheiffireball",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "Matches": [
+        {
+          "Player1": "Killah_SUV",
+          "Player2": "NeptuneX",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MatheusPonciano",
+          "Player2": "Cheiffireball",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
       "Matches": [
         {
           "Player1": "MatheusPonciano",
@@ -8821,7 +9109,7 @@
       "Losses": 2,
       "Draws": 0,
       "OMWP": 0.8,
-      "GWP": 0.0,
+      "GWP": 0,
       "OGWP": 0.697
     },
     {

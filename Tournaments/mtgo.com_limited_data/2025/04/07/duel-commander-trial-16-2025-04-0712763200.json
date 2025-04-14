@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2025-04-07T00:00:00Z",
     "Name": "Duel Commander Trial 16",
-    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-04-0712763200"
+    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-04-0712763200",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -9432,51 +9435,281 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
           "Player1": "ZacharyHaleComstock",
-          "Player2": "Martin_Dominguez",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "TheManLand",
-          "Player2": "Kenzaburo",
+          "Player2": "MatheusPonciano",
           "Result": "2-0-0"
         },
         {
-          "Player1": "Mogg_Flunkies",
-          "Player2": "Zodiacek",
-          "Result": "2-1-0"
+          "Player1": "TheManLand",
+          "Player2": "NickNorman",
+          "Result": "2-0-0"
         },
         {
-          "Player1": "grumgrum",
-          "Player2": "Killah_SUV",
+          "Player1": "haveaboavida",
+          "Player2": "CrazyMorango",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "BARNYARD",
+          "Player2": "-Nausea-",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "duke12",
+          "Player2": "auzzie51",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ice_nine_BIGFAN",
+          "Player2": "Feitosa_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "GuiBonella",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jose Guillermo",
+          "Player2": "DuduDeNunu",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "tabulartony1",
+          "Player2": "Ale_Mtg",
           "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 2",
       "Matches": [
         {
           "Player1": "TheManLand",
-          "Player2": "ZacharyHaleComstock",
+          "Player2": "ice_nine_BIGFAN",
           "Result": "2-0-0"
         },
         {
-          "Player1": "grumgrum",
-          "Player2": "Mogg_Flunkies",
-          "Result": "2-1-0"
+          "Player1": "albertoSD",
+          "Player2": "CrazyMorango",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ale_Mtg",
+          "Player2": "DuduDeNunu",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "BARNYARD",
+          "Player2": "NickNorman",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jose Guillermo",
+          "Player2": "tabulartony1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "duke12",
+          "Player2": "haveaboavida",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "auzzie51",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "-Nausea-",
+          "Player2": "Feitosa_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MatheusPonciano",
+          "Player2": "GuiBonella",
+          "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 3",
       "Matches": [
         {
-          "Player1": "grumgrum",
+          "Player1": "ZacharyHaleComstock",
           "Player2": "TheManLand",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "tabulartony1",
+          "Player2": "MatheusPonciano",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jose Guillermo",
+          "Player2": "albertoSD",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "duke12",
+          "Player2": "BARNYARD",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Ale_Mtg",
+          "Player2": "haveaboavida",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "auzzie51",
+          "Player2": "CrazyMorango",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ice_nine_BIGFAN",
+          "Player2": "DuduDeNunu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "NickNorman",
+          "Player2": "Feitosa_",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "BARNYARD",
+          "Player2": "ice_nine_BIGFAN",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jose Guillermo",
+          "Player2": "NickNorman",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MatheusPonciano",
+          "Player2": "Feitosa_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "tabulartony1",
+          "Player2": "CrazyMorango",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "haveaboavida",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "TheManLand",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "auzzie51",
+          "Player2": "Ale_Mtg",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "GuiBonella",
+          "Player2": "DuduDeNunu",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "auzzie51",
+          "Player2": "haveaboavida",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jose Guillermo",
+          "Player2": "TheManLand",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "ice_nine_BIGFAN",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MatheusPonciano",
+          "Player2": "CrazyMorango",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "BARNYARD",
+          "Player2": "GuiBonella",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "tabulartony1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "NickNorman",
+          "Player2": "DuduDeNunu",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "tabulartony1",
+          "Player2": "ice_nine_BIGFAN",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "TheManLand",
+          "Player2": "DuduDeNunu",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Jose Guillermo",
+          "Player2": "ZacharyHaleComstock",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "MatheusPonciano",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "Matches": [
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "TheManLand",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MatheusPonciano",
+          "Player2": "ice_nine_BIGFAN",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "Matches": [
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "ice_nine_BIGFAN",
           "Result": "2-0-0"
         }
       ]
@@ -9733,7 +9966,7 @@
       "Losses": 2,
       "Draws": 0,
       "OMWP": 0.7,
-      "GWP": 0.0,
+      "GWP": 0,
       "OGWP": 0.5846
     },
     {

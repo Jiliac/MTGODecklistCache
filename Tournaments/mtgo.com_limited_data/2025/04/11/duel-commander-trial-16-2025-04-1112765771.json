@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2025-04-11T00:00:00Z",
     "Name": "Duel Commander Trial 16",
-    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-04-1112765771"
+    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-04-1112765771",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -8666,37 +8669,267 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
-          "Player1": "boytriton",
-          "Player2": "wraaith",
-          "Result": "2-1-0"
+          "Player1": "Dr4ken",
+          "Player2": "MatheusPonciano",
+          "Result": "0-2-0"
         },
         {
-          "Player1": "VitorCarvalho01",
-          "Player2": "NickNorman",
-          "Result": "2-1-0"
+          "Player1": "wraaith",
+          "Player2": "Gatss",
+          "Result": "2-0-0"
         },
         {
-          "Player1": "GuiBonella",
-          "Player2": "KingHairy",
-          "Result": "2-1-0"
+          "Player1": "Funnyman31399",
+          "Player2": "GuiBonella",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "KingHairy",
+          "Player2": "GigaChadSigmaMale",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Demian77",
+          "Player2": "boytriton",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MaxMedeiros",
+          "Player2": "ZacharyHaleComstock",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dreddybajs",
+          "Player2": "Ale_Mtg",
+          "Result": "0-2-0"
         },
         {
           "Player1": "DuduDeNunu",
-          "Player2": "MatheusPonciano",
-          "Result": "2-1-0"
+          "Player2": "Uzbek",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "stalonge",
+          "Player2": "NickNorman",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "FranMtg",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "VitorCarvalho01",
+          "Result": "0-2-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 2",
       "Matches": [
         {
-          "Player1": "VitorCarvalho01",
+          "Player1": "osmanozguney",
+          "Player2": "KingHairy",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "wraaith",
           "Player2": "DuduDeNunu",
-          "Result": "2-1-0"
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MatheusPonciano",
+          "Player2": "boytriton",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "stalonge",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MaxMedeiros",
+          "Player2": "GuiBonella",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "GigaChadSigmaMale",
+          "Player2": "Gatss",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Dreddybajs",
+          "Player2": "FranMtg",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "NickNorman",
+          "Player2": "Ale_Mtg",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "VitorCarvalho01",
+          "Player2": "albertoSD",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "Dr4ken",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Demian77",
+          "Player2": "Uzbek",
+          "Result": "1-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "albertoSD",
+          "Player2": "GuiBonella",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "Ale_Mtg",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "Uzbek",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "KingHairy",
+          "Player2": "boytriton",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dr4ken",
+          "Player2": "wraaith",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "osmanozguney",
+          "Player2": "Gatss",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "MaxMedeiros",
+          "Player2": "VitorCarvalho01",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "NickNorman",
+          "Player2": "DuduDeNunu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "FranMtg",
+          "Player2": "MatheusPonciano",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "stalonge",
+          "Player2": "wraaith",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "osmanozguney",
+          "Player2": "FranMtg",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "NickNorman",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "Ale_Mtg",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MaxMedeiros",
+          "Player2": "Uzbek",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "boytriton",
+          "Player2": "Gatss",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "GuiBonella",
+          "Player2": "DuduDeNunu",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "KingHairy",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MatheusPonciano",
+          "Player2": "VitorCarvalho01",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "MaxMedeiros",
+          "Player2": "Ale_Mtg",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MatheusPonciano",
+          "Player2": "Uzbek",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "osmanozguney",
+          "Player2": "medvedev",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "DuduDeNunu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "Gatss",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "FranMtg",
+          "Player2": "stalonge",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "wraaith",
+          "Player2": "VitorCarvalho01",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "KingHairy",
+          "Player2": "NickNorman",
+          "Result": "0-2-0"
         },
         {
           "Player1": "boytriton",
@@ -8706,7 +8939,47 @@
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "boytriton",
+          "Player2": "wraaith",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "KingHairy",
+          "Player2": "GuiBonella",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MatheusPonciano",
+          "Player2": "DuduDeNunu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "NickNorman",
+          "Player2": "VitorCarvalho01",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "Matches": [
+        {
+          "Player1": "boytriton",
+          "Player2": "GuiBonella",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "VitorCarvalho01",
+          "Player2": "DuduDeNunu",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
       "Matches": [
         {
           "Player1": "boytriton",

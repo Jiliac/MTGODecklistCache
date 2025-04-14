@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2025-04-12T00:00:00Z",
     "Name": "Duel Commander Trial 16",
-    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-04-1212765786"
+    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-04-1212765786",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -6534,52 +6537,277 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
-          "Player1": "MohoJojo",
-          "Player2": "albertoSD",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "msskinbolic",
-          "Player2": "osmanozguney",
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "boytriton",
           "Result": "2-0-0"
         },
         {
-          "Player1": "DuduDeNunu",
-          "Player2": "medvedev",
+          "Player1": "Arrias",
+          "Player2": "Mogg_Flunkies",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Danielpena397",
+          "Player2": "beauparleur",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "NickNorman",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "Demian77",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "FruitDuChene",
+          "Player2": "DuduDeNunu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "msskinbolic",
+          "Player2": "GLAM_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "MohoJojo",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "msskinbolic",
+          "Player2": "DuduDeNunu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "ecobaronen",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Arrias",
+          "Player2": "beauparleur",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "osmanozguney",
+          "Player2": "GLAM_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Demian77",
+          "Player2": "FruitDuChene",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "Danielpena397",
           "Result": "2-0-0"
         },
         {
           "Player1": "Mogg_Flunkies",
-          "Player2": "ecobaronen",
-          "Result": "2-1-0"
+          "Player2": "MohoJojo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "boytriton",
+          "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 3",
       "Matches": [
         {
-          "Player1": "MohoJojo",
+          "Player1": "Demian77",
+          "Player2": "Arrias",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "GLAM_",
+          "Player2": "ZacharyHaleComstock",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "NickNorman",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "osmanozguney",
+          "Player2": "msskinbolic",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Danielpena397",
+          "Player2": "MohoJojo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Mogg_Flunkies",
           "Player2": "DuduDeNunu",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "ecobaronen",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "FruitDuChene",
+          "Player2": "boytriton",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "osmanozguney",
+          "Player2": "albertoSD",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "GLAM_",
+          "Player2": "Danielpena397",
           "Result": "2-1-0"
+        },
+        {
+          "Player1": "Arrias",
+          "Player2": "MohoJojo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "ZacharyHaleComstock",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "boytriton",
+          "Player2": "beauparleur",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "DuduDeNunu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "NickNorman",
+          "Player2": "Mogg_Flunkies",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Demian77",
+          "Player2": "msskinbolic",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "ecobaronen",
+          "Player2": "Mogg_Flunkies",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "FruitDuChene",
+          "Player2": "Danielpena397",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "NickNorman",
+          "Player2": "beauparleur",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Demian77",
+          "Player2": "boytriton",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "osmanozguney",
+          "Player2": "DuduDeNunu",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "GLAM_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "msskinbolic",
+          "Player2": "Arrias",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "MohoJojo",
+          "Result": "0-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "Mogg_Flunkies",
+          "Player2": "ecobaronen",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "osmanozguney",
+          "Player2": "msskinbolic",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "DuduDeNunu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "MohoJojo",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "Matches": [
+        {
+          "Player1": "DuduDeNunu",
+          "Player2": "MohoJojo",
+          "Result": "0-2-0"
         },
         {
           "Player1": "msskinbolic",
           "Player2": "Mogg_Flunkies",
-          "Result": "2-1-0"
+          "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 8",
       "Matches": [
         {
           "Player1": "msskinbolic",
           "Player2": "MohoJojo",
-          "Result": "2-1-0"
+          "Result": "2-0-0"
         }
       ]
     }
