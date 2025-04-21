@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2025-04-17T00:00:00Z",
     "Name": "Pioneer Challenge 32",
-    "Uri": "https://www.mtgo.com/decklist/pioneer-challenge-32-2025-04-1712769878"
+    "Uri": "https://www.mtgo.com/decklist/pioneer-challenge-32-2025-04-1712769878",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -3844,47 +3847,647 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
-          "Player1": "boytriton",
-          "Player2": "sMann2.0",
+          "Player1": "DelverFofoqueiro",
+          "Player2": "PNascimento",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Venom1",
+          "Player2": "justAlice",
           "Result": "2-0-0"
         },
         {
+          "Player1": "sMann2.0",
+          "Player2": "boom_bust",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Se7enInTheQueue",
+          "Player2": "Mertyrer44",
+          "Result": "0-2-0"
+        },
+        {
           "Player1": "musasabi",
-          "Player2": "Lennny",
-          "Result": "2-1-0"
+          "Player2": "manalacaio",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ACC95",
+          "Player2": "PedraStone",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Lennny",
+          "Player2": "boytriton",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "Cachorrowo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "SuperCow12653",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "totemsilence",
+          "Player2": "Shadowz2005",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LuffyDoChapeuDePalha",
+          "Player2": "Kritik",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "SoulStrong",
+          "Player2": "Chichichi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "klien7",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "kthanakit26",
+          "Player2": "WadeB",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Bachipandi21",
+          "Player2": "JulioP1985",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Traft",
+          "Player2": "ThiGuyAgain365164",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "McWinSauce",
+          "Player2": "VitorCarvalho01",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kaikas",
+          "Player2": "itstime",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "pokerswizard",
+          "Player2": "MJ_23",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Glacier7",
+          "Player2": "Hamuda",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SpockVidaLoka",
+          "Player2": "Strongmind",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Mikol_",
+          "Player2": "70WinRate",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "DarkBone",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "Traft",
+          "Player2": "SuperCow12653",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ACC95",
+          "Player2": "Chichichi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "boytriton",
+          "Player2": "70WinRate",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "sMann2.0",
+          "Player2": "DarkBone",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "pokerswizard",
+          "Player2": "Bachipandi21",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "totemsilence",
+          "Player2": "Beicodegeia",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kthanakit26",
+          "Player2": "Cachorrowo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "justAlice",
+          "Player2": "itstime",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DelverFofoqueiro",
+          "Player2": "manalacaio",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LuffyDoChapeuDePalha",
+          "Player2": "Shadowz2005",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Lennny",
+          "Player2": "Kritik",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "McWinSauce",
+          "Player2": "SpockVidaLoka",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Venom1",
+          "Player2": "SoulStrong",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ThiGuyAgain365164",
+          "Player2": "JulioP1985",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "Glacier7",
+          "Result": "2-0-0"
         },
         {
           "Player1": "PedraStone",
+          "Player2": "Strongmind",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Hamuda",
+          "Player2": "boom_bust",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MJ_23",
+          "Player2": "PNascimento",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "klien7",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "Mertyrer44",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kaikas",
+          "Player2": "VitorCarvalho01",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "WadeB",
+          "Player2": "Mikol_",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "MJ_23",
+          "Player2": "SoulStrong",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Glacier7",
+          "Player2": "SpockVidaLoka",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Lennny",
+          "Player2": "VitorCarvalho01",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "PNascimento",
+          "Player2": "Strongmind",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "boom_bust",
+          "Player2": "JulioP1985",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Traft",
+          "Player2": "Kritik",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Venom1",
+          "Player2": "DelverFofoqueiro",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "sMann2.0",
+          "Player2": "justAlice",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "PedraStone",
+          "Player2": "Mikol_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "totemsilence",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "McWinSauce",
+          "Player2": "ACC95",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "musasabi",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "LuffyDoChapeuDePalha",
+          "Player2": "Bachipandi21",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "Mertyrer44",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Hamuda",
+          "Player2": "manalacaio",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "kaikas",
+          "Player2": "boytriton",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "SuperCow12653",
+          "Player2": "itstime",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kthanakit26",
+          "Player2": "klien7",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "pokerswizard",
+          "Player2": "Mertyrer44",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "VitorCarvalho01",
+          "Player2": "LucasG1ggs",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "McWinSauce",
+          "Player2": "Strongmind",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Kritik",
+          "Player2": "JulioP1985",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Lennny",
           "Player2": "totemsilence",
           "Result": "2-0-0"
         },
         {
-          "Player1": "boom_bust",
-          "Player2": "MJ_23",
+          "Player1": "MJ_23",
+          "Player2": "boom_bust",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "SoulStrong",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Venom1",
+          "Player2": "Glacier7",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "boytriton",
+          "Player2": "Mikol_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "klien7",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "manalacaio",
+          "Player2": "SpockVidaLoka",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kthanakit26",
+          "Player2": "justAlice",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "itstime",
+          "Player2": "PNascimento",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Hamuda",
+          "Player2": "Bachipandi21",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "sMann2.0",
+          "Player2": "LuffyDoChapeuDePalha",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "PedraStone",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kaikas",
+          "Player2": "DelverFofoqueiro",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ACC95",
+          "Player2": "SuperCow12653",
           "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 5",
       "Matches": [
         {
-          "Player1": "boytriton",
+          "Player1": "ACC95",
+          "Player2": "kaikas",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SuperCow12653",
+          "Player2": "SpockVidaLoka",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "McWinSauce",
+          "Player2": "boytriton",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Glacier7",
+          "Player2": "JulioP1985",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "totemsilence",
+          "Player2": "VitorCarvalho01",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "sMann2.0",
+          "Player2": "Venom1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Hamuda",
+          "Player2": "Strongmind",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "boom_bust",
           "Player2": "PedraStone",
-          "Result": "2-1-0"
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kthanakit26",
+          "Player2": "DelverFofoqueiro",
+          "Result": "2-0-0"
         },
         {
           "Player1": "musasabi",
-          "Player2": "boom_bust",
-          "Result": "2-1-0"
+          "Player2": "Kritik",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MJ_23",
+          "Player2": "Lennny",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SoulStrong",
+          "Player2": "LuffyDoChapeuDePalha",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "klien7",
+          "Player2": "itstime",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "pokerswizard",
+          "Player2": "LucasG1ggs",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "justAlice",
+          "Player2": "Mikol_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Mertyrer44",
+          "Player2": "PNascimento",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "Beicodegeia",
+          "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "SpockVidaLoka",
+          "Player2": "DelverFofoqueiro",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "Lennny",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Glacier7",
+          "Player2": "VitorCarvalho01",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "sMann2.0",
+          "Player2": "O_danielakos",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SuperCow12653",
+          "Player2": "Mertyrer44",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "klien7",
+          "Player2": "Bachipandi21",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Venom1",
+          "Player2": "boom_bust",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "pokerswizard",
+          "Player2": "Beicodegeia",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "McWinSauce",
+          "Player2": "Mikol_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kthanakit26",
+          "Player2": "itstime",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "SoulStrong",
+          "Player2": "Kritik",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "justAlice",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MJ_23",
+          "Player2": "PedraStone",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "totemsilence",
+          "Player2": "boytriton",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ACC95",
+          "Player2": "Strongmind",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "LuffyDoChapeuDePalha",
+          "Player2": "Hamuda",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "Matches": [
+        {
+          "Player1": "MJ_23",
+          "Player2": "boom_bust",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "sMann2.0",
+          "Player2": "boytriton",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "totemsilence",
+          "Player2": "PedraStone",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "Lennny",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "Matches": [
+        {
+          "Player1": "boytriton",
+          "Player2": "PedraStone",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "boom_bust",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 9",
       "Matches": [
         {
           "Player1": "musasabi",

@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2025-04-16T00:00:00Z",
     "Name": "Duel Commander Trial 16",
-    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-04-1612769861"
+    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-04-1612769861",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -6182,7 +6185,227 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
+      "Matches": [
+        {
+          "Player1": "osmanozguney",
+          "Player2": "medvedev",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Shatun_",
+          "Player2": "DuduDeNunu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "boytriton",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "duke12",
+          "Player2": "ecobaronen",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "msskinbolic",
+          "Player2": "Ale_Mtg",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Green_Line",
+          "Player2": "beauparleur",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Dr4ken",
+          "Player2": "albertoSD",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "GuiBonella",
+          "Player2": "DB_fireshoes",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "Bawer",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "ecobaronen",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "boytriton",
+          "Player2": "DB_fireshoes",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Shatun_",
+          "Player2": "beauparleur",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "osmanozguney",
+          "Player2": "msskinbolic",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Dr4ken",
+          "Player2": "GuiBonella",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Green_Line",
+          "Player2": "Ale_Mtg",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "duke12",
+          "Player2": "DuduDeNunu",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "_Shatun_",
+          "Player2": "Ale_Mtg",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "GuiBonella",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "duke12",
+          "Player2": "msskinbolic",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "Green_Line",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "boytriton",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "osmanozguney",
+          "Player2": "beauparleur",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DB_fireshoes",
+          "Player2": "DuduDeNunu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "Bawer",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "albertoSD",
+          "Player2": "Ale_Mtg",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "msskinbolic",
+          "Player2": "ZacharyHaleComstock",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "_Shatun_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "boytriton",
+          "Player2": "Bawer",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "GuiBonella",
+          "Player2": "beauparleur",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "osmanozguney",
+          "Player2": "duke12",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "DuduDeNunu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Green_Line",
+          "Player2": "DB_fireshoes",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "DuduDeNunu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "boytriton",
+          "Player2": "Ale_Mtg",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "duke12",
+          "Player2": "albertoSD",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "Bawer",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "msskinbolic",
+          "Player2": "GuiBonella",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "beauparleur",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "osmanozguney",
+          "Player2": "Green_Line",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
       "Matches": [
         {
           "Player1": "msskinbolic",
@@ -6190,9 +6413,9 @@
           "Result": "2-0-0"
         },
         {
-          "Player1": "Green_Line",
-          "Player2": "osmanozguney",
-          "Result": "2-1-0"
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "DuduDeNunu",
+          "Result": "0-2-0"
         },
         {
           "Player1": "ecobaronen",
@@ -6200,34 +6423,34 @@
           "Result": "2-0-0"
         },
         {
-          "Player1": "DuduDeNunu",
-          "Player2": "ZacharyHaleComstock",
-          "Result": "2-1-0"
+          "Player1": "osmanozguney",
+          "Player2": "Green_Line",
+          "Result": "0-2-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 7",
       "Matches": [
-        {
-          "Player1": "Green_Line",
-          "Player2": "ecobaronen",
-          "Result": "2-1-0"
-        },
         {
           "Player1": "msskinbolic",
           "Player2": "DuduDeNunu",
           "Result": "2-0-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "Green_Line",
+          "Result": "0-2-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 8",
       "Matches": [
         {
           "Player1": "msskinbolic",
           "Player2": "Green_Line",
-          "Result": "2-1-0"
+          "Result": "2-0-0"
         }
       ]
     }

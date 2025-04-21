@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2025-04-14T00:00:00Z",
     "Name": "Duel Commander Trial 16",
-    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-04-1412769050"
+    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-04-1412769050",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -8614,52 +8617,287 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
-          "Player1": "msskinbolic",
-          "Player2": "grumgrum",
+          "Player1": "albertoSD",
+          "Player2": "DuduDeNunu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MatheusPonciano",
+          "Player2": "NickNorman",
           "Result": "2-0-0"
         },
         {
-          "Player1": "GigaChadSigmaMale",
-          "Player2": "medvedev",
-          "Result": "2-1-0"
+          "Player1": "JapaneseFisherman",
+          "Player2": "GuiBonella",
+          "Result": "0-2-0"
         },
         {
-          "Player1": "GuiBonella",
-          "Player2": "Annona",
-          "Result": "2-1-0"
+          "Player1": "Pernobyl",
+          "Player2": "GigaChadSigmaMale",
+          "Result": "2-0-0"
         },
         {
-          "Player1": "GodOfSlaughter",
-          "Player2": "Tsubasa_Cat",
-          "Result": "2-1-0"
+          "Player1": "Jose Guillermo",
+          "Player2": "Joyfulwaffle",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "Carbozo",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "flchmt",
+          "Player2": "2345678",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "chanel-santini",
+          "Player2": "PieGonti",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Tunaktunak",
+          "Player2": "boytriton",
+          "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 2",
       "Matches": [
         {
-          "Player1": "GodOfSlaughter",
+          "Player1": "NickNorman",
+          "Player2": "flchmt",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MatheusPonciano",
+          "Player2": "DuduDeNunu",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jose Guillermo",
+          "Player2": "GuiBonella",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "boytriton",
+          "Player2": "GigaChadSigmaMale",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JapaneseFisherman",
+          "Player2": "albertoSD",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "Tunaktunak",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Pernobyl",
+          "Player2": "2345678",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "PieGonti",
+          "Player2": "Joyfulwaffle",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Carbozo",
+          "Player2": "chanel-santini",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "MatheusPonciano",
+          "Player2": "GuiBonella",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "DuduDeNunu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "2345678",
+          "Player2": "Carbozo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "boytriton",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "flchmt",
+          "Player2": "chanel-santini",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JapaneseFisherman",
+          "Player2": "NickNorman",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Pernobyl",
+          "Player2": "PieGonti",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jose Guillermo",
+          "Player2": "Tunaktunak",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "PieGonti",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "flchmt",
+          "Player2": "DuduDeNunu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Pernobyl",
+          "Player2": "MatheusPonciano",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "JapaneseFisherman",
+          "Player2": "boytriton",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Tunaktunak",
+          "Player2": "chanel-santini",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "2345678",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jose Guillermo",
+          "Player2": "GigaChadSigmaMale",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "GuiBonella",
+          "Player2": "Carbozo",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "JapaneseFisherman",
+          "Player2": "Pernobyl",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "flchmt",
+          "Player2": "boytriton",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Tunaktunak",
+          "Player2": "PieGonti",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "NickNorman",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "albertoSD",
           "Player2": "GuiBonella",
           "Result": "2-0-0"
         },
         {
-          "Player1": "GigaChadSigmaMale",
-          "Player2": "msskinbolic",
-          "Result": "2-1-0"
+          "Player1": "MatheusPonciano",
+          "Player2": "Carbozo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "2345678",
+          "Player2": "chanel-santini",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jose Guillermo",
+          "Player2": "DuduDeNunu",
+          "Result": "0-2-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 6",
       "Matches": [
         {
-          "Player1": "GigaChadSigmaMale",
-          "Player2": "GodOfSlaughter",
-          "Result": "2-1-0"
+          "Player1": "albertoSD",
+          "Player2": "chanel-santini",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MatheusPonciano",
+          "Player2": "DuduDeNunu",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Tunaktunak",
+          "Player2": "GuiBonella",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JapaneseFisherman",
+          "Player2": "Carbozo",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "Matches": [
+        {
+          "Player1": "JapaneseFisherman",
+          "Player2": "albertoSD",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Tunaktunak",
+          "Player2": "MatheusPonciano",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "Matches": [
+        {
+          "Player1": "albertoSD",
+          "Player2": "MatheusPonciano",
+          "Result": "2-0-0"
         }
       ]
     }
