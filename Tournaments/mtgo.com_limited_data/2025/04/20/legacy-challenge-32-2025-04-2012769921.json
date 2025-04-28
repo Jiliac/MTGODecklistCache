@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2025-04-20T00:00:00Z",
     "Name": "Legacy Challenge 32",
-    "Uri": "https://www.mtgo.com/decklist/legacy-challenge-32-2025-04-2012769921"
+    "Uri": "https://www.mtgo.com/decklist/legacy-challenge-32-2025-04-2012769921",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -4576,52 +4579,662 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
-          "Player1": "Halle87z3",
+          "Player1": "wickedeasy81",
+          "Player2": "ganesh_69",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "silviawataru",
+          "Player2": "DethFrmAbove",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Diem4x",
+          "Player2": "Halle87z3",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Shatun_",
+          "Player2": "aphextf",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "naosukesamurai",
+          "Player2": "Thebigempty92",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "Taddy_99",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dafne17",
+          "Player2": "Roodslay",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ReformedPaolo",
+          "Player2": "Arca_de_Karn",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "alli",
+          "Player2": "The_shallow_grave",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "tao_bye_bye",
+          "Player2": "Tinker_deck",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Otazz",
+          "Player2": "RoyalCloak",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "runkor",
+          "Player2": "updraftelemental",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "MAFS",
+          "Player2": "Chichichi",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Buwen",
+          "Player2": "wingzerofnc",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "TonyScapone",
+          "Player2": "Pharina",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "wonderPreaux",
+          "Player2": "Oceansoul92",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "SuperCow12653",
+          "Player2": "xJCloud",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "John1111",
+          "Player2": "Bawer",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "JPA93",
+          "Player2": "ScreenwriterNY",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "gr33nashe",
+          "Player2": "FirstToThirst",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JakeTMS",
+          "Player2": "Geodude_Jared",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Carroz",
           "Player2": "bless_von",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ItsSwiftyTime",
+          "Player2": "puppycatmtg",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "Diem4x",
+          "Player2": "JPA93",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ganesh_69",
+          "Player2": "Chichichi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Carroz",
+          "Player2": "RoyalCloak",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Oceansoul92",
+          "Player2": "TonyScapone",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "Halle87z3",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "gr33nashe",
+          "Player2": "Bawer",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "tao_bye_bye",
+          "Player2": "puppycatmtg",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "SuperCow12653",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "John1111",
+          "Player2": "The_shallow_grave",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "silviawataru",
+          "Player2": "Tinker_deck",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "wickedeasy81",
+          "Player2": "FirstToThirst",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "wingzerofnc",
+          "Player2": "Otazz",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ReformedPaolo",
+          "Player2": "Roodslay",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "wonderPreaux",
+          "Player2": "naosukesamurai",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Geodude_Jared",
+          "Player2": "Taddy_99",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ScreenwriterNY",
+          "Player2": "runkor",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "alli",
+          "Player2": "JakeTMS",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dafne17",
+          "Player2": "Thebigempty92",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Buwen",
+          "Player2": "xJCloud",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Shatun_",
+          "Player2": "ItsSwiftyTime",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Pharina",
+          "Player2": "Arca_de_Karn",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MAFS",
+          "Player2": "DethFrmAbove",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "wingzerofnc",
+          "Player2": "Tinker_deck",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "runkor",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Oceansoul92",
+          "Player2": "MAFS",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Buwen",
+          "Player2": "naosukesamurai",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Diem4x",
+          "Player2": "DethFrmAbove",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "gr33nashe",
+          "Player2": "ScreenwriterNY",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Carroz",
+          "Player2": "FirstToThirst",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "wickedeasy81",
+          "Player2": "RoyalCloak",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SuperCow12653",
+          "Player2": "The_shallow_grave",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "wonderPreaux",
+          "Player2": "Pharina",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ganesh_69",
+          "Player2": "bless_von",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Chichichi",
+          "Player2": "JakeTMS",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "silviawataru",
+          "Player2": "ItsSwiftyTime",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "xJCloud",
+          "Player2": "Arca_de_Karn",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Shatun_",
+          "Player2": "Halle87z3",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Roodslay",
+          "Player2": "tao_bye_bye",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "JPA93",
+          "Player2": "Thebigempty92",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Taddy_99",
+          "Player2": "Bawer",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Otazz",
+          "Player2": "Dafne17",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "alli",
+          "Player2": "TonyScapone",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "Bawer",
+          "Player2": "Thebigempty92",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "wonderPreaux",
+          "Player2": "wingzerofnc",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MAFS",
+          "Player2": "xJCloud",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "_Shatun_",
+          "Player2": "Chichichi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "alli",
+          "Player2": "Otazz",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Carroz",
+          "Player2": "DethFrmAbove",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Arca_de_Karn",
+          "Player2": "Taddy_99",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Oceansoul92",
+          "Player2": "SuperCow12653",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Buwen",
+          "Player2": "runkor",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "wickedeasy81",
+          "Player2": "puppycatmtg",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "bless_von",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "gr33nashe",
+          "Player2": "ganesh_69",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TonyScapone",
+          "Player2": "ItsSwiftyTime",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "JPA93",
+          "Player2": "JakeTMS",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dafne17",
+          "Player2": "tao_bye_bye",
           "Result": "2-0-0"
         },
         {
           "Player1": "silviawataru",
           "Player2": "ScreenwriterNY",
-          "Result": "2-1-0"
+          "Result": "0-2-0"
         },
         {
-          "Player1": "Oceansoul92",
-          "Player2": "Otazz",
-          "Result": "2-1-0"
+          "Player1": "Diem4x",
+          "Player2": "Pharina",
+          "Result": "0-0-0"
         },
         {
-          "Player1": "JPA93",
-          "Player2": "alli",
-          "Result": "2-1-0"
+          "Player1": "FirstToThirst",
+          "Player2": "Halle87z3",
+          "Result": "0-2-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 5",
       "Matches": [
         {
-          "Player1": "silviawataru",
-          "Player2": "JPA93",
-          "Result": "2-1-0"
+          "Player1": "wonderPreaux",
+          "Player2": "Halle87z3",
+          "Result": "0-2-0"
         },
         {
-          "Player1": "Halle87z3",
-          "Player2": "Oceansoul92",
+          "Player1": "Bawer",
+          "Player2": "RoyalCloak",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Thebigempty92",
+          "Player2": "Pharina",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Oceansoul92",
+          "Player2": "Taddy_99",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ScreenwriterNY",
+          "Player2": "bless_von",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "Dafne17",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "gr33nashe",
+          "Player2": "Otazz",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "wickedeasy81",
+          "Player2": "MAFS",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ganesh_69",
+          "Player2": "xJCloud",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Diem4x",
+          "Player2": "wingzerofnc",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Carroz",
+          "Player2": "tao_bye_bye",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "_Shatun_",
+          "Player2": "Arca_de_Karn",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "silviawataru",
+          "Player2": "alli",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SuperCow12653",
+          "Player2": "puppycatmtg",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "runkor",
+          "Player2": "TonyScapone",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "FirstToThirst",
+          "Player2": "JakeTMS",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "JPA93",
+          "Player2": "ItsSwiftyTime",
           "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 6",
       "Matches": [
         {
+          "Player1": "ScreenwriterNY",
+          "Player2": "Otazz",
+          "Result": "0-2-0"
+        },
+        {
           "Player1": "Halle87z3",
-          "Player2": "silviawataru",
+          "Player2": "Arca_de_Karn",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "runkor",
+          "Player2": "puppycatmtg",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "wonderPreaux",
+          "Player2": "JakeTMS",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "TonyScapone",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Carroz",
+          "Player2": "Taddy_99",
           "Result": "2-1-0"
+        },
+        {
+          "Player1": "MAFS",
+          "Player2": "Thebigempty92",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "silviawataru",
+          "Player2": "Oceansoul92",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "JPA93",
+          "Player2": "bless_von",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Diem4x",
+          "Player2": "ItsSwiftyTime",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "gr33nashe",
+          "Player2": "SuperCow12653",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Shatun_",
+          "Player2": "tao_bye_bye",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "xJCloud",
+          "Player2": "FirstToThirst",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ganesh_69",
+          "Player2": "Bawer",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Pharina",
+          "Player2": "RoyalCloak",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "alli",
+          "Player2": "Dafne17",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "Matches": [
+        {
+          "Player1": "bless_von",
+          "Player2": "Halle87z3",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Oceansoul92",
+          "Player2": "Otazz",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "alli",
+          "Player2": "JPA93",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "silviawataru",
+          "Player2": "ScreenwriterNY",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "Matches": [
+        {
+          "Player1": "Oceansoul92",
+          "Player2": "Halle87z3",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "silviawataru",
+          "Player2": "JPA93",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 9",
+      "Matches": [
+        {
+          "Player1": "silviawataru",
+          "Player2": "Halle87z3",
+          "Result": "0-2-0"
         }
       ]
     }

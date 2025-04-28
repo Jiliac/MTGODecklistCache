@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2025-04-19T00:00:00Z",
     "Name": "Legacy Challenge 32",
-    "Uri": "https://www.mtgo.com/decklist/legacy-challenge-32-2025-04-1912769906"
+    "Uri": "https://www.mtgo.com/decklist/legacy-challenge-32-2025-04-1912769906",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -4380,52 +4383,602 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
-          "Player1": "_INF_",
-          "Player2": "ReformedPaolo",
+          "Player1": "yoshiwata",
+          "Player2": "Ailien02",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "wooop_orc",
+          "Player2": "chrisvanart",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "AdventuresWithTarmo",
+          "Player2": "Leovoldo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ettore09",
+          "Player2": "Tsubasa_Cat",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ganesh_69",
+          "Player2": "karma_00",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Czechito",
+          "Player2": "DemonicTutors",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Koike",
+          "Player2": "_INF_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "snoopy-magic",
+          "Player2": "choutin",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Oceansoul92",
+          "Player2": "rikimaru6",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kentaro_hokori",
+          "Player2": "jibeta",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Sprouts",
+          "Player2": "death_grips",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "Suzukiii",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Sol-e22558",
+          "Player2": "Gamedaiv",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "TheGrimLavamancer",
+          "Player2": "Ryuho090",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Pharina",
+          "Player2": "_epinephrine",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "JPA93",
+          "Player2": "clan",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Dreddybajs",
+          "Player2": "AngusMTG",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ReformedPaolo",
+          "Player2": "_Joseba_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Azerate218",
+          "Player2": "Taddy_99",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "Oceansoul92",
+          "Player2": "AngusMTG",
           "Result": "2-0-0"
         },
         {
           "Player1": "jibeta",
-          "Player2": "Azerate218",
+          "Player2": "clan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "wooop_orc",
+          "Player2": "Koike",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "_INF_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Ettore09",
+          "Player2": "death_grips",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Ryuho090",
+          "Player2": "Pharina",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Suzukiii",
+          "Player2": "ReformedPaolo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "JPA93",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kentaro_hokori",
+          "Player2": "chrisvanart",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Sol-e22558",
+          "Player2": "Leovoldo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Gamedaiv",
+          "Player2": "karma_00",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "AdventuresWithTarmo",
+          "Player2": "Czechito",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Sprouts",
+          "Player2": "Ailien02",
           "Result": "2-1-0"
         },
+        {
+          "Player1": "snoopy-magic",
+          "Player2": "DemonicTutors",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "rikimaru6",
+          "Player2": "_Joseba_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Azerate218",
+          "Player2": "choutin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ganesh_69",
+          "Player2": "Taddy_99",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Dreddybajs",
+          "Player2": "TheGrimLavamancer",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "_epinephrine",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "jibeta",
+          "Player2": "_INF_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Leovoldo",
+          "Player2": "Taddy_99",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Joseba_",
+          "Player2": "TheGrimLavamancer",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Oceansoul92",
+          "Player2": "Tsubasa_Cat",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "clan",
+          "Player2": "death_grips",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "rikimaru6",
+          "Player2": "Pharina",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "Czechito",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "chrisvanart",
+          "Player2": "Azerate218",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kentaro_hokori",
+          "Player2": "DemonicTutors",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "wooop_orc",
+          "Player2": "choutin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Sprouts",
+          "Player2": "AdventuresWithTarmo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dreddybajs",
+          "Player2": "JPA93",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Ettore09",
+          "Player2": "snoopy-magic",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ganesh_69",
+          "Player2": "AngusMTG",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ReformedPaolo",
+          "Player2": "Gamedaiv",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "karma_00",
+          "Player2": "_epinephrine",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Ailien02",
+          "Player2": "Ryuho090",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Suzukiii",
+          "Player2": "Koike",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "Dreddybajs",
+          "Player2": "_INF_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Azerate218",
+          "Player2": "_epinephrine",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "rikimaru6",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Suzukiii",
+          "Player2": "AngusMTG",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kentaro_hokori",
+          "Player2": "Gamedaiv",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "wooop_orc",
+          "Player2": "Czechito",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "TheGrimLavamancer",
+          "Player2": "death_grips",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Oceansoul92",
+          "Player2": "choutin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ganesh_69",
+          "Player2": "Koike",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "AdventuresWithTarmo",
+          "Player2": "Ailien02",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Pharina",
+          "Player2": "Taddy_99",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "jibeta",
+          "Player2": "karma_00",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "snoopy-magic",
+          "Player2": "clan",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Sprouts",
+          "Player2": "_Joseba_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "Ryuho090",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "chrisvanart",
+          "Player2": "yoshiwata",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ReformedPaolo",
+          "Player2": "DemonicTutors",
+          "Result": "0-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "Mogged",
+          "Player2": "ganesh_69",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "ReformedPaolo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "wooop_orc",
+          "Player2": "Oceansoul92",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "clan",
+          "Player2": "Pharina",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "karma_00",
+          "Player2": "Taddy_99",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "AdventuresWithTarmo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TheGrimLavamancer",
+          "Player2": "DemonicTutors",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Sprouts",
+          "Player2": "Azerate218",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "chrisvanart",
+          "Player2": "choutin",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "snoopy-magic",
+          "Player2": "Koike",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jibeta",
+          "Player2": "death_grips",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dreddybajs",
+          "Player2": "Czechito",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ailien02",
+          "Player2": "_INF_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Joseba_",
+          "Player2": "_epinephrine",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Gamedaiv",
+          "Player2": "AngusMTG",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "rikimaru6",
+          "Player2": "Ryuho090",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "chrisvanart",
+          "Player2": "Koike",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "wooop_orc",
+          "Player2": "AngusMTG",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Sprouts",
+          "Player2": "_epinephrine",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TheGrimLavamancer",
+          "Player2": "karma_00",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "death_grips",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "snoopy-magic",
+          "Player2": "Ryuho090",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "Azerate218",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "DemonicTutors",
+          "Player2": "Pharina",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "AdventuresWithTarmo",
+          "Player2": "choutin",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Dreddybajs",
+          "Player2": "ReformedPaolo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Czechito",
+          "Player2": "Ailien02",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Joseba_",
+          "Player2": "_INF_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "jibeta",
+          "Player2": "Gamedaiv",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Oceansoul92",
+          "Player2": "Taddy_99",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "clan",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "Matches": [
         {
           "Player1": "Sprouts",
           "Player2": "karma_00",
           "Result": "2-0-0"
         },
         {
-          "Player1": "_epinephrine",
-          "Player2": "_Joseba_",
-          "Result": "2-1-0"
+          "Player1": "jibeta",
+          "Player2": "Azerate218",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Joseba_",
+          "Player2": "_epinephrine",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ReformedPaolo",
+          "Player2": "_INF_",
+          "Result": "0-2-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 8",
       "Matches": [
         {
           "Player1": "jibeta",
           "Player2": "_epinephrine",
-          "Result": "2-0-0"
+          "Result": "0-0-0"
         },
         {
           "Player1": "Sprouts",
           "Player2": "_INF_",
-          "Result": "2-1-0"
+          "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 9",
       "Matches": [
         {
           "Player1": "Sprouts",
           "Player2": "jibeta",
-          "Result": "2-1-0"
+          "Result": "2-0-0"
         }
       ]
     }

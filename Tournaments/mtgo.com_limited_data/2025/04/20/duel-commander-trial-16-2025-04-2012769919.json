@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2025-04-20T00:00:00Z",
     "Name": "Duel Commander Trial 16",
-    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-04-2012769919"
+    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-04-2012769919",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -6374,52 +6377,272 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
           "Player1": "ZacharyHaleComstock",
           "Player2": "Uzbek",
-          "Result": "2-1-0"
+          "Result": "2-0-0"
         },
+        {
+          "Player1": "zarbo",
+          "Player2": "CardGameAddict",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "Tsubasa_Cat",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "GLAM_",
+          "Player2": "lovetapsmtg",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dreddybajs",
+          "Player2": "GigaChadSigmaMale",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Sneil27",
+          "Player2": "GuiBonella",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "XIII_",
+          "Player2": "drorem",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LeoFa",
+          "Player2": "KingHairy",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "Dreddybajs",
+          "Player2": "lovetapsmtg",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "GigaChadSigmaMale",
+          "Player2": "drorem",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "Oror",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LeoFa",
+          "Player2": "zarbo",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "KingHairy",
+          "Player2": "CardGameAddict",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "GuiBonella",
+          "Player2": "Uzbek",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "GLAM_",
+          "Player2": "Sneil27",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "XIII_",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "Sneil27",
+          "Player2": "Oror",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Dreddybajs",
+          "Player2": "ecobaronen",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "zarbo",
+          "Player2": "XIII_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "GigaChadSigmaMale",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "CardGameAddict",
+          "Player2": "Uzbek",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "GLAM_",
+          "Player2": "LeoFa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "GuiBonella",
+          "Player2": "Tsubasa_Cat",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "lovetapsmtg",
+          "Player2": "drorem",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "GuiBonella",
+          "Player2": "GigaChadSigmaMale",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "drorem",
+          "Player2": "Uzbek",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Dreddybajs",
+          "Player2": "Oror",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Sneil27",
+          "Player2": "LeoFa",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "zarbo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "GLAM_",
+          "Player2": "ZacharyHaleComstock",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "XIII_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "CardGameAddict",
+          "Player2": "lovetapsmtg",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "ecobaronen",
+          "Player2": "LeoFa",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "CardGameAddict",
+          "Player2": "XIII_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "zarbo",
+          "Player2": "Uzbek",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "GLAM_",
+          "Player2": "GigaChadSigmaMale",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "Oror",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Dreddybajs",
+          "Player2": "GuiBonella",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "drorem",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
         {
           "Player1": "LeoFa",
           "Player2": "GLAM_",
           "Result": "2-0-0"
         },
         {
-          "Player1": "GigaChadSigmaMale",
-          "Player2": "GuiBonella",
-          "Result": "2-0-0"
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "Uzbek",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "GuiBonella",
+          "Player2": "GigaChadSigmaMale",
+          "Result": "0-2-0"
         },
         {
           "Player1": "ecobaronen",
           "Player2": "Oror",
-          "Result": "2-1-0"
+          "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 7",
       "Matches": [
         {
-          "Player1": "GigaChadSigmaMale",
-          "Player2": "ecobaronen",
-          "Result": "2-0-0"
+          "Player1": "ecobaronen",
+          "Player2": "GigaChadSigmaMale",
+          "Result": "0-2-0"
         },
         {
           "Player1": "ZacharyHaleComstock",
           "Player2": "LeoFa",
-          "Result": "2-1-0"
+          "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 8",
       "Matches": [
         {
-          "Player1": "GigaChadSigmaMale",
-          "Player2": "ZacharyHaleComstock",
-          "Result": "2-0-0"
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "GigaChadSigmaMale",
+          "Result": "0-2-0"
         }
       ]
     }
