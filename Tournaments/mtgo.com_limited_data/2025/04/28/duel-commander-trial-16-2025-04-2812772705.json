@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2025-04-28T00:00:00Z",
     "Name": "Duel Commander Trial 16",
-    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-04-2812772705"
+    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-04-2812772705",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -5980,52 +5983,227 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
-          "Player1": "Czechito",
-          "Player2": "Boumbo76",
-          "Result": "2-1-0"
+          "Player1": "Danielpena397",
+          "Player2": "teochurch",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Rod_Chill",
+          "Player2": "ecobaronen",
+          "Result": "0-0-0"
         },
         {
           "Player1": "LeoFa",
-          "Player2": "sebastianpozzo",
-          "Result": "2-1-0"
+          "Player2": "manalacaio",
+          "Result": "2-0-0"
         },
         {
+          "Player1": "NickNorman",
+          "Player2": "Cheiffireball",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "mephidro",
+          "Player2": "sebastianpozzo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "rinazina",
+          "Player2": "Beicodegeia",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Boumbo76",
+          "Player2": "kasa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Czechito",
+          "Player2": "GuiBonella",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "NickNorman",
+          "Player2": "Danielpena397",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "GuiBonella",
+          "Player2": "teochurch",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Czechito",
+          "Player2": "Rod_Chill",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "rinazina",
+          "Player2": "kasa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "sebastianpozzo",
+          "Player2": "Beicodegeia",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Boumbo76",
+          "Player2": "LeoFa",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Cheiffireball",
+          "Player2": "manalacaio",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "mephidro",
+          "Player2": "ecobaronen",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "mephidro",
+          "Player2": "Rod_Chill",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "sebastianpozzo",
+          "Player2": "manalacaio",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "LeoFa",
+          "Player2": "Beicodegeia",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Czechito",
+          "Player2": "Danielpena397",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "NickNorman",
+          "Player2": "GuiBonella",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Cheiffireball",
+          "Player2": "teochurch",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "rinazina",
+          "Player2": "Boumbo76",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "kasa",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
           "Player1": "Beicodegeia",
+          "Player2": "Danielpena397",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "sebastianpozzo",
           "Player2": "NickNorman",
-          "Result": "2-1-0"
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "mephidro",
+          "Player2": "Boumbo76",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "manalacaio",
+          "Player2": "GuiBonella",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "LeoFa",
+          "Player2": "Czechito",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kasa",
+          "Player2": "teochurch",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "rinazina",
+          "Player2": "Rod_Chill",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "sebastianpozzo",
+          "Player2": "LeoFa",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Boumbo76",
+          "Player2": "Czechito",
+          "Result": "0-2-0"
         },
         {
           "Player1": "mephidro",
           "Player2": "Danielpena397",
-          "Result": "2-1-0"
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "NickNorman",
+          "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 6",
       "Matches": [
         {
           "Player1": "Beicodegeia",
           "Player2": "Czechito",
-          "Result": "2-1-0"
+          "Result": "2-0-0"
         },
         {
-          "Player1": "LeoFa",
-          "Player2": "mephidro",
-          "Result": "2-1-0"
+          "Player1": "mephidro",
+          "Player2": "LeoFa",
+          "Result": "1-2-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 7",
       "Matches": [
         {
-          "Player1": "Beicodegeia",
-          "Player2": "LeoFa",
-          "Result": "2-0-0"
+          "Player1": "LeoFa",
+          "Player2": "Beicodegeia",
+          "Result": "0-2-0"
         }
       ]
     }
@@ -6039,7 +6217,7 @@
       "Losses": 0,
       "Draws": 0,
       "OMWP": 0.5833,
-      "GWP": 1.0,
+      "GWP": 1,
       "OGWP": 0.5111
     },
     {

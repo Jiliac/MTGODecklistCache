@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2025-04-27T00:00:00Z",
     "Name": "Duel Commander Trial 16",
-    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-04-2712772685"
+    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-04-2712772685",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -5924,52 +5927,212 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
-          "Player1": "boytriton",
-          "Player2": "Pasdejambon",
+          "Player1": "Beicodegeia",
+          "Player2": "Tsubasa_Cat",
           "Result": "2-0-0"
         },
         {
+          "Player1": "albertoSD",
+          "Player2": "NickNorman",
+          "Result": "0-2-0"
+        },
+        {
           "Player1": "duke12",
-          "Player2": "Fat_Chocobo",
+          "Player2": "kasa",
           "Result": "2-0-0"
         },
         {
           "Player1": "Diem4x",
           "Player2": "Gianhunter",
-          "Result": "2-0-0"
+          "Result": "0-2-0"
         },
         {
-          "Player1": "NickNorman",
-          "Player2": "Beicodegeia",
-          "Result": "2-1-0"
+          "Player1": "mephidro",
+          "Player2": "boytriton",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Dreddybajs",
+          "Player2": "Fat_Chocobo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "cool95",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Tunaktunak",
+          "Player2": "Pasdejambon",
+          "Result": "0-2-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 2",
       "Matches": [
         {
-          "Player1": "Diem4x",
-          "Player2": "boytriton",
+          "Player1": "cool95",
+          "Player2": "Gianhunter",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "mephidro",
+          "Player2": "Tunaktunak",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Dreddybajs",
+          "Player2": "Tsubasa_Cat",
           "Result": "2-0-0"
         },
         {
           "Player1": "duke12",
+          "Player2": "Pasdejambon",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kasa",
+          "Player2": "Diem4x",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "boytriton",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Fat_Chocobo",
           "Player2": "NickNorman",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "mephidro",
+          "Player2": "Tsubasa_Cat",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Fat_Chocobo",
+          "Player2": "kasa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "NickNorman",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "cool95",
+          "Player2": "Pasdejambon",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Diem4x",
+          "Player2": "Tunaktunak",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "duke12",
+          "Player2": "Gianhunter",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "boytriton",
+          "Player2": "Dreddybajs",
           "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 4",
       "Matches": [
         {
           "Player1": "Diem4x",
+          "Player2": "Fat_Chocobo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "mephidro",
+          "Player2": "cool95",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Pasdejambon",
+          "Player2": "Beicodegeia",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "NickNorman",
+          "Player2": "Gianhunter",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "boytriton",
           "Player2": "duke12",
           "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dreddybajs",
+          "Player2": "Tunaktunak",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "Gianhunter",
+          "Player2": "Diem4x",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Pasdejambon",
+          "Player2": "boytriton",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "NickNorman",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "duke12",
+          "Player2": "Fat_Chocobo",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "duke12",
+          "Player2": "NickNorman",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "boytriton",
+          "Player2": "Diem4x",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "Matches": [
+        {
+          "Player1": "duke12",
+          "Player2": "Diem4x",
+          "Result": "0-2-0"
         }
       ]
     }
@@ -6126,7 +6289,7 @@
       "Losses": 1,
       "Draws": 0,
       "OMWP": 0.75,
-      "GWP": 0.0,
+      "GWP": 0,
       "OGWP": 0.6364
     },
     {

@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2025-05-03T00:00:00Z",
     "Name": "Standard Challenge 32",
-    "Uri": "https://www.mtgo.com/decklist/standard-challenge-32-2025-05-0312774495"
+    "Uri": "https://www.mtgo.com/decklist/standard-challenge-32-2025-05-0312774495",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -4040,52 +4043,602 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
+        {
+          "Player1": "Suspicious",
+          "Player2": "KangXiaotian",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Junkmener",
+          "Player2": "Lillia",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LSMD",
+          "Player2": "GigaChadSigmaMale",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "rougedragon",
+          "Player2": "Ashbrown",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "camroux22",
+          "Player2": "Croco-polarbear",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "trampled",
+          "Player2": "Nogamblenofutur",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "Bent",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "LemonadeArchery",
+          "Player2": "FullDecafBen",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "PeterBB",
+          "Player2": "Strongmind",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ajifly",
+          "Player2": "jakobpablo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "LucaAshok",
+          "Player2": "Cachorrowo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Goomy_",
+          "Player2": "peterhmasters",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Misplacedginger",
+          "Player2": "MohammedbinSalman",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "DJK3V1N",
+          "Player2": "dingzhen",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "manalacaio",
+          "Player2": "TheProfessionalGoose",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "greenboy011",
+          "Player2": "Azja",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Capitano_CL",
+          "Player2": "peter780108",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "DpRay",
+          "Player2": "Ar3nitas",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kasa",
+          "Player2": "IronBeagle",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "-Fish",
+          "Player2": "KingHairy",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "xRagedFurballx",
+          "Player2": "Chiawhey",
+          "Result": "0-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "PeterBB",
+          "Player2": "TheProfessionalGoose",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Suspicious",
+          "Player2": "GigaChadSigmaMale",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kasa",
+          "Player2": "greenboy011",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "-Fish",
+          "Player2": "Lillia",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Croco-polarbear",
+          "Player2": "Ar3nitas",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Bent",
+          "Player2": "LemonadeArchery",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Capitano_CL",
+          "Player2": "camroux22",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "xRagedFurballx",
+          "Player2": "MohammedbinSalman",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Nogamblenofutur",
+          "Player2": "manalacaio",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ajifly",
+          "Player2": "peterhmasters",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LSMD",
+          "Player2": "Cachorrowo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "KingHairy",
+          "Player2": "jakobpablo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "rougedragon",
+          "Player2": "trampled",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Junkmener",
+          "Player2": "Ashbrown",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Strongmind",
+          "Player2": "FullDecafBen",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Misplacedginger",
+          "Player2": "KangXiaotian",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "peter780108",
+          "Player2": "Goomy_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Chiawhey",
+          "Player2": "DpRay",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DJK3V1N",
+          "Player2": "IronBeagle",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "Azja",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LucaAshok",
+          "Player2": "dingzhen",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "LSMD",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "rougedragon",
+          "Player2": "dingzhen",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "PeterBB",
+          "Player2": "LemonadeArchery",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "xRagedFurballx",
+          "Player2": "camroux22",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DJK3V1N",
+          "Player2": "Ar3nitas",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Azja",
+          "Player2": "Lillia",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MohammedbinSalman",
+          "Player2": "Strongmind",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Ashbrown",
+          "Player2": "TheProfessionalGoose",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Cachorrowo",
+          "Player2": "KangXiaotian",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "greenboy011",
+          "Player2": "Croco-polarbear",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "jakobpablo",
+          "Player2": "IronBeagle",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Goomy_",
+          "Player2": "FullDecafBen",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "peter780108",
+          "Player2": "KingHairy",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Bent",
+          "Player2": "ajifly",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Junkmener",
+          "Player2": "manalacaio",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Suspicious",
+          "Player2": "Chiawhey",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Nogamblenofutur",
+          "Player2": "GigaChadSigmaMale",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Capitano_CL",
+          "Player2": "LucaAshok",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "-Fish",
+          "Player2": "DpRay",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "LSMD",
+          "Player2": "KangXiaotian",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Junkmener",
+          "Player2": "Croco-polarbear",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "Strongmind",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "PeterBB",
+          "Player2": "Azja",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ajifly",
+          "Player2": "GigaChadSigmaMale",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "KingHairy",
+          "Player2": "Ar3nitas",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "xRagedFurballx",
+          "Player2": "manalacaio",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Bent",
+          "Player2": "camroux22",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "dingzhen",
+          "Player2": "FullDecafBen",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Suspicious",
+          "Player2": "Lillia",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "peter780108",
+          "Player2": "MohammedbinSalman",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Capitano_CL",
+          "Player2": "DpRay",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Chiawhey",
+          "Player2": "Goomy_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Nogamblenofutur",
+          "Player2": "Ashbrown",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TheProfessionalGoose",
+          "Player2": "IronBeagle",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Cachorrowo",
+          "Player2": "jakobpablo",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "xRagedFurballx",
+          "Player2": "Cachorrowo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LucaAshok",
+          "Player2": "ajifly",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Chiawhey",
+          "Player2": "dingzhen",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Strongmind",
+          "Player2": "manalacaio",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "peter780108",
+          "Player2": "DpRay",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "jakobpablo",
+          "Player2": "Ashbrown",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Bent",
+          "Player2": "Suspicious",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Croco-polarbear",
+          "Player2": "FullDecafBen",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "MohammedbinSalman",
+          "Player2": "KangXiaotian",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Lillia",
+          "Player2": "TheProfessionalGoose",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "GigaChadSigmaMale",
+          "Player2": "Ar3nitas",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "LSMD",
+          "Player2": "Nogamblenofutur",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "KingHairy",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Junkmener",
+          "Player2": "Azja",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "Chiawhey",
+          "Player2": "MohammedbinSalman",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Junkmener",
+          "Player2": "Cachorrowo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Suspicious",
+          "Player2": "Nogamblenofutur",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "LSMD",
+          "Player2": "DpRay",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "manalacaio",
+          "Player2": "Ar3nitas",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "KingHairy",
+          "Player2": "Strongmind",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "LucaAshok",
+          "Player2": "Ashbrown",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "TheProfessionalGoose",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Bent",
+          "Player2": "Croco-polarbear",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "xRagedFurballx",
+          "Player2": "FullDecafBen",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Lillia",
+          "Player2": "KangXiaotian",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Azja",
+          "Player2": "GigaChadSigmaMale",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "peter780108",
+          "Player2": "jakobpablo",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "Matches": [
+        {
+          "Player1": "manalacaio",
+          "Player2": "KangXiaotian",
+          "Result": "2-0-0"
+        },
         {
           "Player1": "GigaChadSigmaMale",
           "Player2": "Strongmind",
           "Result": "2-0-0"
         },
         {
-          "Player1": "Lillia",
-          "Player2": "KingHairy",
-          "Result": "2-1-0"
+          "Player1": "Croco-polarbear",
+          "Player2": "Ar3nitas",
+          "Result": "0-2-0"
         },
         {
-          "Player1": "Ar3nitas",
-          "Player2": "Croco-polarbear",
-          "Result": "2-0-0"
+          "Player1": "KingHairy",
+          "Player2": "Lillia",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "Matches": [
+        {
+          "Player1": "Lillia",
+          "Player2": "Ar3nitas",
+          "Result": "0-2-0"
         },
         {
           "Player1": "manalacaio",
-          "Player2": "KangXiaotian",
-          "Result": "2-1-0"
+          "Player2": "GigaChadSigmaMale",
+          "Result": "0-0-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 9",
       "Matches": [
         {
           "Player1": "GigaChadSigmaMale",
-          "Player2": "manalacaio",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "Ar3nitas",
-          "Player2": "Lillia",
-          "Result": "2-0-0"
-        }
-      ]
-    },
-    {
-      "RoundName": "Finals",
-      "Matches": [
-        {
-          "Player1": "Ar3nitas",
-          "Player2": "GigaChadSigmaMale",
-          "Result": "2-1-0"
+          "Player2": "Ar3nitas",
+          "Result": "0-2-0"
         }
       ]
     }

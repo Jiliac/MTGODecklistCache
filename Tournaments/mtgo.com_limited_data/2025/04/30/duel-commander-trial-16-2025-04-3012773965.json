@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2025-04-30T00:00:00Z",
     "Name": "Duel Commander Trial 16",
-    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-04-3012773965"
+    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-04-3012773965",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -7630,52 +7633,317 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
-          "Player1": "GuiBonella",
+          "Player1": "Ryan100495",
+          "Player2": "Rex_Iudex",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Dr4ken",
+          "Player2": "Dora1l2",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "rinazina",
+          "Player2": "Mah_Alves",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Maxime-le-BG-Corchia",
+          "Player2": "Treserker",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Shadowz2005",
+          "Player2": "beauparleur",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "osmanozguney",
           "Player2": "DuduDeNunu",
-          "Result": "2-1-0"
+          "Result": "0-2-0"
         },
         {
-          "Player1": "Beicodegeia",
-          "Player2": "boytriton",
-          "Result": "2-1-0"
+          "Player1": "Cheiffireball",
+          "Player2": "GuiBonella",
+          "Result": "0-0-0"
         },
         {
-          "Player1": "Rex_Iudex",
-          "Player2": "Ryan100495",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "Dora1l2",
+          "Player1": "Jose Guillermo",
           "Player2": "mephidro",
-          "Result": "2-1-0"
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Selfeisek",
+          "Player2": "Beicodegeia",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "reddybear",
+          "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "Shadowz2005",
+          "Player2": "Rex_Iudex",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jose Guillermo",
+          "Player2": "beauparleur",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "reddybear",
+          "Player2": "Cheiffireball",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "osmanozguney",
+          "Player2": "Treserker",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "mephidro",
+          "Player2": "boytriton",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "Dora1l2",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "GuiBonella",
+          "Player2": "Mah_Alves",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "Maxime-le-BG-Corchia",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dr4ken",
+          "Player2": "Selfeisek",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DuduDeNunu",
+          "Player2": "Ryan100495",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "Rex_Iudex",
+          "Player2": "DuduDeNunu",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Shadowz2005",
+          "Player2": "Mah_Alves",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "boytriton",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "reddybear",
+          "Player2": "Ryan100495",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Cheiffireball",
+          "Player2": "Treserker",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "rinazina",
+          "Player2": "Dr4ken",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dora1l2",
+          "Player2": "GuiBonella",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "beauparleur",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "mephidro",
+          "Player2": "Maxime-le-BG-Corchia",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jose Guillermo",
+          "Player2": "Selfeisek",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "boytriton",
+          "Player2": "GuiBonella",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ryan100495",
+          "Player2": "Shadowz2005",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "mephidro",
+          "Player2": "albertoSD",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dr4ken",
+          "Player2": "DuduDeNunu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "Cheiffireball",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dora1l2",
+          "Player2": "Mah_Alves",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Selfeisek",
+          "Player2": "beauparleur",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jose Guillermo",
+          "Player2": "Treserker",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "rinazina",
+          "Player2": "Rex_Iudex",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "rinazina",
+          "Player2": "Cheiffireball",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "boytriton",
+          "Player2": "Rex_Iudex",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "GuiBonella",
+          "Player2": "DuduDeNunu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Ryan100495",
+          "Player2": "Mah_Alves",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "reddybear",
+          "Player2": "Shadowz2005",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "mephidro",
+          "Player2": "Beicodegeia",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jose Guillermo",
+          "Player2": "Dr4ken",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "beauparleur",
+          "Player2": "Treserker",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "Dora1l2",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "Ryan100495",
+          "Player2": "Rex_Iudex",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "boytriton",
+          "Player2": "Beicodegeia",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "mephidro",
+          "Player2": "Dora1l2",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "GuiBonella",
+          "Player2": "DuduDeNunu",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
       "Matches": [
         {
           "Player1": "Rex_Iudex",
           "Player2": "Dora1l2",
-          "Result": "2-1-0"
+          "Result": "2-0-0"
         },
         {
           "Player1": "GuiBonella",
           "Player2": "Beicodegeia",
-          "Result": "2-1-0"
+          "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 8",
       "Matches": [
         {
-          "Player1": "GuiBonella",
-          "Player2": "Rex_Iudex",
-          "Result": "2-0-0"
+          "Player1": "Rex_Iudex",
+          "Player2": "GuiBonella",
+          "Result": "0-2-0"
         }
       ]
     }

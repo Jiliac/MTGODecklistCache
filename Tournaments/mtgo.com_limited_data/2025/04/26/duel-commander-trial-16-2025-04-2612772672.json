@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2025-04-26T00:00:00Z",
     "Name": "Duel Commander Trial 16",
-    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-04-2612772672"
+    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-04-2612772672",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -5976,37 +5979,192 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
-          "Player1": "GuiBonella",
-          "Player2": "NickNorman",
-          "Result": "2-1-0"
-        },
-        {
           "Player1": "Rex_Iudex",
-          "Player2": "Tunaktunak",
+          "Player2": "DuduDeNunu",
           "Result": "2-0-0"
         },
         {
           "Player1": "mephidro",
-          "Player2": "duke12",
-          "Result": "2-1-0"
+          "Player2": "NickNorman",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "DB_albertosd",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "osmanozguney",
+          "Player2": "Lord_Beerus",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "duke12",
+          "Player2": "Beicodegeia",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Tunaktunak",
+          "Player2": "mpbs",
+          "Result": "0-0-0"
         },
         {
           "Player1": "SpigusheEgu",
-          "Player2": "ecobaronen",
+          "Player2": "GuiBonella",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "DB_ecobaronen",
           "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 2",
       "Matches": [
         {
+          "Player1": "Lord_Beerus",
+          "Player2": "DuduDeNunu",
+          "Result": "0-2-0"
+        },
+        {
           "Player1": "GuiBonella",
+          "Player2": "mpbs",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Tunaktunak",
           "Player2": "Rex_Iudex",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "mephidro",
+          "Player2": "Beicodegeia",
           "Result": "2-1-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "SpigusheEgu",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "duke12",
+          "Player2": "albertoSD",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "osmanozguney",
+          "Player2": "NickNorman",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "albertoSD",
+          "Player2": "Beicodegeia",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "duke12",
+          "Player2": "NickNorman",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "Rex_Iudex",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "osmanozguney",
+          "Player2": "mephidro",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "GuiBonella",
+          "Player2": "DuduDeNunu",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Tunaktunak",
+          "Player2": "SpigusheEgu",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "Tunaktunak",
+          "Player2": "GuiBonella",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "NickNorman",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "mpbs",
+          "Player2": "SpigusheEgu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "Rex_Iudex",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "osmanozguney",
+          "Player2": "DuduDeNunu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "duke12",
+          "Player2": "mephidro",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "Tunaktunak",
+          "Player2": "Rex_Iudex",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "NickNorman",
+          "Player2": "GuiBonella",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "duke12",
+          "Player2": "mephidro",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "SpigusheEgu",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "Rex_Iudex",
+          "Player2": "GuiBonella",
+          "Result": "0-2-0"
         },
         {
           "Player1": "mephidro",
@@ -6016,7 +6174,7 @@
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 7",
       "Matches": [
         {
           "Player1": "mephidro",
@@ -6178,7 +6336,7 @@
       "Losses": 1,
       "Draws": 0,
       "OMWP": 0.75,
-      "GWP": 0.0,
+      "GWP": 0,
       "OGWP": 0.6667
     },
     {
@@ -6189,7 +6347,7 @@
       "Losses": 1,
       "Draws": 0,
       "OMWP": 0.5,
-      "GWP": 0.0,
+      "GWP": 0,
       "OGWP": 0.5
     },
     {

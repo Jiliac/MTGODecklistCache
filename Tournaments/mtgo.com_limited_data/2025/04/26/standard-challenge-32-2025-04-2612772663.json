@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2025-04-26T00:00:00Z",
     "Name": "Standard Challenge 32",
-    "Uri": "https://www.mtgo.com/decklist/standard-challenge-32-2025-04-2612772663"
+    "Uri": "https://www.mtgo.com/decklist/standard-challenge-32-2025-04-2612772663",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -3852,52 +3855,777 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
-          "Player1": "fuya",
+          "Player1": "Manny-",
+          "Player2": "HouseOfManaMTG",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "camroux22",
+          "Player2": "malekz",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Graciasportanto",
+          "Player2": "YungDingo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "GYrabbit47",
+          "Player2": "BoltTargetYou",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "luc2as",
+          "Player2": "tanastria1224",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "choobes",
+          "Player2": "ChefOW",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "suyasome",
+          "Player2": "dingzhen",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "numberonenoob",
+          "Player2": "fuya",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ArturRizzotti",
+          "Player2": "nedyahiske",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "katuo079595",
+          "Player2": "Quavio1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "scipios",
+          "Player2": "Kollslaw",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Junkmener",
+          "Player2": "LemonadeArchery",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Porkylorky518",
+          "Player2": "badgods",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "quinniac",
+          "Player2": "manalacaio",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "cgouldner",
+          "Player2": "felider",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "jussupinator",
+          "Player2": "selesneal",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "rougedragon",
+          "Player2": "manohito",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "TaylorSpain",
+          "Player2": "Venom1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ejk",
+          "Player2": "Archer365",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Marxelo",
+          "Player2": "el-pollo-lolo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Stream",
+          "Player2": "ShadowTitan1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Sam_Lewin",
+          "Player2": "lilianna1989",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LucaAshok",
+          "Player2": "LichDaddy",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Owl1013",
+          "Player2": "FUXIN",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "mijukumono",
+          "Player2": "Viatt",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Morenothings",
+          "Player2": "Strongmind",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MOAOZIS",
+          "Player2": "BigDogsOnly",
+          "Result": "0-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "TaylorSpain",
+          "Player2": "BigDogsOnly",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Graciasportanto",
+          "Player2": "fuya",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "katuo079595",
+          "Player2": "nedyahiske",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "malekz",
+          "Player2": "Quavio1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Manny-",
+          "Player2": "manalacaio",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "HouseOfManaMTG",
+          "Player2": "FUXIN",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "selesneal",
+          "Player2": "Owl1013",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Venom1",
+          "Player2": "Viatt",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "felider",
+          "Player2": "manohito",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "cgouldner",
+          "Player2": "suyasome",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Marxelo",
+          "Player2": "MOAOZIS",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "jussupinator",
+          "Player2": "Strongmind",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "mijukumono",
+          "Player2": "quinniac",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "ejk",
+          "Player2": "el-pollo-lolo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Sam_Lewin",
+          "Player2": "tanastria1224",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "choobes",
+          "Player2": "LichDaddy",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "camroux22",
+          "Player2": "Kollslaw",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "YungDingo",
+          "Player2": "LemonadeArchery",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Porkylorky518",
+          "Player2": "Morenothings",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Archer365",
+          "Player2": "lilianna1989",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
           "Player2": "Junkmener",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ChefOW",
+          "Player2": "badgods",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "scipios",
+          "Player2": "BoltTargetYou",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "rougedragon",
+          "Player2": "_Stream",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "dingzhen",
+          "Player2": "ShadowTitan1",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "luc2as",
+          "Player2": "ArturRizzotti",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LucaAshok",
+          "Player2": "GYrabbit47",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "jussupinator",
+          "Player2": "YungDingo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "choobes",
+          "Player2": "malekz",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "BigDogsOnly",
+          "Player2": "Kollslaw",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Graciasportanto",
+          "Player2": "felider",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "quinniac",
+          "Player2": "Strongmind",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "luc2as",
+          "Player2": "mijukumono",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "nedyahiske",
+          "Player2": "badgods",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Junkmener",
+          "Player2": "el-pollo-lolo",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "camroux22",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LichDaddy",
+          "Player2": "LemonadeArchery",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ejk",
+          "Player2": "Owl1013",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "HouseOfManaMTG",
+          "Player2": "dingzhen",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Porkylorky518",
+          "Player2": "FUXIN",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Manny-",
+          "Player2": "Archer365",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Stream",
+          "Player2": "ChefOW",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LucaAshok",
+          "Player2": "katuo079595",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Marxelo",
+          "Player2": "ArturRizzotti",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "manohito",
+          "Player2": "Viatt",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "fuya",
+          "Player2": "scipios",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "BoltTargetYou",
+          "Player2": "Quavio1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Venom1",
+          "Player2": "lilianna1989",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "cgouldner",
+          "Player2": "ShadowTitan1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "numberonenoob",
+          "Player2": "tanastria1224",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "GYrabbit47",
+          "Player2": "Sam_Lewin",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MOAOZIS",
+          "Player2": "TaylorSpain",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "ArturRizzotti",
+          "Player2": "scipios",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Junkmener",
+          "Player2": "manohito",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "tanastria1224",
+          "Player2": "Strongmind",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "numberonenoob",
+          "Player2": "choobes",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TaylorSpain",
+          "Player2": "Archer365",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "quinniac",
+          "Player2": "dingzhen",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "felider",
+          "Player2": "Kollslaw",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Stream",
+          "Player2": "malekz",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Manny-",
+          "Player2": "Quavio1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "Porkylorky518",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "luc2as",
+          "Player2": "YungDingo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "LucaAshok",
+          "Player2": "Graciasportanto",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "HouseOfManaMTG",
+          "Player2": "BigDogsOnly",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jussupinator",
+          "Player2": "ShadowTitan1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Sam_Lewin",
+          "Player2": "el-pollo-lolo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "mijukumono",
+          "Player2": "ejk",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "GYrabbit47",
+          "Player2": "nedyahiske",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "MOAOZIS",
+          "Player2": "FUXIN",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Viatt",
+          "Player2": "LemonadeArchery",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ChefOW",
+          "Player2": "lilianna1989",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "fuya",
+          "Player2": "badgods",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "katuo079595",
+          "Player2": "BoltTargetYou",
+          "Result": "1-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "jussupinator",
+          "Player2": "numberonenoob",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "nedyahiske",
+          "Player2": "YungDingo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ejk",
+          "Player2": "malekz",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "luc2as",
+          "Player2": "Manny-",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Sam_Lewin",
+          "Player2": "quinniac",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "TaylorSpain",
+          "Player2": "felider",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Graciasportanto",
+          "Player2": "Viatt",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ChefOW",
+          "Player2": "Archer365",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "el-pollo-lolo",
+          "Player2": "dingzhen",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ArturRizzotti",
+          "Player2": "Strongmind",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "LucaAshok",
+          "Player2": "badgods",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Stream",
+          "Player2": "Quavio1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "scipios",
+          "Player2": "lilianna1989",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Porkylorky518",
+          "Player2": "ShadowTitan1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "mijukumono",
+          "Player2": "BoltTargetYou",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "fuya",
+          "Player2": "Kollslaw",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MOAOZIS",
+          "Player2": "manohito",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Junkmener",
+          "Player2": "HouseOfManaMTG",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "BigDogsOnly",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "GYrabbit47",
+          "Player2": "tanastria1224",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "quinniac",
+          "Player2": "malekz",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "GYrabbit47",
+          "Player2": "Strongmind",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "el-pollo-lolo",
+          "Player2": "Kollslaw",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ArturRizzotti",
+          "Player2": "Manny-",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jussupinator",
+          "Player2": "tanastria1224",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "luc2as",
+          "Player2": "scipios",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "HouseOfManaMTG",
+          "Player2": "BoltTargetYou",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ejk",
+          "Player2": "Sam_Lewin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ChefOW",
+          "Player2": "manohito",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "nedyahiske",
+          "Player2": "Archer365",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "LemonadeArchery",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Porkylorky518",
+          "Player2": "fuya",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Graciasportanto",
+          "Player2": "mijukumono",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "BigDogsOnly",
+          "Player2": "Viatt",
           "Result": "2-0-0"
         },
         {
           "Player1": "badgods",
-          "Player2": "el-pollo-lolo",
-          "Result": "2-1-0"
+          "Player2": "dingzhen",
+          "Result": "0-2-0"
         },
         {
-          "Player1": "quinniac",
-          "Player2": "tanastria1224",
-          "Result": "2-0-0"
+          "Player1": "LucaAshok",
+          "Player2": "_Stream",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "TaylorSpain",
+          "Player2": "Junkmener",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ShadowTitan1",
+          "Player2": "felider",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "Matches": [
+        {
+          "Player1": "el-pollo-lolo",
+          "Player2": "badgods",
+          "Result": "0-2-0"
         },
         {
           "Player1": "dingzhen",
           "Player2": "Kollslaw",
           "Result": "2-0-0"
+        },
+        {
+          "Player1": "Junkmener",
+          "Player2": "fuya",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "quinniac",
+          "Player2": "tanastria1224",
+          "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 8",
       "Matches": [
         {
           "Player1": "quinniac",
           "Player2": "badgods",
-          "Result": "2-0-0"
+          "Result": "0-0-0"
         },
         {
           "Player1": "fuya",
           "Player2": "dingzhen",
-          "Result": "2-1-0"
+          "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 9",
       "Matches": [
         {
           "Player1": "quinniac",
           "Player2": "fuya",
-          "Result": "2-1-0"
+          "Result": "2-0-0"
         }
       ]
     }

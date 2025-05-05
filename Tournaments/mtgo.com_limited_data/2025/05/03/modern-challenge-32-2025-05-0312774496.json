@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2025-05-03T00:00:00Z",
     "Name": "Modern Challenge 32",
-    "Uri": "https://www.mtgo.com/decklist/modern-challenge-32-2025-05-0312774496"
+    "Uri": "https://www.mtgo.com/decklist/modern-challenge-32-2025-05-0312774496",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -4180,52 +4183,677 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
+        {
+          "Player1": "jvidarte",
+          "Player2": "Nanovo",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "LILwwaaang",
+          "Player2": "Cachorrowo",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "ejk",
+          "Player2": "tapjoshfor2",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kiko",
+          "Player2": "yriel",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "klien7",
+          "Player2": "TomJubarte",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "totemsilence",
+          "Player2": "Bedevil",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Alpha_Go",
+          "Player2": "E_Kaminuma",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "iome922",
+          "Player2": "xAlpsu",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "FlawlessVictory-",
+          "Player2": "RainerZahnfall92",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Foxantes",
+          "Player2": "Callenutg1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Erik157751",
+          "Player2": "AceyMTG",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ares80",
+          "Player2": "nahuel10",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "keyzoo",
+          "Player2": "Taddy_99",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "albert62",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "manukoka",
+          "Player2": "Jumba",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Navas",
+          "Player2": "Illao1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Keldz",
+          "Player2": "EVhuner",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Selfeisek",
+          "Player2": "Junkmener",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "gazmon48",
+          "Player2": "TadalaDe20",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "sokos13",
+          "Player2": "Tommycakes",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "peter780108",
+          "Player2": "HrothgarScylding",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "oosunq",
+          "Player2": "_Joseba_",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "Tommycakes",
+          "Player2": "AceyMTG",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "sokos13",
+          "Player2": "kiko",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Selfeisek",
+          "Player2": "yriel",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "tapjoshfor2",
+          "Player2": "Illao1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "xAlpsu",
+          "Player2": "Nanovo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "klien7",
+          "Player2": "Callenutg1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "manukoka",
+          "Player2": "TadalaDe20",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ejk",
+          "Player2": "TomJubarte",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "totemsilence",
+          "Player2": "Jumba",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "RainerZahnfall92",
+          "Player2": "jvidarte",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "Erik157751",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "peter780108",
+          "Player2": "Foxantes",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "_Joseba_",
+          "Player2": "E_Kaminuma",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "LILwwaaang",
+          "Player2": "keyzoo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "HrothgarScylding",
+          "Player2": "Taddy_99",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "gazmon48",
+          "Player2": "Keldz",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Alpha_Go",
+          "Player2": "Bedevil",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "albert62",
+          "Player2": "EVhuner",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Ares80",
+          "Player2": "oosunq",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "nahuel10",
+          "Player2": "Junkmener",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Navas",
+          "Player2": "Cachorrowo",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Capoeira02",
+          "Player2": "iome922",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "iome922",
+          "Player2": "ejk",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "sokos13",
+          "Player2": "EVhuner",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "nahuel10",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "albert62",
+          "Player2": "Bedevil",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Navas",
+          "Player2": "TomJubarte",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jvidarte",
+          "Player2": "_Joseba_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Selfeisek",
+          "Player2": "Nanovo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "HrothgarScylding",
+          "Player2": "E_Kaminuma",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "tapjoshfor2",
+          "Player2": "Taddy_99",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Tommycakes",
+          "Player2": "Callenutg1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kiko",
+          "Player2": "Jumba",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "RainerZahnfall92",
+          "Player2": "totemsilence",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Alpha_Go",
+          "Player2": "Erik157751",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "xAlpsu",
+          "Player2": "LILwwaaang",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Ares80",
+          "Player2": "AceyMTG",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "peter780108",
+          "Player2": "Keldz",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "manukoka",
+          "Player2": "keyzoo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Capoeira02",
+          "Player2": "Foxantes",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "yriel",
+          "Player2": "TadalaDe20",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Junkmener",
+          "Player2": "Cachorrowo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "gazmon48",
+          "Player2": "klien7",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "ejk",
+          "Player2": "Selfeisek",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Callenutg1",
+          "Player2": "AceyMTG",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Cachorrowo",
+          "Player2": "EVhuner",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "albert62",
+          "Player2": "tapjoshfor2",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Navas",
+          "Player2": "jvidarte",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TomJubarte",
+          "Player2": "Taddy_99",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "manukoka",
+          "Player2": "Alpha_Go",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "sokos13",
+          "Player2": "_Joseba_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "peter780108",
+          "Player2": "Junkmener",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "klien7",
+          "Player2": "Nanovo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kiko",
+          "Player2": "nahuel10",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "RainerZahnfall92",
+          "Player2": "E_Kaminuma",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Erik157751",
+          "Player2": "TadalaDe20",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Foxantes",
+          "Player2": "Jumba",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Ares80",
+          "Player2": "Capoeira02",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "iome922",
+          "Player2": "Keldz",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "gazmon48",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "LILwwaaang",
+          "Player2": "Bedevil",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "totemsilence",
+          "Player2": "keyzoo",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "iome922",
+          "Player2": "albert62",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "klien7",
+          "Player2": "Bedevil",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Navas",
+          "Player2": "Selfeisek",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "sokos13",
+          "Player2": "Alpha_Go",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Callenutg1",
+          "Player2": "EVhuner",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Foxantes",
+          "Player2": "Taddy_99",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ares80",
+          "Player2": "TomJubarte",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "peter780108",
+          "Player2": "_Joseba_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "RainerZahnfall92",
+          "Player2": "Junkmener",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Capoeira02",
+          "Player2": "albertoSD",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kiko",
+          "Player2": "jvidarte",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Erik157751",
+          "Player2": "keyzoo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ejk",
+          "Player2": "TadalaDe20",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "LILwwaaang",
+          "Player2": "Keldz",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "manukoka",
+          "Player2": "E_Kaminuma",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "totemsilence",
+          "Player2": "nahuel10",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Nanovo",
+          "Player2": "Cachorrowo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "gazmon48",
+          "Player2": "Jumba",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "iome922",
+          "Player2": "TomJubarte",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "totemsilence",
+          "Player2": "TadalaDe20",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "jvidarte",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Capoeira02",
+          "Player2": "peter780108",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "kiko",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "RainerZahnfall92",
+          "Player2": "EVhuner",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Nanovo",
+          "Player2": "Taddy_99",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "gazmon48",
+          "Player2": "Selfeisek",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "sokos13",
+          "Player2": "E_Kaminuma",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "albert62",
+          "Player2": "Keldz",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "manukoka",
+          "Player2": "_Joseba_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ejk",
+          "Player2": "Callenutg1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Alpha_Go",
+          "Player2": "Foxantes",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "klien7",
+          "Player2": "keyzoo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Erik157751",
+          "Player2": "Bedevil",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Navas",
+          "Player2": "Junkmener",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Ares80",
+          "Player2": "LILwwaaang",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "Matches": [
+        {
+          "Player1": "Navas",
+          "Player2": "gazmon48",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Junkmener",
+          "Player2": "jvidarte",
+          "Result": "0-2-0"
+        },
         {
           "Player1": "Selfeisek",
           "Player2": "Foxantes",
           "Result": "2-0-0"
         },
         {
-          "Player1": "jvidarte",
-          "Player2": "Junkmener",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "Jumba",
-          "Player2": "albertoSD",
-          "Result": "2-0-0"
-        },
+          "Player1": "albertoSD",
+          "Player2": "Jumba",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "Matches": [
         {
           "Player1": "gazmon48",
-          "Player2": "Navas",
-          "Result": "2-0-0"
+          "Player2": "jvidarte",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Selfeisek",
+          "Player2": "Jumba",
+          "Result": "0-2-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 9",
       "Matches": [
         {
           "Player1": "Jumba",
-          "Player2": "Selfeisek",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "jvidarte",
-          "Player2": "gazmon48",
-          "Result": "2-0-0"
-        }
-      ]
-    },
-    {
-      "RoundName": "Finals",
-      "Matches": [
-        {
-          "Player1": "jvidarte",
-          "Player2": "Jumba",
-          "Result": "2-0-0"
+          "Player2": "jvidarte",
+          "Result": "0-2-0"
         }
       ]
     }
