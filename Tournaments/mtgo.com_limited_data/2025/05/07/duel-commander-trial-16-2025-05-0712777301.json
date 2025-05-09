@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2025-05-07T00:00:00Z",
     "Name": "Duel Commander Trial 16",
-    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-05-0712777301"
+    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-05-0712777301",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -8174,52 +8177,312 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
-          "Player1": "sebastianpozzo",
-          "Player2": "mephidro",
-          "Result": "2-1-0"
+          "Player1": "malekz",
+          "Player2": "Rex_Iudex",
+          "Result": "2-0-0"
         },
+        {
+          "Player1": "boytriton",
+          "Player2": "Beicodegeia",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MackSmith",
+          "Player2": "Kajkn",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "mephidro",
+          "Player2": "ZacharyHaleComstock",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "kasa",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "bernardocssa",
+          "Player2": "DuduDeNunu",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "osmanozguney",
+          "Player2": "Dora1l2",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "sebastianpozzo",
+          "Player2": "The_Catfin",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "GuiBonella",
+          "Player2": "PNascimento",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jose Guillermo",
+          "Player2": "Selfeisek",
+          "Result": "0-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "bernardocssa",
+          "Player2": "malekz",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "osmanozguney",
+          "Player2": "DuduDeNunu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "boytriton",
+          "Player2": "PNascimento",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "sebastianpozzo",
+          "Player2": "GuiBonella",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "Xenowan",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Selfeisek",
+          "Player2": "Dora1l2",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kasa",
+          "Player2": "The_Catfin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Rex_Iudex",
+          "Player2": "Kajkn",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "mephidro",
+          "Player2": "albertoSD",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jose Guillermo",
+          "Player2": "ZacharyHaleComstock",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "Selfeisek",
+          "Player2": "PNascimento",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "GuiBonella",
+          "Player2": "DuduDeNunu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kasa",
+          "Player2": "Rex_Iudex",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "sebastianpozzo",
+          "Player2": "Dora1l2",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "mephidro",
+          "Player2": "MackSmith",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "boytriton",
+          "Player2": "Kajkn",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Xenowan",
+          "Player2": "malekz",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "bernardocssa",
+          "Player2": "Beicodegeia",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jose Guillermo",
+          "Player2": "albertoSD",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "kasa",
+          "Player2": "boytriton",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "sebastianpozzo",
+          "Player2": "Xenowan",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "osmanozguney",
+          "Player2": "Kajkn",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "PNascimento",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jose Guillermo",
+          "Player2": "GuiBonella",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "mephidro",
+          "Player2": "DuduDeNunu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MackSmith",
+          "Player2": "Dora1l2",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "bernardocssa",
+          "Player2": "Selfeisek",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "malekz",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "Selfeisek",
+          "Player2": "Rex_Iudex",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "PNascimento",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MackSmith",
+          "Player2": "Xenowan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jose Guillermo",
+          "Player2": "Dora1l2",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "bernardocssa",
+          "Player2": "GuiBonella",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "mephidro",
+          "Player2": "boytriton",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "malekz",
+          "Player2": "DuduDeNunu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kasa",
+          "Player2": "Kajkn",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "sebastianpozzo",
+          "Player2": "albertoSD",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
         {
           "Player1": "Beicodegeia",
           "Player2": "Xenowan",
           "Result": "2-0-0"
         },
         {
-          "Player1": "DuduDeNunu",
-          "Player2": "malekz",
+          "Player1": "albertoSD",
+          "Player2": "MackSmith",
           "Result": "2-0-0"
         },
         {
-          "Player1": "albertoSD",
-          "Player2": "MackSmith",
-          "Result": "2-1-0"
+          "Player1": "malekz",
+          "Player2": "DuduDeNunu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "mephidro",
+          "Player2": "sebastianpozzo",
+          "Result": "0-2-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 7",
       "Matches": [
         {
-          "Player1": "DuduDeNunu",
-          "Player2": "Beicodegeia",
-          "Result": "2-0-0"
+          "Player1": "Beicodegeia",
+          "Player2": "DuduDeNunu",
+          "Result": "0-2-0"
         },
         {
           "Player1": "sebastianpozzo",
           "Player2": "albertoSD",
-          "Result": "2-1-0"
+          "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 8",
       "Matches": [
         {
           "Player1": "sebastianpozzo",
           "Player2": "DuduDeNunu",
-          "Result": "2-1-0"
+          "Result": "2-0-0"
         }
       ]
     }

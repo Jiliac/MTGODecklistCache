@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2025-05-04T00:00:00Z",
     "Name": "Pioneer Challenge 32",
-    "Uri": "https://www.mtgo.com/decklist/pioneer-challenge-32-2025-05-0412774518"
+    "Uri": "https://www.mtgo.com/decklist/pioneer-challenge-32-2025-05-0412774518",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -3828,37 +3831,557 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
-          "Player1": "daibloXSC",
-          "Player2": "EdgarB",
-          "Result": "2-1-0"
-        },
-        {
           "Player1": "Beicodegeia",
-          "Player2": "Brasatore",
-          "Result": "2-1-0"
+          "Player2": "manalacaio",
+          "Result": "2-0-0"
         },
         {
-          "Player1": "wcl",
-          "Player2": "rushi_00",
+          "Player1": "Bullz0Eye",
+          "Player2": "Ale_Mtg",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "fives",
+          "Player2": "PNascimento",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Venom1",
+          "Player2": "CrazyMorango",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "daibloXSC",
+          "Player2": "Varo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Brasatore",
+          "Player2": "Scooby_Snacks",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "steelleaf51",
+          "Player2": "dingzhen",
           "Result": "2-0-0"
         },
         {
           "Player1": "Tunaktunak",
-          "Player2": "Arkany1",
+          "Player2": "TerminalJustice",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Arkany1",
+          "Player2": "Strongmind",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "rushi_00",
+          "Player2": "Special_Boy",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MJ_23",
+          "Player2": "itstime",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "oskiyaa",
+          "Player2": "nicoprietob",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "AFX",
+          "Player2": "_Falcon_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SpockVidaLoka",
+          "Player2": "wcl",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "WrzoBuSeks",
+          "Player2": "oisicraT",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "xRagedFurballx",
+          "Player2": "FireLordZuko5",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "McWinSauce",
+          "Player2": "EdgarB",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kasa",
+          "Player2": "EVhuner",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "anzze",
+          "Player2": "Happy_Orc",
           "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "SpockVidaLoka",
+          "Player2": "nicoprietob",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Bullz0Eye",
+          "Player2": "EdgarB",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Venom1",
+          "Player2": "wcl",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "WrzoBuSeks",
+          "Player2": "Brasatore",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Arkany1",
+          "Player2": "Special_Boy",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "CrazyMorango",
+          "Player2": "Happy_Orc",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "itstime",
+          "Player2": "dingzhen",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "daibloXSC",
+          "Player2": "AFX",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "Ale_Mtg",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MJ_23",
+          "Player2": "anzze",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Falcon_",
+          "Player2": "Scooby_Snacks",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kasa",
+          "Player2": "manalacaio",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "TerminalJustice",
+          "Player2": "FireLordZuko5",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "rushi_00",
+          "Player2": "steelleaf51",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "fives",
+          "Player2": "xRagedFurballx",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "McWinSauce",
+          "Player2": "oskiyaa",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Varo",
+          "Player2": "Strongmind",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "oisicraT",
+          "Player2": "PNascimento",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Tunaktunak",
+          "Player2": "EVhuner",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "dingzhen",
+          "Player2": "Happy_Orc",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "oskiyaa",
+          "Player2": "fives",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "anzze",
+          "Player2": "PNascimento",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TerminalJustice",
+          "Player2": "nicoprietob",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Falcon_",
+          "Player2": "itstime",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "EdgarB",
+          "Player2": "EVhuner",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "AFX",
+          "Player2": "Ale_Mtg",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Venom1",
+          "Player2": "xRagedFurballx",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "SpockVidaLoka",
+          "Player2": "Strongmind",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "McWinSauce",
+          "Player2": "manalacaio",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MJ_23",
+          "Player2": "rushi_00",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "WrzoBuSeks",
+          "Player2": "Scooby_Snacks",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kasa",
+          "Player2": "Special_Boy",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "wcl",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "daibloXSC",
+          "Player2": "Arkany1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Tunaktunak",
+          "Player2": "Brasatore",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Bullz0Eye",
+          "Player2": "oisicraT",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "MJ_23",
+          "Player2": "Beicodegeia",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "McWinSauce",
+          "Player2": "FireLordZuko5",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "daibloXSC",
+          "Player2": "oisicraT",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Tunaktunak",
+          "Player2": "rushi_00",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "oskiyaa",
+          "Player2": "wcl",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Brasatore",
+          "Player2": "Strongmind",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "manalacaio",
+          "Player2": "dingzhen",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "AFX",
+          "Player2": "Special_Boy",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Falcon_",
+          "Player2": "EVhuner",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Scooby_Snacks",
+          "Player2": "PNascimento",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Bullz0Eye",
+          "Player2": "SpockVidaLoka",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "EdgarB",
+          "Player2": "nicoprietob",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "anzze",
+          "Player2": "WrzoBuSeks",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "itstime",
+          "Player2": "Happy_Orc",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "xRagedFurballx",
+          "Player2": "Ale_Mtg",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "fives",
+          "Player2": "Arkany1",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "MJ_23",
+          "Player2": "Special_Boy",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "oskiyaa",
+          "Player2": "Strongmind",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Bullz0Eye",
+          "Player2": "FireLordZuko5",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "anzze",
+          "Player2": "nicoprietob",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "rushi_00",
+          "Player2": "wcl",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "WrzoBuSeks",
+          "Player2": "Beicodegeia",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Ale_Mtg",
+          "Player2": "Brasatore",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "daibloXSC",
+          "Player2": "manalacaio",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "xRagedFurballx",
+          "Player2": "Scooby_Snacks",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "AFX",
+          "Player2": "oisicraT",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Tunaktunak",
+          "Player2": "Arkany1",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "McWinSauce",
+          "Player2": "_Falcon_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "itstime",
+          "Player2": "PNascimento",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "fives",
+          "Player2": "EdgarB",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "oskiyaa",
+          "Player2": "xRagedFurballx",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Arkany1",
+          "Player2": "EdgarB",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "Brasatore",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Bullz0Eye",
+          "Player2": "_Falcon_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "McWinSauce",
+          "Player2": "anzze",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "oisicraT",
+          "Player2": "nicoprietob",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Tunaktunak",
+          "Player2": "wcl",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "fives",
+          "Player2": "manalacaio",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "PNascimento",
+          "Player2": "FireLordZuko5",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "daibloXSC",
+          "Player2": "rushi_00",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MJ_23",
+          "Player2": "Strongmind",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Special_Boy",
+          "Player2": "Scooby_Snacks",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "WrzoBuSeks",
+          "Player2": "Ale_Mtg",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "Matches": [
+        {
+          "Player1": "Tunaktunak",
+          "Player2": "Arkany1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "Brasatore",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "rushi_00",
+          "Player2": "wcl",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "daibloXSC",
+          "Player2": "EdgarB",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
       "Matches": [
         {
           "Player1": "Tunaktunak",
           "Player2": "Beicodegeia",
-          "Result": "2-1-0"
+          "Result": "2-0-0"
         },
         {
           "Player1": "daibloXSC",
@@ -3868,7 +4391,7 @@
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 9",
       "Matches": [
         {
           "Player1": "daibloXSC",

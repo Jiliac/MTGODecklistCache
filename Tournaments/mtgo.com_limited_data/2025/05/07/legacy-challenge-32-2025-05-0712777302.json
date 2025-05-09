@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2025-05-07T00:00:00Z",
     "Name": "Legacy Challenge 32",
-    "Uri": "https://www.mtgo.com/decklist/legacy-challenge-32-2025-05-0712777302"
+    "Uri": "https://www.mtgo.com/decklist/legacy-challenge-32-2025-05-0712777302",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -4156,22 +4159,652 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
-          "Player1": "_INF_",
+          "Player1": "Selfeisek",
+          "Player2": "Phellipe",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Capitano_CL",
+          "Player2": "Ale_Mtg",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "CCdsmash",
+          "Player2": "Joyfulwaffle",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "KingCapivara",
+          "Player2": "kaikas",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Navas",
+          "Player2": "MagicTurtle1",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "jibeta",
+          "Player2": "_INF_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "Shadowz2005",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TonyScapone",
+          "Player2": "death_grips",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "Harvey_Specter",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "patrick50",
+          "Player2": "i_b_TRUE",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Magic_Dads71522",
+          "Player2": "PekkaChu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "achillies27",
+          "Player2": "Rosiedog88",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "wizardpasta",
+          "Player2": "mysteryman21",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "GoblinElder",
+          "Player2": "TadalaDe20",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "karatedom",
+          "Player2": "The_shallow_grave",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "boytriton",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "hermanomlg",
+          "Player2": "EVOLVED22",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "DarkDepthsAniki",
+          "Player2": "DethFrmAbove",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "McWinSauce",
+          "Player2": "Villela",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "CrazyMorango",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DrPP",
+          "Player2": "choutin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "momo391",
           "Player2": "albertoSD",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "2345678",
+          "Player2": "_J0SE_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "WadeB",
+          "Player2": "Bawer",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "maytwer",
+          "Player2": "MadHatter1442",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "McWinSauce",
+          "Player2": "O_danielakos",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Selfeisek",
+          "Player2": "hermanomlg",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Navas",
+          "Player2": "DarkDepthsAniki",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "KingCapivara",
+          "Player2": "Harvey_Specter",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TonyScapone",
+          "Player2": "wizardpasta",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "jibeta",
+          "Player2": "achillies27",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "patrick50",
+          "Player2": "2345678",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MagicTurtle1",
+          "Player2": "DethFrmAbove",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_J0SE_",
+          "Player2": "The_shallow_grave",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "mysteryman21",
+          "Player2": "death_grips",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Shadowz2005",
+          "Player2": "boytriton",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "CrazyMorango",
+          "Player2": "Magic_Dads71522",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Phellipe",
+          "Player2": "MadHatter1442",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "maytwer",
+          "Player2": "kaikas",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "TadalaDe20",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "i_b_TRUE",
+          "Player2": "choutin",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "bless_von",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Capitano_CL",
+          "Player2": "Jumba",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Ale_Mtg",
+          "Player2": "EVOLVED22",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "WadeB",
+          "Player2": "Joyfulwaffle",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Villela",
+          "Player2": "Rosiedog88",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "karatedom",
+          "Player2": "PekkaChu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "momo391",
+          "Player2": "CCdsmash",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "GoblinElder",
+          "Player2": "Bawer",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "DrPP",
+          "Player2": "_INF_",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "Joyfulwaffle",
+          "Player2": "Harvey_Specter",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "karatedom",
+          "Player2": "Jumba",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "EVOLVED22",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "momo391",
+          "Player2": "Navas",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "DarkDepthsAniki",
+          "Player2": "GoblinElder",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "patrick50",
+          "Player2": "DethFrmAbove",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "KingCapivara",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "MadHatter1442",
+          "Player2": "PekkaChu",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "death_grips",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MagicTurtle1",
+          "Player2": "2345678",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Phellipe",
+          "Player2": "Shadowz2005",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "achillies27",
+          "Player2": "WadeB",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Rosiedog88",
+          "Player2": "choutin",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Selfeisek",
+          "Player2": "Magic_Dads71522",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Villela",
+          "Player2": "Bawer",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "TonyScapone",
+          "Player2": "Ale_Mtg",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "McWinSauce",
+          "Player2": "DrPP",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_INF_",
+          "Player2": "wizardpasta",
           "Result": "2-0-0"
         },
         {
           "Player1": "O_danielakos",
+          "Player2": "The_shallow_grave",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "maytwer",
+          "Player2": "TadalaDe20",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "Navas",
+          "Player2": "Magic_Dads71522",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Selfeisek",
+          "Player2": "TonyScapone",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "achillies27",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "EVOLVED22",
+          "Player2": "Joyfulwaffle",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Shadowz2005",
           "Player2": "maytwer",
-          "Result": "2-1-0"
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "momo391",
+          "Player2": "Harvey_Specter",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ale_Mtg",
+          "Player2": "kaikas",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "wizardpasta",
+          "Player2": "choutin",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "PekkaChu",
+          "Player2": "Bawer",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MagicTurtle1",
+          "Player2": "TadalaDe20",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "DrPP",
+          "Player2": "2345678",
+          "Result": "2-0-0"
         },
         {
           "Player1": "KingCapivara",
+          "Player2": "WadeB",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "DarkDepthsAniki",
+          "Player2": "Phellipe",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "_INF_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Rosiedog88",
+          "Player2": "death_grips",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "patrick50",
           "Player2": "MadHatter1442",
-          "Result": "2-1-0"
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "Jumba",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "DethFrmAbove",
+          "Result": "0-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "EVOLVED22",
+          "Player2": "death_grips",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "momo391",
+          "Player2": "Shadowz2005",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MagicTurtle1",
+          "Player2": "GoblinElder",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "achillies27",
+          "Player2": "Bawer",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "TonyScapone",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "KingCapivara",
+          "Player2": "choutin",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "kaikas",
+          "Player2": "Magic_Dads71522",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "maytwer",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "patrick50",
+          "Player2": "Joyfulwaffle",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "DrPP",
+          "Player2": "PekkaChu",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DarkDepthsAniki",
+          "Player2": "2345678",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Selfeisek",
+          "Player2": "DethFrmAbove",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "wizardpasta",
+          "Player2": "TadalaDe20",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "WadeB",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "_INF_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "MadHatter1442",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "Bawer",
+          "Player2": "TadalaDe20",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "achillies27",
+          "Player2": "death_grips",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "EVOLVED22",
+          "Player2": "Harvey_Specter",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "patrick50",
+          "Player2": "TonyScapone",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "DethFrmAbove",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Shadowz2005",
+          "Player2": "PekkaChu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Magic_Dads71522",
+          "Player2": "choutin",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "MagicTurtle1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "momo391",
+          "Player2": "GoblinElder",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "maytwer",
+          "Player2": "Joyfulwaffle",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "O_danielakos",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "WadeB",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "DarkDepthsAniki",
+          "Player2": "Selfeisek",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "wizardpasta",
+          "Player2": "2345678",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "DrPP",
+          "Player2": "MadHatter1442",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "KingCapivara",
+          "Player2": "_INF_",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "Matches": [
+        {
+          "Player1": "KingCapivara",
+          "Player2": "MadHatter1442",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "_INF_",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "maytwer",
+          "Result": "2-0-0"
         },
         {
           "Player1": "DrPP",
@@ -4181,27 +4814,27 @@
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 8",
       "Matches": [
         {
-          "Player1": "_INF_",
-          "Player2": "KingCapivara",
-          "Result": "2-0-0"
+          "Player1": "O_danielakos",
+          "Player2": "DrPP",
+          "Result": "0-2-0"
         },
         {
-          "Player1": "DrPP",
-          "Player2": "O_danielakos",
-          "Result": "2-1-0"
+          "Player1": "KingCapivara",
+          "Player2": "_INF_",
+          "Result": "0-0-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 9",
       "Matches": [
         {
-          "Player1": "_INF_",
-          "Player2": "DrPP",
-          "Result": "2-0-0"
+          "Player1": "DrPP",
+          "Player2": "_INF_",
+          "Result": "0-2-0"
         }
       ]
     }

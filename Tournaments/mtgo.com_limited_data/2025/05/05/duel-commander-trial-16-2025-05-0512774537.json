@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2025-05-05T00:00:00Z",
     "Name": "Duel Commander Trial 16",
-    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-05-0512774537"
+    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-05-0512774537",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -9728,51 +9731,216 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
-          "Player1": "takeInitiative",
-          "Player2": "Beicodegeia",
+          "Player1": "Beicodegeia",
+          "Player2": "azax",
           "Result": "2-0-0"
         },
         {
-          "Player1": "Uzbek",
+          "Player1": "NickNorman",
+          "Player2": "VitoCorleone",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "mpbs",
+          "Player2": "DuduDeNunu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "osmanozguney",
+          "Player2": "GuiBonella",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jose Guillermo",
+          "Player2": "samsherman",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "duke12",
           "Player2": "beraldi",
           "Result": "2-0-0"
         },
         {
-          "Player1": "Vequinox",
-          "Player2": "SebastianStueckl",
-          "Result": "2-1-0"
+          "Player1": "brunorma",
+          "Player2": "SuperCow12653",
+          "Result": "0-2-0"
         },
         {
-          "Player1": "manalacaio",
-          "Player2": "grumgrum",
-          "Result": "2-1-0"
+          "Player1": "lovetapsmtg",
+          "Player2": "manalacaio",
+          "Result": "0-2-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 2",
       "Matches": [
         {
-          "Player1": "takeInitiative",
-          "Player2": "Uzbek",
-          "Result": "2-1-0"
+          "Player1": "duke12",
+          "Player2": "VitoCorleone",
+          "Result": "2-0-0"
         },
         {
-          "Player1": "Vequinox",
+          "Player1": "Beicodegeia",
+          "Player2": "DuduDeNunu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "GuiBonella",
+          "Player2": "mpbs",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "osmanozguney",
+          "Player2": "SuperCow12653",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "brunorma",
+          "Player2": "beraldi",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jose Guillermo",
+          "Player2": "NickNorman",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "samsherman",
           "Player2": "manalacaio",
           "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 3",
       "Matches": [
         {
-          "Player1": "takeInitiative",
-          "Player2": "Vequinox",
+          "Player1": "NickNorman",
+          "Player2": "GuiBonella",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jose Guillermo",
+          "Player2": "brunorma",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "beraldi",
+          "Player2": "lovetapsmtg",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "samsherman",
+          "Player2": "DuduDeNunu",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "osmanozguney",
+          "Player2": "manalacaio",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "duke12",
+          "Player2": "SuperCow12653",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "VitoCorleone",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "beraldi",
+          "Player2": "Beicodegeia",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jose Guillermo",
+          "Player2": "GuiBonella",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "manalacaio",
+          "Player2": "DuduDeNunu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "samsherman",
+          "Player2": "SuperCow12653",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "duke12",
+          "Player2": "NickNorman",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "mpbs",
+          "Player2": "VitoCorleone",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "lovetapsmtg",
+          "Player2": "osmanozguney",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "samsherman",
+          "Player2": "Beicodegeia",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "duke12",
+          "Player2": "SuperCow12653",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "manalacaio",
+          "Player2": "DuduDeNunu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "beraldi",
+          "Player2": "NickNorman",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "NickNorman",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "duke12",
+          "Player2": "DuduDeNunu",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "Matches": [
+        {
+          "Player1": "duke12",
+          "Player2": "NickNorman",
           "Result": "2-0-0"
         }
       ]
@@ -10062,7 +10230,7 @@
       "Losses": 1,
       "Draws": 0,
       "OMWP": 0.4,
-      "GWP": 0.0,
+      "GWP": 0,
       "OGWP": 0.4615
     }
   ]

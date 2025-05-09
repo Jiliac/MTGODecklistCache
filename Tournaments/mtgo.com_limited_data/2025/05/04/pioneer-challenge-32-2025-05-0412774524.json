@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2025-05-04T00:00:00Z",
     "Name": "Pioneer Challenge 32",
-    "Uri": "https://www.mtgo.com/decklist/pioneer-challenge-32-2025-05-0412774524"
+    "Uri": "https://www.mtgo.com/decklist/pioneer-challenge-32-2025-05-0412774524",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -3752,37 +3755,527 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
-          "Player1": "CrazyMorango",
+          "Player1": "LucasG1ggs",
+          "Player2": "MJ_23",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "boom_bust",
+          "Player2": "wcl",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Diem4x",
+          "Player2": "O_danielakos",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Venom1",
           "Player2": "Bawer",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "oisicraT",
+          "Player2": "manalacaio",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "xRagedFurballx",
           "Result": "2-0-0"
         },
         {
           "Player1": "Special_Boy",
-          "Player2": "PNascimento",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "Silverbluff",
-          "Player2": "Shadowz2005",
+          "Player2": "fazparte",
           "Result": "2-0-0"
         },
         {
-          "Player1": "SpockVidaLoka",
+          "Player1": "kasa",
+          "Player2": "FireLordZuko5",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "mysteryman21",
+          "Player2": "Strongmind",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "pokerswizard",
+          "Player2": "Beicodegeia",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Raydan",
+          "Player2": "CrazyMorango",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Hernan72",
+          "Player2": "Shadowz2005",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Capitano_CL",
+          "Player2": "MagicalSnap",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Misplacedginger",
           "Player2": "Ignotus97",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "Ale_Mtg",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kanara38204",
+          "Player2": "DookieTrouserMD",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "McWinSauce",
+          "Player2": "Andy_Over",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "gazmon48",
+          "Player2": "PNascimento",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "SpockVidaLoka",
+          "Player2": "JulioP1985",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "eggybenny",
+          "Player2": "Brasatore",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Arianne",
+          "Player2": "IsacConoli",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "Silverbluff",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "musasabi",
+          "Player2": "JulioP1985",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "boom_bust",
+          "Player2": "Special_Boy",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Raydan",
+          "Player2": "Hernan72",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "SpockVidaLoka",
+          "Player2": "Strongmind",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Diem4x",
+          "Player2": "Silverbluff",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "MagicalSnap",
+          "Player2": "mysteryman21",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kanara38204",
+          "Player2": "FireLordZuko5",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DookieTrouserMD",
+          "Player2": "Capitano_CL",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "Ignotus97",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "xRagedFurballx",
+          "Player2": "Brasatore",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "pokerswizard",
+          "Player2": "Andy_Over",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "oisicraT",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "McWinSauce",
+          "Player2": "eggybenny",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "PNascimento",
+          "Player2": "MJ_23",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kasa",
+          "Player2": "Shadowz2005",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Arianne",
+          "Player2": "Ale_Mtg",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "manalacaio",
+          "Player2": "fazparte",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "gazmon48",
+          "Player2": "wcl",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "IsacConoli",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "Venom1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Misplacedginger",
+          "Player2": "LucasG1ggs",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "CrazyMorango",
+          "Player2": "Bawer",
           "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 3",
       "Matches": [
         {
           "Player1": "Silverbluff",
-          "Player2": "SpockVidaLoka",
+          "Player2": "Special_Boy",
           "Result": "2-0-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "eggybenny",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Strongmind",
+          "Player2": "LucasG1ggs",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Hernan72",
+          "Player2": "JulioP1985",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "manalacaio",
+          "Player2": "FireLordZuko5",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "oisicraT",
+          "Player2": "Ale_Mtg",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Arianne",
+          "Player2": "fazparte",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Raydan",
+          "Player2": "xRagedFurballx",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "MagicalSnap",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Capitano_CL",
+          "Player2": "Ignotus97",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "SpockVidaLoka",
+          "Player2": "DookieTrouserMD",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "McWinSauce",
+          "Player2": "CrazyMorango",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "pokerswizard",
+          "Player2": "bless_von",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kasa",
+          "Player2": "wcl",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "Brasatore",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Andy_Over",
+          "Player2": "Bawer",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "IsacConoli",
+          "Player2": "mysteryman21",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Venom1",
+          "Player2": "musasabi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MJ_23",
+          "Player2": "Diem4x",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kanara38204",
+          "Player2": "boom_bust",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Shadowz2005",
+          "Player2": "PNascimento",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "Hernan72",
+          "Player2": "Brasatore",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kanara38204",
+          "Player2": "IsacConoli",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ale_Mtg",
+          "Player2": "SpockVidaLoka",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "CrazyMorango",
+          "Player2": "PNascimento",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "kasa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Capitano_CL",
+          "Player2": "MJ_23",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "fazparte",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "McWinSauce",
+          "Player2": "Shadowz2005",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "oisicraT",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Arianne",
+          "Player2": "JulioP1985",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Venom1",
+          "Player2": "eggybenny",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Diem4x",
+          "Player2": "Strongmind",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Raydan",
+          "Player2": "MagicalSnap",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Andy_Over",
+          "Player2": "FireLordZuko5",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "mysteryman21",
+          "Player2": "DookieTrouserMD",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Special_Boy",
+          "Player2": "wcl",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "boom_bust",
+          "Player2": "Bawer",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "pokerswizard",
+          "Player2": "O_danielakos",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Ignotus97",
+          "Player2": "Silverbluff",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "Ale_Mtg",
+          "Player2": "Bawer",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Andy_Over",
+          "Player2": "Brasatore",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Venom1",
+          "Player2": "mysteryman21",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kanara38204",
+          "Player2": "Beicodegeia",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SpockVidaLoka",
+          "Player2": "Silverbluff",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "IsacConoli",
+          "Player2": "FireLordZuko5",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "McWinSauce",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MJ_23",
+          "Player2": "Strongmind",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Diem4x",
+          "Player2": "Ignotus97",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Hernan72",
+          "Player2": "manalacaio",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "fazparte",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Arianne",
+          "Player2": "Shadowz2005",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "boom_bust",
+          "Player2": "JulioP1985",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "oisicraT",
+          "Player2": "PNascimento",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "wcl",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MagicalSnap",
+          "Player2": "DookieTrouserMD",
+          "Result": "0-2-0"
         },
         {
           "Player1": "CrazyMorango",
@@ -3792,7 +4285,137 @@
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "Hernan72",
+          "Player2": "fazparte",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "FireLordZuko5",
+          "Player2": "O_danielakos",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Diem4x",
+          "Player2": "Venom1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "McWinSauce",
+          "Player2": "Strongmind",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "bless_von",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "pokerswizard",
+          "Player2": "IsacConoli",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Shadowz2005",
+          "Player2": "SpockVidaLoka",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "oisicraT",
+          "Player2": "Special_Boy",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Silverbluff",
+          "Player2": "PNascimento",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Andy_Over",
+          "Player2": "boom_bust",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "manalacaio",
+          "Player2": "LucasG1ggs",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MagicalSnap",
+          "Player2": "Brasatore",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "mysteryman21",
+          "Player2": "CrazyMorango",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kanara38204",
+          "Player2": "Ale_Mtg",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MJ_23",
+          "Player2": "wcl",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ignotus97",
+          "Player2": "Bawer",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Arianne",
+          "Player2": "DookieTrouserMD",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "Matches": [
+        {
+          "Player1": "Shadowz2005",
+          "Player2": "Silverbluff",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Special_Boy",
+          "Player2": "PNascimento",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ignotus97",
+          "Player2": "SpockVidaLoka",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "CrazyMorango",
+          "Player2": "Bawer",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "Matches": [
+        {
+          "Player1": "CrazyMorango",
+          "Player2": "Special_Boy",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SpockVidaLoka",
+          "Player2": "Silverbluff",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 9",
       "Matches": [
         {
           "Player1": "Silverbluff",
