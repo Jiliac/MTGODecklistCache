@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2025-05-10T00:00:00Z",
     "Name": "Duel Commander Trial 16",
-    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-05-1012777350"
+    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-05-1012777350",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -5816,52 +5819,222 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
-          "Player1": "zuiyue",
-          "Player2": "ecobaronen",
-          "Result": "2-1-0"
+          "Player1": "Boin",
+          "Player2": "MackSmith",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "NickNorman",
+          "Player2": "Marmotte_Lambda",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "Vequinox",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Coradorable",
+          "Player2": "Rod_Chill",
+          "Result": "0-0-0"
         },
         {
           "Player1": "ZacharyHaleComstock",
+          "Player2": "Oror",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kasa",
+          "Player2": "flchmt",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "zuiyue",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "GuiBonella",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "flchmt",
+          "Player2": "GuiBonella",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MackSmith",
           "Player2": "Marmotte_Lambda",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Boin",
+          "Player2": "NickNorman",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "zuiyue",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "Coradorable",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Vequinox",
+          "Player2": "Rod_Chill",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "Lord_Beerus",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kasa",
+          "Player2": "Oror",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "MackSmith",
+          "Player2": "ecobaronen",
           "Result": "2-0-0"
         },
         {
           "Player1": "Boin",
+          "Player2": "medvedev",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Marmotte_Lambda",
+          "Player2": "ZacharyHaleComstock",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "flchmt",
+          "Player2": "Coradorable",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kasa",
           "Player2": "Rod_Chill",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Vequinox",
+          "Player2": "NickNorman",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "GuiBonella",
+          "Player2": "zuiyue",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "zuiyue",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "kasa",
+          "Player2": "NickNorman",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "Oror",
           "Result": "2-0-0"
         },
         {
           "Player1": "MackSmith",
           "Player2": "GuiBonella",
           "Result": "2-0-0"
+        },
+        {
+          "Player1": "Marmotte_Lambda",
+          "Player2": "Rod_Chill",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "Coradorable",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Boin",
+          "Player2": "flchmt",
+          "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 5",
       "Matches": [
         {
+          "Player1": "Boin",
+          "Player2": "Rod_Chill",
+          "Result": "2-0-0"
+        },
+        {
           "Player1": "zuiyue",
-          "Player2": "Boin",
+          "Player2": "ecobaronen",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MackSmith",
+          "Player2": "GuiBonella",
           "Result": "2-0-0"
         },
         {
           "Player1": "ZacharyHaleComstock",
-          "Player2": "MackSmith",
-          "Result": "2-1-0"
+          "Player2": "Marmotte_Lambda",
+          "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "Boin",
+          "Player2": "zuiyue",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "MackSmith",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
       "Matches": [
         {
           "Player1": "ZacharyHaleComstock",
           "Player2": "zuiyue",
-          "Result": "2-1-0"
+          "Result": "2-0-0"
         }
       ]
     }

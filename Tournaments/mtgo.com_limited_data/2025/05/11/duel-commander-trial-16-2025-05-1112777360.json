@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2025-05-11T00:00:00Z",
     "Name": "Duel Commander Trial 16",
-    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-05-1112777360"
+    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-05-1112777360",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -5760,52 +5763,222 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
-          "Player1": "Marmotte_Lambda",
+          "Player1": "LeoFa",
+          "Player2": "Czechito",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Xenowan",
           "Player2": "BranzaDoppioMalto",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dreddybajs",
+          "Player2": "Zodiacek",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "lampalot",
+          "Player2": "hyyy1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Boucha",
+          "Player2": "Selfeisek",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Marmotte_Lambda",
+          "Player2": "Rukie",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "John1111",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jose Guillermo",
+          "Player2": "NickNorman",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "John1111",
+          "Player2": "BranzaDoppioMalto",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Boucha",
+          "Player2": "Rukie",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LeoFa",
+          "Player2": "Zodiacek",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jose Guillermo",
+          "Player2": "Beicodegeia",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "lampalot",
+          "Player2": "NickNorman",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Xenowan",
+          "Player2": "hyyy1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Selfeisek",
+          "Player2": "Dreddybajs",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Czechito",
+          "Player2": "Marmotte_Lambda",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "Zodiacek",
+          "Player2": "Rukie",
           "Result": "2-0-0"
         },
         {
           "Player1": "Selfeisek",
           "Player2": "Czechito",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "hyyy1",
-          "Player2": "lampalot",
           "Result": "2-0-0"
         },
         {
           "Player1": "Beicodegeia",
-          "Player2": "Jose Guillermo",
-          "Result": "2-1-0"
+          "Player2": "hyyy1",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Dreddybajs",
+          "Player2": "BranzaDoppioMalto",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Marmotte_Lambda",
+          "Player2": "Boucha",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jose Guillermo",
+          "Player2": "Xenowan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "NickNorman",
+          "Player2": "LeoFa",
+          "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 4",
       "Matches": [
+        {
+          "Player1": "lampalot",
+          "Player2": "LeoFa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "NickNorman",
+          "Player2": "BranzaDoppioMalto",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "Marmotte_Lambda",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Selfeisek",
+          "Player2": "hyyy1",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Boucha",
+          "Player2": "Zodiacek",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jose Guillermo",
+          "Player2": "Czechito",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Xenowan",
+          "Player2": "Rukie",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "Selfeisek",
+          "Player2": "Czechito",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jose Guillermo",
+          "Player2": "Beicodegeia",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "BranzaDoppioMalto",
+          "Player2": "Marmotte_Lambda",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "lampalot",
+          "Player2": "hyyy1",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "Selfeisek",
+          "Player2": "Beicodegeia",
+          "Result": "0-2-0"
+        },
         {
           "Player1": "hyyy1",
           "Player2": "Marmotte_Lambda",
           "Result": "2-0-0"
-        },
-        {
-          "Player1": "Beicodegeia",
-          "Player2": "Selfeisek",
-          "Result": "2-1-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 7",
       "Matches": [
         {
-          "Player1": "hyyy1",
-          "Player2": "Beicodegeia",
-          "Result": "2-1-0"
+          "Player1": "Beicodegeia",
+          "Player2": "hyyy1",
+          "Result": "0-2-0"
         }
       ]
     }
