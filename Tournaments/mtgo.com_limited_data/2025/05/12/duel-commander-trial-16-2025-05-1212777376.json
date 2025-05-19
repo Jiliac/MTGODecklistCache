@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2025-05-12T00:00:00Z",
     "Name": "Duel Commander Trial 16",
-    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-05-1212777376"
+    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-05-1212777376",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -9360,17 +9363,327 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
+      "Matches": [
+        {
+          "Player1": "holkkarit",
+          "Player2": "TheManLand",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "slaxx",
+          "Player2": "Beicodegeia",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Mikeylos",
+          "Player2": "SuperCow12653",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "mephidro",
+          "Player2": "Marmotte_Lambda",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "CrazyMorango",
+          "Player2": "GuiBonella",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "NickNorman",
+          "Player2": "Gonito",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "BERNASTORRES",
+          "Player2": "Tsubasa_Cat",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Selfeisek",
+          "Player2": "Oror",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "rinazina",
+          "Player2": "Chichichi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "reddybear",
+          "Player2": "Gamedaiv",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Boumbo76",
+          "Player2": "DuelCastMTG",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "bernardocssa",
+          "Player2": "Uzbek",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dreddybajs",
+          "Player2": "TrueHero",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "SuperCow12653",
+          "Player2": "DuelCastMTG",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "bernardocssa",
+          "Player2": "Tsubasa_Cat",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "CrazyMorango",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Oror",
+          "Player2": "Uzbek",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "holkkarit",
+          "Player2": "Gamedaiv",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Selfeisek",
+          "Player2": "Marmotte_Lambda",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "rinazina",
+          "Player2": "NickNorman",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Boumbo76",
+          "Player2": "BERNASTORRES",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Mikeylos",
+          "Player2": "TrueHero",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "mephidro",
+          "Player2": "TheManLand",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "reddybear",
+          "Player2": "Chichichi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "slaxx",
+          "Player2": "Gonito",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dreddybajs",
+          "Player2": "GuiBonella",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "Gonito",
+          "Player2": "Oror",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TheManLand",
+          "Player2": "slaxx",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Mikeylos",
+          "Player2": "Marmotte_Lambda",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TrueHero",
+          "Player2": "GuiBonella",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "Gamedaiv",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "BERNASTORRES",
+          "Player2": "Chichichi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Selfeisek",
+          "Player2": "DuelCastMTG",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "bernardocssa",
+          "Player2": "reddybear",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "mephidro",
+          "Player2": "SuperCow12653",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "rinazina",
+          "Player2": "Uzbek",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "NickNorman",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "holkkarit",
+          "Player2": "CrazyMorango",
+          "Result": "0-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "NickNorman",
+          "Player2": "Uzbek",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "slaxx",
+          "Player2": "holkkarit",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Gamedaiv",
+          "Player2": "GuiBonella",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Selfeisek",
+          "Player2": "Beicodegeia",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "bernardocssa",
+          "Player2": "BERNASTORRES",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Marmotte_Lambda",
+          "Player2": "rinazina",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "mephidro",
+          "Player2": "Gonito",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "TrueHero",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DuelCastMTG",
+          "Player2": "Mikeylos",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "reddybear",
+          "Player2": "CrazyMorango",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "slaxx",
+          "Player2": "TrueHero",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "GuiBonella",
+          "Player2": "Uzbek",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "mephidro",
+          "Player2": "Gamedaiv",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Selfeisek",
+          "Player2": "Tsubasa_Cat",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "rinazina",
+          "Player2": "CrazyMorango",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "bernardocssa",
+          "Player2": "NickNorman",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Mikeylos",
+          "Player2": "Beicodegeia",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "reddybear",
+          "Player2": "holkkarit",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "BERNASTORRES",
+          "Player2": "DuelCastMTG",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Gonito",
+          "Player2": "Marmotte_Lambda",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
       "Matches": [
         {
           "Player1": "Selfeisek",
           "Player2": "NickNorman",
           "Result": "2-0-0"
-        },
-        {
-          "Player1": "slaxx",
-          "Player2": "Beicodegeia",
-          "Result": "2-1-0"
         },
         {
           "Player1": "bernardocssa",
@@ -9380,32 +9693,37 @@
         {
           "Player1": "Mikeylos",
           "Player2": "Tsubasa_Cat",
-          "Result": "2-1-0"
-        }
-      ]
-    },
-    {
-      "RoundName": "Semifinals",
-      "Matches": [
-        {
-          "Player1": "Selfeisek",
-          "Player2": "Mikeylos",
-          "Result": "2-1-0"
+          "Result": "2-0-0"
         },
         {
-          "Player1": "bernardocssa",
-          "Player2": "slaxx",
+          "Player1": "slaxx",
+          "Player2": "Beicodegeia",
           "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 7",
+      "Matches": [
+        {
+          "Player1": "slaxx",
+          "Player2": "bernardocssa",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Mikeylos",
+          "Player2": "Selfeisek",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
       "Matches": [
         {
           "Player1": "bernardocssa",
           "Player2": "Selfeisek",
-          "Result": "2-1-0"
+          "Result": "0-0-0"
         }
       ]
     }
@@ -9650,7 +9968,7 @@
       "Losses": 2,
       "Draws": 0,
       "OMWP": 0.7,
-      "GWP": 0.0,
+      "GWP": 0,
       "OGWP": 0.6396
     },
     {

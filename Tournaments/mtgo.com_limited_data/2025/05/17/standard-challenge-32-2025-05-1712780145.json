@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2025-05-17T00:00:00Z",
     "Name": "Standard Challenge 32",
-    "Uri": "https://www.mtgo.com/decklist/standard-challenge-32-2025-05-1712780145"
+    "Uri": "https://www.mtgo.com/decklist/standard-challenge-32-2025-05-1712780145",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -4060,47 +4063,597 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
-          "Player1": "Strongmind",
-          "Player2": "Manny-",
+          "Player1": "tchuco",
+          "Player2": "Hamuda",
           "Result": "2-0-0"
         },
         {
-          "Player1": "hauterho",
-          "Player2": "Nogamblenofutur",
-          "Result": "2-1-0"
+          "Player1": "maodun2014",
+          "Player2": "Azja",
+          "Result": "0-2-0"
         },
         {
-          "Player1": "Hamuda",
-          "Player2": "tchuco",
+          "Player1": "hauterho",
+          "Player2": "Ferblack",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Kaberb",
+          "Player2": "_Falcon_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Owl1013",
+          "Player2": "Strongmind",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Nessin",
+          "Player2": "Manny-",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "hermesthenerd",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Portal",
+          "Player2": "kasa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Toter72",
+          "Player2": "canepis16",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ejk",
+          "Player2": "Pmizz",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "felider",
+          "Player2": "MtGdAd2014",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "AlexFiero",
+          "Player2": "xRagedFurballx",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "tim96",
+          "Player2": "JackActual",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "unworldlyorigin",
+          "Player2": "Goomy_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "smefan1",
+          "Player2": "SoggyCheerios",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Pugface",
+          "Player2": "Waldo-",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Matsukasa10",
+          "Player2": "Nogamblenofutur",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "fingers1991",
+          "Player2": "Cabezadebolo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "manohito",
+          "Player2": "DarkBone",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "gazmon48",
+          "Player2": "manjyui",
+          "Result": "0-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "hauterho",
+          "Player2": "Azja",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "felider",
+          "Player2": "Pugface",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Matsukasa10",
+          "Player2": "Nessin",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Portal",
+          "Player2": "Nogamblenofutur",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "unworldlyorigin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "canepis16",
+          "Player2": "AlexFiero",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Kaberb",
+          "Player2": "tim96",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "xRagedFurballx",
+          "Player2": "Waldo-",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "smefan1",
+          "Player2": "Strongmind",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kasa",
+          "Player2": "Ferblack",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Pmizz",
+          "Player2": "manohito",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "fingers1991",
+          "Player2": "Hamuda",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "maodun2014",
+          "Player2": "manjyui",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Manny-",
+          "Player2": "Goomy_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ejk",
+          "Player2": "Cabezadebolo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Falcon_",
+          "Player2": "SoggyCheerios",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DarkBone",
+          "Player2": "hermesthenerd",
           "Result": "2-0-0"
         },
         {
           "Player1": "gazmon48",
-          "Player2": "felider",
-          "Result": "2-1-0"
+          "Player2": "tchuco",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Owl1013",
+          "Player2": "JackActual",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MtGdAd2014",
+          "Player2": "ellectroide",
+          "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 3",
       "Matches": [
         {
           "Player1": "Hamuda",
-          "Player2": "hauterho",
-          "Result": "2-1-0"
+          "Player2": "hermesthenerd",
+          "Result": "2-0-0"
         },
         {
-          "Player1": "Strongmind",
-          "Player2": "gazmon48",
-          "Result": "2-1-0"
+          "Player1": "Portal",
+          "Player2": "felider",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "DarkBone",
+          "Player2": "Strongmind",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "tim96",
+          "Player2": "Azja",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "gazmon48",
+          "Player2": "Ferblack",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Falcon_",
+          "Player2": "Goomy_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MtGdAd2014",
+          "Player2": "Waldo-",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "ellectroide",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "canepis16",
+          "Player2": "JackActual",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Matsukasa10",
+          "Player2": "Pugface",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Manny-",
+          "Player2": "Cabezadebolo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "maodun2014",
+          "Player2": "SoggyCheerios",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Toter72",
+          "Player2": "AlexFiero",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Kaberb",
+          "Player2": "tchuco",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "hauterho",
+          "Player2": "Nogamblenofutur",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Nessin",
+          "Player2": "xRagedFurballx",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "smefan1",
+          "Player2": "ejk",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "manjyui",
+          "Player2": "manohito",
+          "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "fingers1991",
+          "Player2": "manjyui",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Falcon_",
+          "Player2": "xRagedFurballx",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "smefan1",
+          "Player2": "Nessin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JackActual",
+          "Player2": "Ferblack",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "canepis16",
+          "Player2": "DarkBone",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "manohito",
+          "Player2": "hermesthenerd",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "gazmon48",
+          "Player2": "bless_von",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ejk",
+          "Player2": "Waldo-",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Portal",
+          "Player2": "Matsukasa10",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Toter72",
+          "Player2": "Cabezadebolo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Manny-",
+          "Player2": "Nogamblenofutur",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SoggyCheerios",
+          "Player2": "ellectroide",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Kaberb",
+          "Player2": "Hamuda",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MtGdAd2014",
+          "Player2": "Strongmind",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "tim96",
+          "Player2": "Goomy_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "felider",
+          "Player2": "Azja",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "hauterho",
+          "Player2": "tchuco",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "xRagedFurballx",
+          "Player2": "MtGdAd2014",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Nessin",
+          "Player2": "ellectroide",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "fingers1991",
+          "Player2": "canepis16",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "felider",
+          "Player2": "manohito",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "manjyui",
+          "Player2": "Cabezadebolo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Falcon_",
+          "Player2": "Ferblack",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Manny-",
+          "Player2": "Strongmind",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SoggyCheerios",
+          "Player2": "Azja",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "gazmon48",
+          "Player2": "DarkBone",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Portal",
+          "Player2": "bless_von",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Kaberb",
+          "Player2": "Matsukasa10",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "smefan1",
+          "Player2": "Goomy_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "tchuco",
+          "Player2": "Nogamblenofutur",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "hauterho",
+          "Player2": "ejk",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Toter72",
+          "Player2": "Hamuda",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "felider",
+          "Player2": "Strongmind",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Azja",
+          "Player2": "Cabezadebolo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "Goomy_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "tchuco",
+          "Player2": "MtGdAd2014",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Kaberb",
+          "Player2": "Ferblack",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "hauterho",
+          "Player2": "Manny-",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "xRagedFurballx",
+          "Player2": "Hamuda",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Falcon_",
+          "Player2": "manohito",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "smefan1",
+          "Player2": "Portal",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ejk",
+          "Player2": "DarkBone",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "fingers1991",
+          "Player2": "Toter72",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "manjyui",
+          "Player2": "SoggyCheerios",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "gazmon48",
+          "Player2": "Nogamblenofutur",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Matsukasa10",
+          "Player2": "ellectroide",
+          "Result": "1-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "Matches": [
+        {
+          "Player1": "gazmon48",
+          "Player2": "felider",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "tchuco",
+          "Player2": "Hamuda",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "hauterho",
+          "Player2": "Nogamblenofutur",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Manny-",
+          "Player2": "Strongmind",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "Matches": [
+        {
+          "Player1": "hauterho",
+          "Player2": "Hamuda",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "gazmon48",
+          "Player2": "Strongmind",
+          "Result": "0-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 9",
       "Matches": [
         {
           "Player1": "Hamuda",
