@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2025-05-21T00:00:00Z",
     "Name": "Duel Commander Trial 16",
-    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-05-2112782276"
+    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-05-2112782276",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -7442,52 +7445,317 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
-          "Player1": "DarkBone",
-          "Player2": "kasa",
+          "Player1": "fzpogo",
+          "Player2": "boytriton",
           "Result": "2-0-0"
         },
         {
-          "Player1": "GuiBonella",
-          "Player2": "Cheiffireball",
+          "Player1": "Chichichi",
+          "Player2": "Uzbek",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Casatti",
+          "Player2": "osmanozguney",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "kasa",
+          "Player2": "RedisRed2",
           "Result": "2-1-0"
+        },
+        {
+          "Player1": "Vequinox",
+          "Player2": "DarkBone",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "GuiBonella",
+          "Player2": "DuduDeNunu",
+          "Result": "0-2-0"
         },
         {
           "Player1": "tabulartony1",
-          "Player2": "ZacharyHaleComstock",
-          "Result": "2-1-0"
+          "Player2": "Beicodegeia",
+          "Result": "2-0-0"
         },
         {
-          "Player1": "DuduDeNunu",
-          "Player2": "pokerswizard",
+          "Player1": "CrazyMorango",
+          "Player2": "lpltraytonenjoyer",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "pokerswizard",
+          "Player2": "ZacharyHaleComstock",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Green_Line",
+          "Player2": "albertoSD",
           "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 2",
       "Matches": [
         {
-          "Player1": "DuduDeNunu",
+          "Player1": "tabulartony1",
+          "Player2": "Chichichi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "lpltraytonenjoyer",
+          "Player2": "Uzbek",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Casatti",
+          "Player2": "Cheiffireball",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Green_Line",
+          "Player2": "DarkBone",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "pokerswizard",
+          "Player2": "RedisRed2",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "osmanozguney",
           "Player2": "GuiBonella",
-          "Result": "2-1-0"
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Vequinox",
+          "Player2": "boytriton",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "DuduDeNunu",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "CrazyMorango",
+          "Player2": "kasa",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "fzpogo",
+          "Player2": "Beicodegeia",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "pokerswizard",
+          "Player2": "GuiBonella",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "kasa",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "RedisRed2",
+          "Player2": "lpltraytonenjoyer",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "fzpogo",
+          "Player2": "Vequinox",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Green_Line",
+          "Player2": "DuduDeNunu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "Uzbek",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Chichichi",
+          "Player2": "boytriton",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Cheiffireball",
+          "Player2": "DarkBone",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "tabulartony1",
+          "Player2": "CrazyMorango",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Casatti",
+          "Player2": "albertoSD",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "RedisRed2",
+          "Player2": "Green_Line",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Casatti",
+          "Player2": "Uzbek",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kasa",
+          "Player2": "DarkBone",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "tabulartony1",
+          "Player2": "DuduDeNunu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Cheiffireball",
+          "Player2": "boytriton",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "fzpogo",
+          "Player2": "GuiBonella",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "pokerswizard",
+          "Player2": "lpltraytonenjoyer",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "ZacharyHaleComstock",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "Chichichi",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "albertoSD",
+          "Player2": "RedisRed2",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Green_Line",
+          "Player2": "Chichichi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "boytriton",
+          "Player2": "Beicodegeia",
+          "Result": "0-2-0"
         },
         {
           "Player1": "tabulartony1",
           "Player2": "DarkBone",
-          "Result": "2-1-0"
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "pokerswizard",
+          "Player2": "fzpogo",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Casatti",
+          "Player2": "lpltraytonenjoyer",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Cheiffireball",
+          "Player2": "Uzbek",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "GuiBonella",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kasa",
+          "Player2": "DuduDeNunu",
+          "Result": "1-2-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 6",
       "Matches": [
         {
-          "Player1": "DuduDeNunu",
-          "Player2": "tabulartony1",
+          "Player1": "Cheiffireball",
+          "Player2": "GuiBonella",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "pokerswizard",
+          "Player2": "DuduDeNunu",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "tabulartony1",
+          "Player2": "ZacharyHaleComstock",
           "Result": "2-0-0"
+        },
+        {
+          "Player1": "kasa",
+          "Player2": "DarkBone",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "Matches": [
+        {
+          "Player1": "GuiBonella",
+          "Player2": "DuduDeNunu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "tabulartony1",
+          "Player2": "DarkBone",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "Matches": [
+        {
+          "Player1": "tabulartony1",
+          "Player2": "DuduDeNunu",
+          "Result": "0-2-0"
         }
       ]
     }

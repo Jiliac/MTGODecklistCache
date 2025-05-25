@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2025-05-22T00:00:00Z",
     "Name": "Duel Commander Trial 16",
-    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-05-2212782286"
+    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-05-2212782286",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -5946,52 +5949,272 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
+        {
+          "Player1": "pokerswizard",
+          "Player2": "boytriton",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "NickNorman",
+          "Player2": "DarkBone",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "Beicodegeia",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "duke12",
+          "Player2": "zarbo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "Rod_Chill",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "tabulartony1",
+          "Player2": "GuiBonella",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "John1111",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MackSmith",
+          "Player2": "Uzbek",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "duke12",
+          "Player2": "DarkBone",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "sebastianpozzo",
+          "Player2": "boytriton",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "zarbo",
+          "Player2": "John1111",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "tabulartony1",
+          "Player2": "ecobaronen",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "NickNorman",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "Beicodegeia",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "GuiBonella",
+          "Player2": "Uzbek",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "pokerswizard",
+          "Player2": "Rod_Chill",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "pokerswizard",
+          "Player2": "GuiBonella",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "tabulartony1",
+          "Player2": "NickNorman",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "zarbo",
+          "Player2": "Beicodegeia",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "sebastianpozzo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "boytriton",
+          "Player2": "Rod_Chill",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "duke12",
+          "Player2": "ZacharyHaleComstock",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MackSmith",
+          "Player2": "DarkBone",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "Uzbek",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "duke12",
+          "Player2": "GuiBonella",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "pokerswizard",
+          "Player2": "tabulartony1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "zarbo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "NickNorman",
+          "Player2": "Rod_Chill",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "ZacharyHaleComstock",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DarkBone",
+          "Player2": "Uzbek",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "sebastianpozzo",
+          "Player2": "Beicodegeia",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MackSmith",
+          "Player2": "boytriton",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "boytriton",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "tabulartony1",
+          "Player2": "Uzbek",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "ZacharyHaleComstock",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "pokerswizard",
+          "Player2": "MackSmith",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Rod_Chill",
+          "Player2": "zarbo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "GuiBonella",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "duke12",
+          "Player2": "sebastianpozzo",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "MackSmith",
+          "Player2": "boytriton",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "GuiBonella",
+          "Result": "2-0-0"
+        },
         {
           "Player1": "duke12",
           "Player2": "sebastianpozzo",
           "Result": "2-0-0"
         },
         {
-          "Player1": "ZacharyHaleComstock",
-          "Player2": "GuiBonella",
-          "Result": "2-1-0"
-        },
-        {
           "Player1": "ecobaronen",
           "Player2": "Uzbek",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "boytriton",
-          "Player2": "MackSmith",
           "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 7",
       "Matches": [
         {
           "Player1": "boytriton",
           "Player2": "ecobaronen",
-          "Result": "2-1-0"
+          "Result": "2-0-0"
         },
         {
-          "Player1": "ZacharyHaleComstock",
-          "Player2": "duke12",
-          "Result": "2-0-0"
+          "Player1": "duke12",
+          "Player2": "ZacharyHaleComstock",
+          "Result": "0-2-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 8",
       "Matches": [
         {
-          "Player1": "boytriton",
-          "Player2": "ZacharyHaleComstock",
-          "Result": "2-1-0"
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "boytriton",
+          "Result": "0-2-0"
         }
       ]
     }

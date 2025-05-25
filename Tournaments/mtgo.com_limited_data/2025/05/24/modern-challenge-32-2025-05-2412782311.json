@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2025-05-24T00:00:00Z",
     "Name": "Modern Challenge 32",
-    "Uri": "https://www.mtgo.com/decklist/modern-challenge-32-2025-05-2412782311"
+    "Uri": "https://www.mtgo.com/decklist/modern-challenge-32-2025-05-2412782311",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -4252,52 +4255,592 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
+        {
+          "Player1": "EXILE8383",
+          "Player2": "Navigator_2505",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Juintatz",
+          "Player2": "Preparation",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "JV_7777",
+          "Player2": "Ignotus97",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ejk",
+          "Player2": "soggymeatball",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "KO_Mak",
+          "Player2": "alessandro81",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "Regien",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "taku123",
+          "Player2": "Suechtler",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Capoeira02",
+          "Player2": "SPyromancer",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Marian_",
+          "Player2": "jvidarte",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Sam_Lewin",
+          "Player2": "WeareVenom",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Chichichi",
+          "Player2": "jjj777",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "fradev1988",
+          "Player2": "Selfeisek",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Allos",
+          "Player2": "Alpha_Go",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "felider",
+          "Player2": "_QuasiMagiaJohnny_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Venom1",
+          "Player2": "Nytrox",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dreddybajs",
+          "Player2": "TSPJendrek",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "nahuel10",
+          "Player2": "_Joseba_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "connormc02",
+          "Player2": "pablohotdog",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "pat0presidente",
+          "Player2": "KingHairy",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "Juintatz",
+          "Player2": "_QuasiMagiaJohnny_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Capoeira02",
+          "Player2": "pablohotdog",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JV_7777",
+          "Player2": "soggymeatball",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Dreddybajs",
+          "Player2": "bless_von",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "WeareVenom",
+          "Player2": "jvidarte",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Suechtler",
+          "Player2": "ejk",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Nytrox",
+          "Player2": "jjj777",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Venom1",
+          "Player2": "SPyromancer",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "taku123",
+          "Player2": "Alpha_Go",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Navigator_2505",
+          "Player2": "Regien",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "nahuel10",
+          "Player2": "Ignotus97",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Allos",
+          "Player2": "felider",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Marian_",
+          "Player2": "Chichichi",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "pat0presidente",
+          "Player2": "_Joseba_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TSPJendrek",
+          "Player2": "connormc02",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "fradev1988",
+          "Player2": "alessandro81",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Sam_Lewin",
+          "Player2": "Preparation",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "KO_Mak",
+          "Player2": "EXILE8383",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Selfeisek",
+          "Player2": "KingHairy",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "soggymeatball",
+          "Player2": "jvidarte",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Capoeira02",
+          "Player2": "_Joseba_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TSPJendrek",
+          "Player2": "Chichichi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "taku123",
+          "Player2": "JV_7777",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Selfeisek",
+          "Player2": "Juintatz",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Nytrox",
+          "Player2": "EXILE8383",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "WeareVenom",
+          "Player2": "pablohotdog",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Alpha_Go",
+          "Player2": "Regien",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Suechtler",
+          "Player2": "alessandro81",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Venom1",
+          "Player2": "Sam_Lewin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ejk",
+          "Player2": "_QuasiMagiaJohnny_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Allos",
+          "Player2": "Navigator_2505",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "felider",
+          "Player2": "jjj777",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "connormc02",
+          "Player2": "bless_von",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "pat0presidente",
+          "Player2": "Preparation",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Marian_",
+          "Player2": "KO_Mak",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "fradev1988",
+          "Player2": "KingHairy",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Ignotus97",
+          "Player2": "SPyromancer",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "pat0presidente",
+          "Player2": "Allos",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "nahuel10",
+          "Player2": "Selfeisek",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Alpha_Go",
+          "Player2": "Preparation",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "KO_Mak",
+          "Player2": "jvidarte",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "pablohotdog",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Venom1",
+          "Player2": "felider",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "KingHairy",
+          "Player2": "_Joseba_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "soggymeatball",
+          "Player2": "WeareVenom",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TSPJendrek",
+          "Player2": "SPyromancer",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "connormc02",
+          "Player2": "Ignotus97",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Suechtler",
+          "Player2": "Navigator_2505",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "EXILE8383",
+          "Player2": "Regien",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ejk",
+          "Player2": "alessandro81",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "fradev1988",
+          "Player2": "jjj777",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Sam_Lewin",
+          "Player2": "_QuasiMagiaJohnny_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Marian_",
+          "Player2": "JV_7777",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Capoeira02",
+          "Player2": "Chichichi",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "Suechtler",
+          "Player2": "Ignotus97",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Marian_",
+          "Player2": "pablohotdog",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "SPyromancer",
+          "Player2": "Preparation",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Alpha_Go",
+          "Player2": "Chichichi",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Capoeira02",
+          "Player2": "Regien",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "EXILE8383",
+          "Player2": "Juintatz",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "pat0presidente",
+          "Player2": "felider",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "soggymeatball",
+          "Player2": "_Joseba_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "KO_Mak",
+          "Player2": "_QuasiMagiaJohnny_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "jjj777",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Selfeisek",
+          "Player2": "JV_7777",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "TSPJendrek",
+          "Player2": "Navigator_2505",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ejk",
+          "Player2": "jvidarte",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Venom1",
+          "Player2": "connormc02",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Allos",
+          "Player2": "alessandro81",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "Navigator_2505",
+          "Player2": "Preparation",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Selfeisek",
+          "Player2": "_QuasiMagiaJohnny_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jvidarte",
+          "Player2": "Chichichi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Venom1",
+          "Player2": "_Joseba_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Capoeira02",
+          "Player2": "felider",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "KO_Mak",
+          "Player2": "pat0presidente",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Alpha_Go",
+          "Player2": "alessandro81",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Suechtler",
+          "Player2": "TSPJendrek",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "pablohotdog",
+          "Player2": "EXILE8383",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "connormc02",
+          "Player2": "Juintatz",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JV_7777",
+          "Player2": "jjj777",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Allos",
+          "Player2": "Ignotus97",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ejk",
+          "Player2": "SPyromancer",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Marian_",
+          "Player2": "Regien",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "Matches": [
+        {
+          "Player1": "jvidarte",
+          "Player2": "Preparation",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ejk",
+          "Player2": "Navigator_2505",
+          "Result": "2-0-0"
+        },
         {
           "Player1": "Capoeira02",
           "Player2": "TSPJendrek",
           "Result": "2-0-0"
         },
         {
-          "Player1": "ejk",
-          "Player2": "Navigator_2505",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "Chichichi",
-          "Player2": "Suechtler",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "Preparation",
-          "Player2": "jvidarte",
-          "Result": "2-1-0"
+          "Player1": "Suechtler",
+          "Player2": "Chichichi",
+          "Result": "0-2-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 8",
       "Matches": [
-        {
-          "Player1": "Preparation",
-          "Player2": "Capoeira02",
-          "Result": "2-0-0"
-        },
         {
           "Player1": "ejk",
           "Player2": "Chichichi",
-          "Result": "2-0-0"
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Capoeira02",
+          "Player2": "Preparation",
+          "Result": "0-0-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 9",
       "Matches": [
         {
-          "Player1": "Preparation",
-          "Player2": "ejk",
-          "Result": "2-0-0"
+          "Player1": "ejk",
+          "Player2": "Preparation",
+          "Result": "0-2-0"
         }
       ]
     }

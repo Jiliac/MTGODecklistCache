@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2025-05-24T00:00:00Z",
     "Name": "Standard Challenge 32",
-    "Uri": "https://www.mtgo.com/decklist/standard-challenge-32-2025-05-2412782310"
+    "Uri": "https://www.mtgo.com/decklist/standard-challenge-32-2025-05-2412782310",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -3892,52 +3895,627 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
-          "Player1": "Dazai",
-          "Player2": "_Falcon_",
-          "Result": "2-1-0"
+          "Player1": "Portal",
+          "Player2": "FullDecafBen",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_ZNT_",
+          "Player2": "Goomy_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "MtGdAd2014",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Hamuda",
+          "Player2": "trampled",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ShadowTitan1",
+          "Player2": "malekz",
+          "Result": "0-2-0"
         },
         {
           "Player1": "Lifeisrisk7",
+          "Player2": "MTGHolic",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Arianne",
+          "Player2": "Porkylorky518",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "skprtst",
+          "Player2": "_Falcon_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Dazai",
+          "Player2": "tchuco",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Venom1",
+          "Player2": "deleon91",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "GabaldonJr",
+          "Player2": "felider",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "LemonadeArchery",
+          "Player2": "DskBayWolf",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "hockeybro26",
+          "Player2": "steelleaf51",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Boydjw2",
+          "Player2": "rougedragon",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Keggers",
+          "Player2": "Cachorrowo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kasa",
+          "Player2": "camroux22",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "xRagedFurballx",
+          "Player2": "Strongmind",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "J_tekt",
+          "Player2": "MentalMisstep",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "canepis16",
+          "Player2": "buhbuh",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DLCabelo",
+          "Player2": "smefan1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "Owl1013",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "camroux22",
+          "Player2": "J_tekt",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DLCabelo",
+          "Player2": "Boydjw2",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MTGHolic",
+          "Player2": "Goomy_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Arianne",
+          "Player2": "MentalMisstep",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dazai",
+          "Player2": "DskBayWolf",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "deleon91",
+          "Player2": "Keggers",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_ZNT_",
+          "Player2": "steelleaf51",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "skprtst",
+          "Player2": "LemonadeArchery",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "tchuco",
+          "Player2": "_Batutinha_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Falcon_",
+          "Player2": "Hamuda",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ShadowTitan1",
+          "Player2": "buhbuh",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Venom1",
+          "Player2": "GabaldonJr",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "hockeybro26",
+          "Player2": "xRagedFurballx",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "rougedragon",
+          "Player2": "bless_von",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "felider",
+          "Player2": "Strongmind",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Portal",
+          "Player2": "Porkylorky518",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "trampled",
+          "Player2": "Cachorrowo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "smefan1",
+          "Player2": "malekz",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kasa",
+          "Player2": "Lifeisrisk7",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MtGdAd2014",
+          "Player2": "FullDecafBen",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "canepis16",
+          "Player2": "Owl1013",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "Keggers",
+          "Player2": "malekz",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "Hamuda",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Dazai",
+          "Player2": "rougedragon",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Venom1",
+          "Player2": "_Falcon_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "J_tekt",
+          "Player2": "FullDecafBen",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "canepis16",
+          "Player2": "steelleaf51",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kasa",
+          "Player2": "DskBayWolf",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MentalMisstep",
+          "Player2": "MtGdAd2014",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Strongmind",
+          "Player2": "smefan1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Arianne",
+          "Player2": "deleon91",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Owl1013",
+          "Player2": "_ZNT_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Portal",
+          "Player2": "Lifeisrisk7",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "hockeybro26",
+          "Player2": "felider",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "DLCabelo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Boydjw2",
+          "Player2": "tchuco",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "skprtst",
+          "Player2": "camroux22",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Cachorrowo",
+          "Player2": "LemonadeArchery",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ShadowTitan1",
+          "Player2": "MTGHolic",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "GabaldonJr",
+          "Player2": "buhbuh",
+          "Result": "0-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "smefan1",
+          "Player2": "Owl1013",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "GabaldonJr",
+          "Player2": "LemonadeArchery",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Arianne",
+          "Player2": "ShadowTitan1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_ZNT_",
+          "Player2": "Strongmind",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Dazai",
+          "Player2": "_Falcon_",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "hockeybro26",
+          "Player2": "buhbuh",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Venom1",
+          "Player2": "DskBayWolf",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "rougedragon",
+          "Player2": "Keggers",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "MTGHolic",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "deleon91",
+          "Player2": "Lifeisrisk7",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MentalMisstep",
+          "Player2": "Cachorrowo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "canepis16",
+          "Player2": "malekz",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "tchuco",
+          "Player2": "MtGdAd2014",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Boydjw2",
+          "Player2": "kasa",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "J_tekt",
+          "Player2": "bless_von",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Portal",
+          "Player2": "camroux22",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "felider",
+          "Player2": "Hamuda",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "hockeybro26",
+          "Player2": "MtGdAd2014",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Lifeisrisk7",
+          "Player2": "Strongmind",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "MentalMisstep",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Arianne",
+          "Player2": "Portal",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "smefan1",
+          "Player2": "LemonadeArchery",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "rougedragon",
+          "Player2": "malekz",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Boydjw2",
+          "Player2": "MTGHolic",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Venom1",
+          "Player2": "skprtst",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kasa",
+          "Player2": "ShadowTitan1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Dazai",
+          "Player2": "Owl1013",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "felider",
+          "Player2": "DskBayWolf",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "deleon91",
+          "Player2": "_Falcon_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_ZNT_",
+          "Player2": "Cachorrowo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "J_tekt",
+          "Player2": "tchuco",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "canepis16",
+          "Player2": "bless_von",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Keggers",
+          "Player2": "Hamuda",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "_ZNT_",
           "Player2": "Arianne",
           "Result": "2-0-0"
         },
         {
-          "Player1": "Hamuda",
-          "Player2": "_ZNT_",
+          "Player1": "tchuco",
+          "Player2": "bless_von",
           "Result": "2-0-0"
         },
+        {
+          "Player1": "smefan1",
+          "Player2": "Boydjw2",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "canepis16",
+          "Player2": "DskBayWolf",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Venom1",
+          "Player2": "felider",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MentalMisstep",
+          "Player2": "MTGHolic",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "hockeybro26",
+          "Player2": "ShadowTitan1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "deleon91",
+          "Player2": "malekz",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kasa",
+          "Player2": "Keggers",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Falcon_",
+          "Player2": "Strongmind",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "rougedragon",
+          "Player2": "LemonadeArchery",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Lifeisrisk7",
+          "Player2": "Dazai",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "skprtst",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Owl1013",
+          "Player2": "Hamuda",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Portal",
+          "Player2": "Cachorrowo",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "Matches": [
         {
           "Player1": "Owl1013",
           "Player2": "Strongmind",
           "Result": "2-0-0"
+        },
+        {
+          "Player1": "Arianne",
+          "Player2": "Lifeisrisk7",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_ZNT_",
+          "Player2": "Hamuda",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Dazai",
+          "Player2": "_Falcon_",
+          "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 8",
       "Matches": [
-        {
-          "Player1": "Owl1013",
-          "Player2": "Dazai",
-          "Result": "2-1-0"
-        },
         {
           "Player1": "Hamuda",
           "Player2": "Lifeisrisk7",
           "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dazai",
+          "Player2": "Owl1013",
+          "Result": "0-2-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 9",
       "Matches": [
         {
-          "Player1": "Hamuda",
-          "Player2": "Owl1013",
-          "Result": "2-0-0"
+          "Player1": "Owl1013",
+          "Player2": "Hamuda",
+          "Result": "0-2-0"
         }
       ]
     }

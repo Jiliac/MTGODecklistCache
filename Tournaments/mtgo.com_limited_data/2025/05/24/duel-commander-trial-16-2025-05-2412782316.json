@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2025-05-24T00:00:00Z",
     "Name": "Duel Commander Trial 16",
-    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-05-2412782316"
+    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-05-2412782316",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -5820,52 +5823,227 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
-          "Player1": "Beicodegeia",
-          "Player2": "Rex_Iudex",
-          "Result": "2-1-0"
+          "Player1": "ecobaronen",
+          "Player2": "Boin",
+          "Result": "0-2-0"
         },
         {
-          "Player1": "Uzbek",
+          "Player1": "karatedom",
+          "Player2": "Uzbek",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Kakashi_",
           "Player2": "GuiBonella",
-          "Result": "2-1-0"
+          "Result": "0-2-0"
         },
         {
           "Player1": "Erlinska",
-          "Player2": "takeInitiative",
-          "Result": "2-1-0"
+          "Player2": "Beicodegeia",
+          "Result": "0-2-0"
         },
         {
           "Player1": "RedisRed2",
-          "Player2": "albertoSD",
-          "Result": "2-1-0"
-        }
-      ]
-    },
-    {
-      "RoundName": "Semifinals",
-      "Matches": [
-        {
-          "Player1": "Uzbek",
-          "Player2": "Erlinska",
-          "Result": "2-1-0"
+          "Player2": "Rex_Iudex",
+          "Result": "0-2-0"
         },
         {
-          "Player1": "Beicodegeia",
-          "Player2": "RedisRed2",
-          "Result": "2-1-0"
+          "Player1": "albertoSD",
+          "Player2": "Jositoshekel",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DarkBone",
+          "Player2": "takeInitiative",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Killerp0p0",
+          "Player2": "wcl",
+          "Result": "0-2-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 2",
       "Matches": [
+        {
+          "Player1": "RedisRed2",
+          "Player2": "DarkBone",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "Uzbek",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Boin",
+          "Player2": "Beicodegeia",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "takeInitiative",
+          "Player2": "wcl",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Rex_Iudex",
+          "Player2": "GuiBonella",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Killerp0p0",
+          "Player2": "Kakashi_",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Jositoshekel",
+          "Player2": "Erlinska",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "karatedom",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "Killerp0p0",
+          "Player2": "Jositoshekel",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Boin",
+          "Player2": "Rex_Iudex",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "Erlinska",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "GuiBonella",
+          "Player2": "takeInitiative",
+          "Result": "0-0-0"
+        },
         {
           "Player1": "Beicodegeia",
           "Player2": "Uzbek",
           "Result": "2-0-0"
+        },
+        {
+          "Player1": "RedisRed2",
+          "Player2": "wcl",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Kakashi_",
+          "Player2": "karatedom",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DarkBone",
+          "Player2": "ecobaronen",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "Boin",
+          "Player2": "DarkBone",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "Erlinska",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jositoshekel",
+          "Player2": "wcl",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "takeInitiative",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "Rex_Iudex",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "GuiBonella",
+          "Player2": "Uzbek",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "RedisRed2",
+          "Player2": "Kakashi_",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "albertoSD",
+          "Player2": "RedisRed2",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Erlinska",
+          "Player2": "takeInitiative",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "GuiBonella",
+          "Player2": "Uzbek",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "Rex_Iudex",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "RedisRed2",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Erlinska",
+          "Player2": "Uzbek",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "Matches": [
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "Uzbek",
+          "Result": "0-0-0"
         }
       ]
     }
