@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2025-05-31T00:00:00Z",
     "Name": "Duel Commander Trial 16",
-    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-05-3112782659"
+    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-05-3112782659",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -5788,47 +5791,227 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
+          "Player1": "Jose Guillermo",
+          "Player2": "Gregoriusil",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Boin",
+          "Player2": "RedisRed2",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Young_Shaman",
+          "Player2": "NickNorman",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "msskinbolic",
+          "Player2": "Tunaktunak",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "Jositoshekel",
+          "Result": "2-0-0"
+        },
+        {
           "Player1": "Beicodegeia",
-          "Player2": "Young_Shaman",
+          "Player2": "takeInitiative",
           "Result": "2-0-0"
         },
         {
-          "Player1": "takeInitiative",
-          "Player2": "albertoSD",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "Gregoriusil",
+          "Player1": "therock988",
           "Player2": "ZacharyHaleComstock",
-          "Result": "2-1-0"
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Vequinox",
+          "Player2": "boytriton",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "Jose Guillermo",
+          "Player2": "Jositoshekel",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Young_Shaman",
+          "Player2": "takeInitiative",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Boin",
+          "Player2": "msskinbolic",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "therock988",
+          "Player2": "boytriton",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Tunaktunak",
+          "Player2": "Gregoriusil",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Vequinox",
+          "Player2": "NickNorman",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "RedisRed2",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "ZacharyHaleComstock",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "therock988",
+          "Player2": "RedisRed2",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "NickNorman",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "Gregoriusil",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "Tunaktunak",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Young_Shaman",
+          "Player2": "boytriton",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Boin",
+          "Player2": "Jose Guillermo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "msskinbolic",
+          "Player2": "Vequinox",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Jositoshekel",
+          "Player2": "takeInitiative",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "Vequinox",
+          "Player2": "takeInitiative",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jose Guillermo",
+          "Player2": "boytriton",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "therock988",
+          "Player2": "Jositoshekel",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "msskinbolic",
+          "Player2": "Young_Shaman",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "NickNorman",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "Gregoriusil",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "RedisRed2",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Boin",
+          "Player2": "Tunaktunak",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "Young_Shaman",
+          "Player2": "Beicodegeia",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "Gregoriusil",
+          "Result": "1-2-0"
         },
         {
           "Player1": "NickNorman",
           "Player2": "RedisRed2",
-          "Result": "2-1-0"
-        }
-      ]
-    },
-    {
-      "RoundName": "Semifinals",
-      "Matches": [
-        {
-          "Player1": "Gregoriusil",
-          "Player2": "Beicodegeia",
           "Result": "2-0-0"
         },
         {
-          "Player1": "takeInitiative",
-          "Player2": "NickNorman",
-          "Result": "2-1-0"
+          "Player1": "albertoSD",
+          "Player2": "takeInitiative",
+          "Result": "0-2-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "NickNorman",
+          "Player2": "takeInitiative",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "Gregoriusil",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
       "Matches": [
         {
           "Player1": "Gregoriusil",

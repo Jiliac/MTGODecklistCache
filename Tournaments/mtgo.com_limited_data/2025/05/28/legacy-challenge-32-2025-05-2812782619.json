@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2025-05-28T00:00:00Z",
     "Name": "Legacy Challenge 32",
-    "Uri": "https://www.mtgo.com/decklist/legacy-challenge-32-2025-05-2812782619"
+    "Uri": "https://www.mtgo.com/decklist/legacy-challenge-32-2025-05-2812782619",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -4328,47 +4331,557 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
+        {
+          "Player1": "Sprouts",
+          "Player2": "Misplacedginger",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DrPP",
+          "Player2": "Joyfulwaffle",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "LasVegasChaos",
+          "Player2": "HamAndCheese",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "TricksterGod",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "olbeda",
+          "Player2": "boytriton",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "EVOLVED22",
+          "Player2": "MarcoIa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "ResponsiblyStupid",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "i_b_TRUE",
+          "Player2": "plaza23",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "jade-venus",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Ozymandias17",
+          "Player2": "DethFrmAbove",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "death_grips",
+          "Player2": "Unagi79",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "-CAPS-",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "Hammafist",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "momo391",
+          "Player2": "SuperCow12653",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "hermanomlg",
+          "Player2": "KeepAny7vsYou",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Shatun_",
+          "Player2": "DookieTrouserMD",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "smefan1",
+          "Player2": "DominiqueTutor",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "silviawataru",
+          "Player2": "FlawlessVictory-",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "HamAndCheese",
+          "Player2": "EVOLVED22",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "hermanomlg",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "KeepAny7vsYou",
+          "Player2": "Unagi79",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "i_b_TRUE",
+          "Player2": "DookieTrouserMD",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "MarcoIa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Hammafist",
+          "Player2": "death_grips",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "FlawlessVictory-",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "olbeda",
+          "Player2": "TricksterGod",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Sprouts",
+          "Player2": "Ozymandias17",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SuperCow12653",
+          "Player2": "Joyfulwaffle",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "momo391",
+          "Player2": "_Shatun_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "DominiqueTutor",
+          "Player2": "DrPP",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "smefan1",
+          "Player2": "jade-venus",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Misplacedginger",
+          "Player2": "LasVegasChaos",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "ResponsiblyStupid",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Srogers90",
+          "Player2": "-CAPS-",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "silviawataru",
+          "Player2": "musasabi",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "DethFrmAbove",
+          "Player2": "plaza23",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "musasabi",
+          "Player2": "jade-venus",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "hermanomlg",
+          "Player2": "LasVegasChaos",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "Joyfulwaffle",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "momo391",
+          "Player2": "plaza23",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Misplacedginger",
+          "Player2": "O_danielakos",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "silviawataru",
+          "Player2": "DrPP",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "smefan1",
+          "Player2": "Jumba",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Sprouts",
+          "Player2": "SuperCow12653",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "-CAPS-",
+          "Player2": "KeepAny7vsYou",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "MarcoIa",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "boytriton",
+          "Player2": "ResponsiblyStupid",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "i_b_TRUE",
+          "Player2": "EVOLVED22",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "olbeda",
+          "Player2": "DookieTrouserMD",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DominiqueTutor",
+          "Player2": "Unagi79",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Shatun_",
+          "Player2": "death_grips",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ozymandias17",
+          "Player2": "TricksterGod",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Srogers90",
+          "Player2": "DethFrmAbove",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "HamAndCheese",
+          "Player2": "Hammafist",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "DookieTrouserMD",
+          "Player2": "TricksterGod",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "EVOLVED22",
+          "Player2": "plaza23",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "DrPP",
+          "Player2": "choutin",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "ResponsiblyStupid",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Unagi79",
+          "Player2": "Joyfulwaffle",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "i_b_TRUE",
+          "Player2": "_Shatun_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "SuperCow12653",
+          "Player2": "-CAPS-",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DethFrmAbove",
+          "Player2": "boytriton",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "smefan1",
+          "Player2": "MarcoIa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "KeepAny7vsYou",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "olbeda",
+          "Player2": "HamAndCheese",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Srogers90",
+          "Player2": "jade-venus",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "silviawataru",
+          "Player2": "Sprouts",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "momo391",
+          "Player2": "DominiqueTutor",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "Hammafist",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "LasVegasChaos",
+          "Player2": "death_grips",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "Sprouts",
+          "Player2": "HamAndCheese",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "i_b_TRUE",
+          "Player2": "KeepAny7vsYou",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "TricksterGod",
+          "Player2": "-CAPS-",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "DominiqueTutor",
+          "Player2": "LasVegasChaos",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "SuperCow12653",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "smefan1",
+          "Player2": "DookieTrouserMD",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "plaza23",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Shatun_",
+          "Player2": "Jumba",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "hermanomlg",
+          "Player2": "DrPP",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "silviawataru",
+          "Player2": "ResponsiblyStupid",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "death_grips",
+          "Player2": "Joyfulwaffle",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "boytriton",
+          "Player2": "jade-venus",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Srogers90",
+          "Player2": "olbeda",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Hammafist",
+          "Player2": "choutin",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "musasabi",
+          "Player2": "Jumba",
+          "Result": "0-2-0"
+        },
         {
           "Player1": "Hammafist",
           "Player2": "-CAPS-",
-          "Result": "2-1-0"
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "TricksterGod",
+          "Player2": "Srogers90",
+          "Result": "0-2-0"
         },
         {
           "Player1": "SuperCow12653",
-          "Player2": "olbeda",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "Jumba",
-          "Player2": "musasabi",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "jade-venus",
           "Player2": "HamAndCheese",
           "Result": "2-0-0"
+        },
+        {
+          "Player1": "death_grips",
+          "Player2": "jade-venus",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "smefan1",
+          "Player2": "olbeda",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Sprouts",
+          "Player2": "O_danielakos",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DominiqueTutor",
+          "Player2": "plaza23",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MarcoIa",
+          "Player2": "boytriton",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "hermanomlg",
+          "Player2": "DookieTrouserMD",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "KeepAny7vsYou",
+          "Player2": "choutin",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Shatun_",
+          "Player2": "ResponsiblyStupid",
+          "Result": "0-2-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 7",
       "Matches": [
         {
           "Player1": "SuperCow12653",
-          "Player2": "Hammafist",
-          "Result": "2-1-0"
+          "Player2": "olbeda",
+          "Result": "2-0-0"
         },
         {
-          "Player1": "Jumba",
+          "Player1": "musasabi",
+          "Player2": "Jumba",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "HamAndCheese",
           "Player2": "jade-venus",
-          "Result": "2-1-0"
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Hammafist",
+          "Player2": "-CAPS-",
+          "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 8",
+      "Matches": [
+        {
+          "Player1": "Jumba",
+          "Player2": "jade-venus",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SuperCow12653",
+          "Player2": "Hammafist",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 9",
       "Matches": [
         {
           "Player1": "SuperCow12653",

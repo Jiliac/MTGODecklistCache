@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2025-05-30T00:00:00Z",
     "Name": "Duel Commander Trial 16",
-    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-05-3012782646"
+    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-05-3012782646",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -7372,52 +7375,302 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
-          "Player1": "snakerman",
-          "Player2": "rodixSK",
-          "Result": "2-1-0"
-        },
-        {
-          "Player1": "Beicodegeia",
-          "Player2": "Darkiundsa",
+          "Player1": "Jose Guillermo",
+          "Player2": "Rex_Iudex",
           "Result": "2-0-0"
         },
         {
-          "Player1": "ElGaiteiro",
-          "Player2": "Jose Guillermo",
-          "Result": "2-1-0"
+          "Player1": "rodixSK",
+          "Player2": "snakerman",
+          "Result": "2-0-0"
         },
         {
-          "Player1": "takeInitiative",
+          "Player1": "Darkiundsa",
+          "Player2": "takeInitiative",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Univerce",
+          "Player2": "MikeMarmitas",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "osmanozguney",
+          "Player2": "ZMontCristo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "DarkBone",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Dreddybajs",
+          "Player2": "DuduDeNunu",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "glyra",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "ElGaiteiro",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "samsherman",
           "Player2": "NickNorman",
-          "Result": "2-1-0"
+          "Result": "0-2-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "samsherman",
+          "Player2": "MikeMarmitas",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "glyra",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "snakerman",
+          "Player2": "takeInitiative",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Dreddybajs",
+          "Player2": "DarkBone",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "Darkiundsa",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "rodixSK",
+          "Player2": "ElGaiteiro",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "osmanozguney",
+          "Player2": "Jose Guillermo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ZMontCristo",
+          "Player2": "Rex_Iudex",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "DuduDeNunu",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "NickNorman",
+          "Player2": "Univerce",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "Jose Guillermo",
+          "Player2": "DarkBone",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "snakerman",
+          "Player2": "DuduDeNunu",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "samsherman",
+          "Player2": "albertoSD",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "Rex_Iudex",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dreddybajs",
+          "Player2": "ElGaiteiro",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "NickNorman",
+          "Player2": "takeInitiative",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "Univerce",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ZMontCristo",
+          "Player2": "MikeMarmitas",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "rodixSK",
+          "Player2": "Darkiundsa",
+          "Result": "0-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "DarkBone",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "samsherman",
+          "Player2": "Rex_Iudex",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "snakerman",
+          "Player2": "ZMontCristo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ZacharyHaleComstock",
+          "Player2": "takeInitiative",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "glyra",
+          "Player2": "MikeMarmitas",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jose Guillermo",
+          "Player2": "rodixSK",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "NickNorman",
+          "Player2": "ElGaiteiro",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "Darkiundsa",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "snakerman",
+          "Player2": "ZacharyHaleComstock",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "samsherman",
+          "Player2": "DarkBone",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jose Guillermo",
+          "Player2": "ElGaiteiro",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Darkiundsa",
+          "Player2": "Beicodegeia",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "rodixSK",
+          "Player2": "takeInitiative",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "NickNorman",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Rex_Iudex",
+          "Player2": "MikeMarmitas",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ZMontCristo",
+          "Player2": "glyra",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "Darkiundsa",
+          "Player2": "Beicodegeia",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jose Guillermo",
+          "Player2": "ElGaiteiro",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "NickNorman",
+          "Player2": "takeInitiative",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "rodixSK",
+          "Player2": "snakerman",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
       "Matches": [
         {
           "Player1": "Beicodegeia",
           "Player2": "takeInitiative",
-          "Result": "2-1-0"
+          "Result": "2-0-0"
         },
         {
-          "Player1": "ElGaiteiro",
-          "Player2": "snakerman",
-          "Result": "2-0-0"
+          "Player1": "snakerman",
+          "Player2": "ElGaiteiro",
+          "Result": "0-2-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 8",
       "Matches": [
         {
-          "Player1": "ElGaiteiro",
-          "Player2": "Beicodegeia",
-          "Result": "2-0-0"
+          "Player1": "Beicodegeia",
+          "Player2": "ElGaiteiro",
+          "Result": "0-2-0"
         }
       ]
     }
