@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2025-06-02T00:00:00Z",
     "Name": "Duel Commander Trial 16",
-    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-06-0212782684"
+    "Uri": "https://www.mtgo.com/decklist/duel-commander-trial-16-2025-06-0212782684",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -8212,52 +8215,222 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
           "Player1": "Beicodegeia",
-          "Player2": "Gonito",
+          "Player2": "RedisRed2",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "lovetapsmtg",
+          "Player2": "DarkBone",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jose Guillermo",
+          "Player2": "MatheusPonciano",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "NickNorman",
+          "Player2": "glyra",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "poiu45",
+          "Player2": "wcl",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ZMontCristo",
+          "Player2": "laughingrock",
           "Result": "2-0-0"
         },
         {
-          "Player1": "albertoSD",
-          "Player2": "PNascimento",
+          "Player1": "MikeMarmitas",
+          "Player2": "Uzbek",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "justAlice",
+          "Player2": "DuduDeNunu",
           "Result": "2-1-0"
-        },
-        {
-          "Player1": "boytriton",
-          "Player2": "rinazina",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "ZacharyHaleComstock",
-          "Player2": "bernardocssa",
-          "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 2",
       "Matches": [
         {
-          "Player1": "albertoSD",
-          "Player2": "boytriton",
+          "Player1": "ZMontCristo",
+          "Player2": "MatheusPonciano",
           "Result": "2-0-0"
         },
         {
-          "Player1": "Beicodegeia",
-          "Player2": "ZacharyHaleComstock",
-          "Result": "2-1-0"
-        }
-      ]
-    },
-    {
-      "RoundName": "Finals",
-      "Matches": [
+          "Player1": "glyra",
+          "Player2": "RedisRed2",
+          "Result": "2-0-0"
+        },
         {
-          "Player1": "albertoSD",
+          "Player1": "lovetapsmtg",
+          "Player2": "NickNorman",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "poiu45",
+          "Player2": "DuduDeNunu",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "laughingrock",
+          "Player2": "Uzbek",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "DarkBone",
+          "Player2": "MikeMarmitas",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "justAlice",
+          "Player2": "wcl",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jose Guillermo",
           "Player2": "Beicodegeia",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "poiu45",
+          "Player2": "NickNorman",
           "Result": "2-0-0"
+        },
+        {
+          "Player1": "ZMontCristo",
+          "Player2": "wcl",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "Uzbek",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MatheusPonciano",
+          "Player2": "justAlice",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "laughingrock",
+          "Player2": "lovetapsmtg",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "glyra",
+          "Player2": "DarkBone",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "RedisRed2",
+          "Player2": "MikeMarmitas",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "ZMontCristo",
+          "Player2": "DarkBone",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "justAlice",
+          "Player2": "RedisRed2",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jose Guillermo",
+          "Player2": "MikeMarmitas",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "laughingrock",
+          "Player2": "MatheusPonciano",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "NickNorman",
+          "Player2": "Uzbek",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "poiu45",
+          "Player2": "glyra",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "wcl",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "ZMontCristo",
+          "Player2": "glyra",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "justAlice",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "poiu45",
+          "Player2": "wcl",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "RedisRed2",
+          "Player2": "DarkBone",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "DarkBone",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "ZMontCristo",
+          "Player2": "poiu45",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "Matches": [
+        {
+          "Player1": "ZMontCristo",
+          "Player2": "DarkBone",
+          "Result": "0-2-0"
         }
       ]
     }
@@ -8491,7 +8664,7 @@
       "Losses": 2,
       "Draws": 0,
       "OMWP": 0.5,
-      "GWP": 0.0,
+      "GWP": 0,
       "OGWP": 0.5192
     },
     {
@@ -8502,7 +8675,7 @@
       "Losses": 1,
       "Draws": 0,
       "OMWP": 0.4,
-      "GWP": 0.0,
+      "GWP": 0,
       "OGWP": 0.4615
     }
   ]
