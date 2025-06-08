@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2025-06-07T00:00:00Z",
     "Name": "Modern Challenge 32",
-    "Uri": "https://www.mtgo.com/decklist/modern-challenge-32-2025-06-0712792690"
+    "Uri": "https://www.mtgo.com/decklist/modern-challenge-32-2025-06-0712792690",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -4520,32 +4523,622 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
           "Player1": "soggymeatball",
-          "Player2": "nahuel10",
+          "Player2": "groot02",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Cachorrowo",
+          "Player2": "CrisMTG77",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "gazmon48",
+          "Player2": "MisterTwin",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "gurig",
+          "Player2": "PesE",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ceylonjay",
+          "Player2": "albert62",
           "Result": "2-0-0"
         },
         {
-          "Player1": "groot02",
+          "Player1": "Terminus0",
+          "Player2": "jaiimechuu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Smurfyyy",
+          "Player2": "DB_bhobbsie",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "nahuel10",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "DragonFodder",
+          "Player2": "felider",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "duanceyao",
+          "Player2": "LotusLore",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "EiJunCHN",
+          "Player2": "TYonemura",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "LaRougeMTG",
+          "Player2": "SireOfMana",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "AugustinusAeons",
+          "Player2": "HealthyEgo",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "manohito",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MeninooNey",
+          "Player2": "Alpha_Go",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Roberto777",
+          "Player2": "Scooby_Snacks",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "AlpInco",
+          "Player2": "DemianDesposito10",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ryuumei",
+          "Player2": "Juintatz",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "_Joseba_",
           "Player2": "YopopMTG",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Edraros3",
+          "Player2": "SanPop",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ShadowTitan1",
+          "Player2": "jvidarte",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "ryuumei",
+          "Player2": "CrisMTG77",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "TSPJendrek",
+          "Player2": "groot02",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "duanceyao",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ceylonjay",
+          "Player2": "nahuel10",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "SireOfMana",
+          "Player2": "Scooby_Snacks",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "DragonFodder",
+          "Player2": "Terminus0",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "jaiimechuu",
+          "Player2": "PesE",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SanPop",
+          "Player2": "jvidarte",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Alpha_Go",
+          "Player2": "EiJunCHN",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "albert62",
+          "Player2": "Juintatz",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ShadowTitan1",
+          "Player2": "TYonemura",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Smurfyyy",
+          "Player2": "MeninooNey",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "felider",
+          "Player2": "LotusLore",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "YopopMTG",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "gazmon48",
+          "Player2": "Edraros3",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "HealthyEgo",
+          "Player2": "manohito",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "gurig",
+          "Player2": "DemianDesposito10",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Roberto777",
+          "Player2": "soggymeatball",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Cachorrowo",
+          "Player2": "DB_bhobbsie",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Joseba_",
+          "Player2": "MisterTwin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "AugustinusAeons",
+          "Player2": "AlpInco",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "Smurfyyy",
+          "Player2": "jaiimechuu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Roberto777",
+          "Player2": "MisterTwin",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "TYonemura",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "gazmon48",
+          "Player2": "YopopMTG",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "nahuel10",
+          "Player2": "groot02",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "LotusLore",
+          "Player2": "SireOfMana",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "albert62",
+          "Player2": "SanPop",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "gurig",
+          "Player2": "Edraros3",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ceylonjay",
+          "Player2": "_Joseba_",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "TSPJendrek",
+          "Player2": "Alpha_Go",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "felider",
+          "Player2": "Scooby_Snacks",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ShadowTitan1",
+          "Player2": "CrisMTG77",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LaRougeMTG",
+          "Player2": "Juintatz",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Terminus0",
+          "Player2": "AlpInco",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "manohito",
+          "Player2": "MeninooNey",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "AugustinusAeons",
+          "Player2": "soggymeatball",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "duanceyao",
+          "Player2": "Cachorrowo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "jvidarte",
+          "Player2": "PesE",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ryuumei",
+          "Player2": "DB_bhobbsie",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "bless_von",
+          "Player2": "MisterTwin",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "albert62",
+          "Player2": "SireOfMana",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Terminus0",
+          "Player2": "_Joseba_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MeninooNey",
+          "Player2": "Scooby_Snacks",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "gazmon48",
+          "Player2": "ShadowTitan1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Alpha_Go",
+          "Player2": "HealthyEgo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "TSPJendrek",
+          "Player2": "Juintatz",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "gurig",
+          "Player2": "groot02",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "LotusLore",
+          "Player2": "YopopMTG",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "duanceyao",
+          "Player2": "PesE",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Smurfyyy",
+          "Player2": "soggymeatball",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ryuumei",
+          "Player2": "manohito",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "felider",
+          "Player2": "jaiimechuu",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "nahuel10",
+          "Player2": "Cachorrowo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "AlpInco",
+          "Player2": "CrisMTG77",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "AugustinusAeons",
+          "Player2": "Edraros3",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "jvidarte",
+          "Player2": "TYonemura",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ceylonjay",
+          "Player2": "LaRougeMTG",
+          "Result": "0-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "Cachorrowo",
+          "Player2": "manohito",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "AlpInco",
+          "Player2": "YopopMTG",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "jvidarte",
+          "Player2": "_Joseba_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Terminus0",
+          "Player2": "TYonemura",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "HealthyEgo",
+          "Player2": "SireOfMana",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "soggymeatball",
+          "Player2": "ShadowTitan1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "felider",
+          "Player2": "CrisMTG77",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "LaRougeMTG",
+          "Player2": "PesE",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ceylonjay",
+          "Player2": "bless_von",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "MisterTwin",
+          "Player2": "Scooby_Snacks",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "jaiimechuu",
+          "Player2": "Juintatz",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "gurig",
+          "Player2": "AugustinusAeons",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Roberto777",
+          "Player2": "albert62",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "nahuel10",
+          "Player2": "LotusLore",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "gazmon48",
+          "Player2": "groot02",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TSPJendrek",
+          "Player2": "MeninooNey",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ryuumei",
+          "Player2": "Smurfyyy",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "PesE",
+          "Player2": "Scooby_Snacks",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Smurfyyy",
+          "Player2": "albert62",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Cachorrowo",
+          "Player2": "SireOfMana",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jvidarte",
+          "Player2": "MisterTwin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Roberto777",
+          "Player2": "manohito",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ryuumei",
+          "Player2": "Terminus0",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ShadowTitan1",
+          "Player2": "HealthyEgo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "jaiimechuu",
+          "Player2": "_Joseba_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ceylonjay",
+          "Player2": "gurig",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "soggymeatball",
+          "Player2": "TYonemura",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "nahuel10",
+          "Player2": "felider",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "duanceyao",
+          "Player2": "bless_von",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "AugustinusAeons",
+          "Player2": "LotusLore",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "CrisMTG77",
+          "Player2": "groot02",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "TSPJendrek",
+          "Player2": "gazmon48",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Juintatz",
+          "Player2": "YopopMTG",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "Matches": [
+        {
+          "Player1": "nahuel10",
+          "Player2": "soggymeatball",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "TSPJendrek",
+          "Player2": "CrisMTG77",
           "Result": "2-0-0"
         },
         {
           "Player1": "gazmon48",
           "Player2": "felider",
-          "Result": "2-1-0"
+          "Result": "2-0-0"
         },
         {
-          "Player1": "TSPJendrek",
-          "Player2": "CrisMTG77",
-          "Result": "2-1-0"
+          "Player1": "groot02",
+          "Player2": "YopopMTG",
+          "Result": "0-0-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 8",
       "Matches": [
         {
           "Player1": "soggymeatball",
@@ -4555,17 +5148,17 @@
         {
           "Player1": "TSPJendrek",
           "Player2": "gazmon48",
-          "Result": "2-1-0"
+          "Result": "2-0-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 9",
       "Matches": [
         {
           "Player1": "TSPJendrek",
           "Player2": "soggymeatball",
-          "Result": "2-1-0"
+          "Result": "2-0-0"
         }
       ]
     }

@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2025-06-07T00:00:00Z",
     "Name": "Pauper Challenge 32",
-    "Uri": "https://www.mtgo.com/decklist/pauper-challenge-32-2025-06-0712792692"
+    "Uri": "https://www.mtgo.com/decklist/pauper-challenge-32-2025-06-0712792692",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -3344,52 +3347,667 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
+          "Player1": "i_b_TRUE",
+          "Player2": "LikeAFerro",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Navas",
+          "Player2": "PNascimento",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "discoverN",
+          "Player2": "_Tia93_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "__Noob__",
+          "Player2": "Luminati",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "eresopacaso",
+          "Player2": "papaRMSKY",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "LuffyDoChapeuDePalha",
+          "Player2": "seasonofmists",
+          "Result": "0-2-0"
+        },
+        {
           "Player1": "CrazyMorango",
+          "Player2": "4UBro",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Luddrox",
+          "Player2": "Tornado66",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "BERNASTORRES",
+          "Player2": "Bong0411",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jinjaa",
+          "Player2": "EiJunCHN",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "StudentAnselmus",
+          "Player2": "MisterTwin",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "PrincessLTheFirst",
+          "Player2": "Denisevich",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "oskiyaa",
+          "Player2": "Filip75",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Hampuse1",
+          "Player2": "hetare_ane",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "gazmon48",
+          "Player2": "Captain_Tsubasa",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "__BMJ__",
+          "Player2": "_rash_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "SanPop",
+          "Player2": "mysteryman21",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ixidor29",
+          "Player2": "boytriton",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Terminus0",
+          "Player2": "IvernOP",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "galeogiao",
+          "Player2": "NMT_Sco94",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Beicodegeia",
           "Player2": "Crevelloni",
           "Result": "2-0-0"
         },
         {
-          "Player1": "PrincessLTheFirst",
+          "Player1": "sai199orz",
+          "Player2": "Niederschatten",
+          "Result": "0-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "__Noob__",
+          "Player2": "4UBro",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "oskiyaa",
+          "Player2": "Hampuse1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "eresopacaso",
+          "Player2": "LikeAFerro",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Niederschatten",
+          "Player2": "Filip75",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Beicodegeia",
           "Player2": "papaRMSKY",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "SanPop",
+          "Player2": "PrincessLTheFirst",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "NMT_Sco94",
+          "Player2": "Luddrox",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "BERNASTORRES",
+          "Player2": "seasonofmists",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Ixidor29",
+          "Player2": "_Tia93_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "discoverN",
+          "Player2": "Captain_Tsubasa",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "LuffyDoChapeuDePalha",
+          "Player2": "Tornado66",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "FerMTG",
+          "Player2": "PNascimento",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "CrazyMorango",
+          "Player2": "Denisevich",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "gazmon48",
+          "Player2": "galeogiao",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "EiJunCHN",
+          "Player2": "Bong0411",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "sai199orz",
+          "Player2": "IvernOP",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Navas",
+          "Player2": "Terminus0",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "__BMJ__",
+          "Player2": "Luminati",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "hetare_ane",
+          "Player2": "Crevelloni",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "i_b_TRUE",
+          "Player2": "_rash_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "StudentAnselmus",
+          "Player2": "boytriton",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jinjaa",
+          "Player2": "MisterTwin",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "Hampuse1",
+          "Player2": "IvernOP",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "StudentAnselmus",
+          "Player2": "Denisevich",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "i_b_TRUE",
+          "Player2": "_Tia93_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "discoverN",
+          "Player2": "eresopacaso",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "BERNASTORRES",
+          "Player2": "PrincessLTheFirst",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "NMT_Sco94",
+          "Player2": "Captain_Tsubasa",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Filip75",
+          "Player2": "hetare_ane",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Luddrox",
+          "Player2": "gazmon48",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Niederschatten",
+          "Player2": "__BMJ__",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "boytriton",
+          "Player2": "Bong0411",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_rash_",
+          "Player2": "EiJunCHN",
           "Result": "2-0-0"
         },
         {
           "Player1": "SanPop",
           "Player2": "FerMTG",
-          "Result": "2-1-0"
+          "Result": "0-2-0"
         },
         {
-          "Player1": "Hampuse1",
-          "Player2": "i_b_TRUE",
-          "Result": "2-1-0"
+          "Player1": "__Noob__",
+          "Player2": "MisterTwin",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "LuffyDoChapeuDePalha",
+          "Player2": "4UBro",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "galeogiao",
+          "Player2": "Luminati",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "sai199orz",
+          "Player2": "Crevelloni",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "PNascimento",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "seasonofmists",
+          "Player2": "papaRMSKY",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "CrazyMorango",
+          "Player2": "LikeAFerro",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "oskiyaa",
+          "Player2": "Terminus0",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jinjaa",
+          "Player2": "Ixidor29",
+          "Result": "0-2-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "Hampuse1",
+          "Player2": "MisterTwin",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "BERNASTORRES",
+          "Player2": "Beicodegeia",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "i_b_TRUE",
+          "Player2": "FerMTG",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Ixidor29",
+          "Player2": "CrazyMorango",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "NMT_Sco94",
+          "Player2": "boytriton",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Crevelloni",
+          "Player2": "gazmon48",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Tia93_",
+          "Player2": "PrincessLTheFirst",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "__BMJ__",
+          "Player2": "PNascimento",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "sai199orz",
+          "Player2": "hetare_ane",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SanPop",
+          "Player2": "_rash_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "__Noob__",
+          "Player2": "IvernOP",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Captain_Tsubasa",
+          "Player2": "papaRMSKY",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "eresopacaso",
+          "Player2": "Terminus0",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "StudentAnselmus",
+          "Player2": "LikeAFerro",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LuffyDoChapeuDePalha",
+          "Player2": "Luminati",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "seasonofmists",
+          "Player2": "Luddrox",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Bong0411",
+          "Player2": "Denisevich",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "oskiyaa",
+          "Player2": "4UBro",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "BERNASTORRES",
+          "Player2": "Luminati",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Ixidor29",
+          "Player2": "eresopacaso",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "galeogiao",
+          "Player2": "StudentAnselmus",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Captain_Tsubasa",
+          "Player2": "CrazyMorango",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "i_b_TRUE",
+          "Player2": "oskiyaa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "NMT_Sco94",
+          "Player2": "4UBro",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Beicodegeia",
+          "Player2": "_rash_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "sai199orz",
+          "Player2": "_Tia93_",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "MisterTwin",
+          "Player2": "papaRMSKY",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "hetare_ane",
+          "Player2": "LikeAFerro",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "SanPop",
+          "Player2": "Luddrox",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "FerMTG",
+          "Player2": "PrincessLTheFirst",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "__Noob__",
+          "Player2": "Denisevich",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "boytriton",
+          "Player2": "IvernOP",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "__BMJ__",
+          "Player2": "Crevelloni",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "LuffyDoChapeuDePalha",
+          "Player2": "PNascimento",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Hampuse1",
+          "Player2": "seasonofmists",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "MisterTwin",
+          "Player2": "PrincessLTheFirst",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "BERNASTORRES",
+          "Player2": "StudentAnselmus",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "eresopacaso",
+          "Player2": "LuffyDoChapeuDePalha",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "i_b_TRUE",
+          "Player2": "IvernOP",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "galeogiao",
+          "Player2": "_Tia93_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "NMT_Sco94",
+          "Player2": "Denisevich",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "sai199orz",
+          "Player2": "__BMJ__",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "seasonofmists",
+          "Player2": "FerMTG",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Luminati",
+          "Player2": "4UBro",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Hampuse1",
+          "Player2": "Crevelloni",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "CrazyMorango",
+          "Player2": "papaRMSKY",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "oskiyaa",
+          "Player2": "PNascimento",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "hetare_ane",
+          "Player2": "Beicodegeia",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "SanPop",
+          "Player2": "Captain_Tsubasa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ixidor29",
+          "Player2": "Luddrox",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_rash_",
+          "Player2": "boytriton",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "__Noob__",
+          "Player2": "LikeAFerro",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "Matches": [
+        {
+          "Player1": "SanPop",
+          "Player2": "FerMTG",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "CrazyMorango",
+          "Player2": "Crevelloni",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "i_b_TRUE",
+          "Player2": "Hampuse1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "PrincessLTheFirst",
+          "Player2": "papaRMSKY",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
       "Matches": [
         {
           "Player1": "Hampuse1",
           "Player2": "CrazyMorango",
-          "Result": "2-1-0"
+          "Result": "2-0-0"
         },
         {
-          "Player1": "PrincessLTheFirst",
-          "Player2": "SanPop",
-          "Result": "2-1-0"
+          "Player1": "SanPop",
+          "Player2": "PrincessLTheFirst",
+          "Result": "0-2-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 9",
       "Matches": [
         {
-          "Player1": "PrincessLTheFirst",
-          "Player2": "Hampuse1",
-          "Result": "2-0-0"
+          "Player1": "Hampuse1",
+          "Player2": "PrincessLTheFirst",
+          "Result": "0-2-0"
         }
       ]
     }

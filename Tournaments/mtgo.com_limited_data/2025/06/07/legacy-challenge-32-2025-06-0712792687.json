@@ -1,8 +1,11 @@
 {
   "Tournament": {
+    "Id": 0,
     "Date": "2025-06-07T00:00:00Z",
     "Name": "Legacy Challenge 32",
-    "Uri": "https://www.mtgo.com/decklist/legacy-challenge-32-2025-06-0712792687"
+    "Uri": "https://www.mtgo.com/decklist/legacy-challenge-32-2025-06-0712792687",
+    "JsonFile": null,
+    "ForceRedownload": false
   },
   "Decks": [
     {
@@ -4236,52 +4239,652 @@
   ],
   "Rounds": [
     {
-      "RoundName": "Quarterfinals",
+      "RoundName": "Round 1",
       "Matches": [
         {
-          "Player1": "Gitaxian_Probe",
-          "Player2": "kentaro_hokori",
+          "Player1": "albertoSD",
+          "Player2": "thatguy_champ",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ziggy_stardust",
+          "Player2": "EmperorOppai",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "KoolooLimpah",
+          "Player2": "Thebigempty92",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Manny-",
+          "Player2": "Munchlax446",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "parkss",
+          "Player2": "TheGrimLavamancer",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Boin",
+          "Player2": "Phellipe",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "fishduggery",
+          "Player2": "WadeB",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "i_b_TRUE",
+          "Player2": "PM_Boltface",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "wakame",
+          "Player2": "badgods",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "snoopy-magic",
+          "Player2": "The_shallow_grave",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "yapperdoodle",
+          "Player2": "Gitaxian_Probe",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "wonderPreaux",
+          "Player2": "jibeta",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Bubblelift",
+          "Player2": "harmonywoods",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kentaro_hokori",
+          "Player2": "monkeyscantcry",
           "Result": "2-1-0"
         },
         {
-          "Player1": "Illao1",
-          "Player2": "Mogged",
+          "Player1": "iKhada",
+          "Player2": "Ailien02",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "_INF_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "AdventuresWithTarmo",
+          "Player2": "splev",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "silencsong",
+          "Player2": "Roodslay",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Harry1232",
+          "Player2": "Ryuho090",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DarkDepthsAniki",
+          "Player2": "Selfeisek",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "FruitSalad16",
+          "Player2": "Illao1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "JUJUBEAN__2004",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Applepies96",
+          "Player2": "KadettiKersantti",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "jakobpablo",
+          "Player2": "PekkaChu",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "monkeyscantcry",
+          "Player2": "splev",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "i_b_TRUE",
+          "Player2": "Munchlax446",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "iKhada",
+          "Player2": "PM_Boltface",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ailien02",
+          "Player2": "Roodslay",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "parkss",
+          "Player2": "KadettiKersantti",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Manny-",
+          "Player2": "FruitSalad16",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "WadeB",
+          "Player2": "Ryuho090",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Selfeisek",
+          "Player2": "Gitaxian_Probe",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "DarkDepthsAniki",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kentaro_hokori",
+          "Player2": "harmonywoods",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Boin",
+          "Player2": "ziggy_stardust",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "EmperorOppai",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Phellipe",
+          "Player2": "Thebigempty92",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jibeta",
+          "Player2": "thatguy_champ",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "PekkaChu",
+          "Player2": "Illao1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "fishduggery",
+          "Player2": "AdventuresWithTarmo",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "wonderPreaux",
+          "Player2": "JUJUBEAN__2004",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Applepies96",
+          "Player2": "jakobpablo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_INF_",
+          "Player2": "TheGrimLavamancer",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "silencsong",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Bubblelift",
+          "Player2": "yapperdoodle",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Harry1232",
+          "Player2": "The_shallow_grave",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "wakame",
+          "Player2": "pirol94",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "KoolooLimpah",
+          "Player2": "badgods",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "WadeB",
+          "Player2": "FruitSalad16",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "i_b_TRUE",
+          "Player2": "monkeyscantcry",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "Gitaxian_Probe",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "wakame",
+          "Player2": "Phellipe",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "AdventuresWithTarmo",
+          "Player2": "Roodslay",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Manny-",
+          "Player2": "_INF_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "parkss",
+          "Player2": "Bubblelift",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "PM_Boltface",
+          "Player2": "silencsong",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Ailien02",
+          "Player2": "The_shallow_grave",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DarkDepthsAniki",
+          "Player2": "yapperdoodle",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "Thebigempty92",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "KoolooLimpah",
+          "Player2": "Ryuho090",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ziggy_stardust",
+          "Player2": "JUJUBEAN__2004",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "pirol94",
+          "Player2": "snoopy-magic",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "KadettiKersantti",
+          "Player2": "Illao1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Applepies96",
+          "Player2": "iKhada",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kentaro_hokori",
+          "Player2": "wonderPreaux",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "badgods",
+          "Player2": "harmonywoods",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "jibeta",
+          "Player2": "Harry1232",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "EmperorOppai",
+          "Player2": "Munchlax446",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Selfeisek",
+          "Player2": "PekkaChu",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "monkeyscantcry",
+          "Player2": "harmonywoods",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kentaro_hokori",
+          "Player2": "Ailien02",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "WadeB",
+          "Player2": "PekkaChu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Applepies96",
+          "Player2": "_INF_",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Bubblelift",
+          "Player2": "The_shallow_grave",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Manny-",
+          "Player2": "iKhada",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "silencsong",
+          "Player2": "FruitSalad16",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "wonderPreaux",
+          "Player2": "EmperorOppai",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "Gitaxian_Probe",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "wakame",
+          "Player2": "Illao1",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "jibeta",
+          "Player2": "yapperdoodle",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Harry1232",
+          "Player2": "Roodslay",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "KadettiKersantti",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JUJUBEAN__2004",
+          "Player2": "Thebigempty92",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "Phellipe",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ziggy_stardust",
+          "Player2": "snoopy-magic",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Selfeisek",
+          "Player2": "KoolooLimpah",
+          "Result": "0-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "ziggy_stardust",
+          "Player2": "Illao1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kentaro_hokori",
+          "Player2": "KadettiKersantti",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "iKhada",
+          "Player2": "yapperdoodle",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Applepies96",
+          "Player2": "The_shallow_grave",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Selfeisek",
+          "Player2": "EmperorOppai",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "wonderPreaux",
+          "Player2": "Roodslay",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "_INF_",
+          "Player2": "Bubblelift",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "silencsong",
+          "Player2": "Phellipe",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jibeta",
+          "Player2": "JUJUBEAN__2004",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Manny-",
+          "Player2": "harmonywoods",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "monkeyscantcry",
+          "Player2": "wakame",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Ailien02",
+          "Player2": "Gitaxian_Probe",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Harry1232",
+          "Player2": "snoopy-magic",
           "Result": "2-0-0"
         },
         {
           "Player1": "Munchlax446",
-          "Player2": "wakame",
+          "Player2": "PekkaChu",
           "Result": "2-0-0"
         },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "Mogged",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "wonderPreaux",
+          "Player2": "Gitaxian_Probe",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Manny-",
+          "Player2": "Thebigempty92",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "snoopy-magic",
+          "Player2": "PekkaChu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "wakame",
+          "Player2": "Ailien02",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "silencsong",
+          "Player2": "harmonywoods",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_INF_",
+          "Player2": "The_shallow_grave",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Applepies96",
+          "Player2": "Illao1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ziggy_stardust",
+          "Player2": "monkeyscantcry",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "Harry1232",
+          "Player2": "Munchlax446",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "Roodslay",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Phellipe",
+          "Player2": "yapperdoodle",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JUJUBEAN__2004",
+          "Player2": "EmperorOppai",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kentaro_hokori",
+          "Player2": "Mogged",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "Matches": [
         {
           "Player1": "wonderPreaux",
           "Player2": "Ailien02",
           "Result": "2-0-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "Illao1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kentaro_hokori",
+          "Player2": "Gitaxian_Probe",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "wakame",
+          "Player2": "Munchlax446",
+          "Result": "0-2-0"
         }
       ]
     },
     {
-      "RoundName": "Semifinals",
+      "RoundName": "Round 8",
       "Matches": [
-        {
-          "Player1": "Gitaxian_Probe",
-          "Player2": "Munchlax446",
-          "Result": "2-1-0"
-        },
         {
           "Player1": "wonderPreaux",
           "Player2": "Illao1",
-          "Result": "2-1-0"
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "Gitaxian_Probe",
+          "Result": "0-2-0"
         }
       ]
     },
     {
-      "RoundName": "Finals",
+      "RoundName": "Round 9",
       "Matches": [
         {
-          "Player1": "Gitaxian_Probe",
-          "Player2": "wonderPreaux",
-          "Result": "2-0-0"
+          "Player1": "wonderPreaux",
+          "Player2": "Gitaxian_Probe",
+          "Result": "0-2-0"
         }
       ]
     }
@@ -4636,7 +5239,7 @@
       "Losses": 0,
       "Draws": 0,
       "OMWP": 0.4167,
-      "GWP": 1.0,
+      "GWP": 1,
       "OGWP": 0.4365
     }
   ]
